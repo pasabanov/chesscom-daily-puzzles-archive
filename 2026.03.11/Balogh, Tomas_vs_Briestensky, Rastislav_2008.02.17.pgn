@@ -1,0 +1,16 @@
+[Event "SVK-chT 0708"]
+[Site "Slovakia"]
+[Date "2008.02.17"]
+[Round "9"]
+[White "Balogh, Tomas"]
+[Black "Briestensky, Rastislav"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6Q1/p5p1/1p1k1p1p/2p4P/P3qP2/KP4P1/8/8 w - - 0 58"]
+[WhiteElo "2362"]
+[WhiteTeam "Komarno"]
+[BlackElo "2340"]
+[BlackTeam "Cadca"]
+[Link "https://www.chess.com/daily/2026-03-11"]
+
+58. Qd8+ Ke6 59. Qe8+ Kd5 60. Qd7# 1-0
