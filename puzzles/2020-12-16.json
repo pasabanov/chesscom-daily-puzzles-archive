@@ -1,0 +1,8 @@
+{
+	"title": "Disentanglement",
+	"url": "https://www.chess.com/daily/2020-12-16",
+	"publish_time": 1608105600,
+	"fen": "r3r1k1/pp3p2/2b1pqp1/2p3B1/3p3n/P2P4/BPPQ1PPP/1R2R1K1 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3r1k1/pp3p2/2b1pqp1/2p3B1/3p3n/P2P4/BPPQ1PPP/1R2R1K1 b - - 1 1\"]\r\n\r\n1...Nf3+ 2.gxf3 Qxf3 3.Re4 f5 4.Qf4 fxe4 5.Qxf3 exf3 *",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/pp3p2/2b1pqp1/2p3B1/3p3n/P2P4/BPPQ1PPP/1R2R1K1%20b%20-%20-%201%201&size=2"
+}

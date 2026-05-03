@@ -1,0 +1,8 @@
+{
+	"title": "A King's Fateful Odyssey",
+	"url": "https://www.chess.com/daily/2023-07-16",
+	"publish_time": 1689490800,
+	"fen": "r2k2r1/1p5R/p1nNbn2/8/K2b1Bp1/P5Q1/1PP3P1/4RB2 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"r2k2r1/1p5R/p1nNbn2/8/K2b1Bp1/P5Q1/1PP3P1/4RB2 b - - 0 1\"]\r\n\r\n1... b5+ 2. Nxb5 axb5+ 3. Kxb5 Ra5+ 4. Kxc6 Bd5+ 5. Kd6 Ne4+ 6. Rxe4 Rg6+ 7. Re6\r\nRxe6# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r2k2r1/1p5R/p1nNbn2/8/K2b1Bp1/P5Q1/1PP3P1/4RB2%20b%20-%20-%200%201&size=2"
+}

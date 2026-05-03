@@ -1,0 +1,8 @@
+{
+	"title": "New Year, New Checkmate",
+	"url": "https://www.chess.com/daily/2016-12-31",
+	"publish_time": 1483171200,
+	"fen": "2r5/pppRr1p1/2n5/4p1Np/6kP/2P3P1/P5K1/5R2 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r5/pppRr1p1/2n5/4p1Np/6kP/2P3P1/P5K1/5R2 w - - 0 1\"]\r\n\r\n1. Nf7 Rxf7 2. Rdxf7 g5 3. Rg7 Rg8 4. Rxg8 Nd4 5. Rxg5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r5/pppRr1p1/2n5/4p1Np/6kP/2P3P1/P5K1/5R2%20w%20-%20-%200%201&size=2"
+}

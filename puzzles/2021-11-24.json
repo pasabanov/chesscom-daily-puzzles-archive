@@ -1,0 +1,8 @@
+{
+	"title": "Pardon Me",
+	"url": "https://www.chess.com/daily/2021-11-24",
+	"publish_time": 1637740800,
+	"fen": "8/8/Q7/3n4/6P1/K7/1pkn4/5B2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/Q7/3n4/6P1/K7/1pkn4/5B2 b - - 0 1\"]\r\n\r\n1...b1=N+ 2.Ka4 Nbc3+ 3.Ka5 Nb3# *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/Q7/3n4/6P1/K7/1pkn4/5B2%20b%20-%20-%200%201&size=2"
+}

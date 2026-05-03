@@ -1,0 +1,8 @@
+{
+	"title": "Maroczy Bound",
+	"url": "https://www.chess.com/daily/2021-12-16",
+	"publish_time": 1639641600,
+	"fen": "4b2Q/1p1nkp1N/p2rp2p/5P2/Pq6/3r4/6PP/2R2RK1 w - - 0 28",
+	"pgn": "[Event \"Bled\"]\r\n[Site \"Bled YUG\"]\r\n[Date \"1931.08.23\"]\r\n[White \"Alexander Alekhine\"]\r\n[Black \"Geza Maroczy\"]\r\n[Result \"1-0\"]\r\n[FEN \"4b2Q/1p1nkp1N/p2rp2p/5P2/Pq6/3r4/6PP/2R2RK1 w - - 0 28\"]\r\n\r\n28.f6+ Kd8 29.Qxe8+ Kxe8 30.Rc8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4b2Q/1p1nkp1N/p2rp2p/5P2/Pq6/3r4/6PP/2R2RK1%20w%20-%20-%200%2028&size=2"
+}

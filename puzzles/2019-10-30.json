@@ -1,0 +1,8 @@
+{
+	"title": "Addition By Subtraction",
+	"url": "https://www.chess.com/daily/2019-10-30",
+	"publish_time": 1572418800,
+	"fen": "r4rk1/pp4p1/6b1/3qp3/4N3/P1PPBR2/1P6/R2Q3K b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/pp4p1/6b1/3qp3/4N3/P1PPBR2/1P6/R2Q3K b - - 0 1\"]\r\n\r\n1...Bxe4 2. dxe4 Qxd1+ 3. Rxd1 Rxf3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/pp4p1/6b1/3qp3/4N3/P1PPBR2/1P6/R2Q3K%20b%20-%20-%200%201&size=2"
+}

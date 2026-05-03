@@ -1,0 +1,9 @@
+{
+	"title": "Diagonal Problems",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-11-25",
+	"publish_time": 1195977600,
+	"fen": "r5k1/6bp/p3P1p1/2Brq3/2Q2p2/8/6PP/2R2RK1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5k1/6bp/p3P1p1/2Brq3/2Q2p2/8/6PP/2R2RK1 b - - 0 1\"]\r\n\r\n1...Rxc5 2. Qxc5 Qxc5+ 3. Rxc5 Bd4+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/6bp/p3P1p1/2Brq3/2Q2p2/8/6PP/2R2RK1%20b%20-%20-%200%201&size=2"
+}

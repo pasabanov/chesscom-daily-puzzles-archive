@@ -1,0 +1,8 @@
+{
+	"title": "Ulf!",
+	"url": "https://www.chess.com/daily/2020-01-21",
+	"publish_time": 1579593600,
+	"fen": "R7/1pp3bk/4q1pp/1Pp4n/2Qp1P2/2NP2P1/5PBK/4r3 w - - 7 32",
+	"pgn": "[Event \"IBM Amsterdam\"]\r\n[Site \"Amsterdam NED\"]\r\n[Date \"1973.08.02\"]\r\n[Round \"14\"]\r\n[White \"Ulf Andersson\"]\r\n[Black \"Jan Smejkal\"]\r\n[Result \"1-0\"]\r\n[ECO \"A05\"]\r\n[PlyCount \"67\"]\r\n[FEN \"R7/1pp3bk/4q1pp/1Pp4n/2Qp1P2/2NP2P1/5PBK/4r3 w - - 7 32\"]\r\n\r\n32.Bd5 Qe7 33.Bg8+ Kh8 34.Bh7+ 1-0",
+	"image": "https://www.chess.com/dynboard?fen=R7/1pp3bk/4q1pp/1Pp4n/2Qp1P2/2NP2P1/5PBK/4r3%20w%20-%20-%207%2032&size=2"
+}

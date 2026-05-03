@@ -1,0 +1,8 @@
+{
+	"title": "The Pawn That Lacked Hindsight",
+	"url": "https://www.chess.com/daily/2021-12-06",
+	"publish_time": 1638777600,
+	"fen": "1r3rk1/2q1b2p/pN1p2p1/P2Ppb2/1BP2p2/5P2/6PP/2RQ1RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/2q1b2p/pN1p2p1/P2Ppb2/1BP2p2/5P2/6PP/2RQ1RK1 b - - 0 1\"]\r\n\r\n1...Rxb6 2.axb6 Qxb6+ 3.c5 Qxb4 *",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/2q1b2p/pN1p2p1/P2Ppb2/1BP2p2/5P2/6PP/2RQ1RK1%20b%20-%20-%200%201&size=2"
+}

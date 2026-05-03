@@ -1,0 +1,8 @@
+{
+	"title": "JohanVA's Circuit Overload",
+	"url": "https://www.chess.com/daily/2024-05-07",
+	"publish_time": 1715065200,
+	"fen": "6k1/1p3np1/p1p2p2/P7/1b4P1/1P1BB3/2p3PP/6K1 b - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle\"]\r\n[Result \"0-1\"]\r\n[FEN \"6k1/1p3np1/p1p2p2/P7/1b4P1/1P1BB3/2p3PP/6K1 b - - 0 1\"]\r\n\r\n1... Bc5 2. Bxc2 Bxe3+ 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1p3np1/p1p2p2/P7/1b4P1/1P1BB3/2p3PP/6K1%20b%20-%20-%200%201&size=2"
+}

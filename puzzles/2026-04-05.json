@@ -1,0 +1,8 @@
+{
+	"title": "Last King Standing",
+	"url": "https://www.chess.com/daily/2026-04-05",
+	"publish_time": 1775372400,
+	"fen": "r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1 w - - 0 1",
+	"pgn": "[Event \"It (open)\"]\r\n[Site \"Regensburg (Germany)\"]\r\n[Date \"1996.??.??\"]\r\n[Round \"3\"]\r\n[White \"Kengis Edvins (LAT)\"]\r\n[Black \"Velicka Petr (CZE)\"]\r\n[Result \"1-0\"]\r\n[FEN \"r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1 w - - 0 1\"]\r\n\r\n1. Bf8 exf2+ 2. Kh2 f1=N+ 3. Kh3 Qe5 4. Qg8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1%20w%20-%20-%200%201&size=2"
+}

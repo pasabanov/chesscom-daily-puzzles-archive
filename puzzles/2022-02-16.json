@@ -1,0 +1,8 @@
+{
+	"title": "Winning in Vera Menchik Style",
+	"url": "https://www.chess.com/daily/2022-02-16",
+	"publish_time": 1644998400,
+	"fen": "r5rk/q2b1p1p/1p1p1PpQ/2nPp2P/2P1P3/2N5/Pp6/1K1R1BR1 w - - 0 1",
+	"pgn": "[White \"Vera Menchik\"]\r\n[Black \"George Thomas (Position Manipulated)\"]\r\n[Result \"*\"]\r\n[FEN \"r5rk/q2b1p1p/1p1p1PpQ/2nPp2P/2P1P3/2N5/Pp6/1K1R1BR1 w - - 0 1\"]\r\n\r\n1.hxg6 fxg6 2.Qxh7+ Kxh7 3.Rh1+ Bh3 4.Rxh3# *",
+	"image": "https://www.chess.com/dynboard?fen=r5rk/q2b1p1p/1p1p1PpQ/2nPp2P/2P1P3/2N5/Pp6/1K1R1BR1%20w%20-%20-%200%201&size=2"
+}

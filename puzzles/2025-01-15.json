@@ -1,0 +1,8 @@
+{
+	"title": "Puzzle Freeze",
+	"url": "https://www.chess.com/daily/2025-01-15",
+	"publish_time": 1736928000,
+	"fen": "3n4/1p6/6p1/B1P2pP1/KPk2P2/P7/8/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3n4/1p6/6p1/B1P2pP1/KPk2P2/P7/8/8 b - - 0 1\"]\r\n\r\n1... b5+ 2. cxb6 Nb7 3. b5 Nc5# *",
+	"image": "https://www.chess.com/dynboard?fen=3n4/1p6/6p1/B1P2pP1/KPk2P2/P7/8/8%20b%20-%20-%200%201&size=2"
+}

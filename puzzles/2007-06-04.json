@@ -1,0 +1,9 @@
+{
+	"title": "Three-step Combo",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-06-04",
+	"publish_time": 1180940400,
+	"fen": "r2qk2r/1pp1bp2/p4pb1/3npB1p/4N2P/5QN1/PP3PP1/2RR2K1 w kq - 0 1",
+	"pgn": "[FEN \"r2qk2r/1pp1bp2/p4pb1/3npB1p/4N2P/5QN1/PP3PP1/2RR2K1 w kq - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Rxd5 Qxd5 2. Nxf6+ Bxf6 3. Qxd5 *",
+	"image": "https://www.chess.com/dynboard?fen=r2qk2r/1pp1bp2/p4pb1/3npB1p/4N2P/5QN1/PP3PP1/2RR2K1%20w%20kq%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Navigating the Jungle",
+	"url": "https://www.chess.com/daily/2021-11-21",
+	"publish_time": 1637481600,
+	"fen": "r5k1/4r1bp/p5p1/qpnb2B1/2p5/P1P2N1P/1P1N1PP1/2RQ2K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r5k1/4r1bp/p5p1/qpnb2B1/2p5/P1P2N1P/1P1N1PP1/2RQ2K1 w - - 0 1\"]\r\n\r\n1.Nb3 Bxf3 2.Qxf3 Rf8 3.Qd5+ Ref7 4.Nxa5 *",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/4r1bp/p5p1/qpnb2B1/2p5/P1P2N1P/1P1N1PP1/2RQ2K1%20w%20-%20-%200%201&size=2"
+}

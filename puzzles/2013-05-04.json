@@ -1,0 +1,9 @@
+{
+	"title": "Handling a Pawn Mass",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2013-05-04",
+	"publish_time": 1367650800,
+	"fen": "8/5p2/5P2/8/kp6/2pK2P1/pp3P1P/2RR4 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/5p2/5P2/8/kp6/2pK2P1/pp3P1P/2RR4 w - - 0 1\"]\r\n\r\n1. Kc2 b3+ 2. Kxc3 Ka3 3. Rb1\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/5p2/5P2/8/kp6/2pK2P1/pp3P1P/2RR4%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Light Square Infiltration",
+	"url": "https://www.chess.com/daily/2023-01-08",
+	"publish_time": 1673164800,
+	"fen": "5r1k/6p1/1p2p2p/p2qP2P/P2P2p1/3QBb2/5P2/1R3RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r1k/6p1/1p2p2p/p2qP2P/P2P2p1/3QBb2/5P2/1R3RK1 b - - 0 1\"]\r\n\r\n1... Qd8 2. Qg6 Qh4 3. Bxh6 Qh1# *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/6p1/1p2p2p/p2qP2P/P2P2p1/3QBb2/5P2/1R3RK1%20b%20-%20-%200%201&size=2"
+}

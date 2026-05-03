@@ -1,0 +1,8 @@
+{
+	"title": "Attaining Navara in Chess 960",
+	"url": "https://www.chess.com/daily/2023-07-23",
+	"publish_time": 1690095600,
+	"fen": "rkrn4/ppp2np1/2P2p1p/4pP2/7Q/2b3N1/PPPq2PP/RK2RBB1 w - - 0 1",
+	"pgn": "[Event \"56th Biel Chess960 2023\"]\r\n[Site \"Biel SUI\"]\r\n[Date \"2023.07.15\"]\r\n[Round \"6.2\"]\r\n[White \"David Navara\"]\r\n[Black \"Bassem Amin\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2689\"]\r\n[BlackElo \"2694\"]\r\n[Variant \"chess 960\"]\r\n[FEN \"rkrn4/ppp2np1/2P2p1p/4pP2/7Q/2b3N1/PPPq2PP/RK2RBB1 w - - 0 1\"]\r\n\r\n1. Ne4 Qxe1+ 2. Qxe1 Bxe1 3. Nc5 bxc6 4. Ba6 Nb7 5. Nd7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rkrn4/ppp2np1/2P2p1p/4pP2/7Q/2b3N1/PPPq2PP/RK2RBB1%20w%20-%20-%200%201&size=2"
+}

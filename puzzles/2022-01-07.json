@@ -1,0 +1,8 @@
+{
+	"title": "When Keres Attacks",
+	"url": "https://www.chess.com/daily/2022-01-07",
+	"publish_time": 1641542400,
+	"fen": "1r2rk2/3b1pp1/p1p1p2p/q3P3/5Q1P/2NB2R1/PPP3P1/2K5 w - - 2 21",
+	"pgn": "[Site \"Budapest tt\"]\r\n[Date \"1955\"]\r\n[White \"Keres Paul (EST)\"]\r\n[Black \"Szabo (Variation)\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r2rk2/3b1pp1/p1p1p2p/q3P3/5Q1P/2NB2R1/PPP3P1/2K5 w - - 2 21\"]\r\n\r\n21.Rxg7 Kxg7 22.Qf6+ Kg8 23.Qxh6 f5 24.exf6 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r2rk2/3b1pp1/p1p1p2p/q3P3/5Q1P/2NB2R1/PPP3P1/2K5%20w%20-%20-%202%2021&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Common Pattern",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-07-07",
+	"publish_time": 1215414000,
+	"fen": "5k2/p4p1K/bp3Nr1/4P3/7p/8/P2R3P/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5k2/p4p1K/bp3Nr1/4P3/7p/8/P2R3P/8 w - - 0 1\"]\r\n\r\n1. Rd8+ Ke7 2. Re8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5k2/p4p1K/bp3Nr1/4P3/7p/8/P2R3P/8%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 7",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-01-09",
+	"publish_time": 1199865600,
+	"fen": "1r3r1k/p3R2p/8/2p2PQ1/b4K1P/2q5/P7/6R1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r3r1k/p3R2p/8/2p2PQ1/b4K1P/2q5/P7/6R1 b - - 0 1\"]\r\n\r\n1...Rb4+ 2. Re4 Rxe4 3. Kxe4 Bc6+ 4. Kf4 Qf3+ 5. Ke5 Qe4+ 6. Kd6 Qd5+ 7. Ke7 Rf7#",
+	"image": "https://www.chess.com/dynboard?fen=1r3r1k/p3R2p/8/2p2PQ1/b4K1P/2q5/P7/6R1%20b%20-%20-%200%201&size=2"
+}

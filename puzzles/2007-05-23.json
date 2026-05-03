@@ -1,0 +1,9 @@
+{
+	"title": "Good Knight!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-05-23",
+	"publish_time": 1179903600,
+	"fen": "8/6pk/pN5p/4Rp1q/4nP2/2r4P/Q5P1/6RK b - - 0 1",
+	"pgn": "[FEN \"8/6pk/pN5p/4Rp1q/4nP2/2r4P/Q5P1/6RK b - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1... Rxh3+ 2. gxh3 Qxh3+ 3. Qh2 Nf2#",
+	"image": "https://www.chess.com/dynboard?fen=8/6pk/pN5p/4Rp1q/4nP2/2r4P/Q5P1/6RK%20b%20-%20-%200%201&size=2"
+}

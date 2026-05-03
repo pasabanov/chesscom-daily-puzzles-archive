@@ -1,0 +1,8 @@
+{
+	"title": "King in a Box",
+	"url": "https://www.chess.com/daily/2023-08-03",
+	"publish_time": 1691046000,
+	"fen": "2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8 b - - 0 1\"]\r\n\r\n1... Nb5+ 2. Kc4 Rf4+ 3. d4 Rxd4# *",
+	"image": "https://www.chess.com/dynboard?fen=2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8%20b%20-%20-%200%201&size=2"
+}

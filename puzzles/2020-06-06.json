@@ -1,0 +1,8 @@
+{
+	"title": "Eureka!",
+	"url": "https://www.chess.com/daily/2020-06-06",
+	"publish_time": 1591426800,
+	"fen": "r4rk1/5pp1/1qp1pn2/3n2R1/3P4/3B1Q2/1pP2P1P/R6K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/5pp1/1qp1pn2/3n2R1/3P4/3B1Q2/1pP2P1P/R6K w - - 0 1\"]\r\n\r\n1.Rxg7+ Kxg7 2.Rg1+ Kh6 3.Be2 Ra3 4.Qxa3 Nh5 5.Qxf8+ *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/5pp1/1qp1pn2/3n2R1/3P4/3B1Q2/1pP2P1P/R6K%20w%20-%20-%200%201&size=2"
+}

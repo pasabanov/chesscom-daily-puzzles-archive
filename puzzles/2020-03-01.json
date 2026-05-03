@@ -1,0 +1,8 @@
+{
+	"title": "A Disputed March",
+	"url": "https://www.chess.com/daily/2020-03-01",
+	"publish_time": 1583049600,
+	"fen": "2r5/6R1/2Pkp2p/8/B7/5P2/pr4PP/2R2K2 b - - 0 39",
+	"pgn": "[Result \"*\"]\r\n[SetUp \"1\"]\r\n[FEN \"2r5/6R1/2Pkp2p/8/B7/5P2/pr4PP/2R2K2 b - - 0 39\"]\r\n\r\n39...Rb1 40.Rd7+ Ke5 41.Rdd1 a1=Q 42.Rxb1 Qxa4 *",
+	"image": "https://www.chess.com/dynboard?fen=2r5/6R1/2Pkp2p/8/B7/5P2/pr4PP/2R2K2%20b%20-%20-%200%2039&size=2"
+}

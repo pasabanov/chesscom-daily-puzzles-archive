@@ -1,0 +1,8 @@
+{
+	"title": "Spare Change",
+	"url": "https://www.chess.com/daily/2020-01-31",
+	"publish_time": 1580457600,
+	"fen": "8/8/1k3p2/1Pq1p1P1/4P3/4QK2/8/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/1k3p2/1Pq1p1P1/4P3/4QK2/8/8 b - - 0 1\"]\r\n\r\n1...Qxe3+ 2.Kxe3 fxg5 3.Kf3 Kxb5 4.Kg4 Kc4 5.Kxg5 Kd3 6.Kf5 Kd4 7.Kg4 Kxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/1k3p2/1Pq1p1P1/4P3/4QK2/8/8%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Window of Opportunity",
+	"url": "https://www.chess.com/daily/2020-04-19",
+	"publish_time": 1587279600,
+	"fen": "3r4/1b2P1k1/p4b1p/P4pq1/8/2NR3Q/5PPP/1B4K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r4/1b2P1k1/p4b1p/P4pq1/8/2NR3Q/5PPP/1B4K1 b - - 0 1\"]\r\n\r\n1...Qc1+ 2.Nd1 Qxd1+ 3.Rxd1 Rxd1# *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/1b2P1k1/p4b1p/P4pq1/8/2NR3Q/5PPP/1B4K1%20b%20-%20-%200%201&size=2"
+}

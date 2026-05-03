@@ -1,0 +1,8 @@
+{
+	"title": "Fog Lifter",
+	"url": "https://www.chess.com/daily/2019-12-23",
+	"publish_time": 1577088000,
+	"fen": "rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/4KRp1/PPP3q1/RN1Q4 w - - 0 18",
+	"pgn": "[Site \"London\"]\r\n[Date \"1862\"]\r\n[White \"Wilhelm Steinitz\"]\r\n[Black \"William John Wilson\"]\r\n[Result \"1-0\"]\r\n[ECO \"C39\"]\r\n[SetUp \"1\"]\r\n[FEN \"rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/4KRp1/PPP3q1/RN1Q4 w - - 0 18\"]\r\n[PlyCount \"5\"]\r\n\r\n18. Rf8+ Bxf8 19. d6+ Be6 20. Bxe6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/4KRp1/PPP3q1/RN1Q4%20w%20-%20-%200%2018&size=2"
+}

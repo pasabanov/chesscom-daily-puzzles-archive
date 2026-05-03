@@ -1,0 +1,8 @@
+{
+	"title": "Deceptive Generosity",
+	"url": "https://www.chess.com/daily/2023-06-23",
+	"publish_time": 1687503600,
+	"fen": "1K6/8/1nk5/2p3p1/2P4p/1N5P/r3r3/1R1R4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1K6/8/1nk5/2p3p1/2P4p/1N5P/r3r3/1R1R4 w - - 0 1\"]\r\n\r\n1. Na5+ Rxa5 2. Rxb6+ Kxb6 3. Rd6# *",
+	"image": "https://www.chess.com/dynboard?fen=1K6/8/1nk5/2p3p1/2P4p/1N5P/r3r3/1R1R4%20w%20-%20-%200%201&size=2"
+}

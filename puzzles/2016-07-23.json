@@ -1,0 +1,9 @@
+{
+	"title": "Kamikaze Chess",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2016-07-23",
+	"publish_time": 1469257200,
+	"fen": "k1B1r3/5pp1/ppRQ4/q7/P7/7P/1b4P1/6K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"k1B1r3/5pp1/ppRQ4/q7/P7/7P/1b4P1/6K1 w - - 0 1\"]\r\n\r\n1. Rc3 Re1+ 2. Kf2 Qxc3 3. Qd5+ Qc6 4. Qxc6+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=k1B1r3/5pp1/ppRQ4/q7/P7/7P/1b4P1/6K1%20w%20-%20-%200%201&size=2"
+}

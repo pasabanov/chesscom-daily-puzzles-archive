@@ -1,0 +1,8 @@
+{
+	"title": "May the Best Threat Win",
+	"url": "https://www.chess.com/daily/2026-01-23",
+	"publish_time": 1769155200,
+	"fen": "4r1k1/2p2rp1/2Q1pn1q/p1N4p/3P4/3R2P1/PP2RPPK/8 b - - 0 27",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2025.11.05\"]\r\n[White \"RafaelVaganian\"]\r\n[Black \"PracticeMakesOK\"]\r\n[Result \"0-1\"]\r\n[ECO \"D20\"]\r\n[WhiteElo \"2684\"]\r\n[BlackElo \"2744\"]\r\n[FEN \"4r1k1/2p2rp1/2Q1pn1q/p1N4p/3P4/3R2P1/PP2RPPK/8 b - - 0 27\"]\r\n\r\n27... Ng4+ 28. Kh3 Qc1 29. Qxe8+ Kh7 30. Qxf7 Qh1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/2p2rp1/2Q1pn1q/p1N4p/3P4/3R2P1/PP2RPPK/8%20b%20-%20-%200%2027&size=2"
+}

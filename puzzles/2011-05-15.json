@@ -1,0 +1,8 @@
+{
+	"title": "Mate in 2",
+	"url": "https://www.chess.com/daily/2011-05-15",
+	"publish_time": 1305442800,
+	"fen": "7k/pq1N3p/3r2p1/n1p3N1/2b2Q2/P1b5/P1P2R2/2K5 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7k/pq1N3p/3r2p1/n1p3N1/2b2Q2/P1b5/P1P2R2/2K5 w - - 0 1\"]\r\n\r\n1. Qf8+ Bg8 2. Nf7# *",
+	"image": "https://www.chess.com/dynboard?fen=7k/pq1N3p/3r2p1/n1p3N1/2b2Q2/P1b5/P1P2R2/2K5%20w%20-%20-%200%201&size=2"
+}

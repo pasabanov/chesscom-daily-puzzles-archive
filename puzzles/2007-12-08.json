@@ -1,0 +1,9 @@
+{
+	"title": "Mating Net",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-12-08",
+	"publish_time": 1197100800,
+	"fen": "1K6/5p1p/5p2/3pPp2/1k3P2/1N1B4/1PP4p/6n1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1K6/5p1p/5p2/3pPp2/1k3P2/1N1B4/1PP4p/6n1 w - - 0 1\"]\r\n\r\n1. e6 fxe6 (1... h1=Q 2. e7) 2. Kc7 Nf3 (2... h1=Q 3. Nd4) 3. Nc5 Kxc5 (3... d4 4. Kb6 h1=Q 5. Na6+) 4. c3 d4 5. b4+ Kd5 6. c4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1K6/5p1p/5p2/3pPp2/1k3P2/1N1B4/1PP4p/6n1%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "El Khalif's Mating Attack",
+	"url": "https://www.chess.com/daily/2022-01-18",
+	"publish_time": 1642492800,
+	"fen": "r3rbk1/pp3ppp/5p2/q1pP1N1Q/2P2P2/1P6/PB4PP/5RK1 w - - 0 22",
+	"pgn": "[Event \"Hoogovens\"]\r\n[Site \"Wijk aan Zee NED\"]\r\n[Date \"1991.01.29\"]\r\n[Round \"9\"]\r\n[White \"Alexander Khalifman\"]\r\n[Black \"Yasser Seirawan\"]\r\n[Result \"1-0\"]\r\n[ECO \"B15\"]\r\n[PlyCount \"44\"]\r\n[FEN \"r3rbk1/pp3ppp/5p2/q1pP1N1Q/2P2P2/1P6/PB4PP/5RK1 w - - 0 22\"]\r\n\r\n22.Nh6+ gxh6 23.Qg4+ Bg7 24.Bxf6 Kf8 25.Qxg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3rbk1/pp3ppp/5p2/q1pP1N1Q/2P2P2/1P6/PB4PP/5RK1%20w%20-%20-%200%2022&size=2"
+}

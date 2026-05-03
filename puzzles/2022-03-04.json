@@ -1,0 +1,8 @@
+{
+	"title": "The Great Dane",
+	"url": "https://www.chess.com/daily/2022-03-04",
+	"publish_time": 1646380800,
+	"fen": "1RQ5/5pk1/6p1/P1p4p/2P2P2/3q2rP/7K/8 b - - 3 46",
+	"pgn": "[Site \"Argentina\"]\r\n[Date \"1986.??.??\"]\r\n[Round \"?\"]\r\n[White \"Behrensen Jorge (ARG)\"]\r\n[Black \"Larsen Bent (DEN)\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2325\"]\r\n[BlackElo \"2565\"]\r\n[ECO \"A46\"]\r\n[FEN \"1RQ5/5pk1/6p1/P1p4p/2P2P2/3q2rP/7K/8 b - - 3 46\"]\r\n\r\n46...Qe2+ 47.Kxg3 h4+ 48.Kxh4 Qf2+ 49.Kg4 f5+ 50.Kg5 Qg3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1RQ5/5pk1/6p1/P1p4p/2P2P2/3q2rP/7K/8%20b%20-%20-%203%2046&size=2"
+}

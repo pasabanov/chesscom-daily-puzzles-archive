@@ -1,0 +1,8 @@
+{
+	"title": "One Way Trip",
+	"url": "https://www.chess.com/daily/2008-01-07",
+	"publish_time": 1199692800,
+	"fen": "8/P4pk1/1Pb3pp/4p3/6KP/4P1P1/4BP2/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/P4pk1/1Pb3pp/4p3/6KP/4P1P1/4BP2/8 b - - 0 1\"]\r\n\r\n1... Bg2 2. h5 f5+ 3. Kh4 g5# *",
+	"image": "https://www.chess.com/dynboard?fen=8/P4pk1/1Pb3pp/4p3/6KP/4P1P1/4BP2/8%20b%20-%20-%200%201&size=2"
+}

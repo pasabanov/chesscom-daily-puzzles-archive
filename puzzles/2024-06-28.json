@@ -1,0 +1,8 @@
+{
+	"title": "Anish Draws the King's Attention",
+	"url": "https://www.chess.com/daily/2024-06-28",
+	"publish_time": 1719558000,
+	"fen": "1r6/7p/5Qpk/2q1Pp2/5P2/5P1K/6RP/8 w - - 0 55",
+	"pgn": "[Event \"Magnus Carlsen Invitational\"]\r\n[Site \"chess24.com INT\"]\r\n[Date \"2020.04.30\"]\r\n[Round \"7.3\"]\r\n[White \"Anish Giri\"]\r\n[Black \"Fabiano Caruana\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2764\"]\r\n[BlackElo \"2835\"]\r\n[FEN \"1r6/7p/5Qpk/2q1Pp2/5P2/5P1K/6RP/8 w - - 0 55\"]\r\n\r\n55. Rg5 Qf2 56. Rh5+ Kxh5 57. Qg5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r6/7p/5Qpk/2q1Pp2/5P2/5P1K/6RP/8%20w%20-%20-%200%2055&size=2"
+}

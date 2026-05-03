@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Fabi's Fireworks",
+	"url": "https://www.chess.com/daily/2024-04-09",
+	"publish_time": 1712646000,
+	"fen": "r4rk1/5ppp/8/2np2P1/3R3P/2B1qP2/pP6/K2QR3 b - - 0 30",
+	"pgn": "[Event \"Russian Team Championship\"]\r\n[Site \"Dagomys RUS\"]\r\n[Date \"2010.04.05\"]\r\n[Round \"5\"]\r\n[White \"Vladimir Potkin\"]\r\n[Black \"Fabiano Caruana\"]\r\n[Result \"0-1\"]\r\n[ECO \"D12\"]\r\n[WhiteElo \"2606\"]\r\n[BlackElo \"2680\"]\r\n[FEN \"r4rk1/5ppp/8/2np2P1/3R3P/2B1qP2/pP6/K2QR3 b - - 0 30\"]\r\n[PlyCount \"3\"]\r\n\r\n30... Qc1+ 31. Qxc1 Nb3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/5ppp/8/2np2P1/3R3P/2B1qP2/pP6/K2QR3%20b%20-%20-%200%2030&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Finding Your Pot of Gold",
+	"url": "https://www.chess.com/daily/2023-03-17",
+	"publish_time": 1679036400,
+	"fen": "5rk1/5ppp/8/8/8/4PQ2/r1q2PPP/RR4K1 b - - 0 24",
+	"pgn": "[Event \"HUN-ch01\"]\r\n[Site \"Budapest\"]\r\n[Date \"2023.01.24\"]\r\n[Round \"13\"]\r\n[White \"Fuster, Geza\"]\r\n[Black \"Balogh, Janos\"]\r\n[Result \"0-1\"]\r\n[FEN \"5rk1/5ppp/8/8/8/4PQ2/r1q2PPP/RR4K1 b - - 0 24\"]\r\n\r\n24... Qb2 25. h4 Rxa1 26. Rxa1 Qxa1+ *",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/5ppp/8/8/8/4PQ2/r1q2PPP/RR4K1%20b%20-%20-%200%2024&size=2"
+}

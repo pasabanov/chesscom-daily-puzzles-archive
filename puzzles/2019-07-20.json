@@ -1,0 +1,8 @@
+{
+	"title": "Playing on Square Colors",
+	"url": "https://www.chess.com/daily/2019-07-20",
+	"publish_time": 1563606000,
+	"fen": "4k2r/1prnb2p/pq2b1p1/n2NPp2/3P1P2/4B3/PP1N1KBP/1R1Q2R1 b k - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4k2r/1prnb2p/pq2b1p1/n2NPp2/3P1P2/4B3/PP1N1KBP/1R1Q2R1 b k - 0 1\"]\r\n\r\n1...Bh4+ 2. Kf1 Bxd5 3. Bxd5 Qb5+ 4. Qe2 Qxd5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4k2r/1prnb2p/pq2b1p1/n2NPp2/3P1P2/4B3/PP1N1KBP/1R1Q2R1%20b%20k%20-%200%201&size=2"
+}

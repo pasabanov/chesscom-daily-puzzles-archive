@@ -1,0 +1,8 @@
+{
+	"title": "Detour",
+	"url": "https://www.chess.com/daily/2021-09-22",
+	"publish_time": 1632294000,
+	"fen": "r1b2q1k/6pp/8/1p5r/pP2Q3/4PPB1/6PP/1RR3K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b2q1k/6pp/8/1p5r/pP2Q3/4PPB1/6PP/1RR3K1 b - - 0 1\"]\r\n\r\n1...Bf5 2.Qd5 Bg6 3.Qb7 Bxb1 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2q1k/6pp/8/1p5r/pP2Q3/4PPB1/6PP/1RR3K1%20b%20-%20-%200%201&size=2"
+}

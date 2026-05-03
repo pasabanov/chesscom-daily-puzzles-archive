@@ -1,0 +1,8 @@
+{
+	"title": "The King Wears Out the Squares",
+	"url": "https://www.chess.com/daily/2024-02-17",
+	"publish_time": 1708156800,
+	"fen": "r1b2b1r/pp4pp/2pp2kn/3N2N1/4Pp1P/3P4/PP2K1P1/n1B4R w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"r1b2b1r/pp4pp/2pp2kn/3N2N1/4Pp1P/3P4/PP2K1P1/n1B4R w - - 0 1\"]\r\n\r\n1. h5+ Kxg5 2. Bxf4+ Kg4 3. g3 Nf5 4. Ne3+ Nxe3 5. Rh4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1b2b1r/pp4pp/2pp2kn/3N2N1/4Pp1P/3P4/PP2K1P1/n1B4R%20w%20-%20-%200%201&size=2"
+}

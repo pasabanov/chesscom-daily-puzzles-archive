@@ -1,0 +1,8 @@
+{
+	"title": "Flight of the Butterfly",
+	"url": "https://www.chess.com/daily/2020-04-18",
+	"publish_time": 1587193200,
+	"fen": "3q1rk1/5pp1/3p3p/1Q1N3P/2p3P1/R4n1B/rPP5/2K4R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3q1rk1/5pp1/3p3p/1Q1N3P/2p3P1/R4n1B/rPP5/2K4R b - - 0 1\"]\r\n\r\n1...Ra1+ 2.Rxa1 Qg5+ 3.Kb1 Nd2+ 4.Kc1 Nb3+ 5.Kb1 Qc1+ 6.Rxc1 Nd2+ 7.Ka2 Ra8+ 8.Qa4 Rxa4# *",
+	"image": "https://www.chess.com/dynboard?fen=3q1rk1/5pp1/3p3p/1Q1N3P/2p3P1/R4n1B/rPP5/2K4R%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "An Underappreciated World Champion's Birthday",
+	"url": "https://www.chess.com/daily/2022-05-20",
+	"publish_time": 1653030000,
+	"fen": "1rbk1r2/pp4R1/3Np3/3p2p1/6q1/BP2P3/P2P2B1/2R3K1 w - - 3 23",
+	"pgn": "[Event \"Match\"]\r\n[Site \"Amsterdam (Netherlands)\"]\r\n[Date \"1923.??.??\"]\r\n[Round \"?\"]\r\n[White \"Max Euwe\"]\r\n[Black \"Lohr S\"]\r\n[Result \"1-0\"]\r\n[FEN \"1rbk1r2/pp4R1/3Np3/3p2p1/6q1/BP2P3/P2P2B1/2R3K1 w - - 3 23\"]\r\n\r\n23.Rxc8+ Rxc8 24.Nxb7+ Ke8 25.Re7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1rbk1r2/pp4R1/3Np3/3p2p1/6q1/BP2P3/P2P2B1/2R3K1%20w%20-%20-%203%2023&size=2"
+}

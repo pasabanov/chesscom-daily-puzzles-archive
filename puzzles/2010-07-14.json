@@ -1,0 +1,9 @@
+{
+	"title": "Calculating Sequence",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-07-14",
+	"publish_time": 1279090800,
+	"fen": "3k3r/ppp2ppp/2p1b3/8/4P1n1/2N3Q1/PPP1BqPP/2K4R w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3k3r/ppp2ppp/2p1b3/8/4P1n1/2N3Q1/PPP1BqPP/2K4R w - - 0 1\"]\r\n\r\n1. Rd1+ Kc8 2. Bxg4 Qxg3 3. Bxe6+ fxe6 4. hxg3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3k3r/ppp2ppp/2p1b3/8/4P1n1/2N3Q1/PPP1BqPP/2K4R%20w%20-%20-%200%201&size=2"
+}

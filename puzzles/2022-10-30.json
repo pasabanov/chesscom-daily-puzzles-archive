@@ -1,0 +1,8 @@
+{
+	"title": "King Haunt",
+	"url": "https://www.chess.com/daily/2022-10-30",
+	"publish_time": 1667113200,
+	"fen": "6q1/3r1p2/2N1nk1K/3rp3/8/5PP1/8/1Q1N4 w - - 0 1",
+	"pgn": "[Date \"2008\"]\r\n[Round \"?\"]\r\n[White \"Albert Beliavsky\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"6q1/3r1p2/2N1nk1K/3rp3/8/5PP1/8/1Q1N4 w - - 0 1\"]\r\n\r\n1. Qf5+ Kxf5 2. Ne7+ Rxe7 3. Ne3+ Kf6 4. Nxd5+ Kf5 5. Nxe7+ Kf6 6. Nxg8+ Kf5 7.\r\nNe7+ Kf6 8. Nd5+ Kf5 9. g4# *",
+	"image": "https://www.chess.com/dynboard?fen=6q1/3r1p2/2N1nk1K/3rp3/8/5PP1/8/1Q1N4%20w%20-%20-%200%201&size=2"
+}

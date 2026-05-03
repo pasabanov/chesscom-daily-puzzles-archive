@@ -1,0 +1,8 @@
+{
+	"title": "The Castle is Crumbling",
+	"url": "https://www.chess.com/daily/2022-01-29",
+	"publish_time": 1643443200,
+	"fen": "k4r2/pp4QB/1q6/8/1P3n2/2P5/P4PPP/3R2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"k4r2/pp4QB/1q6/8/1P3n2/2P5/P4PPP/3R2K1 b - - 0 1\"]\r\n\r\n1...Nh3+ 2.gxh3 Qxf2+ 3.Kh1 Qf3+ 4.Qg2 Qxd1+ *",
+	"image": "https://www.chess.com/dynboard?fen=k4r2/pp4QB/1q6/8/1P3n2/2P5/P4PPP/3R2K1%20b%20-%20-%200%201&size=2"
+}

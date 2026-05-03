@@ -1,0 +1,8 @@
+{
+	"title": "Royal Squeeze",
+	"url": "https://www.chess.com/daily/2025-06-22",
+	"publish_time": 1750575600,
+	"fen": "8/8/2B5/1N6/p7/8/1k6/3K4 w - - 0 1",
+	"pgn": "[White \"Solovtsov, V\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/2B5/1N6/p7/8/1k6/3K4 w - - 0 1\"]\r\n\r\n1. Bd5 a3 2. Ba2 Kxa2 3. Kc2 Ka1 4. Nd4 Ka2 5. Ne2 Ka1 6. Nc1 a2 7. Nb3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/2B5/1N6/p7/8/1k6/3K4%20w%20-%20-%200%201&size=2"
+}

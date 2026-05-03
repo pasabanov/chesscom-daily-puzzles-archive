@@ -1,0 +1,8 @@
+{
+	"title": "When In Doubt, Sac Your Queen!",
+	"url": "https://www.chess.com/daily/2024-05-12",
+	"publish_time": 1715497200,
+	"fen": "r2q2r1/p2bNp1k/1p1p1P1p/4p1Q1/3pP1P1/3P4/P5K1/R4R2 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"r2q2r1/p2bNp1k/1p1p1P1p/4p1Q1/3pP1P1/3P4/P5K1/R4R2 w - - 0 1\"]\r\n\r\n1. Rh1 Rxg5 2. Rxh6+ Kxh6 3. Rh1+ Rh5 4. Rxh5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2q2r1/p2bNp1k/1p1p1P1p/4p1Q1/3pP1P1/3P4/P5K1/R4R2%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Discovering Danny's Birthday Mate 🥳",
+	"url": "https://www.chess.com/daily/2024-10-10",
+	"publish_time": 1728543600,
+	"fen": "r2q1rk1/1ppn3p/p4P2/1bbp3p/4pPN1/1P2P3/PBPP3P/1N4RK w - - 0 17",
+	"pgn": "[Event \"Let's Play\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2023.11.18\"]\r\n[Round \"?\"]\r\n[White \"DanielRensch\"]\r\n[Black \"LFitz11\"]\r\n[Result \"1-0\"]\r\n[ECO \"A01\"]\r\n[WhiteElo \"1791\"]\r\n[BlackElo \"1129\"]\r\n[FEN \"r2q1rk1/1ppn3p/p4P2/1bbp3p/4pPN1/1P2P3/PBPP3P/1N4RK w - - 0 17\"]\r\n\r\n17. Nh6+ Kh8 18. Rg8+ Rxg8 19. Nf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2q1rk1/1ppn3p/p4P2/1bbp3p/4pPN1/1P2P3/PBPP3P/1N4RK%20w%20-%20-%200%2017&size=2"
+}

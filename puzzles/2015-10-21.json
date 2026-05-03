@@ -1,0 +1,9 @@
+{
+	"title": "Too Much Coverage",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-10-21",
+	"publish_time": 1445410800,
+	"fen": "1k3r2/pBnQ4/Pp5p/1Pp3q1/6p1/6P1/1BP2P2/3R2K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1k3r2/pBnQ4/Pp5p/1Pp3q1/6p1/6P1/1BP2P2/3R2K1 w - - 0 1\"]\r\n\r\n1. Be5 Qxe5 2. Qd8+ Rxd8 3. Rxd8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1k3r2/pBnQ4/Pp5p/1Pp3q1/6p1/6P1/1BP2P2/3R2K1%20w%20-%20-%200%201&size=2"
+}

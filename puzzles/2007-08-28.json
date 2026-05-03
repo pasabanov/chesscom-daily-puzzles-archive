@@ -1,0 +1,9 @@
+{
+	"title": "Interesting Discovery",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-08-28",
+	"publish_time": 1188284400,
+	"fen": "6k1/pp5q/4p3/4P3/3rn1K1/PP2Q1P1/8/4R3 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/pp5q/4p3/4P3/3rn1K1/PP2Q1P1/8/4R3 b - - 0 1\"]\r\n\r\n1... Qf5+ 2. Kh4 Nf6+ 3. Qxd4 Qh5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=6k1/pp5q/4p3/4P3/3rn1K1/PP2Q1P1/8/4R3%20b%20-%20-%200%201&size=2"
+}

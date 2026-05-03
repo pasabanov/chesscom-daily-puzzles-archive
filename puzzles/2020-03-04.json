@@ -1,0 +1,8 @@
+{
+	"title": "In the Eye of the Storm",
+	"url": "https://www.chess.com/daily/2020-03-04",
+	"publish_time": 1583308800,
+	"fen": "r3r1k1/pp3ppp/2p5/8/3N1P1P/7b/PPQR1q1P/3R1B1K b - - 4 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3r1k1/pp3ppp/2p5/8/3N1P1P/7b/PPQR1q1P/3R1B1K b - - 4 1\"]\r\n\r\n1...Bg2+ 2.Bxg2 Re1+ 3.Rxe1 Qxe1+ 4.Bf1 Qxf1# *",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/pp3ppp/2p5/8/3N1P1P/7b/PPQR1q1P/3R1B1K%20b%20-%20-%204%201&size=2"
+}

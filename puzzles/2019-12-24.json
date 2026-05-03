@@ -1,0 +1,8 @@
+{
+	"title": "Smyslov's Sensei",
+	"url": "https://www.chess.com/daily/2019-12-24",
+	"publish_time": 1577174400,
+	"fen": "5k2/5p2/6p1/2P3P1/3Q2K1/6P1/8/5q2 b - - 0 59",
+	"pgn": "[Event \"USSR Championship\"]\r\n[Site \"Moscow URS\"]\r\n[Date \"1955.03.14\"]\r\n[Round \"19\"]\r\n[White \"Georgy Konstantinovich Borisen\"]\r\n[Black \"Vladimir Simagin\"]\r\n[Result \"0-1\"]\r\n[ECO \"D08\"]\r\n[SetUp \"1\"]\r\n[FEN \"5k2/5p2/6p1/2P3P1/3Q2K1/6P1/8/5q2 b - - 0 59\"]\r\n[PlyCount \"5\"]\r\n\r\n59... f5+ 60. gxf6 Qf5+ 61. Kh4 Qh5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5k2/5p2/6p1/2P3P1/3Q2K1/6P1/8/5q2%20b%20-%20-%200%2059&size=2"
+}

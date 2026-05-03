@@ -1,0 +1,8 @@
+{
+	"title": "Tarrasch's Fingerprints",
+	"url": "https://www.chess.com/daily/2022-04-28",
+	"publish_time": 1651129200,
+	"fen": "5rk1/p6p/8/B1pPK1pP/4P3/1PQ5/P5q1/2RR1b2 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"5rk1/p6p/8/B1pPK1pP/4P3/1PQ5/P5q1/2RR1b2 b - - 0 1\"]\r\n\r\n1...Qh2+ 2.Ke6 Re8+ 3.Kd7 Bb5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/p6p/8/B1pPK1pP/4P3/1PQ5/P5q1/2RR1b2%20b%20-%20-%200%201&size=2"
+}

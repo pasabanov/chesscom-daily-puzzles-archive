@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 5",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-01-15",
+	"publish_time": 1421308800,
+	"fen": "2r1qrk1/1b2bp2/pp2p3/2npP1BQ/3N4/2P4P/PP3PP1/R5K1 w Q - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1qrk1/1b2bp2/pp2p3/2npP1BQ/3N4/2P4P/PP3PP1/R5K1 w Q - 0 1\"]\r\n\r\n1. Bf6 Bxf6 2. exf6 Ne4 3. Qg4+ Ng5 4. Qxg5+ Kh7 5. Qg7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r1qrk1/1b2bp2/pp2p3/2npP1BQ/3N4/2P4P/PP3PP1/R5K1%20w%20Q%20-%200%201&size=2"
+}

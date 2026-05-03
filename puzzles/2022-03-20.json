@@ -1,0 +1,8 @@
+{
+	"title": "Hope Springs Eternal",
+	"url": "https://www.chess.com/daily/2022-03-20",
+	"publish_time": 1647759600,
+	"fen": "2B5/8/3pP3/2pk4/7K/2P5/r7/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2B5/8/3pP3/2pk4/7K/2P5/r7/8 w - - 0 1\"]\r\n\r\n1.e7 Rh2+ 2.Bh3 Re2 3.Bg2+ Rxg2 4.e8=Q *",
+	"image": "https://www.chess.com/dynboard?fen=2B5/8/3pP3/2pk4/7K/2P5/r7/8%20w%20-%20-%200%201&size=2"
+}

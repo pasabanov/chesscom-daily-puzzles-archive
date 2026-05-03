@@ -1,0 +1,8 @@
+{
+	"title": "Walk the Line",
+	"url": "https://www.chess.com/daily/2020-01-10",
+	"publish_time": 1578643200,
+	"fen": "8/1p1r2kp/pq1rbpp1/4p3/4P3/2PB3P/PP2QPP1/R2R2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1p1r2kp/pq1rbpp1/4p3/4P3/2PB3P/PP2QPP1/R2R2K1 b - - 0 1\"]\r\n\r\n1... Qd8 2. Bc2 Rd2 3. Rxd2 Rxd2 4. Rd1 Rxe2 5. Rxd8 Rxc2 *",
+	"image": "https://www.chess.com/dynboard?fen=8/1p1r2kp/pq1rbpp1/4p3/4P3/2PB3P/PP2QPP1/R2R2K1%20b%20-%20-%200%201&size=2"
+}

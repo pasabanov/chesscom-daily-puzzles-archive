@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-11-28",
+	"publish_time": 1259395200,
+	"fen": "8/2K3B1/2p2Pp1/2P2pPp/2R2Pkn/2Pp1n1b/6p1/3B1NR1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/2K3B1/2p2Pp1/2P2pPp/2R2Pkn/2Pp1n1b/6p1/3B1NR1 w - - 0 1\"]\r\n\r\n1. f7 d2 2. Bd4 Kxf4 3. Bf6+ Nd4 4. Rxd4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/2K3B1/2p2Pp1/2P2pPp/2R2Pkn/2Pp1n1b/6p1/3B1NR1%20w%20-%20-%200%201&size=2"
+}

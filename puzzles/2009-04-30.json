@@ -1,0 +1,9 @@
+{
+	"title": "Tricky First Move Sequence",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-04-30",
+	"publish_time": 1241074800,
+	"fen": "7r/3rkp2/1R6/p3Pp1p/2pP1q2/P1P4P/n1P3Q1/1R5K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"7r/3rkp2/1R6/p3Pp1p/2pP1q2/P1P4P/n1P3Q1/1R5K w - - 0 1\"]\r\n\r\n1. Re6+ fxe6 2. Qg7+ Kd8 3. Qxh8+ Kc7 4. Qb8+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=7r/3rkp2/1R6/p3Pp1p/2pP1q2/P1P4P/n1P3Q1/1R5K%20w%20-%20-%200%201&size=2"
+}

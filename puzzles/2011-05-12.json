@@ -1,0 +1,8 @@
+{
+	"title": "Checkmate or Bust",
+	"url": "https://www.chess.com/daily/2011-05-12",
+	"publish_time": 1305183600,
+	"fen": "8/R7/4p1pk/3p2N1/3b4/B6P/1r2q1PK/5R2 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/R7/4p1pk/3p2N1/3b4/B6P/1r2q1PK/5R2 w - - 0 1\"]\r\n\r\n1. Rh7+ Kxg5 2. Be7+ Bf6 3. Bxf6# *",
+	"image": "https://www.chess.com/dynboard?fen=8/R7/4p1pk/3p2N1/3b4/B6P/1r2q1PK/5R2%20w%20-%20-%200%201&size=2"
+}

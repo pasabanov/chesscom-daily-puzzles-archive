@@ -1,0 +1,8 @@
+{
+	"title": "By Brute Force",
+	"url": "https://www.chess.com/daily/2019-08-06",
+	"publish_time": 1565074800,
+	"fen": "8/ppp3pk/4Q3/6q1/5rr1/1BP3P1/PP3P2/R3R1K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/ppp3pk/4Q3/6q1/5rr1/1BP3P1/PP3P2/R3R1K1 b - - 0 1\"]\r\n\r\n1...Rxg3+ 2. Kf1 Rxf2+ 3. Kxf2 Qf4+ 4. Ke2 Rg2+ 5. Kd3 Rd2#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/ppp3pk/4Q3/6q1/5rr1/1BP3P1/PP3P2/R3R1K1%20b%20-%20-%200%201&size=2"
+}

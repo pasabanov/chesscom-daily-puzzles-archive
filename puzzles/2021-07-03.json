@@ -1,0 +1,8 @@
+{
+	"title": "Central Entanglement",
+	"url": "https://www.chess.com/daily/2021-07-03",
+	"publish_time": 1625295600,
+	"fen": "1N2k1q1/R3p1n1/4p1P1/8/8/2P1K3/7P/8 w - - 0 1",
+	"pgn": "[Date \"1927\"]\r\n[White \"Kubbel\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"1N2k1q1/R3p1n1/4p1P1/8/8/2P1K3/7P/8 w - - 0 1\"]\r\n\r\n1.Nd7 Nf5+ 2.Kf2 Qg7 3.Nf8 Qxf8 4.Ra8+ Kd7 5.Rxf8 *",
+	"image": "https://www.chess.com/dynboard?fen=1N2k1q1/R3p1n1/4p1P1/8/8/2P1K3/7P/8%20w%20-%20-%200%201&size=2"
+}

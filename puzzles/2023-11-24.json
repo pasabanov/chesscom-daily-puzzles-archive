@@ -1,0 +1,8 @@
+{
+	"title": "Kindly Step Aside",
+	"url": "https://www.chess.com/daily/2023-11-24",
+	"publish_time": 1700812800,
+	"fen": "6k1/1pb2p2/2p3r1/p2p1N2/5Pqp/2P2N2/PP1Q2p1/2K3R1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/1pb2p2/2p3r1/p2p1N2/5Pqp/2P2N2/PP1Q2p1/2K3R1 w - - 0 1\"]\r\n\r\n1. Nh6+ Rxh6 2. Rxg2 Bxf4 3. Rxg4+ *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1pb2p2/2p3r1/p2p1N2/5Pqp/2P2N2/PP1Q2p1/2K3R1%20w%20-%20-%200%201&size=2"
+}

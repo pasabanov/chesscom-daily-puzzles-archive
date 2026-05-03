@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 5",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-10-14",
+	"publish_time": 1318575600,
+	"fen": "r4rk1/1qp2ppp/1pp2b2/5b2/8/1BQ5/PB1P4/2K1R2R w Kq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/1qp2ppp/1pp2b2/5b2/8/1BQ5/PB1P4/2K1R2R w Kq - 0 1\"]\r\n\r\n1. Qxf6 gxf6 2. Reg1+ Bg6 3. Rxg6+ hxg6 4. Bxf6 Rxa2 5. Rh8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1qp2ppp/1pp2b2/5b2/8/1BQ5/PB1P4/2K1R2R%20w%20Kq%20-%200%201&size=2"
+}

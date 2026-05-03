@@ -1,0 +1,8 @@
+{
+	"title": "Tempi Dancing",
+	"url": "https://www.chess.com/daily/2023-01-07",
+	"publish_time": 1673078400,
+	"fen": "r1b1k3/p1p1b3/4q2p/1p3p2/1P1Q1PB1/2PP3P/6P1/5RK1 w q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1k3/p1p1b3/4q2p/1p3p2/1P1Q1PB1/2PP3P/6P1/5RK1 w q - 0 1\"]\r\n\r\n1. Bh5+ Kf8 2. Qh8+ Qg8 3. Qxh6+ Qg7 4. Qc6 Bd7 5. Qxa8+ *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k3/p1p1b3/4q2p/1p3p2/1P1Q1PB1/2PP3P/6P1/5RK1%20w%20q%20-%200%201&size=2"
+}

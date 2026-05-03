@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 7",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2014-02-28",
+	"publish_time": 1393574400,
+	"fen": "k7/P1pK4/2p5/2B5/1P6/5p2/5P2/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"k7/P1pK4/2p5/2B5/1P6/5p2/5P2/8 w - - 0 1\"]\r\n\r\n1. Be3 Kb7 2. a8=Q+ Kxa8 3. Kc8 c5 4. b5 c4 5. Kxc7 c3 6. b6 c2 7. b7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=k7/P1pK4/2p5/2B5/1P6/5p2/5P2/8%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "It's a Setup!",
+	"url": "https://www.chess.com/daily/2025-01-24",
+	"publish_time": 1737705600,
+	"fen": "1k5n/pp2p3/8/2q2N2/7p/P6P/1Q4R1/K1N4r w - - 0 1",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1k5n/pp2p3/8/2q2N2/7p/P6P/1Q4R1/K1N4r w - - 0 1\"]\r\n\r\n1. Rc2 Qxf5 2. Qxh8+ Qf8 3. Qxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1k5n/pp2p3/8/2q2N2/7p/P6P/1Q4R1/K1N4r%20w%20-%20-%200%201&size=2"
+}

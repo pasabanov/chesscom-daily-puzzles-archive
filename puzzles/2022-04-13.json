@@ -1,0 +1,8 @@
+{
+	"title": "GK's Birthday",
+	"url": "https://www.chess.com/daily/2022-04-13",
+	"publish_time": 1649833200,
+	"fen": "6k1/5pp1/8/1bBn1q1p/1P5P/5PP1/3Qp1B1/4K3 b - - 2 39",
+	"pgn": "[Event \"It (cat.10)\"]\r\n[Site \"Banja-Luka (Bosnia & Herzegovina)\"]\r\n[Date \"1979\"]\r\n[White \"Milorad Knezevic\"]\r\n[Black \"Garry Kasparov\"]\r\n[Result \"0-1\"]\r\n[FEN \"6k1/5pp1/8/1bBn1q1p/1P5P/5PP1/3Qp1B1/4K3 b - - 2 39\"]\r\n\r\n39...Qb1+ 40.Kf2 Qf1+ 41.Bxf1 exf1=Q# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5pp1/8/1bBn1q1p/1P5P/5PP1/3Qp1B1/4K3%20b%20-%20-%202%2039&size=2"
+}

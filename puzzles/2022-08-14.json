@@ -1,0 +1,8 @@
+{
+	"title": "Clearing a Path to Victory",
+	"url": "https://www.chess.com/daily/2022-08-14",
+	"publish_time": 1660460400,
+	"fen": "8/1p1r1pk1/5np1/4p1P1/2P1r2B/q1P2N1Q/P1P2PP1/RK3R2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1p1r1pk1/5np1/4p1P1/2P1r2B/q1P2N1Q/P1P2PP1/RK3R2 b - - 0 1\"]\r\n\r\n1... Re1+ 2. Rxe1 Ne4 3. Qxd7 Nxc3# *",
+	"image": "https://www.chess.com/dynboard?fen=8/1p1r1pk1/5np1/4p1P1/2P1r2B/q1P2N1Q/P1P2PP1/RK3R2%20b%20-%20-%200%201&size=2"
+}

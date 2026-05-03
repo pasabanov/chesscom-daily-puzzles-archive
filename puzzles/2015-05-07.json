@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 5",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-05-07",
+	"publish_time": 1430982000,
+	"fen": "k5r1/2p2p2/p5r1/N6p/P2bPp1q/3P1P1P/2Q2P1K/2R3R1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"k5r1/2p2p2/p5r1/N6p/P2bPp1q/3P1P1P/2Q2P1K/2R3R1 w - - 0 1\"]\r\n\r\n1. Qc6+ Rxc6 2. Rxg8+ Qd8 3. Rxd8+ Ka7 4. Nxc6+ Kb6 5. Rb8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=k5r1/2p2p2/p5r1/N6p/P2bPp1q/3P1P1P/2Q2P1K/2R3R1%20w%20-%20-%200%201&size=2"
+}

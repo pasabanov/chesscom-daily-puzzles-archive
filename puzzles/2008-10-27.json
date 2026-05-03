@@ -1,0 +1,9 @@
+{
+	"title": "Combinational Play",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-10-27",
+	"publish_time": 1225090800,
+	"fen": "r5k1/p2q1ppp/4p3/2p5/1b1n4/1PNQ2P1/4PP1P/R4RK1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5k1/p2q1ppp/4p3/2p5/1b1n4/1PNQ2P1/4PP1P/R4RK1 b - - 0 1\"]\r\n\r\n1...Bxc3 2. Qxc3 Nxe2+ 3. Kg2 Nxc3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/p2q1ppp/4p3/2p5/1b1n4/1PNQ2P1/4PP1P/R4RK1%20b%20-%20-%200%201&size=2"
+}

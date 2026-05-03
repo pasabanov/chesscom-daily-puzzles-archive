@@ -1,0 +1,8 @@
+{
+	"title": "Knight Endgames",
+	"url": "https://www.chess.com/daily/2021-04-02",
+	"publish_time": 1617346800,
+	"fen": "8/8/5KN1/1p1k4/1P1p1P1n/3N4/4n3/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/5KN1/1p1k4/1P1p1P1n/3N4/4n3/8 b - - 0 1\"]\r\n\r\n1...Nxg6 2.Kxg6 Nxf4+ 3.Nxf4+ Ke4 4.Ne2 Ke3 5.Ng3 d3 6.Kf5 d2 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/5KN1/1p1k4/1P1p1P1n/3N4/4n3/8%20b%20-%20-%200%201&size=2"
+}

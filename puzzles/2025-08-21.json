@@ -1,0 +1,8 @@
+{
+	"title": "Tactical Tractor Beam",
+	"url": "https://www.chess.com/daily/2025-08-21",
+	"publish_time": 1755759600,
+	"fen": "1r6/2p2bk1/1bQ3qr/p3P3/pN2N3/P7/1P4RP/1R5K b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"EnPassantFork\"]\r\n[Result \"0-1\"]\r\n[FEN \"1r6/2p2bk1/1bQ3qr/p3P3/pN2N3/P7/1P4RP/1R5K b - - 0 1\"]\r\n\r\n1... Qxg2+ 2. Kxg2 Rxc6 3. Nxc6 Bd5 4. Nxb8 Bxe4+ 5. Kg3 Bxb1 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1r6/2p2bk1/1bQ3qr/p3P3/pN2N3/P7/1P4RP/1R5K%20b%20-%20-%200%201&size=2"
+}

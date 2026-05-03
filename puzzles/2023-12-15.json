@@ -1,0 +1,8 @@
+{
+	"title": "Leaping into the Action",
+	"url": "https://www.chess.com/daily/2023-12-15",
+	"publish_time": 1702627200,
+	"fen": "4r2k/bp2r1p1/6Qp/p2PN3/Pn5P/1PN2q1n/1B4RP/2R2B1K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r2k/bp2r1p1/6Qp/p2PN3/Pn5P/1PN2q1n/1B4RP/2R2B1K b - - 0 1\"]\r\n\r\n1... Nf2+ 2. Kg1 Nd1+ 3. Kh1 Qxf1+ 4. Rg1 Nf2# *",
+	"image": "https://www.chess.com/dynboard?fen=4r2k/bp2r1p1/6Qp/p2PN3/Pn5P/1PN2q1n/1B4RP/2R2B1K%20b%20-%20-%200%201&size=2"
+}

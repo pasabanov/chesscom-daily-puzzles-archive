@@ -1,0 +1,9 @@
+{
+	"title": "Find the Checkmate Kasparov Missed",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-12-25",
+	"publish_time": 1230192000,
+	"fen": "8/5p1k/4r1p1/2PP1p2/1Q6/1p3bbP/1B2pqP1/R5RK b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/5p1k/4r1p1/2PP1p2/1Q6/1p3bbP/1B2pqP1/R5RK b - - 0 1\"]\r\n\r\n1...Bxg2+ 2. Rxg2 Qf1+ 3. Rxf1 exf1=Q+ 4. Rg1 Qxh3#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/5p1k/4r1p1/2PP1p2/1Q6/1p3bbP/1B2pqP1/R5RK%20b%20-%20-%200%201&size=2"
+}

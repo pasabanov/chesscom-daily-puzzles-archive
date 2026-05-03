@@ -1,0 +1,8 @@
+{
+	"title": "Closing Squares, Opening Lanes",
+	"url": "https://www.chess.com/daily/2024-09-25",
+	"publish_time": 1727247600,
+	"fen": "r3k2r/1b1n1pb1/p2p2pn/q2P3p/Npp3P1/1P2BN1P/P1PQBP2/2KR2R1 b kq - 0 13",
+	"pgn": "[Event \"?\"]\r\n[Site \"Chess.com\"]\r\n[Date \"????.??.??\"]\r\n[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Wouter Bik\"]\r\n[Result \"0-1\"]\r\n[FEN \"r3k2r/1b1n1pb1/p2p2pn/q2P3p/Npp3P1/1P2BN1P/P1PQBP2/2KR2R1 b kq - 0 13\"]\r\n\r\n13... Bc3 14. Nxc3 bxc3 15. Qd4 Qa3+ 16. Kb1 Qb2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/1b1n1pb1/p2p2pn/q2P3p/Npp3P1/1P2BN1P/P1PQBP2/2KR2R1%20b%20kq%20-%200%2013&size=2"
+}

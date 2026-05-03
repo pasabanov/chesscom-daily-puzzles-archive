@@ -1,0 +1,8 @@
+{
+	"title": "Checkmate Stampede",
+	"url": "https://www.chess.com/daily/2024-07-05",
+	"publish_time": 1720162800,
+	"fen": "6r1/pp6/3N4/2p3nk/P7/2PB1P1P/1P1n2K1/3R4 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6r1/pp6/3N4/2p3nk/P7/2PB1P1P/1P1n2K1/3R4 b - - 0 1\"]\r\n\r\n1... Nge4+ 2. Kh2 Nxf3+ 3. Kh1 Nf2# *",
+	"image": "https://www.chess.com/dynboard?fen=6r1/pp6/3N4/2p3nk/P7/2PB1P1P/1P1n2K1/3R4%20b%20-%20-%200%201&size=2"
+}

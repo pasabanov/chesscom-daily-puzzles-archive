@@ -1,0 +1,8 @@
+{
+	"title": "I Play Against Pieces",
+	"url": "https://www.chess.com/daily/2022-02-02",
+	"publish_time": 1643788800,
+	"fen": "6r1/4kp2/p1bRpp2/1pr1P3/5b1p/PBP1N3/1P4PP/1K1R4 w - - 0 28",
+	"pgn": "[Event \"Zurich\"]\r\n[Site \"Zurich SUI\"]\r\n[Date \"1959.05.21\"]\r\n[Round \"3\"]\r\n[White \"Svetozar Gligoric\"]\r\n[Black \"Erwin Nievergelt\"]\r\n[Result \"1-0\"]\r\n[FEN \"6r1/4kp2/p1bRpp2/1pr1P3/5b1p/PBP1N3/1P4PP/1K1R4 w - - 0 28\"]\r\n\r\n28.Nf5+ exf5 29.exf6+ Kf8 30.Rxc6 Rxc6 31.Rd8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6r1/4kp2/p1bRpp2/1pr1P3/5b1p/PBP1N3/1P4PP/1K1R4%20w%20-%20-%200%2028&size=2"
+}

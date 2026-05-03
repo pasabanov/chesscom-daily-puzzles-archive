@@ -1,0 +1,8 @@
+{
+	"title": "International Games Week",
+	"url": "https://www.chess.com/daily/2021-11-07",
+	"publish_time": 1636268400,
+	"fen": "1r3rk1/4b2p/pq1pb1p1/6P1/2p1PB2/P7/1PPQ4/2KN2RR b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/4b2p/pq1pb1p1/6P1/2p1PB2/P7/1PPQ4/2KN2RR b - - 1 1\"]\r\n\r\n1...c3 2.Qxc3 Rxf4 3.Rxh7 Bf6 4.gxf6 Kxh7 5.Rh1+ Kg8 *",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/4b2p/pq1pb1p1/6P1/2p1PB2/P7/1PPQ4/2KN2RR%20b%20-%20-%201%201&size=2"
+}

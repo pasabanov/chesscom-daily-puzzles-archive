@@ -1,0 +1,8 @@
+{
+	"title": "Rising Above the Pin",
+	"url": "https://www.chess.com/daily/2024-01-24",
+	"publish_time": 1706083200,
+	"fen": "r1bn1rk1/ppp1q1pp/1b1p1n2/3Pp1B1/4N2N/2P4P/PP2BPP1/R2QK2R b KQ - 0 12",
+	"pgn": "[Event \"Berlin\"]\r\n[Site \"Berlin GER\"]\r\n[Date \"1837.??.??\"]\r\n[White \"Bernhard Horwitz\"]\r\n[Black \"Ludwig Bledow\"]\r\n[Result \"0-1\"]\r\n[ECO \"C53\"]\r\n[FEN \"r1bn1rk1/ppp1q1pp/1b1p1n2/3Pp1B1/4N2N/2P4P/PP2BPP1/R2QK2R b KQ - 0 12\"]\r\n\r\n12... Nxe4 13. Bxe7 Bxf2+ 14. Kf1 Ng3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1bn1rk1/ppp1q1pp/1b1p1n2/3Pp1B1/4N2N/2P4P/PP2BPP1/R2QK2R%20b%20KQ%20-%200%2012&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Unlocking the Kingside Gates",
+	"url": "https://www.chess.com/daily/2024-11-07",
+	"publish_time": 1730966400,
+	"fen": "2k3r1/pppq1p2/3p4/3P4/P1P2p1p/1P1P2rP/5QPK/5RR1 b - - 0 26",
+	"pgn": "[White \"d_jinny\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"2k3r1/pppq1p2/3p4/3P4/P1P2p1p/1P1P2rP/5QPK/5RR1 b - - 0 26\"]\r\n\r\n26... f3 27. Qxa7 Rxg2+ 28. Rxg2 Rxg2+ 29. Kh1 Qxh3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2k3r1/pppq1p2/3p4/3P4/P1P2p1p/1P1P2rP/5QPK/5RR1%20b%20-%20-%200%2026&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Not Too Shabby",
+	"url": "https://www.chess.com/daily/2022-01-16",
+	"publish_time": 1642320000,
+	"fen": "r4b1k/pp1q1p1p/1np2PnB/3p4/6N1/P1N4Q/1PP4P/2K2R2 w - - 3 29",
+	"pgn": "[Event \"USA-ch\"]\r\n[Site \"Key West, FL USA\"]\r\n[Date \"1994.10.12\"]\r\n[Round \"2\"]\r\n[White \"Alexander Anatolyevich Shabalov\"]\r\n[Black \"Alexander Vladimirovich Ivanov\"]\r\n[Result \"1-0\"]\r\n[ECO \"C22\"]\r\n[PlyCount \"63\"]\r\n[FEN \"r4b1k/pp1q1p1p/1np2PnB/3p4/6N1/P1N4Q/1PP4P/2K2R2 w - - 3 29\"]\r\n\r\n29.Bg7+ Bxg7 30.fxg7+ Kxg7 31.Qh6+ Kh8 32.Nf6 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4b1k/pp1q1p1p/1np2PnB/3p4/6N1/P1N4Q/1PP4P/2K2R2%20w%20-%20-%203%2029&size=2"
+}

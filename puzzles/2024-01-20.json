@@ -1,0 +1,8 @@
+{
+	"title": "The Winning Capture",
+	"url": "https://www.chess.com/daily/2024-01-20",
+	"publish_time": 1705737600,
+	"fen": "8/6R1/k2p4/3P2K1/8/8/3r4/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/6R1/k2p4/3P2K1/8/8/3r4/8 b - - 0 1\"]\r\n\r\n1... Rg2+ 2. Kf6 Rxg7 3. Kxg7 Kb5 4. Kf6 Kc4 5. Ke6 Kc5 6. Ke7 Kxd5 *",
+	"image": "https://www.chess.com/dynboard?fen=8/6R1/k2p4/3P2K1/8/8/3r4/8%20b%20-%20-%200%201&size=2"
+}

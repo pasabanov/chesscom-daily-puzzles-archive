@@ -1,0 +1,8 @@
+{
+	"title": "Homeward Bound",
+	"url": "https://www.chess.com/daily/2020-03-09",
+	"publish_time": 1583737200,
+	"fen": "4r1k1/1ppb1ppp/p2b4/3p4/1n1P1q2/1P1B1N1P/PBP2PP1/R4Q1K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/1ppb1ppp/p2b4/3p4/1n1P1q2/1P1B1N1P/PBP2PP1/R4Q1K w - - 0 1\"]\r\n\r\n1.Bc1 Qf6 2.Bg5 Qe6 3.Re1 *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/1ppb1ppp/p2b4/3p4/1n1P1q2/1P1B1N1P/PBP2PP1/R4Q1K%20w%20-%20-%200%201&size=2"
+}

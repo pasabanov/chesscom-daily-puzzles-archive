@@ -1,0 +1,8 @@
+{
+	"title": "Breaking Down Artificial Barriers",
+	"url": "https://www.chess.com/daily/2022-11-12",
+	"publish_time": 1668240000,
+	"fen": "4r3/5pk1/pq1p2p1/4n3/Pr3N2/6PR/1P1Q3K/5R2 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r3/5pk1/pq1p2p1/4n3/Pr3N2/6PR/1P1Q3K/5R2 w - - 0 1\"]\r\n\r\n1. Ne6+ Kg8 2. Rh8+ Kxh8 3. Qh6+ Kg8 4. Qg7# *",
+	"image": "https://www.chess.com/dynboard?fen=4r3/5pk1/pq1p2p1/4n3/Pr3N2/6PR/1P1Q3K/5R2%20w%20-%20-%200%201&size=2"
+}

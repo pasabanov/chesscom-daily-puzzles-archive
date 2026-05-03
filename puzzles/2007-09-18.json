@@ -1,0 +1,9 @@
+{
+	"title": "The Long Diagonal",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-09-18",
+	"publish_time": 1190098800,
+	"fen": "4q2k/5rb1/3pr1p1/p1p4p/Pp2P2R/3P1p1Q/1BP2P1P/6RK w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4q2k/5rb1/3pr1p1/p1p4p/Pp2P2R/3P1p1Q/1BP2P1P/6RK w - - 0 1\"]\r\n\r\n1. Rxg6 Rxg6 ( 1... Bxb2 2. Rxh5+ Rh7 3. Rxh7# ) 2. Rxh5+ Kg8 ( 2... Rh6 3. Rxh6+ Kg8 4. Rh8+ Bxh8 5. Qxh8# ) 3. Rh8+ Bxh8 4. Qxh8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4q2k/5rb1/3pr1p1/p1p4p/Pp2P2R/3P1p1Q/1BP2P1P/6RK%20w%20-%20-%200%201&size=2"
+}

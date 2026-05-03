@@ -1,0 +1,8 @@
+{
+	"title": "Breaking Through the Wall",
+	"url": "https://www.chess.com/daily/2026-02-11",
+	"publish_time": 1770796800,
+	"fen": "1r4k1/p2R2pp/8/q1b1p3/1r6/5Q2/P1PRNPPP/6K1 b - - 8 26",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"EnPassantFork\"]\r\n[Result \"0-1\"]\r\n[FEN \"1r4k1/p2R2pp/8/q1b1p3/1r6/5Q2/P1PRNPPP/6K1 b - - 8 26\"]\r\n\r\n26... Rb1+ 27. Rd1 Qe1+ 28. Rxe1 Rxe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/p2R2pp/8/q1b1p3/1r6/5Q2/P1PRNPPP/6K1%20b%20-%20-%208%2026&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Pat on the Back-Rank",
+	"url": "https://www.chess.com/daily/2025-04-27",
+	"publish_time": 1745737200,
+	"fen": "8/Q1pr2pk/6pp/8/1RNN4/2B1PBqb/2P4b/1R5K b - - 0 1",
+	"pgn": "[Event \"Chess.com Blitz\"]\r\n[White \"pat_frap\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/Q1pr2pk/6pp/8/1RNN4/2B1PBqb/2P4b/1R5K b - - 0 1\"]\r\n\r\n1... Bf1 2. Rxf1 Bg1 3. Rf2 Bxf2 4. Qa1 Qh3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/Q1pr2pk/6pp/8/1RNN4/2B1PBqb/2P4b/1R5K%20b%20-%20-%200%201&size=2"
+}

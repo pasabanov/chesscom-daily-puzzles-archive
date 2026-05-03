@@ -1,0 +1,8 @@
+{
+	"title": "Between a Rook and a Hard Place",
+	"url": "https://www.chess.com/daily/2020-06-08",
+	"publish_time": 1591599600,
+	"fen": "3Rr1k1/2P4p/p3bBpq/8/8/1PQ2Bb1/2P3P1/6K1 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"3Rr1k1/2P4p/p3bBpq/8/8/1PQ2Bb1/2P3P1/6K1 b - - 0 1\"]\r\n\r\n1...Qh2+ 2.Kf1 Qh1+ 3.Ke2 Bc4+ 4.Kd2 Qe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3Rr1k1/2P4p/p3bBpq/8/8/1PQ2Bb1/2P3P1/6K1%20b%20-%20-%200%201&size=2"
+}

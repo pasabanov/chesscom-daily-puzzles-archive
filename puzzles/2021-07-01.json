@@ -1,0 +1,8 @@
+{
+	"title": "The Great Divide",
+	"url": "https://www.chess.com/daily/2021-07-01",
+	"publish_time": 1625122800,
+	"fen": "1b1r1rk1/1p3pp1/1p3qbp/4n3/3NpB2/P1R1P3/BP2QPPP/5RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1b1r1rk1/1p3pp1/1p3qbp/4n3/3NpB2/P1R1P3/BP2QPPP/5RK1 b - - 0 1\"]\r\n\r\n1...Rxd4 2.exd4 Nf3+ 3.Rxf3 exf3 *",
+	"image": "https://www.chess.com/dynboard?fen=1b1r1rk1/1p3pp1/1p3qbp/4n3/3NpB2/P1R1P3/BP2QPPP/5RK1%20b%20-%20-%200%201&size=2"
+}

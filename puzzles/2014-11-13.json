@@ -1,0 +1,8 @@
+{
+	"title": "Clearance Meets Interference",
+	"url": "https://www.chess.com/daily/2014-11-13",
+	"publish_time": 1415865600,
+	"fen": "4r1k1/p2Q1ppp/8/6q1/7r/3Pp3/PPP2PPP/RNB1R1K1 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"4r1k1/p2Q1ppp/8/6q1/7r/3Pp3/PPP2PPP/RNB1R1K1 b - - 0 1\"]\r\n\r\n1... exf2+ 2. Kxf2 Rf4+ 3. Bxf4 Qxf4+ 4. Kg1 Rxe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/p2Q1ppp/8/6q1/7r/3Pp3/PPP2PPP/RNB1R1K1%20b%20-%20-%200%201&size=2"
+}

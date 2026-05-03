@@ -1,0 +1,9 @@
+{
+	"title": "Exploiting a Vulnerable King",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-02-04",
+	"publish_time": 1202112000,
+	"fen": "rn2k2r/pppbqppp/3b1n2/6N1/2PP1B2/8/PP2B1PP/RN1Q1RK1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rn2k2r/pppbqppp/3b1n2/6N1/2PP1B2/8/PP2B1PP/RN1Q1RK1 b - - 0 1\"]\r\n\r\n1...Bxf4 2. Rxf4 Qe3+ 3. Rf2 Qxg5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=rn2k2r/pppbqppp/3b1n2/6N1/2PP1B2/8/PP2B1PP/RN1Q1RK1%20b%20-%20-%200%201&size=2"
+}

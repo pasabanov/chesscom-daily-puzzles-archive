@@ -1,0 +1,8 @@
+{
+	"title": "Johan's Flying Circus",
+	"url": "https://www.chess.com/daily/2025-07-27",
+	"publish_time": 1753599600,
+	"fen": "r2n1r2/R1P2k1p/2q1pppP/1B1b4/1Q6/2N1n3/1P6/K7 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2n1r2/R1P2k1p/2q1pppP/1B1b4/1Q6/2N1n3/1P6/K7 w - - 0 1\"]\r\n\r\n1. Qe7+ Kxe7 2. c8=N+ Ke8 3. Nd6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2n1r2/R1P2k1p/2q1pppP/1B1b4/1Q6/2N1n3/1P6/K7%20w%20-%20-%200%201&size=2"
+}

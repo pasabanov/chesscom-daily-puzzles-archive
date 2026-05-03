@@ -1,0 +1,8 @@
+{
+	"title": "Checkmate Like The Boss",
+	"url": "https://www.chess.com/daily/2024-04-13",
+	"publish_time": 1712991600,
+	"fen": "r2n3k/pp2R1pp/2bp4/3B1PN1/2pP4/8/P6P/6K1 w - - 0 24",
+	"pgn": "[Date \"1988\"]\r\n[White \"(Happy Birthday) Kasparov (Missing c3 pawn), Garry\"]\r\n[Black \"Ivanchuk, Vasyl\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2n3k/pp2R1pp/2bp4/3B1PN1/2pP4/8/P6P/6K1 w - - 0 24\"]\r\n\r\n24. f6 Bxd5 25. Re8+ Bg8 26. f7 Nxf7 27. Nxf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2n3k/pp2R1pp/2bp4/3B1PN1/2pP4/8/P6P/6K1%20w%20-%20-%200%2024&size=2"
+}

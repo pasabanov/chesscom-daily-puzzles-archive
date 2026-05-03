@@ -1,0 +1,8 @@
+{
+	"title": "Be My Guest",
+	"url": "https://www.chess.com/daily/2020-03-28",
+	"publish_time": 1585378800,
+	"fen": "r2n3k/pb1q3r/1pn3Q1/2pp4/3Pp3/P1P5/2PB1PP1/R3K2R w KQ - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2n3k/pb1q3r/1pn3Q1/2pp4/3Pp3/P1P5/2PB1PP1/R3K2R w KQ - 1 1\"]\r\n\r\n1.Bg5 Rxh1+ 2.Kd2 e3+ 3.fxe3 Rh7 4.Rh1 *",
+	"image": "https://www.chess.com/dynboard?fen=r2n3k/pb1q3r/1pn3Q1/2pp4/3Pp3/P1P5/2PB1PP1/R3K2R%20w%20KQ%20-%201%201&size=2"
+}

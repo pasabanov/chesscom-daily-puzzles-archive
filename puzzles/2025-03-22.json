@@ -1,0 +1,8 @@
+{
+	"title": "Major Spring Cleaning",
+	"url": "https://www.chess.com/daily/2025-03-22",
+	"publish_time": 1742626800,
+	"fen": "1rb1kb2/2p2p2/p3p1n1/q3P3/3B2p1/2NB2Nr/1PPQ3P/1K1R4 w - - 0 1",
+	"pgn": "[White \"sethwmd\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1rb1kb2/2p2p2/p3p1n1/q3P3/3B2p1/2NB2Nr/1PPQ3P/1K1R4 w - - 0 1\"]\r\n\r\n1. Bb6 Qxb6 2. Bb5+ c6 3. Bxc6+ Qxc6 4. Qd8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1rb1kb2/2p2p2/p3p1n1/q3P3/3B2p1/2NB2Nr/1PPQ3P/1K1R4%20w%20-%20-%200%201&size=2"
+}

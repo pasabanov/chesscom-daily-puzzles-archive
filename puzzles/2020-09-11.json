@@ -1,0 +1,8 @@
+{
+	"title": "Reversing the Trend",
+	"url": "https://www.chess.com/daily/2020-09-11",
+	"publish_time": 1599807600,
+	"fen": "q3r1k1/1p3bb1/p1p3p1/2Q5/P2PR3/2B2B2/1P4PP/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"q3r1k1/1p3bb1/p1p3p1/2Q5/P2PR3/2B2B2/1P4PP/6K1 b - - 0 1\"]\r\n\r\n1...Rxe4 2.Bxe4 Qe8 3.Bf3 Qe3+ 4.Kf1 Bf8 5.Qe5 Bc4+ 6.Be2 Bxe2+ *",
+	"image": "https://www.chess.com/dynboard?fen=q3r1k1/1p3bb1/p1p3p1/2Q5/P2PR3/2B2B2/1P4PP/6K1%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2012-03-17",
+	"publish_time": 1331967600,
+	"fen": "r1b1rk2/3n1pbQ/2qp2p1/p2N2P1/2Bp3N/4P3/PP3PP1/2KR3R w Kq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1rk2/3n1pbQ/2qp2p1/p2N2P1/2Bp3N/4P3/PP3PP1/2KR3R w Kq - 0 1\"]\r\n\r\n1. Nxg6+ fxg6 2. Qg8+ Kxg8 3. Ne7+ Kf8 4. Nxg6# \r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1b1rk2/3n1pbQ/2qp2p1/p2N2P1/2Bp3N/4P3/PP3PP1/2KR3R%20w%20Kq%20-%200%201&size=2"
+}

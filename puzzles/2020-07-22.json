@@ -1,0 +1,8 @@
+{
+	"title": "Solve or Become the Puzzle",
+	"url": "https://www.chess.com/daily/2020-07-22",
+	"publish_time": 1595401200,
+	"fen": "1k6/pp3p2/r3b1p1/n2p3p/q2P1NnP/4P3/1PQN1PPB/1KR4R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1k6/pp3p2/r3b1p1/n2p3p/q2P1NnP/4P3/1PQN1PPB/1KR4R b - - 0 1\"]\r\n\r\n1...Qa1+ 2.Kxa1 Nb3+ 3.Kb1 Ra1# *",
+	"image": "https://www.chess.com/dynboard?fen=1k6/pp3p2/r3b1p1/n2p3p/q2P1NnP/4P3/1PQN1PPB/1KR4R%20b%20-%20-%200%201&size=2"
+}

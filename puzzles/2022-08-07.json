@@ -1,0 +1,8 @@
+{
+	"title": "Challenging the King Blockade",
+	"url": "https://www.chess.com/daily/2022-08-07",
+	"publish_time": 1659855600,
+	"fen": "2b1k2r/pp2P3/2p3RQ/8/5P2/7P/Pq1r2PK/4R3 w - - 0 41",
+	"pgn": "[Event \"San Remo\"]\r\n[Site \"San Remo ITA\"]\r\n[Date \"1930.01.25\"]\r\n[Round \"8\"]\r\n[White \"Geza Maroczy\"]\r\n[Black \"Massimiliano Romi\"]\r\n[Result \"1-0\"]\r\n[ECO \"D45\"]\r\n[SetUp \"1\"]\r\n[FEN \"2b1k2r/pp2P3/2p3RQ/8/5P2/7P/Pq1r2PK/4R3 w - - 0 41\"]\r\n[PlyCount \"5\"]\r\n[EventDate \"1930.01.16\"]\r\n\r\n41. Qh5 Rxg2+ 42. Rxg2+ Rxh5 43. Rxb2 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2b1k2r/pp2P3/2p3RQ/8/5P2/7P/Pq1r2PK/4R3%20w%20-%20-%200%2041&size=2"
+}

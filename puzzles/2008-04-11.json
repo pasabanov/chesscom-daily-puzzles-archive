@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 5",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-04-11",
+	"publish_time": 1207897200,
+	"fen": "1k5r/1r4pp/1B6/3pq3/4n3/1Q6/3p2PP/R4RK1 w - - 0 30",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1k5r/1r4pp/1B6/3pq3/4n3/1Q6/3p2PP/R4RK1 w - - 0 30\"]\r\n\r\n30. Rf8+ Rxf8 31. Ra8+ Kxa8 32. Qa3+ Kb8 33. Qxf8+ Qe8 34. Qxe8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1k5r/1r4pp/1B6/3pq3/4n3/1Q6/3p2PP/R4RK1%20w%20-%20-%200%2030&size=2"
+}

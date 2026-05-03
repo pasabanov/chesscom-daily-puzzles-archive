@@ -1,0 +1,8 @@
+{
+	"title": "Queen Chase",
+	"url": "https://www.chess.com/daily/2024-11-11",
+	"publish_time": 1731312000,
+	"fen": "r1b1kbnr/1pp2ppp/p1npp3/4P3/3P2q1/2P2N2/PP2QPPP/RNB1KB1R w KQkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1kbnr/1pp2ppp/p1npp3/4P3/3P2q1/2P2N2/PP2QPPP/RNB1KB1R w KQkq - 0 1\"]\r\n\r\n1. h3 Qh5 2. g4 Qg6 3. Nh4 Qh6 4. Bxh6 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1kbnr/1pp2ppp/p1npp3/4P3/3P2q1/2P2N2/PP2QPPP/RNB1KB1R%20w%20KQkq%20-%200%201&size=2"
+}

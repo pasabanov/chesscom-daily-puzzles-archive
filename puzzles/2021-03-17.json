@@ -1,0 +1,8 @@
+{
+	"title": "As Luck Would Have It",
+	"url": "https://www.chess.com/daily/2021-03-17",
+	"publish_time": 1615964400,
+	"fen": "3kr3/1R3pb1/P2p2p1/N6r/1N3PbP/1B4P1/1PP5/2K5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3kr3/1R3pb1/P2p2p1/N6r/1N3PbP/1B4P1/1PP5/2K5 b - - 0 1\"]\r\n\r\n1...Re1+ 2.Kd2 Rd1+ 3.Ke3 Bd4+ 4.Ke4 d5+ 5.Nxd5 f5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3kr3/1R3pb1/P2p2p1/N6r/1N3PbP/1B4P1/1PP5/2K5%20b%20-%20-%200%201&size=2"
+}

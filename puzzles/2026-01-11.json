@@ -1,0 +1,8 @@
+{
+	"title": "Blockbuster",
+	"url": "https://www.chess.com/daily/2026-01-11",
+	"publish_time": 1768118400,
+	"fen": "3R4/kb4p1/pp2Np2/n6q/PN1bB1pP/5nP1/2Q2PK1/3r4 w - - 0 1",
+	"pgn": "[White \"technical_knockout\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3R4/kb4p1/pp2Np2/n6q/PN1bB1pP/5nP1/2Q2PK1/3r4 w - - 0 1\"]\r\n\r\n1. Ra8+ Kxa8 2. Qc8+ Ka7 3. Qxb7+ Nxb7 4. Nc6+ Ka8 5. Nc7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3R4/kb4p1/pp2Np2/n6q/PN1bB1pP/5nP1/2Q2PK1/3r4%20w%20-%20-%200%201&size=2"
+}

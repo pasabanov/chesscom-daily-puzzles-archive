@@ -1,0 +1,8 @@
+{
+	"title": "Understanding the Advantage",
+	"url": "https://www.chess.com/daily/2021-05-22",
+	"publish_time": 1621666800,
+	"fen": "r2k2nr/pp1b1pbp/1n2p1p1/8/2N1P3/2N5/PP3PPP/R1B1KB1R b KQ - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2k2nr/pp1b1pbp/1n2p1p1/8/2N1P3/2N5/PP3PPP/R1B1KB1R b KQ - 0 1\"]\r\n\r\n1...Nxc4 2.Bxc4 Rc8 3.Bb3 Rxc3 4.Bg5+ f6 5.bxc3 fxg5 *",
+	"image": "https://www.chess.com/dynboard?fen=r2k2nr/pp1b1pbp/1n2p1p1/8/2N1P3/2N5/PP3PPP/R1B1KB1R%20b%20KQ%20-%200%201&size=2"
+}

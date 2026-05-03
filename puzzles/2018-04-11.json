@@ -1,0 +1,8 @@
+{
+	"title": "One Lost, One Replaced",
+	"url": "https://www.chess.com/daily/2018-04-11",
+	"publish_time": 1523430000,
+	"fen": "r2qkb1r/1pp1pp1p/4Pnp1/p2P3n/P2Q4/7P/1P3P2/RNB1KB1R w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2qkb1r/1pp1pp1p/4Pnp1/p2P3n/P2Q4/7P/1P3P2/RNB1KB1R w KQkq - 0 1\"]\r\n\r\n1. Bb5+ c6 2. dxc6 Qxd4 3. cxb7+ Kd8 4. bxa8=Q+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2qkb1r/1pp1pp1p/4Pnp1/p2P3n/P2Q4/7P/1P3P2/RNB1KB1R%20w%20KQkq%20-%200%201&size=2"
+}

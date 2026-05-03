@@ -1,0 +1,8 @@
+{
+	"title": "Missed Opportunity",
+	"url": "https://www.chess.com/daily/2021-06-24",
+	"publish_time": 1624518000,
+	"fen": "4q1k1/1R3pp1/p1np2bp/P7/4r1Pb/2BB1Q1P/2P5/1R5K w - - 0 36",
+	"pgn": "[Event \"Dutch Championship\"]\r\n[Site \"Hilversum NED\"]\r\n[Date \"2008.04.07\"]\r\n[Round \"6\"]\r\n[White \"Sergei Tiviakov\"]\r\n[Black \"Jan Smeets\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2634\"]\r\n[BlackElo \"2578\"]\r\n[FEN \"4q1k1/1R3pp1/p1np2bp/P7/4r1Pb/2BB1Q1P/2P5/1R5K w - - 0 36\"]\r\n\r\n36.Rxf7 Qxf7 37.Bxe4 Bxe4 38.Qxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=4q1k1/1R3pp1/p1np2bp/P7/4r1Pb/2BB1Q1P/2P5/1R5K%20w%20-%20-%200%2036&size=2"
+}

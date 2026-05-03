@@ -1,0 +1,8 @@
+{
+	"title": "Dropping a Line",
+	"url": "https://www.chess.com/daily/2021-04-14",
+	"publish_time": 1618383600,
+	"fen": "3r2k1/p4pp1/3b2rp/3p3q/4n3/BP1Q1N1P/P3RPP1/4RK2 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/p4pp1/3b2rp/3p3q/4n3/BP1Q1N1P/P3RPP1/4RK2 b - - 1 1\"]\r\n\r\n1...Rxg2 2.Kxg2 Qg6+ 3.Kf1 Ng3+ 4.fxg3 Qxd3 *",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/p4pp1/3b2rp/3p3q/4n3/BP1Q1N1P/P3RPP1/4RK2%20b%20-%20-%201%201&size=2"
+}

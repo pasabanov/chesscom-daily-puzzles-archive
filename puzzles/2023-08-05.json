@@ -1,0 +1,8 @@
+{
+	"title": "Flashy Patterns, Forcing Solution",
+	"url": "https://www.chess.com/daily/2023-08-05",
+	"publish_time": 1691218800,
+	"fen": "rnbq2nr/p3k1pp/2p2p2/1pb1N2Q/3pP3/3P4/PPP2PPP/R1B1KB1R w KQ - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"rnbq2nr/p3k1pp/2p2p2/1pb1N2Q/3pP3/3P4/PPP2PPP/R1B1KB1R w KQ - 0 1\"]\r\n\r\n1. Qf7+ Kd6 2. Nc4+ bxc4 3. Bf4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rnbq2nr/p3k1pp/2p2p2/1pb1N2Q/3pP3/3P4/PPP2PPP/R1B1KB1R%20w%20KQ%20-%200%201&size=2"
+}

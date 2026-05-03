@@ -1,0 +1,8 @@
+{
+	"title": "To The Side",
+	"url": "https://www.chess.com/daily/2019-06-16",
+	"publish_time": 1560668400,
+	"fen": "1r4k1/p3p1bp/2p3p1/1rNn1p2/8/2P2P1N/KP2RQPP/3R4 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r4k1/p3p1bp/2p3p1/1rNn1p2/8/2P2P1N/KP2RQPP/3R4 b - - 0 1\"]\r\n\r\n1...Nxc3+ 2. bxc3 Ra5+ 3. Na4 Rxa4#",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/p3p1bp/2p3p1/1rNn1p2/8/2P2P1N/KP2RQPP/3R4%20b%20-%20-%200%201&size=2"
+}

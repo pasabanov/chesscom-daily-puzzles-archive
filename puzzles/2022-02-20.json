@@ -1,0 +1,8 @@
+{
+	"title": "Tangled Up in Glue",
+	"url": "https://www.chess.com/daily/2022-02-20",
+	"publish_time": 1645344000,
+	"fen": "8/1ppk1p2/1b2n1p1/pP2K3/2PPP3/1N6/1PN4P/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1ppk1p2/1b2n1p1/pP2K3/2PPP3/1N6/1PN4P/8 b - - 0 1\"]\r\n\r\n1...Ke7 2.c5 c6 3.bxc6 bxc6 4.d5 f6# *",
+	"image": "https://www.chess.com/dynboard?fen=8/1ppk1p2/1b2n1p1/pP2K3/2PPP3/1N6/1PN4P/8%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Royal Meet and Greet",
+	"url": "https://www.chess.com/daily/2024-03-02",
+	"publish_time": 1709366400,
+	"fen": "6k1/pppN1ppp/8/1P6/1PP3Q1/5rPK/3q4/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/pppN1ppp/8/1P6/1PP3Q1/5rPK/3q4/8 w - - 0 1\"]\r\n\r\n1. Nf6+ Kf8 2. Qc8+ Ke7 3. Ng8+ Kd6 4. Qd8+ Ke5 5. Qxd2 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/pppN1ppp/8/1P6/1PP3Q1/5rPK/3q4/8%20w%20-%20-%200%201&size=2"
+}

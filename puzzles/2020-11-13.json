@@ -1,0 +1,8 @@
+{
+	"title": "Zugzwang in a Bottle",
+	"url": "https://www.chess.com/daily/2020-11-13",
+	"publish_time": 1605254400,
+	"fen": "8/8/8/8/n1K1B3/P7/kp1N4/b7 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/8/8/n1K1B3/P7/kp1N4/b7 w - - 0 1\"]\r\n\r\n1.Kb4 Nc3 2.Bb1+ Nxb1 3.Ne4 Nxa3 4.Nc3# *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/8/n1K1B3/P7/kp1N4/b7%20w%20-%20-%200%201&size=2"
+}

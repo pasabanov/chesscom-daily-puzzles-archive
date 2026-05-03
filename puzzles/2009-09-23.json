@@ -1,0 +1,9 @@
+{
+	"title": "Opening and Exploiting",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-09-23",
+	"publish_time": 1253689200,
+	"fen": "r1b1k2r/1p3p1p/p1pq2p1/8/1P1b4/PQN5/4PPPP/2R1KB1R b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1k2r/1p3p1p/p1pq2p1/8/1P1b4/PQN5/4PPPP/2R1KB1R b - - 0 1\"]\r\n\r\n1...Bxf2+ 2. Kxf2 Qf4+ 3. Ke1 Qxc1+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k2r/1p3p1p/p1pq2p1/8/1P1b4/PQN5/4PPPP/2R1KB1R%20b%20-%20-%200%201&size=2"
+}

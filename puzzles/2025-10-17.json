@@ -1,0 +1,8 @@
+{
+	"title": "Brain Freeze",
+	"url": "https://www.chess.com/daily/2025-10-17",
+	"publish_time": 1760684400,
+	"fen": "rnb1qk2/1pp1prbQ/1p6/5pN1/3P4/4B3/PP3PP1/R3K2R w KQ - 0 16",
+	"pgn": "[Event \"Online Blitz\"]\r\n[Date \"2001??.??\"]\r\n[White \"Nadanian Ashot (h2 pawn removed)\"]\r\n[Black \"Konstantin Sakaev\"]\r\n[Result \"1-0\"]\r\n[FEN \"rnb1qk2/1pp1prbQ/1p6/5pN1/3P4/4B3/PP3PP1/R3K2R w KQ - 0 16\"]\r\n\r\n16. Ne6+ Bxe6 17. Bh6 Qb5 18. Qh8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rnb1qk2/1pp1prbQ/1p6/5pN1/3P4/4B3/PP3PP1/R3K2R%20w%20KQ%20-%200%2016&size=2"
+}

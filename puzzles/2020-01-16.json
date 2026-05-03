@@ -1,0 +1,8 @@
+{
+	"title": "The Force is Strong with This One",
+	"url": "https://www.chess.com/daily/2020-01-16",
+	"publish_time": 1579161600,
+	"fen": "r1b1k2r/pp1nqpp1/4p2p/3pP1N1/8/3BQ3/PP3PPP/2R2RK1 w kq - 0 20",
+	"pgn": "[Event \"Ostlandserien 01/02 div. 1, Asker - Nor\"]\r\n[Site \"Asker NOR\"]\r\n[Date \"2002.02.09\"]\r\n[Round \"6\"]\r\n[White \"Magnus Carlsen\"]\r\n[Black \"Tor Gulbrandsen\"]\r\n[Result \"1-0\"]\r\n[FEN \"r1b1k2r/pp1nqpp1/4p2p/3pP1N1/8/3BQ3/PP3PPP/2R2RK1 w kq - 0 20\"]\r\n\r\n20.Qxa7 Rb8 21.Qxb8 Nxb8 22.Rxc8+ Kd7 23.Rxh8 Nc6 24.Nf3 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k2r/pp1nqpp1/4p2p/3pP1N1/8/3BQ3/PP3PPP/2R2RK1%20w%20kq%20-%200%2020&size=2"
+}

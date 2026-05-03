@@ -1,0 +1,8 @@
+{
+	"title": "Material or Mate?",
+	"url": "https://www.chess.com/daily/2009-08-21",
+	"publish_time": 1250838000,
+	"fen": "r1k5/1pp5/p1q2Q2/2np2P1/P1N4P/1P6/1KP3r1/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1k5/1pp5/p1q2Q2/2np2P1/P1N4P/1P6/1KP3r1/8 w - - 0 1\"]\r\n\r\n1. Qf8+ Kd7 2. Ne5+ Ke6 3. Qf6# *",
+	"image": "https://www.chess.com/dynboard?fen=r1k5/1pp5/p1q2Q2/2np2P1/P1N4P/1P6/1KP3r1/8%20w%20-%20-%200%201&size=2"
+}

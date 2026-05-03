@@ -1,0 +1,8 @@
+{
+	"title": "The King is an Active Piece!",
+	"url": "https://www.chess.com/daily/2023-07-19",
+	"publish_time": 1689750000,
+	"fen": "5rk1/2b2pp1/1n1p3p/p3p3/rP4PP/1K2BP2/2P5/3R1B1R w - - 0 27",
+	"pgn": "[Event \"Munich SKA\"]\r\n[Site \"Munich\"]\r\n[Date \"1993.??.??\"]\r\n[Round \"7\"]\r\n[White \"Shirov, Alexei\"]\r\n[Black \"Lutz, Christopher\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2670\"]\r\n[BlackElo \"2550\"]\r\n[FEN \"5rk1/2b2pp1/1n1p3p/p3p3/rP4PP/1K2BP2/2P5/3R1B1R w - - 0 27\"]\r\n\r\n27. c3 axb4 28. Bxb6 Ra3+ 29. Kxb4 Bxb6 30. Kxa3 *",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/2b2pp1/1n1p3p/p3p3/rP4PP/1K2BP2/2P5/3R1B1R%20w%20-%20-%200%2027&size=2"
+}

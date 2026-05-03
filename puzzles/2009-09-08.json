@@ -1,0 +1,9 @@
+{
+	"title": "Reinforcement",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-09-08",
+	"publish_time": 1252393200,
+	"fen": "2rq2k1/p4r1p/4n1p1/3Q1b2/2P1p3/4P1P1/PR1N1PBP/5RK1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2rq2k1/p4r1p/4n1p1/3Q1b2/2P1p3/4P1P1/PR1N1PBP/5RK1 b - - 0 1\"]\r\n\r\n1...Rd7 2. Qe5 Rxd2 3. Rxd2 Qxd2\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2rq2k1/p4r1p/4n1p1/3Q1b2/2P1p3/4P1P1/PR1N1PBP/5RK1%20b%20-%20-%200%201&size=2"
+}

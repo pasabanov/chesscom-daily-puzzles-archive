@@ -1,0 +1,8 @@
+{
+	"title": "Magnetic Mayhem",
+	"url": "https://www.chess.com/daily/2023-10-14",
+	"publish_time": 1697266800,
+	"fen": "1r4k1/5p2/2pn4/3pbNpQ/6q1/3B2P1/P1PK1P2/3R3R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r4k1/5p2/2pn4/3pbNpQ/6q1/3B2P1/P1PK1P2/3R3R b - - 0 1\"]\r\n\r\n1... Bc3+ 2. Kc1 Rb1+ 3. Kxb1 Qb4+ 4. Kc1 Qb2# *",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/5p2/2pn4/3pbNpQ/6q1/3B2P1/P1PK1P2/3R3R%20b%20-%20-%200%201&size=2"
+}

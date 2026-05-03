@@ -1,0 +1,8 @@
+{
+	"title": "Catch Me If You Can",
+	"url": "https://www.chess.com/daily/2019-12-27",
+	"publish_time": 1577433600,
+	"fen": "2n3k1/1Q3p2/6pp/3p4/P2N4/5NKP/4BnP1/7q b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2n3k1/1Q3p2/6pp/3p4/P2N4/5NKP/4BnP1/7q b - - 0 1\"]\r\n\r\n1... Ne4+ 2. Kf4 Qc1+ 3. Ke5 f6+ 4. Kxd5 Qc5+ 5. Kxe4 Nd6+ *",
+	"image": "https://www.chess.com/dynboard?fen=2n3k1/1Q3p2/6pp/3p4/P2N4/5NKP/4BnP1/7q%20b%20-%20-%200%201&size=2"
+}

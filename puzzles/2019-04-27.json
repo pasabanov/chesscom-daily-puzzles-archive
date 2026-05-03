@@ -1,0 +1,8 @@
+{
+	"title": "Left Without Moves",
+	"url": "https://www.chess.com/daily/2019-04-27",
+	"publish_time": 1556348400,
+	"fen": "4r3/2P1kpR1/7p/p4K2/P5B1/6bP/8/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4r3/2P1kpR1/7p/p4K2/P5B1/6bP/8/8 w - - 0 1\"]\r\n\r\n1. Bh5 Bxc7 2. Rxf7+ Kd8 3. Rxc7 Rg8 4. Rc4 Rg5+ 5. Ke6 Rxh5 6. h4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4r3/2P1kpR1/7p/p4K2/P5B1/6bP/8/8%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Quickest Road To Mate",
+	"url": "https://www.chess.com/daily/2016-10-14",
+	"publish_time": 1476428400,
+	"fen": "4rnr1/p1pn1q2/kp4p1/6Rp/1Pp1NP2/4P3/P2PN1Q1/1K4R1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4rnr1/p1pn1q2/kp4p1/6Rp/1Pp1NP2/4P3/P2PN1Q1/1K4R1 w - - 0 1\"]\r\n\r\n1. Ra5+ bxa5 2. Nc5+ Kb5 3. Nd4+ Kxb4 4. a3+ Kxa3 5. Nc2#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4rnr1/p1pn1q2/kp4p1/6Rp/1Pp1NP2/4P3/P2PN1Q1/1K4R1%20w%20-%20-%200%201&size=2"
+}

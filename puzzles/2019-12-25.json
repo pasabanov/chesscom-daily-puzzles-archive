@@ -1,0 +1,8 @@
+{
+	"title": "Uncompromising Chess",
+	"url": "https://www.chess.com/daily/2019-12-25",
+	"publish_time": 1577260800,
+	"fen": "1R1r2k1/p2r1pp1/2p1qn1p/2B2n2/2PP4/P3pP2/1Q2B2P/5R1K b - - 0 28",
+	"pgn": "[Event \"Slovenian League\"]\r\n[Date \"2019.12.22\"]\r\n[Round \"9\"]\r\n[White \"Drnovsek, Gal\"]\r\n[Black \"Beliavsky, Alexander G\"]\r\n[Result \"0-1\"]\r\n[ECO \"D31\"]\r\n[WhiteElo \"2388\"]\r\n[BlackElo \"2519\"]\r\n[SetUp \"1\"]\r\n[FEN \"1R1r2k1/p2r1pp1/2p1qn1p/2B2n2/2PP4/P3pP2/1Q2B2P/5R1K b - - 0 28\"]\r\n[PlyCount \"7\"]\r\n\r\n28... Ng3+ 29. hxg3 Qh3+ 30. Kg1 Qxg3+ 31. Kh1 Rxb8 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1R1r2k1/p2r1pp1/2p1qn1p/2B2n2/2PP4/P3pP2/1Q2B2P/5R1K%20b%20-%20-%200%2028&size=2"
+}

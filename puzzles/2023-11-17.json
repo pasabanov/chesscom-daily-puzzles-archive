@@ -1,0 +1,8 @@
+{
+	"title": "Endgame \"Eureka!\"",
+	"url": "https://www.chess.com/daily/2023-11-17",
+	"publish_time": 1700208000,
+	"fen": "5k2/3B1b2/3p1p2/2pPpPp1/2P1P1Pp/2K5/6P1/8 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"5k2/3B1b2/3p1p2/2pPpPp1/2P1P1Pp/2K5/6P1/8 b - - 0 1\"]\r\n\r\n1... Bh5 2. gxh5 g4 3. Kd2 h3 4. gxh3 gxh3 5. Ke2 h2 *",
+	"image": "https://www.chess.com/dynboard?fen=5k2/3B1b2/3p1p2/2pPpPp1/2P1P1Pp/2K5/6P1/8%20b%20-%20-%200%201&size=2"
+}

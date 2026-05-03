@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Radjabov's Clutch Move",
+	"url": "https://www.chess.com/daily/2022-06-26",
+	"publish_time": 1656226800,
+	"fen": "2b3r1/4k1pR/2p1p1B1/1p4P1/3R1P2/qr2P3/3QK2P/8 w - - 0 36",
+	"pgn": "[Event \"RUS-The World\"]\r\n[Site \"Moscow\"]\r\n[Date \"2002.09.11\"]\r\n[Round \"10\"]\r\n[White \"Radjabov, Teimour(Game Variation)\"]\r\n[Black \"Zvjaginsev, Vadim\"]\r\n[Result \"1-0\"]\r\n[ECO \"D05\"]\r\n[WhiteElo \"2610\"]\r\n[BlackElo \"2673\"]\r\n[SetUp \"1\"]\r\n[FEN \"2b3r1/4k1pR/2p1p1B1/1p4P1/3R1P2/qr2P3/3QK2P/8 w - - 0 36\"]\r\n\r\n36. Rd8 Rb2 37. Rxg7+ Rxg7 38. Re8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2b3r1/4k1pR/2p1p1B1/1p4P1/3R1P2/qr2P3/3QK2P/8%20w%20-%20-%200%2036&size=2"
+}

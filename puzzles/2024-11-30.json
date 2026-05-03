@@ -1,0 +1,8 @@
+{
+	"title": "Magnus Blows Out the Candles 🤫",
+	"url": "https://www.chess.com/daily/2024-11-30",
+	"publish_time": 1732953600,
+	"fen": "8/8/8/1Q6/3N2K1/kp2P3/3n1PP1/4q3 w - - 0 55",
+	"pgn": "[Event \"Grand Chess Tour: Superbet Poland Rapid \"]\r\n[Site \"?\"]\r\n[Date \"2023.05.25\"]\r\n[Round \"20\"]\r\n[White \"Carlsen, Magnus\"]\r\n[Black \"So, Wesley\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2839\"]\r\n[BlackElo \"2788\"]\r\n[SetUp \"1\"]\r\n[FEN \"8/8/8/1Q6/3N2K1/kp2P3/3n1PP1/4q3 w - - 0 55\"]\r\n[PlyCount \"5\"]\r\n[EventDate \"2023.??.??\"]\r\n[EventType \"blitz\"]\r\n\r\n55. Qxb3+ Nxb3 56. Nc2+ Kb2 57. Nxe1 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/1Q6/3N2K1/kp2P3/3n1PP1/4q3%20w%20-%20-%200%2055&size=2"
+}

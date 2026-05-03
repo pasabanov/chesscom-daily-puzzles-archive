@@ -1,0 +1,8 @@
+{
+	"title": "Check It Until You Mate It",
+	"url": "https://www.chess.com/daily/2024-01-29",
+	"publish_time": 1706515200,
+	"fen": "7k/Qp6/2p3rN/7p/5p2/2P2P1K/PP4R1/4r3 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7k/Qp6/2p3rN/7p/5p2/2P2P1K/PP4R1/4r3 b - - 0 1\"]\r\n\r\n1... Rh1+ 2. Rh2 Rg3+ 3. Kh4 Rxh2# *",
+	"image": "https://www.chess.com/dynboard?fen=7k/Qp6/2p3rN/7p/5p2/2P2P1K/PP4R1/4r3%20b%20-%20-%200%201&size=2"
+}

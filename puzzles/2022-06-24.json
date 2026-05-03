@@ -1,0 +1,8 @@
+{
+	"title": "Gelfand on the Attack",
+	"url": "https://www.chess.com/daily/2022-06-24",
+	"publish_time": 1656054000,
+	"fen": "r1b3k1/p7/1p1q2B1/2pP4/2P4p/6R1/PB4PK/5R2 w - - 0 35",
+	"pgn": "[Event \"Debrecen\"]\r\n[Site \"Debrecen\"]\r\n[Date \"1989.??.??\"]\r\n[Round \"?\"]\r\n[White \"Gelfand, Boris\"]\r\n[Black \"Ftacnik, Lubomir\"]\r\n[Result \"1-0\"]\r\n[ECO \"D85\"]\r\n[WhiteElo \"2600\"]\r\n[BlackElo \"2550\"]\r\n[SetUp \"1\"]\r\n[FEN \"r1b3k1/p7/1p1q2B1/2pP4/2P4p/6R1/PB4PK/5R2 w - - 0 35\"]\r\n\r\n35. Bh7+ Kxh7 36. Rf7+ Kh6 37. Bc1+ *",
+	"image": "https://www.chess.com/dynboard?fen=r1b3k1/p7/1p1q2B1/2pP4/2P4p/6R1/PB4PK/5R2%20w%20-%20-%200%2035&size=2"
+}

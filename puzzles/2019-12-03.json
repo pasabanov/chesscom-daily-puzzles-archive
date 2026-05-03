@@ -1,0 +1,8 @@
+{
+	"title": "Is That So?",
+	"url": "https://www.chess.com/daily/2019-12-03",
+	"publish_time": 1575360000,
+	"fen": "2kr1b1r/p1p2ppp/2p1b1n1/3q4/8/2PB4/PP2QPPP/RNB2RK1 w - - 0 12",
+	"pgn": "[Event \"Dubai Open\"]\r\n[Site \"Dubai UAE\"]\r\n[Date \"2008.04.12\"]\r\n[Round \"7\"]\r\n[White \"Wesley So\"]\r\n[Black \"Abhijeet Gupta\"]\r\n[Result \"1-0\"]\r\n[FEN \"2kr1b1r/p1p2ppp/2p1b1n1/3q4/8/2PB4/PP2QPPP/RNB2RK1 w - - 0 12\"]\r\n\r\n12. Rd1 Kb8 13. Bc2 Qxd1+ 14. Bxd1 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2kr1b1r/p1p2ppp/2p1b1n1/3q4/8/2PB4/PP2QPPP/RNB2RK1%20w%20-%20-%200%2012&size=2"
+}

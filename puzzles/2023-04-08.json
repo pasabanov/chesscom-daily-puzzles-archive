@@ -1,0 +1,8 @@
+{
+	"title": "WCC Candidate: Ding Liren",
+	"url": "https://www.chess.com/daily/2023-04-08",
+	"publish_time": 1680937200,
+	"fen": "3r2r1/p3Rbk1/5q2/3P2p1/P2Q2P1/2p2p2/8/4RBK1 w - - 0 31",
+	"pgn": "[Event \"Chinese League\"]\r\n[Site \"Chengdu CHN\"]\r\n[Date \"2011.05.26\"]\r\n[White \"Ding Liren\"]\r\n[Black \"Wang Hao\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r2r1/p3Rbk1/5q2/3P2p1/P2Q2P1/2p2p2/8/4RBK1 w - - 0 31\"]\r\n\r\n31. Rxf7+ Kxf7 32. Qxa7+ Kf8 33. Re6 f2+ 34. Kg2 Qf4 35. Qe7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r2r1/p3Rbk1/5q2/3P2p1/P2Q2P1/2p2p2/8/4RBK1%20w%20-%20-%200%2031&size=2"
+}

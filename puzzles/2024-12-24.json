@@ -1,0 +1,8 @@
+{
+	"title": "Gift Exchange",
+	"url": "https://www.chess.com/daily/2024-12-24",
+	"publish_time": 1735027200,
+	"fen": "2r1r1k1/4nppp/p1q1p3/1p1n4/3PB2B/P4Q1P/1P3PP1/3RR1K1 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2r1r1k1/4nppp/p1q1p3/1p1n4/3PB2B/P4Q1P/1P3PP1/3RR1K1 w - - 0 1\"]\r\n\r\n1. Bxe7 Rxe7 2. Bxd5 Qxd5 3. Qxd5 exd5 4. Rxe7 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r1r1k1/4nppp/p1q1p3/1p1n4/3PB2B/P4Q1P/1P3PP1/3RR1K1%20w%20-%20-%200%201&size=2"
+}

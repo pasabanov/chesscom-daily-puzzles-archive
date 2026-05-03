@@ -1,0 +1,8 @@
+{
+	"title": "Portal Bounce",
+	"url": "https://www.chess.com/daily/2025-10-14",
+	"publish_time": 1760425200,
+	"fen": "8/1p1k1n2/p5p1/b1pP1b1p/P1P2P1B/1B3NKP/1P6/4r1R1 b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"NotNerdyN3rd\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/1p1k1n2/p5p1/b1pP1b1p/P1P2P1B/1B3NKP/1P6/4r1R1 b - - 0 1\"]\r\n\r\n1... Rxg1+ 2. Nxg1 Be1+ 3. Kf3 Bxh4 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/1p1k1n2/p5p1/b1pP1b1p/P1P2P1B/1B3NKP/1P6/4r1R1%20b%20-%20-%200%201&size=2"
+}

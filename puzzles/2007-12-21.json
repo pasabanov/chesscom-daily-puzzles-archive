@@ -1,0 +1,9 @@
+{
+	"title": "Sneak Out a Draw",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-12-21",
+	"publish_time": 1198224000,
+	"fen": "8/5pNk/2K5/6P1/2r5/8/6B1/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/5pNk/2K5/6P1/2r5/8/6B1/8 w - - 0 1\"]\r\n\r\n1. Kd5 Rg4 2. Bh3 Rg3 3. Ne6 Rxh3 (3... fxe6+ 4. Bxe6) 4. g6+ Kxg6 (4... fxg6 5. Ng5+) 5. Nf4+",
+	"image": "https://www.chess.com/dynboard?fen=8/5pNk/2K5/6P1/2r5/8/6B1/8%20w%20-%20-%200%201&size=2"
+}

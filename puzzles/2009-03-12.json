@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-03-12",
+	"publish_time": 1236841200,
+	"fen": "1nq1rk2/r3bbp1/1np5/1p1pNPP1/p2P1B2/P1N5/1P5Q/1B3R1K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1nq1rk2/r3bbp1/1np5/1p1pNPP1/p2P1B2/P1N5/1P5Q/1B3R1K w - - 0 1\"]\r\n\r\n1. Ng6+ Bxg6 2. Qh8+ Kf7 3. fxg6+ Ke6 4. Qh3#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1nq1rk2/r3bbp1/1np5/1p1pNPP1/p2P1B2/P1N5/1P5Q/1B3R1K%20w%20-%20-%200%201&size=2"
+}

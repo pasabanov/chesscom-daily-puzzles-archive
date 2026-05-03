@@ -1,0 +1,9 @@
+{
+	"title": "Winning By Check",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-04-30",
+	"publish_time": 1209538800,
+	"fen": "r3k1r1/1b2np1p/p4p2/3qp3/2N1B3/8/PP3PPP/R2Q1RK1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3k1r1/1b2np1p/p4p2/3qp3/2N1B3/8/PP3PPP/R2Q1RK1 b - - 0 1\"]\r\n\r\n1...Rxg2+ 2. Kxg2 Qxe4+ 3. f3 Qxc4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3k1r1/1b2np1p/p4p2/3qp3/2N1B3/8/PP3PPP/R2Q1RK1%20b%20-%20-%200%201&size=2"
+}

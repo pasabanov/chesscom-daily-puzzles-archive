@@ -1,0 +1,8 @@
+{
+	"title": "Hikaru's Harmonious Birthday Mate 🥳",
+	"url": "https://www.chess.com/daily/2024-12-09",
+	"publish_time": 1733731200,
+	"fen": "N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4 b - - 0 29",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.05.02\"]\r\n[Round \"?\"]\r\n[White \"only_strong_moves\"]\r\n[Black \"Hikaru Happy Birthday\"]\r\n[Result \"0-1\"]\r\n[ECO \"A00\"]\r\n[WhiteElo \"2725\"]\r\n[BlackElo \"3220\"]\r\n[FEN \"N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4 b - - 0 29\"]\r\n\r\n29... Rh2+ 30. Kg1 Nf3+ 31. Kf1 Rxf2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4%20b%20-%20-%200%2029&size=2"
+}

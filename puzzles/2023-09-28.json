@@ -1,0 +1,8 @@
+{
+	"title": "Pinning Streak",
+	"url": "https://www.chess.com/daily/2023-09-28",
+	"publish_time": 1695884400,
+	"fen": "r6k/ppr2p1p/4pP2/3pN3/7q/3P4/PP1Q3P/1K4R1 w - - 0 26",
+	"pgn": "[Event \"Mediterranean-ch 4th\"]\r\n[Site \"Cannes\"]\r\n[Date \"2007.02.19\"]\r\n[Round \"3\"]\r\n[White \"Saric, Ivan\"]\r\n[Black \"Gurevich, Mikhail\"]\r\n[Result \"1-0\"]\r\n[ECO \"C11\"]\r\n[WhiteElo \"2469\"]\r\n[BlackElo \"2635\"]\r\n[SetUp \"1\"]\r\n[FEN \"r6k/ppr2p1p/4pP2/3pN3/7q/3P4/PP1Q3P/1K4R1 w - - 0 26\"]\r\n\r\n26. Qc2 Rac8 27. Nxf7+ Rxf7 28. Qxc8+ Rf8 29. Qxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r6k/ppr2p1p/4pP2/3pN3/7q/3P4/PP1Q3P/1K4R1%20w%20-%20-%200%2026&size=2"
+}

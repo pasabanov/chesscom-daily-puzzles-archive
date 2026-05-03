@@ -1,0 +1,8 @@
+{
+	"title": "A Harmonious Attack",
+	"url": "https://www.chess.com/daily/2023-07-12",
+	"publish_time": 1689145200,
+	"fen": "5r1k/8/1b3q2/p2BQ1pp/Pp6/1P4PK/4R2P/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r1k/8/1b3q2/p2BQ1pp/Pp6/1P4PK/4R2P/8 b - - 0 1\"]\r\n\r\n1... g4+ 2. Kg2 Qxe5 3. Rxe5 Rf2+ 4. Kh1 Rf1+ 5. Kg2 Rg1# *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/8/1b3q2/p2BQ1pp/Pp6/1P4PK/4R2P/8%20b%20-%20-%200%201&size=2"
+}

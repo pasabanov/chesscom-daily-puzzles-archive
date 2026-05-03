@@ -1,0 +1,8 @@
+{
+	"title": "Hanging Pieces, Insecure Monarchs",
+	"url": "https://www.chess.com/daily/2022-10-27",
+	"publish_time": 1666854000,
+	"fen": "4r1k1/2R2pp1/8/P3q1N1/1p5Q/1P2BbP1/5P2/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/2R2pp1/8/P3q1N1/1p5Q/1P2BbP1/5P2/6K1 b - - 0 1\"]\r\n\r\n1... Qa1+ 2. Rc1 Qxc1+ 3. Bxc1 Re1+ 4. Kh2 Rh1# *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/2R2pp1/8/P3q1N1/1p5Q/1P2BbP1/5P2/6K1%20b%20-%20-%200%201&size=2"
+}

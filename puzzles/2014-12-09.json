@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4 Again",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2014-12-09",
+	"publish_time": 1418112000,
+	"fen": "2r1k2r/4pp1p/p5pB/np6/8/5Q2/Pbq2PPP/3RR1K1 w k - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1k2r/4pp1p/p5pB/np6/8/5Q2/Pbq2PPP/3RR1K1 w k - 0 1\"]\r\n\r\n1. Rxe7+ Kxe7 2. Qe3+ Qe4 3. Qxe4+ Be5 4. Qxe5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r1k2r/4pp1p/p5pB/np6/8/5Q2/Pbq2PPP/3RR1K1%20w%20k%20-%200%201&size=2"
+}

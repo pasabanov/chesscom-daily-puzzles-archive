@@ -1,0 +1,9 @@
+{
+	"title": "Destroying Defense",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-04-05",
+	"publish_time": 1270450800,
+	"fen": "r1r3k1/p3ppbp/1n4p1/3P4/qp2PP2/1Q2B2P/1P3P2/1KNR1B1R b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1r3k1/p3ppbp/1n4p1/3P4/qp2PP2/1Q2B2P/1P3P2/1KNR1B1R b - - 0 1\"]\r\n\r\n1...Rxc1+ 2. Bxc1 Qxb3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1r3k1/p3ppbp/1n4p1/3P4/qp2PP2/1Q2B2P/1P3P2/1KNR1B1R%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Give Squares to Get Squares",
+	"url": "https://www.chess.com/daily/2023-05-06",
+	"publish_time": 1683356400,
+	"fen": "2bq1rk1/4bpp1/1p5p/2p3nQ/PnPp4/1N1P3P/PB2BPP1/R3R1K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2bq1rk1/4bpp1/1p5p/2p3nQ/PnPp4/1N1P3P/PB2BPP1/R3R1K1 b - - 0 1\"]\r\n\r\n1... g6 2. Qxh6 Nxh3+ 3. gxh3 Bg5 4. Bc1 Bxh6 *",
+	"image": "https://www.chess.com/dynboard?fen=2bq1rk1/4bpp1/1p5p/2p3nQ/PnPp4/1N1P3P/PB2BPP1/R3R1K1%20b%20-%20-%200%201&size=2"
+}

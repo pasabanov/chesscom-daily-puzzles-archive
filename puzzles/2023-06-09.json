@@ -1,0 +1,8 @@
+{
+	"title": "Blackburne's Matey Net",
+	"url": "https://www.chess.com/daily/2023-06-09",
+	"publish_time": 1686294000,
+	"fen": "2b2r2/6k1/6Pp/3p1r2/pp1PpN2/1q2P1QP/5P2/6RK w - - 0 34",
+	"pgn": "[Event \"6th American Chess Congress\"]\r\n[Site \"New York, NY USA\"]\r\n[Date \"2023.04.12\"]\r\n[Round \"11\"]\r\n[White \"Joseph Henry Blackburne\"]\r\n[Black \"Samuel Lipschutz\"]\r\n[Result \"1-0\"]\r\n[FEN \"2b2r2/6k1/6Pp/3p1r2/pp1PpN2/1q2P1QP/5P2/6RK w - - 0 34\"]\r\n\r\n34. Nh5+ Rxh5 35. Qc7+ Kf6 36. Qd6+ Kg7 37. Qe7+ Kg8 38. Qh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2b2r2/6k1/6Pp/3p1r2/pp1PpN2/1q2P1QP/5P2/6RK%20w%20-%20-%200%2034&size=2"
+}

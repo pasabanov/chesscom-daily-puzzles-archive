@@ -1,0 +1,8 @@
+{
+	"title": "When Pawns Take the Day Off",
+	"url": "https://www.chess.com/daily/2022-06-12",
+	"publish_time": 1655017200,
+	"fen": "3N1qk1/6pp/5p2/3p4/1R6/2p1R1Q1/K7/2r2r2 w - - 0 1",
+	"pgn": "[White \"Sam Copeland\"]\r\n[Black \"Mate in 11 Modification\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"3N1qk1/6pp/5p2/3p4/1R6/2p1R1Q1/K7/2r2r2 w - - 0 1\"]\r\n\r\n1. Qxg7+ Kxg7 2. Rg3+ Kh8 3. Nf7+ Qxf7 4. Rb8+ Qe8 5. Rxe8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3N1qk1/6pp/5p2/3p4/1R6/2p1R1Q1/K7/2r2r2%20w%20-%20-%200%201&size=2"
+}

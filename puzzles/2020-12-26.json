@@ -1,0 +1,8 @@
+{
+	"title": "Troitsky's Present Arrives",
+	"url": "https://www.chess.com/daily/2020-12-26",
+	"publish_time": 1608969600,
+	"fen": "7q/3p2pk/2p5/2B1RKPp/3P4/3P1pP1/P7/8 w - - 0 1",
+	"pgn": "[Date \"1895\"]\r\n[White \"Troitzky\"]\r\n[Black \"Study - Win\"]\r\n[Result \"*\"]\r\n[FEN \"7q/3p2pk/2p5/2B1RKPp/3P4/3P1pP1/P7/8 w - - 0 1\"]\r\n\r\n1.g6+ Kh6 2.d5 Qf8+ 3.Bxf8 f2 4.Re1 fxe1=Q 5.Bd6 Qf1+ 6.Bf4+ 1-0",
+	"image": "https://www.chess.com/dynboard?fen=7q/3p2pk/2p5/2B1RKPp/3P4/3P1pP1/P7/8%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Major Piece Staring Contest",
+	"url": "https://www.chess.com/daily/2022-07-28",
+	"publish_time": 1658991600,
+	"fen": "6k1/5pp1/p1pP3p/2r5/1r2QBP1/1R5P/PqPK4/3R4 b - - 0 30",
+	"pgn": "[Event \"EU-ch blitz\"]\r\n[Site \"Skopje\"]\r\n[Date \"2018.12.07\"]\r\n[Round \"20\"]\r\n[White \"Perunovic, Milos\"]\r\n[Black \"Kevlishvili, Robby\"]\r\n[Result \"0-1\"]\r\n[ECO \"B81\"]\r\n[WhiteElo \"2597\"]\r\n[BlackElo \"2451\"]\r\n[FEN \"6k1/5pp1/p1pP3p/2r5/1r2QBP1/1R5P/PqPK4/3R4 b - - 0 30\"]\r\n\r\n30... Rd4+ 31. Ke3 Rxe4+ 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5pp1/p1pP3p/2r5/1r2QBP1/1R5P/PqPK4/3R4%20b%20-%20-%200%2030&size=2"
+}

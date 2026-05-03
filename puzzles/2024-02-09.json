@@ -1,0 +1,8 @@
+{
+	"title": "Stunt Double Check",
+	"url": "https://www.chess.com/daily/2024-02-09",
+	"publish_time": 1707465600,
+	"fen": "4k1n1/p3rp2/bpnQ3B/5N1p/1P2r3/P1q4P/5P1P/3R2K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4k1n1/p3rp2/bpnQ3B/5N1p/1P2r3/P1q4P/5P1P/3R2K1 w - - 0 1\"]\r\n\r\n1. Qxc6+ Qxc6 2. Ng7+ Kf8 3. Ne6+ Ke8 4. Rd8# *",
+	"image": "https://www.chess.com/dynboard?fen=4k1n1/p3rp2/bpnQ3B/5N1p/1P2r3/P1q4P/5P1P/3R2K1%20w%20-%20-%200%201&size=2"
+}

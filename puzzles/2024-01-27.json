@@ -1,0 +1,8 @@
+{
+	"title": "Dark Squared Discovery",
+	"url": "https://www.chess.com/daily/2024-01-27",
+	"publish_time": 1706342400,
+	"fen": "4r1k1/6qp/1R4p1/1PpPnp2/2P1pQ2/8/4BPPP/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/6qp/1R4p1/1PpPnp2/2P1pQ2/8/4BPPP/6K1 b - - 0 1\"]\r\n\r\n1... Qc7 2. Rc6 Nf3+ 3. Qxf3 exf3 4. Rxc7 fxe2 *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/6qp/1R4p1/1PpPnp2/2P1pQ2/8/4BPPP/6K1%20b%20-%20-%200%201&size=2"
+}

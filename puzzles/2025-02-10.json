@@ -1,0 +1,8 @@
+{
+	"title": "Check I Can!",
+	"url": "https://www.chess.com/daily/2025-02-10",
+	"publish_time": 1739174400,
+	"fen": "5r1k/p5pp/1p6/2q5/1n2P2P/4QP2/PP2NK2/6R1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r1k/p5pp/1p6/2q5/1n2P2P/4QP2/PP2NK2/6R1 b - - 0 1\"]\r\n\r\n1... Nd3+ 2. Kf1 Qxe3 *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/p5pp/1p6/2q5/1n2P2P/4QP2/PP2NK2/6R1%20b%20-%20-%200%201&size=2"
+}

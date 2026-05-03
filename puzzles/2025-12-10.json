@@ -1,0 +1,8 @@
+{
+	"title": "Unplugged",
+	"url": "https://www.chess.com/daily/2025-12-10",
+	"publish_time": 1765353600,
+	"fen": "2kr2r1/1pp2p1p/p4n2/3p4/1n1P4/BP3B1q/P1P2PPP/R2Q1RK1 b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"KingsBishop\"]\r\n[Result \"0-1\"]\r\n[FEN \"2kr2r1/1pp2p1p/p4n2/3p4/1n1P4/BP3B1q/P1P2PPP/R2Q1RK1 b - - 0 1\"]\r\n\r\n1... Rxg2+ 2. Bxg2 Rg8 3. Qf3 Qxf3 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2kr2r1/1pp2p1p/p4n2/3p4/1n1P4/BP3B1q/P1P2PPP/R2Q1RK1%20b%20-%20-%200%201&size=2"
+}

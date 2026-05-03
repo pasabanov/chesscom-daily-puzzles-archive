@@ -1,0 +1,8 @@
+{
+	"title": "Fork in the Road",
+	"url": "https://www.chess.com/daily/2021-07-15",
+	"publish_time": 1626332400,
+	"fen": "4k2r/4Bppp/1q1p4/p2P1N2/Pp3Pn1/1B6/1PP3PP/R2QR2K b k - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"4k2r/4Bppp/1q1p4/p2P1N2/Pp3Pn1/1B6/1PP3PP/R2QR2K b k - 0 1\"]\r\n\r\n1...Nf2+ 2.Kg1 Nh3+ 3.Kh1 Qg1+ 4.Rxg1 Nf2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4k2r/4Bppp/1q1p4/p2P1N2/Pp3Pn1/1B6/1PP3PP/R2QR2K%20b%20k%20-%200%201&size=2"
+}

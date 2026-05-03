@@ -1,0 +1,8 @@
+{
+	"title": "Does a Grandmaster React?",
+	"url": "https://www.chess.com/daily/2025-02-03",
+	"publish_time": 1738569600,
+	"fen": "7r/1bq1ppk1/3R2pp/8/Bpn3PP/5P2/P1P2Q2/1KN3NR b - - 0 1",
+	"pgn": "[Event \"Chess.com Blitz\"]\r\n[White \"AGM2023\"]\r\n[Black \"GMHess (Ng8 removed)\"]\r\n[Result \"1-0\"]\r\n[FEN \"7r/1bq1ppk1/3R2pp/8/Bpn3PP/5P2/P1P2Q2/1KN3NR b - - 0 1\"]\r\n\r\n1... Na3+ 2. Kb2 Qc3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=7r/1bq1ppk1/3R2pp/8/Bpn3PP/5P2/P1P2Q2/1KN3NR%20b%20-%20-%200%201&size=2"
+}

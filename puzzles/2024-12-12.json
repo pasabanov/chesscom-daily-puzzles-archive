@@ -1,0 +1,8 @@
+{
+	"title": "A Push in the Right Direction",
+	"url": "https://www.chess.com/daily/2024-12-12",
+	"publish_time": 1733990400,
+	"fen": "1r3rk1/2pb2b1/3p3p/p3p1p1/1P6/P2PP3/1BPNK1PP/R3R3 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"1r3rk1/2pb2b1/3p3p/p3p1p1/1P6/P2PP3/1BPNK1PP/R3R3 b - - 0 1\"]\r\n\r\n1... Bg4+ 2. Nf3 e4 3. Bxg7 exf3+ 4. gxf3 Bxf3+ 5. Kd2 Kxg7 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/2pb2b1/3p3p/p3p1p1/1P6/P2PP3/1BPNK1PP/R3R3%20b%20-%20-%200%201&size=2"
+}

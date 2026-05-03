@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 8",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-10-08",
+	"publish_time": 1318057200,
+	"fen": "rnb2rk1/1pb2ppp/p1q1p3/2Pp4/1R5B/4PN2/1QP1BPPP/5RK1 w q - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rnb2rk1/1pb2ppp/p1q1p3/2Pp4/1R5B/4PN2/1QP1BPPP/5RK1 w q - 0 1\"]\r\n\r\n1. Qxg7+ Kxg7 2. Rg4+ Kh6 3. Bg5+ Kh5 4. Bf6 Bxh2+ 5. Nxh2 e5 6. Rg8+ Bg4 7. Bxg4+ Kh6 8. Bg5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=rnb2rk1/1pb2ppp/p1q1p3/2Pp4/1R5B/4PN2/1QP1BPPP/5RK1%20w%20q%20-%200%201&size=2"
+}

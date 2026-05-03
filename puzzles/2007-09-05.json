@@ -1,0 +1,9 @@
+{
+	"title": "Open the Diagonal",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-09-05",
+	"publish_time": 1188975600,
+	"fen": "r4r1k/2p3qp/3p4/p1nPp1P1/1pP1Bp1P/1P3Pn1/P4KNR/1Q2R3 b - - 0 1",
+	"pgn": "[FEN \"r4r1k/2p3qp/3p4/p1nPp1P1/1pP1Bp1P/1P3Pn1/P4KNR/1Q2R3 b - - 0 1\"]\r\n[PlyCount \"5\"]\r\n[Result \"*\"]\r\n\r\n1... c6 $3 2. dxc6 Qa7 3. Nxf4 Ncxe4+ 4. Kg2 Qf2+ 5. Kh3 Qxf3 { and white cannot prevent losing more material }\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4r1k/2p3qp/3p4/p1nPp1P1/1pP1Bp1P/1P3Pn1/P4KNR/1Q2R3%20b%20-%20-%200%201&size=2"
+}

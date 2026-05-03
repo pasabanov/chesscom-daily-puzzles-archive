@@ -1,0 +1,8 @@
+{
+	"title": "Grischukmate",
+	"url": "https://www.chess.com/daily/2022-01-04",
+	"publish_time": 1641283200,
+	"fen": "3r3k/1p1b1Qbp/1n2B1p1/p5N1/Pq6/8/1P4PP/R6K w - - 0 26",
+	"pgn": "[Event \"3rd Int\"]\r\n[Site \"Torshavn FAI\"]\r\n[Date \"2000.??.??\"]\r\n[Round \"5\"]\r\n[White \"Alexander Grischuk\"]\r\n[Black \"Ruslan Ponomariov\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2606\"]\r\n[BlackElo \"2630\"]\r\n[ECO \"B04\"]\r\n[PlyCount \"53\"]\r\n[FEN \"3r3k/1p1b1Qbp/1n2B1p1/p5N1/Pq6/8/1P4PP/R6K w - - 0 26\"]\r\n\r\n26.Qg8+ Rxg8 27.Nf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r3k/1p1b1Qbp/1n2B1p1/p5N1/Pq6/8/1P4PP/R6K%20w%20-%20-%200%2026&size=2"
+}

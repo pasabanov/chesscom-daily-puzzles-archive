@@ -1,0 +1,8 @@
+{
+	"title": "Canty Stop Me Now",
+	"url": "https://www.chess.com/daily/2021-12-08",
+	"publish_time": 1638950400,
+	"fen": "r3r1k1/p1pb2pp/1bp5/2Npq3/8/2Q1B3/PPP3PP/4RRK1 w - - 0 20",
+	"pgn": "[Event \"CCCSA IM 2016\"]\r\n[Site \"Charlotte USA\"]\r\n[Date \"2016.03.24\"]\r\n[White \"James Canty\"]\r\n[Black \"Ras Malaku Lorne\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3r1k1/p1pb2pp/1bp5/2Npq3/8/2Q1B3/PPP3PP/4RRK1 w - - 0 20\"]\r\n\r\n20.Rf8+ Rxf8 21.Qxe5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/p1pb2pp/1bp5/2Npq3/8/2Q1B3/PPP3PP/4RRK1%20w%20-%20-%200%2020&size=2"
+}

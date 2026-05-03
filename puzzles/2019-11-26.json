@@ -1,0 +1,8 @@
+{
+	"title": "Step Right Up",
+	"url": "https://www.chess.com/daily/2019-11-26",
+	"publish_time": 1574755200,
+	"fen": "1k6/p1p4p/B2bq2n/4N1p1/3P4/8/1P4PP/5R1K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1k6/p1p4p/B2bq2n/4N1p1/3P4/8/1P4PP/5R1K w - - 0 1\"]\r\n\r\n1. Nc6+ Ka8 2. Bb7+ Kxb7 3. Nd8+ Kc8 4. Nxe6 *",
+	"image": "https://www.chess.com/dynboard?fen=1k6/p1p4p/B2bq2n/4N1p1/3P4/8/1P4PP/5R1K%20w%20-%20-%200%201&size=2"
+}

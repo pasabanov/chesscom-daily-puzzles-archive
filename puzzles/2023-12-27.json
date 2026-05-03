@@ -1,0 +1,8 @@
+{
+	"title": "Catch a Grandmaster in a Mating Net!",
+	"url": "https://www.chess.com/daily/2023-12-27",
+	"publish_time": 1703664000,
+	"fen": "5b2/8/2p1b3/2p1Pp2/p1P2P2/k1B5/1NK5/8 w - - 0 46",
+	"pgn": "[Event \"Amber-rapid 14th\"]\r\n[Site \"Monte Carlo\"]\r\n[Date \"2005.03.20\"]\r\n[Round \"2\"]\r\n[White \"Anand, Viswanathan\"]\r\n[Black \"Topalov, Veselin\"]\r\n[Result \"1-0\"]\r\n[ECO \"C67\"]\r\n[WhiteElo \"2786\"]\r\n[BlackElo \"2757\"]\r\n[FEN \"5b2/8/2p1b3/2p1Pp2/p1P2P2/k1B5/1NK5/8 w - - 0 46\"]\r\n\r\n46. Nd3 Bxc4 47. Bb2+ Ka2 48. Nc1# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5b2/8/2p1b3/2p1Pp2/p1P2P2/k1B5/1NK5/8%20w%20-%20-%200%2046&size=2"
+}

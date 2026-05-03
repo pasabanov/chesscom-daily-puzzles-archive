@@ -1,0 +1,8 @@
+{
+	"title": "Which Knight?",
+	"url": "https://www.chess.com/daily/2023-05-03",
+	"publish_time": 1683097200,
+	"fen": "8/1k6/6p1/3r1n2/N4Bn1/1P4P1/2R4P/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1k6/6p1/3r1n2/N4Bn1/1P4P1/2R4P/6K1 b - - 0 1\"]\r\n\r\n1... Rd1+ 2. Kg2 Nge3+ 3. Bxe3 Nxe3+ 4. Kf3 Nxc2 *",
+	"image": "https://www.chess.com/dynboard?fen=8/1k6/6p1/3r1n2/N4Bn1/1P4P1/2R4P/6K1%20b%20-%20-%200%201&size=2"
+}

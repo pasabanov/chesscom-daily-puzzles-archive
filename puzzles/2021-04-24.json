@@ -1,0 +1,8 @@
+{
+	"title": "Let's Dance",
+	"url": "https://www.chess.com/daily/2021-04-24",
+	"publish_time": 1619247600,
+	"fen": "8/6P1/2k5/P7/4p3/2Kn4/3Np3/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/6P1/2k5/P7/4p3/2Kn4/3Np3/8 b - - 0 1\"]\r\n\r\n1...e1=Q 2.g8=Q Qa1+ 3.Kc4 Qa4+ 4.Kc3 Qb4+ 5.Kc2 Qb2+ 6.Kd1 Qc1+ 7.Ke2 \r\nQe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/6P1/2k5/P7/4p3/2Kn4/3Np3/8%20b%20-%20-%200%201&size=2"
+}

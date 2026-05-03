@@ -1,0 +1,8 @@
+{
+	"title": "Close Quarters",
+	"url": "https://www.chess.com/daily/2020-08-12",
+	"publish_time": 1597215600,
+	"fen": "r1bqk1r1/3nn1b1/2p4p/pp1p1p2/5Np1/NQ4P1/PPPBPPBP/1K1R3R b q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1bqk1r1/3nn1b1/2p4p/pp1p1p2/5Np1/NQ4P1/PPPBPPBP/1K1R3R b q - 0 1\"]\r\n\r\n1...Nc5 2.Qe3 d4 3.Bc3 dxe3 4.Rxd8+ Kxd8 5.Bxg7 Rxg7 *",
+	"image": "https://www.chess.com/dynboard?fen=r1bqk1r1/3nn1b1/2p4p/pp1p1p2/5Np1/NQ4P1/PPPBPPBP/1K1R3R%20b%20q%20-%200%201&size=2"
+}

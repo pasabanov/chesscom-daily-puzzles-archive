@@ -1,0 +1,8 @@
+{
+	"title": "By Hook or by Rook",
+	"url": "https://www.chess.com/daily/2021-06-16",
+	"publish_time": 1623826800,
+	"fen": "r4r2/5p2/4p3/p2pP3/3K1k2/8/pPR5/2R5 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4r2/5p2/4p3/p2pP3/3K1k2/8/pPR5/2R5 w - - 0 1\"]\r\n\r\n1.Rg1 Kf3 2.Rgg2 a1=Q 3.Rcf2# *",
+	"image": "https://www.chess.com/dynboard?fen=r4r2/5p2/4p3/p2pP3/3K1k2/8/pPR5/2R5%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Capablanca Brings Down the House",
+	"url": "https://www.chess.com/daily/2023-06-08",
+	"publish_time": 1686207600,
+	"fen": "kr2r3/pRp3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8 w - - 0 32",
+	"pgn": "[Event \"New York\"]\r\n[Site \"New York\"]\r\n[Date \"1906.09.25\"]\r\n[Round \"?\"]\r\n[White \"Capablanca, Jose Raul\"]\r\n[Black \"Raubitschek, Rudolf\"]\r\n[Result \"1-0\"]\r\n[ECO \"C67\"]\r\n[SetUp \"1\"]\r\n[FEN \"kr2r3/pRp3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8 w - - 0 32\"]\r\n\r\n32. Rxa7+ Qxa7 33. Ra5 Qxa6 34. Rxa6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=kr2r3/pRp3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8%20w%20-%20-%200%2032&size=2"
+}

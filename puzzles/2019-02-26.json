@@ -1,0 +1,8 @@
+{
+	"title": "Detaching Connections",
+	"url": "https://www.chess.com/daily/2019-02-26",
+	"publish_time": 1551168000,
+	"fen": "1r4k1/3R1bpp/n4p2/8/8/Pr2PB2/5PPP/3R2K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r4k1/3R1bpp/n4p2/8/8/Pr2PB2/5PPP/3R2K1 w - - 0 1\"]\r\n\r\n1. Rd8+ Be8 2. Rxe8+ Rxe8 3. Bd5+ Kf8 4. Bxb3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/3R1bpp/n4p2/8/8/Pr2PB2/5PPP/3R2K1%20w%20-%20-%200%201&size=2"
+}

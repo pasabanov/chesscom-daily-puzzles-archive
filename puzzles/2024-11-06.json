@@ -1,0 +1,8 @@
+{
+	"title": "Dream Blitz Opportunity",
+	"url": "https://www.chess.com/daily/2024-11-06",
+	"publish_time": 1730880000,
+	"fen": "3r1rk1/1bq1bp1p/p3pQp1/8/Pp1N1n2/1P1B3P/1BP2PP1/3RR1K1 w - - 0 22",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[White \"Missed Blitz Opportunity\"]\r\n[Black \"Forcing Moves\"]\r\n[Result \"1-0\"]\r\n[ECO \"C07\"]\r\n[FEN \"3r1rk1/1bq1bp1p/p3pQp1/8/Pp1N1n2/1P1B3P/1BP2PP1/3RR1K1 w - - 0 22\"]\r\n\r\n22. Qg7+ Kxg7 23. Nf5+ Kg8 24. Nh6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r1rk1/1bq1bp1p/p3pQp1/8/Pp1N1n2/1P1B3P/1BP2PP1/3RR1K1%20w%20-%20-%200%2022&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Promising Light Squared Alignment",
+	"url": "https://www.chess.com/daily/2025-04-09",
+	"publish_time": 1744182000,
+	"fen": "k2r4/1p3b2/1p1p2p1/1q1r4/5P1P/PP3K1P/1Q4B1/1R1R4 b - - 2 33",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"k2r4/1p3b2/1p1p2p1/1q1r4/5P1P/PP3K1P/1Q4B1/1R1R4 b - - 2 33\"]\r\n\r\n33... Rxd1 34. Rxd1 Qh5+ 35. Kf2 Qxd1 0-1",
+	"image": "https://www.chess.com/dynboard?fen=k2r4/1p3b2/1p1p2p1/1q1r4/5P1P/PP3K1P/1Q4B1/1R1R4%20b%20-%20-%202%2033&size=2"
+}

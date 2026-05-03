@@ -1,0 +1,8 @@
+{
+	"title": "Sliding into Checkmate",
+	"url": "https://www.chess.com/daily/2024-08-03",
+	"publish_time": 1722668400,
+	"fen": "3R4/2N2pk1/Q1b3p1/p2p2n1/P7/6qP/1P3bP1/3R3K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3R4/2N2pk1/Q1b3p1/p2p2n1/P7/6qP/1P3bP1/3R3K b - - 0 1\"]\r\n\r\n1... Nf3 2. Ne8+ Kh6 3. Qxc6 Qh2# *",
+	"image": "https://www.chess.com/dynboard?fen=3R4/2N2pk1/Q1b3p1/p2p2n1/P7/6qP/1P3bP1/3R3K%20b%20-%20-%200%201&size=2"
+}

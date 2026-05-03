@@ -1,0 +1,8 @@
+{
+	"title": "Side To Side",
+	"url": "https://www.chess.com/daily/2016-12-23",
+	"publish_time": 1482480000,
+	"fen": "1nQ5/3r4/1pnk4/3pqB1p/3pP3/3P2P1/3B1P2/2R3K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1nQ5/3r4/1pnk4/3pqB1p/3pP3/3P2P1/3B1P2/2R3K1 w - - 0 1\"]\r\n\r\n1. Bb4+ Nxb4 2. Qf8+ Re7 3. Qxb8+ Rc7 4. Qxc7# \r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1nQ5/3r4/1pnk4/3pqB1p/3pP3/3P2P1/3B1P2/2R3K1%20w%20-%20-%200%201&size=2"
+}

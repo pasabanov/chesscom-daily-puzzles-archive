@@ -1,0 +1,9 @@
+{
+	"title": "Pieces Working Together",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-07-20",
+	"publish_time": 1279609200,
+	"fen": "5k2/p3np2/1pp1n2q/7B/2P4Q/6P1/PP2R3/3rB2K b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5k2/p3np2/1pp1n2q/7B/2P4Q/6P1/PP2R3/3rB2K b - - 0 1\"]\r\n\r\n1...Nf5 2. Qg4 Qxh5+ 3. Qxh5 Nxg3+ 4. Kh2 Nxh5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5k2/p3np2/1pp1n2q/7B/2P4Q/6P1/PP2R3/3rB2K%20b%20-%20-%200%201&size=2"
+}

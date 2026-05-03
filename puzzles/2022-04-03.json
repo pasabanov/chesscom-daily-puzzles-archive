@@ -1,0 +1,8 @@
+{
+	"title": "Double Trouble",
+	"url": "https://www.chess.com/daily/2022-04-03",
+	"publish_time": 1648969200,
+	"fen": "6k1/5p1p/1pp1n1p1/2r5/2rp4/P2Q2P1/1PP5/1K2R3 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/5p1p/1pp1n1p1/2r5/2rp4/P2Q2P1/1PP5/1K2R3 w - - 0 1\"]\r\n\r\n1.b4 Rc3 2.bxc5 Rxd3 3.cxb6 Rxa3 4.b7 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5p1p/1pp1n1p1/2r5/2rp4/P2Q2P1/1PP5/1K2R3%20w%20-%20-%200%201&size=2"
+}

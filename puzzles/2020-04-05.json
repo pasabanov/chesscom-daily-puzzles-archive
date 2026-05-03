@@ -1,0 +1,8 @@
+{
+	"title": "Capitulation",
+	"url": "https://www.chess.com/daily/2020-04-05",
+	"publish_time": 1586070000,
+	"fen": "r2qkb2/ppp1pp1p/8/8/3n1N2/N3Qb1P/PPP2P1r/R1B1K1R1 b Qq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2qkb2/ppp1pp1p/8/8/3n1N2/N3Qb1P/PPP2P1r/R1B1K1R1 b Qq - 0 1\"]\r\n\r\n1...Nxc2+ 2.Kf1 Qd1+ 3.Qe1 Qxe1# *",
+	"image": "https://www.chess.com/dynboard?fen=r2qkb2/ppp1pp1p/8/8/3n1N2/N3Qb1P/PPP2P1r/R1B1K1R1%20b%20Qq%20-%200%201&size=2"
+}

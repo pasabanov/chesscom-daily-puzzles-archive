@@ -1,0 +1,8 @@
+{
+	"title": "Patient Timing",
+	"url": "https://www.chess.com/daily/2021-03-19",
+	"publish_time": 1616137200,
+	"fen": "4r2k/1p4p1/3q3p/p7/3P1pP1/P4Q1P/1P1RrP1K/3R4 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r2k/1p4p1/3q3p/p7/3P1pP1/P4Q1P/1P1RrP1K/3R4 b - - 0 1\"]\r\n\r\n1...R8e3 2.Qg2 Rxd2 3.Rxd2 Re2 4.Rd1 f3+ 5.Qg3 Rxf2+ *",
+	"image": "https://www.chess.com/dynboard?fen=4r2k/1p4p1/3q3p/p7/3P1pP1/P4Q1P/1P1RrP1K/3R4%20b%20-%20-%200%201&size=2"
+}

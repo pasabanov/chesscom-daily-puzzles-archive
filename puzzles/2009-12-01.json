@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 2",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-12-01",
+	"publish_time": 1259654400,
+	"fen": "r4rk1/1p1b2p1/2pp3p/p2Pppq1/1PPbn3/P1N5/2Q3PP/R1R1NB1K b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/1p1b2p1/2pp3p/p2Pppq1/1PPbn3/P1N5/2Q3PP/R1R1NB1K b - - 0 1\"]\r\n\r\n1...Ng3+ 2. hxg3 Qh5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1p1b2p1/2pp3p/p2Pppq1/1PPbn3/P1N5/2Q3PP/R1R1NB1K%20b%20-%20-%200%201&size=2"
+}

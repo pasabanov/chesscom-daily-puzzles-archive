@@ -1,0 +1,8 @@
+{
+	"title": "A Clean Sweep",
+	"url": "https://www.chess.com/daily/2019-09-07",
+	"publish_time": 1567839600,
+	"fen": "2k2r2/2q5/p3R3/2Pb4/P2p2Q1/5NpP/2P2rP1/3R2K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k2r2/2q5/p3R3/2Pb4/P2p2Q1/5NpP/2P2rP1/3R2K1 b - - 0 1\"]\r\n\r\n1...Rxg2+ 2. Kxg2 Bxf3+ 3. Qxf3 Rxf3 4. Kxf3 Qf7+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2k2r2/2q5/p3R3/2Pb4/P2p2Q1/5NpP/2P2rP1/3R2K1%20b%20-%20-%200%201&size=2"
+}

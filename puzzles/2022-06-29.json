@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Alireza's Forced Mate",
+	"url": "https://www.chess.com/daily/2022-06-29",
+	"publish_time": 1656486000,
+	"fen": "r3k1n1/1p4QR/p3q1p1/4pb2/4N3/2P2P2/PP3P2/2K5 w - - 0 28",
+	"pgn": "[Event \"Olympiad-43\"]\r\n[Site \"Batumi\"]\r\n[Date \"2018.10.05\"]\r\n[Round \"11.4\"]\r\n[White \"Firouzja, Alireza\"]\r\n[Black \"Quparadze, Giga\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"r3k1n1/1p4QR/p3q1p1/4pb2/4N3/2P2P2/PP3P2/2K5 w - - 0 28\"]\r\n[ECO \"B42\"]\r\n[WhiteElo \"2582\"]\r\n[BlackElo \"2495\"]\r\n\r\n28. Nd6+ Qxd6 29. Qf7+ Kd8 30. Qxg8+ Qf8 31. Qxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3k1n1/1p4QR/p3q1p1/4pb2/4N3/2P2P2/PP3P2/2K5%20w%20-%20-%200%2028&size=2"
+}

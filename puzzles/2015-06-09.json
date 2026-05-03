@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-06-09",
+	"publish_time": 1433833200,
+	"fen": "1r3q1r/1bpn2bk/2np1p1p/1p2pPpB/pP1PP1N1/P1PRB1NP/5QP1/3R2K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r3q1r/1bpn2bk/2np1p1p/1p2pPpB/pP1PP1N1/P1PRB1NP/5QP1/3R2K1 w - - 0 1\"]\r\n\r\n1. Bg6+ Kg8 2. Qa2+ d5 3. Qxd5+ Qf7 4. Qxf7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1r3q1r/1bpn2bk/2np1p1p/1p2pPpB/pP1PP1N1/P1PRB1NP/5QP1/3R2K1%20w%20-%20-%200%201&size=2"
+}

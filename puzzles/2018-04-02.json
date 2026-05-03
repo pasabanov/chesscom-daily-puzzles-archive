@@ -1,0 +1,8 @@
+{
+	"title": "Pawn Play",
+	"url": "https://www.chess.com/daily/2018-04-02",
+	"publish_time": 1522652400,
+	"fen": "8/6p1/2pK2p1/1kP4p/7P/6P1/6P1/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6p1/2pK2p1/1kP4p/7P/6P1/6P1/8 w - - 0 1\"]\r\n\r\n1. g4 hxg4 2. g3 g5 3. h5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/6p1/2pK2p1/1kP4p/7P/6P1/6P1/8%20w%20-%20-%200%201&size=2"
+}

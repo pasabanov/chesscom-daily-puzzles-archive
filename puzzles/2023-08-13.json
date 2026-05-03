@@ -1,0 +1,8 @@
+{
+	"title": "Knightmare Shadows",
+	"url": "https://www.chess.com/daily/2023-08-13",
+	"publish_time": 1691910000,
+	"fen": "5N2/N7/2P2p1p/2qp1kpP/8/3PP2P/8/3K4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5N2/N7/2P2p1p/2qp1kpP/8/3PP2P/8/3K4 w - - 0 1\"]\r\n\r\n1. c7 Qxc7 2. Nb5 Qg7 3. Nd4+ Ke5 4. Ng6+ Kd6 5. Nf5+ Kc7 6. Nxg7 *",
+	"image": "https://www.chess.com/dynboard?fen=5N2/N7/2P2p1p/2qp1kpP/8/3PP2P/8/3K4%20w%20-%20-%200%201&size=2"
+}

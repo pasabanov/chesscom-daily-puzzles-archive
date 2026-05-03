@@ -1,0 +1,8 @@
+{
+	"title": "A Golden Opportunity",
+	"url": "https://www.chess.com/daily/2021-12-29",
+	"publish_time": 1640764800,
+	"fen": "2K5/1P6/k6p/3n4/6p1/8/8/8 b - - 1 56",
+	"pgn": "[Event \"Simul, 37b\"]\r\n[Site \"Glasgow SCO\"]\r\n[Date \"1919.09.24\"]\r\n[White \"Jose Raul Capablanca\"]\r\n[Black \"James Birch\"]\r\n[Result \"1/2-1/2\"]\r\n[ECO \"C79\"]\r\n[PlyCount \"117\"]\r\n[FEN \"2K5/1P6/k6p/3n4/6p1/8/8/8 b - - 1 56\"]\r\n\r\n56...Nb6+ 57.Kc7 Nd7 58.Kxd7 Kxb7 *",
+	"image": "https://www.chess.com/dynboard?fen=2K5/1P6/k6p/3n4/6p1/8/8/8%20b%20-%20-%201%2056&size=2"
+}

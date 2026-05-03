@@ -1,0 +1,8 @@
+{
+	"title": "Super Grandmaster Trap! 😱",
+	"url": "https://www.chess.com/daily/2024-09-14",
+	"publish_time": 1726297200,
+	"fen": "rn2kbnr/pp2ppp1/2P5/4N2p/8/1P4PP/1P1PPP2/RNB1KB1b w Qkq - 0 1",
+	"pgn": "[Event \"Division I\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.07.19\"]\r\n[Round \"1\"]\r\n[White \"Caruana (h3+h5 moves added), Fabiano\"]\r\n[Black \"Firouzja, Alireza\"]\r\n[Result \"1-0\"]\r\n[ECO \"A11\"]\r\n[WhiteElo \"2763\"]\r\n[BlackElo \"2873\"]\r\n[FEN \"rn2kbnr/pp2ppp1/2P5/4N2p/8/1P4PP/1P1PPP2/RNB1KB1b w Qkq - 0 1\"]\r\n\r\n1. Rxa7 Rxa7 2. c7 Nc6 3. c8=Q+ Nd8 4. Qd7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rn2kbnr/pp2ppp1/2P5/4N2p/8/1P4PP/1P1PPP2/RNB1KB1b%20w%20Qkq%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Spielmann Turns Out the Lights",
+	"url": "https://www.chess.com/daily/2022-05-05",
+	"publish_time": 1651734000,
+	"fen": "r3nrkq/pp3p1p/2p3nQ/5NN1/8/3BP3/PPP3PP/2KR4 w - - 3 22",
+	"pgn": "[Event \"It\"]\r\n[Site \"Munich (Germany)\"]\r\n[Date \"1909.??.??\"]\r\n[Round \"?\"]\r\n[White \"Rudolf Spielmann\"]\r\n[Black \"Savielly Tartakower\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3nrkq/pp3p1p/2p3nQ/5NN1/8/3BP3/PPP3PP/2KR4 w - - 3 22\"]\r\n\r\n22.Ne7+ Nxe7 23.Bxh7+ Qxh7 24.Qxh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3nrkq/pp3p1p/2p3nQ/5NN1/8/3BP3/PPP3PP/2KR4%20w%20-%20-%203%2022&size=2"
+}

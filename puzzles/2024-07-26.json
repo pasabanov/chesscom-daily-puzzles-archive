@@ -1,0 +1,8 @@
+{
+	"title": "Disentangling the Web of Captures",
+	"url": "https://www.chess.com/daily/2024-07-26",
+	"publish_time": 1721977200,
+	"fen": "3Rrk2/1p2qppp/2p3b1/p3n3/P1PQP1PN/1PNn1P2/7P/1B4K1 w - - 0 31",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3Rrk2/1p2qppp/2p3b1/p3n3/P1PQP1PN/1PNn1P2/7P/1B4K1 w - - 0 31\"]\r\n\r\n31. Rxe8+ Kxe8 32. Bxd3 Nxd3 33. Nxg6 hxg6 34. Qxd3 *",
+	"image": "https://www.chess.com/dynboard?fen=3Rrk2/1p2qppp/2p3b1/p3n3/P1PQP1PN/1PNn1P2/7P/1B4K1%20w%20-%20-%200%2031&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "A Reluctant March",
+	"url": "https://www.chess.com/daily/2021-03-09",
+	"publish_time": 1615276800,
+	"fen": "4r1k1/3Q1p1p/5p2/2B5/p1n5/Pq1b1BP1/5P1P/3R2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/3Q1p1p/5p2/2B5/p1n5/Pq1b1BP1/5P1P/3R2K1 b - - 0 1\"]\r\n\r\n1...Qxd1+ 2.Bxd1 Re1+ 3.Kg2 Bf1+ 4.Kf3 Ne5+ 5.Kf4 Nxd7 *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/3Q1p1p/5p2/2B5/p1n5/Pq1b1BP1/5P1P/3R2K1%20b%20-%20-%200%201&size=2"
+}

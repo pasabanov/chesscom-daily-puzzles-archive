@@ -1,0 +1,8 @@
+{
+	"title": "Alignment Signals",
+	"url": "https://www.chess.com/daily/2022-04-27",
+	"publish_time": 1651042800,
+	"fen": "1nb1kb1r/r5p1/p3p3/1p2qpNp/7Q/2N5/PPP1B1PP/3RKR2 w k - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1nb1kb1r/r5p1/p3p3/1p2qpNp/7Q/2N5/PPP1B1PP/3RKR2 w k - 0 1\"]\r\n\r\n1.Rd8+ Kxd8 2.Nf7+ Ke8 3.Nxe5 *",
+	"image": "https://www.chess.com/dynboard?fen=1nb1kb1r/r5p1/p3p3/1p2qpNp/7Q/2N5/PPP1B1PP/3RKR2%20w%20k%20-%200%201&size=2"
+}

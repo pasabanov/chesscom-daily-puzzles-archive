@@ -1,0 +1,8 @@
+{
+	"title": "A World Open to Remember",
+	"url": "https://www.chess.com/daily/2021-09-12",
+	"publish_time": 1631430000,
+	"fen": "r1b2kr1/p3bp2/6R1/3QN2n/3P4/3BP2p/P3NqP1/1R5K b - - 1 27",
+	"pgn": "[Event \"39th World Open\"]\r\n[Site \"Philadelphia USA\"]\r\n[Date \"2011.07.04\"]\r\n[Round \"8\"]\r\n[White \"Sarkar, Justin\"]\r\n[Black \"Plotkin, Victor\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2376\"]\r\n[BlackElo \"2243\"]\r\n[FEN \"r1b2kr1/p3bp2/6R1/3QN2n/3P4/3BP2p/P3NqP1/1R5K b - - 1 27\"]\r\n\r\n27...hxg2+ 28.Qxg2 Ng3+ 29.Rxg3 Rh8+ 30.Rh3 Rxh3+ 31.Qxh3 Bxh3 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1b2kr1/p3bp2/6R1/3QN2n/3P4/3BP2p/P3NqP1/1R5K%20b%20-%20-%201%2027&size=2"
+}

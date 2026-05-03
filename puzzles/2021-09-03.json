@@ -1,0 +1,8 @@
+{
+	"title": "Loose Piece Buffet",
+	"url": "https://www.chess.com/daily/2021-09-03",
+	"publish_time": 1630652400,
+	"fen": "r1b2k1r/ppn2p2/2p2Np1/2n1P2p/7q/2P3pP/P1PQ2B1/3RR1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b2k1r/ppn2p2/2p2Np1/2n1P2p/7q/2P3pP/P1PQ2B1/3RR1K1 w - - 0 1\"]\r\n\r\n1.Qd8+ Kg7 2.Ne8+ Rxe8 3.Qxh4 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2k1r/ppn2p2/2p2Np1/2n1P2p/7q/2P3pP/P1PQ2B1/3RR1K1%20w%20-%20-%200%201&size=2"
+}

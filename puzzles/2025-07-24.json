@@ -1,0 +1,8 @@
+{
+	"title": "Hanging on by a Light Square",
+	"url": "https://www.chess.com/daily/2025-07-24",
+	"publish_time": 1753340400,
+	"fen": "3r2k1/q5p1/p7/Npb3Qp/1P3Pn1/P2r3P/1B4P1/1R1N1R1K b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"geelse_zot\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r2k1/q5p1/p7/Npb3Qp/1P3Pn1/P2r3P/1B4P1/1R1N1R1K b - - 0 1\"]\r\n\r\n1... Rxh3+ 2. gxh3 Qa8+ 3. Rf3 Qxf3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/q5p1/p7/Npb3Qp/1P3Pn1/P2r3P/1B4P1/1R1N1R1K%20b%20-%20-%200%201&size=2"
+}

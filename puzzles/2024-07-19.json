@@ -1,0 +1,8 @@
+{
+	"title": "Tight Calculation, Loose Piece",
+	"url": "https://www.chess.com/daily/2024-07-19",
+	"publish_time": 1721372400,
+	"fen": "5rk1/3bn3/1q1p2pb/3Pp2p/2p1P2P/3P1BP1/4Q1K1/R1B2N2 b - - 0 27",
+	"pgn": "[Event \"Titled Tue 5th Dec Early\"]\r\n[Site \"chess.com INT\"]\r\n[Date \"2023.12.05\"]\r\n[Round \"6\"]\r\n[White \"Maksimovic, Bojan (Missed Opportunity)\"]\r\n[Black \"Albornoz Cabrera, Carlos Daniel\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/3bn3/1q1p2pb/3Pp2p/2p1P2P/3P1BP1/4Q1K1/R1B2N2 b - - 0 27\"]\r\n[ECO \"A05\"]\r\n[WhiteElo \"2455\"]\r\n[BlackElo \"2563\"]\r\n\r\n27... Bxc1 28. Rxc1 Rxf3 29. Qxf3 Qb2+ 30. Kg1 Qxc1 *",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/3bn3/1q1p2pb/3Pp2p/2p1P2P/3P1BP1/4Q1K1/R1B2N2%20b%20-%20-%200%2027&size=2"
+}

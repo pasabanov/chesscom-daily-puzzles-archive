@@ -1,0 +1,8 @@
+{
+	"title": "Overreach",
+	"url": "https://www.chess.com/daily/2020-08-09",
+	"publish_time": 1596956400,
+	"fen": "2r5/1r1nk1pp/3p1pn1/1pPPpK2/PP4P1/2RNB3/7P/2R5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r5/1r1nk1pp/3p1pn1/1pPPpK2/PP4P1/2RNB3/7P/2R5 b - - 0 1\"]\r\n\r\n1...Nh4+ 2.Ke4 f5+ 3.gxf5 Nf6# *",
+	"image": "https://www.chess.com/dynboard?fen=2r5/1r1nk1pp/3p1pn1/1pPPpK2/PP4P1/2RNB3/7P/2R5%20b%20-%20-%200%201&size=2"
+}

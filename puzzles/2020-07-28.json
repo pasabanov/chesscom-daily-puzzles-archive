@@ -1,0 +1,8 @@
+{
+	"title": "Under Siege",
+	"url": "https://www.chess.com/daily/2020-07-28",
+	"publish_time": 1595919600,
+	"fen": "1r4k1/2Rq2b1/B2pb2p/3Np1r1/3n1p1Q/NP6/P4PPP/3R3K b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r4k1/2Rq2b1/B2pb2p/3Np1r1/3n1p1Q/NP6/P4PPP/3R3K b - - 1 1\"]\r\n\r\n1...Bxd5 2.Rxd7 Bxg2+ 3.Kg1 Nf3# *",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/2Rq2b1/B2pb2p/3Np1r1/3n1p1Q/NP6/P4PPP/3R3K%20b%20-%20-%201%201&size=2"
+}

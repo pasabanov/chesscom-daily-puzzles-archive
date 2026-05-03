@@ -1,0 +1,8 @@
+{
+	"title": "Good Knight",
+	"url": "https://www.chess.com/daily/2021-07-18",
+	"publish_time": 1626591600,
+	"fen": "5r1k/7p/3p2p1/R1pNb3/2P3P1/7n/P5K1/4R3 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r1k/7p/3p2p1/R1pNb3/2P3P1/7n/P5K1/4R3 b - - 0 1\"]\r\n\r\n1...Rf2+ 2.Kxh3 Rh2# *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/7p/3p2p1/R1pNb3/2P3P1/7n/P5K1/4R3%20b%20-%20-%200%201&size=2"
+}

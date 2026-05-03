@@ -1,0 +1,8 @@
+{
+	"title": "Svidler Blows Out the Candles",
+	"url": "https://www.chess.com/daily/2022-06-17",
+	"publish_time": 1655449200,
+	"fen": "6rk/1bq1b2p/3pp1pQ/r3n3/4PN2/2B5/PP2B2P/1K1R2R1 w - - 0 32",
+	"pgn": "[Event \"Olympiad\"]\r\n[Site \"Bled (Slovenia)\"]\r\n[Date \"2002.??.??\"]\r\n[Round \"11\"]\r\n[White \"Svidler Peter (RUS)\"]\r\n[Black \"Bischoff Klaus (GER)\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2693\"]\r\n[BlackElo \"2564\"]\r\n[FEN \"6rk/1bq1b2p/3pp1pQ/r3n3/4PN2/2B5/PP2B2P/1K1R2R1 w - - 0 32\"]\r\n\r\n32.Nxg6+ Rxg6 33.Rxg6 Bxe4+ 34.Bd3 Bxg6 35.Bxg6 Bf6 36.Qf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6rk/1bq1b2p/3pp1pQ/r3n3/4PN2/2B5/PP2B2P/1K1R2R1%20w%20-%20-%200%2032&size=2"
+}

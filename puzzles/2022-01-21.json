@@ -1,0 +1,8 @@
+{
+	"title": "Breaking Point",
+	"url": "https://www.chess.com/daily/2022-01-21",
+	"publish_time": 1642752000,
+	"fen": "1nr2rk1/1p3pp1/pq2p1p1/3pP3/Pb1P2P1/5N1P/1P1BQP2/R1R3K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1nr2rk1/1p3pp1/pq2p1p1/3pP3/Pb1P2P1/5N1P/1P1BQP2/R1R3K1 w - - 0 1\"]\r\n\r\n1.Rxc8 Rxc8 2.a5 Qb5 3.Qxb5 axb5 4.Bxb4 *",
+	"image": "https://www.chess.com/dynboard?fen=1nr2rk1/1p3pp1/pq2p1p1/3pP3/Pb1P2P1/5N1P/1P1BQP2/R1R3K1%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Two Double-checks!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-05-29",
+	"publish_time": 1180422000,
+	"fen": "r4k1r/ppp1Rppp/1b6/n2Q4/2q5/B4N2/P4PPP/1R4K1 w - - 0 1",
+	"pgn": "[FEN \"r4k1r/ppp1Rppp/1b6/n2Q4/2q5/B4N2/P4PPP/1R4K1 w - - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1. Rxf7+ Kg8 2. Rf8# *",
+	"image": "https://www.chess.com/dynboard?fen=r4k1r/ppp1Rppp/1b6/n2Q4/2q5/B4N2/P4PPP/1R4K1%20w%20-%20-%200%201&size=2"
+}

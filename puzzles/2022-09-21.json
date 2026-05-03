@@ -1,0 +1,8 @@
+{
+	"title": "A Multipurpose Move",
+	"url": "https://www.chess.com/daily/2022-09-21",
+	"publish_time": 1663743600,
+	"fen": "r5k1/1pp2ppp/p1pb1n2/P3r3/R7/2NP3q/1PP2PB1/2BQ1RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r5k1/1pp2ppp/p1pb1n2/P3r3/R7/2NP3q/1PP2PB1/2BQ1RK1 b - - 0 1\"]\r\n\r\n1... Rg5 2. Bxg5 Qh2# *",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/1pp2ppp/p1pb1n2/P3r3/R7/2NP3q/1PP2PB1/2BQ1RK1%20b%20-%20-%200%201&size=2"
+}

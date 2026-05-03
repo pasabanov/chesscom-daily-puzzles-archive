@@ -1,0 +1,8 @@
+{
+	"title": "Westerinen Story",
+	"url": "https://www.chess.com/daily/2020-05-08",
+	"publish_time": 1588921200,
+	"fen": "1r3rk1/3Q2pp/p3p3/6B1/3np3/6R1/PqP1B2P/3K2R1 w - - 2 25",
+	"pgn": "[Site \"New York, USA\"]\r\n[Date \"1977\"]\r\n[White \"Heikki Westerinen\"]\r\n[Black \"Gudmundur Sigurjonsson\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r3rk1/3Q2pp/p3p3/6B1/3np3/6R1/PqP1B2P/3K2R1 w - - 2 25\"]\r\n25.Qxg7+ Kxg7 26.Bd8+ Kh8 27.Rg8+ Rxg8 28.Bf6+ Rg7 29.Bxg7+ Kg8 30.Bxd4+ \r\n1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/3Q2pp/p3p3/6B1/3np3/6R1/PqP1B2P/3K2R1%20w%20-%20-%202%2025&size=2"
+}

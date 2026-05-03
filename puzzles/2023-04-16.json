@@ -1,0 +1,8 @@
+{
+	"title": "Magnus in the Middle",
+	"url": "https://www.chess.com/daily/2023-04-16",
+	"publish_time": 1681628400,
+	"fen": "r3r2k/2p3bB/1pPp1q1B/8/1P5N/2n3P1/2Q4P/1R4K1 w - - 0 27",
+	"pgn": "[Event \"Carlsen Tour Final 2020\"]\r\n[Site \"chess24.com INT\"]\r\n[Round \"1.42\"]\r\n[White \"Ding, Liren\"]\r\n[Black \"Carlsen, Magnus\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2791\"]\r\n[BlackElo \"2863\"]\r\n[FEN \"r3r2k/2p3bB/1pPp1q1B/8/1P5N/2n3P1/2Q4P/1R4K1 w - - 0 27\"]\r\n\r\n27. Ng6+ Kxh7 28. Nf8+ Kxh6 29. Qh7+ Kg5 30. Qh4+ Kf5 31. Qf4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3r2k/2p3bB/1pPp1q1B/8/1P5N/2n3P1/2Q4P/1R4K1%20w%20-%20-%200%2027&size=2"
+}

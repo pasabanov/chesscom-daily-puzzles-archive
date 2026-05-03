@@ -1,0 +1,8 @@
+{
+	"title": "Cleared for Checkmate",
+	"url": "https://www.chess.com/daily/2025-03-12",
+	"publish_time": 1741762800,
+	"fen": "4k2r/5p2/1q2b1p1/1r6/3B1P2/P1p2Q2/2P3P1/KR1R4 b k - 0 1",
+	"pgn": "[Date \"2025.??.??\"]\r\n[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"4k2r/5p2/1q2b1p1/1r6/3B1P2/P1p2Q2/2P3P1/KR1R4 b k - 0 1\"]\r\n\r\n1... Rxb1+ 2. Rxb1 Qxb1+ 3. Kxb1 Rh1+ 4. Qd1 Rxd1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4k2r/5p2/1q2b1p1/1r6/3B1P2/P1p2Q2/2P3P1/KR1R4%20b%20k%20-%200%201&size=2"
+}

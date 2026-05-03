@@ -1,0 +1,8 @@
+{
+	"title": "Ding's Showstopper",
+	"url": "https://www.chess.com/daily/2023-04-27",
+	"publish_time": 1682578800,
+	"fen": "6k1/5p1p/2bQ2p1/2Bnp3/5b2/1P4NP/5P1K/2r5 b - - 0 40",
+	"pgn": "[Event \"7th Sinquefield Cup TB\"]\r\n[Site \"Saint Louis USA\"]\r\n[Date \"2019.08.29\"]\r\n[Round \"4\"]\r\n[White \"Carlsen, M.\"]\r\n[Black \"Ding Liren\"]\r\n[Result \"0-1\"]\r\n[ECO \"C84\"]\r\n[WhiteElo \"2882\"]\r\n[BlackElo \"2805\"]\r\n[FEN \"6k1/5p1p/2bQ2p1/2Bnp3/5b2/1P4NP/5P1K/2r5 b - - 0 40\"]\r\n\r\n40... Ne7 41. Qd8+ Kg7 42. Qxe7 Rh1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5p1p/2bQ2p1/2Bnp3/5b2/1P4NP/5P1K/2r5%20b%20-%20-%200%2040&size=2"
+}

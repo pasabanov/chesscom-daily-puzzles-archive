@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 8",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-02-27",
+	"publish_time": 1267257600,
+	"fen": "6kn/5pN1/5PpK/8/8/B7/8/8 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6kn/5pN1/5PpK/8/8/B7/8/8 w KQkq - 0 1\"]\r\n\r\n1. Kg5 Kh7 2. Ne8 Kg8 3. Nc7 Kh7 4. Bf8 Kg8 5. Bg7 Kh7 6. Nd5 Kg8 7. Kh6 g5 8. Ne7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=6kn/5pN1/5PpK/8/8/B7/8/8%20w%20KQkq%20-%200%201&size=2"
+}

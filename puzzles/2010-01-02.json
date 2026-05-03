@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-01-02",
+	"publish_time": 1262419200,
+	"fen": "8/8/1K1N4/8/3k4/1R1N4/8/8 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/1K1N4/8/3k4/1R1N4/8/8 w KQkq - 0 1\"]\r\n\r\n1. Nc5 Ke5 2. Rf3 Kd5 3. Nf7 Kc4 4. Rb3 Kd5 5. Kb5 Kd4 6. Rd3#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/8/1K1N4/8/3k4/1R1N4/8/8%20w%20KQkq%20-%200%201&size=2"
+}

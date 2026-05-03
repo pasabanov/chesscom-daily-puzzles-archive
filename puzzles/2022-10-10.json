@@ -1,0 +1,8 @@
+{
+	"title": "The Birthday Boy's Winning Capture",
+	"url": "https://www.chess.com/daily/2022-10-10",
+	"publish_time": 1665385200,
+	"fen": "1k5r/1pR2p2/pP2Nn2/P3p3/3pP1p1/3P2P1/7r/2R3KB b - - 0 31",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2021.06.02\"]\r\n[Round \"?\"]\r\n[White \"JimmyMow\"]\r\n[Black \"DanielRensch\"]\r\n[Result \"0-1\"]\r\n[ECO \"A07\"]\r\n[WhiteElo \"2215\"]\r\n[BlackElo \"2410\"]\r\n[FEN \"1k5r/1pR2p2/pP2Nn2/P3p3/3pP1p1/3P2P1/7r/2R3KB b - - 0 31\"]\r\n\r\n31... Rxh1+ 32. Kf2 R8h2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1k5r/1pR2p2/pP2Nn2/P3p3/3pP1p1/3P2P1/7r/2R3KB%20b%20-%20-%200%2031&size=2"
+}

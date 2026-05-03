@@ -1,0 +1,8 @@
+{
+	"title": "Your Dark Squares Are Showing",
+	"url": "https://www.chess.com/daily/2024-05-20",
+	"publish_time": 1716188400,
+	"fen": "3r1rk1/p4ppp/2p1bn2/1pP5/1P5q/P4P2/2QBB1PP/2R1R1K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r1rk1/p4ppp/2p1bn2/1pP5/1P5q/P4P2/2QBB1PP/2R1R1K1 b - - 0 1\"]\r\n\r\n1... Qd4+ 2. Kh1 Qxd2 3. Qxd2 Rxd2 *",
+	"image": "https://www.chess.com/dynboard?fen=3r1rk1/p4ppp/2p1bn2/1pP5/1P5q/P4P2/2QBB1PP/2R1R1K1%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Sacrificial Fun",
+	"comments": "If white plays the in-between check move the rook will still be lost once white captures the black rook",
+	"url": "https://www.chess.com/daily/2007-09-24",
+	"publish_time": 1190617200,
+	"fen": "6k1/1p2qpb1/p2R2p1/4P3/1P3P1p/2B4P/3Q2PK/2r5 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/1p2qpb1/p2R2p1/4P3/1P3P1p/2B4P/3Q2PK/2r5 b - - 0 1\"]\r\n\r\n1... Rxc3 2. Qxc3 (2. Rd8+ Kh7 3. Qxc3 Qxd8) Qxd6 3. exd6 Bxc3 4. d7 Bf6",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1p2qpb1/p2R2p1/4P3/1P3P1p/2B4P/3Q2PK/2r5%20b%20-%20-%200%201&size=2"
+}

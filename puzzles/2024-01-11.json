@@ -1,0 +1,8 @@
+{
+	"title": "Ungluing the Defense",
+	"url": "https://www.chess.com/daily/2024-01-11",
+	"publish_time": 1704960000,
+	"fen": "k3r2r/p2q2b1/2p5/4N2p/4Q1p1/1R4B1/PP3PPP/6K1 w - - 0 26",
+	"pgn": "[Event \"It\"]\r\n[Site \"Budapest (Hungary)\"]\r\n[Date \"1921.??.??\"]\r\n[White \"Tartakower Savielly (FRA)\"]\r\n[Black \"Steiner Endre (HUN)\"]\r\n[Result \"1-0\"]\r\n[ECO \"C56\"]\r\n[FEN \"k3r2r/p2q2b1/2p5/4N2p/4Q1p1/1R4B1/PP3PPP/6K1 w - - 0 26\"]\r\n\r\n26. Rb8+ Kxb8 27. Nxd7+ *",
+	"image": "https://www.chess.com/dynboard?fen=k3r2r/p2q2b1/2p5/4N2p/4Q1p1/1R4B1/PP3PPP/6K1%20w%20-%20-%200%2026&size=2"
+}

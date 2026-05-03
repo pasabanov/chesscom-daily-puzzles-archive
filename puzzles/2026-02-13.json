@@ -1,0 +1,8 @@
+{
+	"title": "Tactical Vacuum",
+	"url": "https://www.chess.com/daily/2026-02-13",
+	"publish_time": 1770969600,
+	"fen": "r3k3/1p4p1/p1q1b2p/P1pn4/5PP1/2N5/1P2Q2K/4R3 w - - 3 29",
+	"pgn": "[White \"chesstiger787\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3k3/1p4p1/p1q1b2p/P1pn4/5PP1/2N5/1P2Q2K/4R3 w - - 3 29\"]\r\n\r\n29. Qxe6+ Qxe6 30. Rxe6+ Kf7 31. Nxd5 Kxe6 32. Nc7+ Kd7 33. Nxa8 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3k3/1p4p1/p1q1b2p/P1pn4/5PP1/2N5/1P2Q2K/4R3%20w%20-%20-%203%2029&size=2"
+}

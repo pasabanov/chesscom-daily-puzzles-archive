@@ -1,0 +1,8 @@
+{
+	"title": "Keres Attacked",
+	"url": "https://www.chess.com/daily/2021-09-26",
+	"publish_time": 1632639600,
+	"fen": "r4rk1/1b2qNpp/p7/1p3Q2/3P4/1B6/P5PP/3n1RK1 b - - 0 21",
+	"pgn": "[Event \"2nd SELL Baltic Student Olympiad (Variation)\"]\r\n[Site \"Tartu EST\"]\r\n[Date \"1938.03.27\"]\r\n[Round \"3\"]\r\n[White \"Paul Keres\"]\r\n[Black \"Osmo Ilmari Kaila\"]\r\n[Result \"0-1\"]\r\n[ECO \"B14\"]\r\n[PlyCount \"66\"]\r\n[FEN \"r4rk1/1b2qNpp/p7/1p3Q2/3P4/1B6/P5PP/3n1RK1 b - - 0 21\"]\r\n\r\n21...Qe3+ 22.Kh1 Bxg2+ 23.Kxg2 Qxb3 24.axb3 Ne3+ 25.Kg1 Nxf5 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1b2qNpp/p7/1p3Q2/3P4/1B6/P5PP/3n1RK1%20b%20-%20-%200%2021&size=2"
+}

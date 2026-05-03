@@ -1,0 +1,8 @@
+{
+	"title": "Counteroffer",
+	"url": "https://www.chess.com/daily/2020-06-22",
+	"publish_time": 1592809200,
+	"fen": "3r2k1/1b3ppp/pp2p3/7n/4P3/P1N1bP2/1P1NBqPP/R1B2Q1K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/1b3ppp/pp2p3/7n/4P3/P1N1bP2/1P1NBqPP/R1B2Q1K b - - 0 1\"]\r\n\r\n1...Qh4 2.g4 Ng3+ 3.Kg2 Nxf1 *",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/1b3ppp/pp2p3/7n/4P3/P1N1bP2/1P1NBqPP/R1B2Q1K%20b%20-%20-%200%201&size=2"
+}

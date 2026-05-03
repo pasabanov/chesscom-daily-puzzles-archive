@@ -1,0 +1,8 @@
+{
+	"title": "Chuk, Chuk, Mate!",
+	"url": "https://www.chess.com/daily/2024-03-18",
+	"publish_time": 1710745200,
+	"fen": "3R4/1r3pkp/3Np1bp/n3P3/2B5/7P/6P1/6K1 w - - 0 40",
+	"pgn": "[Event \"Moscow Tal Memorial Blitz\"]\r\n[Site \"Moscow\"]\r\n[Date \"2008.08.29\"]\r\n[Round \"4\"]\r\n[White \"Ivanchuk, Vassily\"]\r\n[Black \"Gelfand, Boris\"]\r\n[Result \"1-0\"]\r\n[ECO \"B87\"]\r\n[WhiteElo \"2781\"]\r\n[BlackElo \"2720\"]\r\n[FEN \"3R4/1r3pkp/3Np1bp/n3P3/2B5/7P/6P1/6K1 w - - 0 40\"]\r\n\r\n40. Ne8+ Kf8 41. Nf6+ Ke7 42. Re8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3R4/1r3pkp/3Np1bp/n3P3/2B5/7P/6P1/6K1%20w%20-%20-%200%2040&size=2"
+}

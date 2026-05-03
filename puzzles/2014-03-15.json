@@ -1,0 +1,9 @@
+{
+	"title": "Speed Chess Tactics",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2014-03-15",
+	"publish_time": 1394866800,
+	"fen": "5r1k/1Qp1n2p/3b4/6pb/2P1Pp1q/P4R1B/6PP/R6K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5r1k/1Qp1n2p/3b4/6pb/2P1Pp1q/P4R1B/6PP/R6K w - - 0 1\"]\r\n\r\n1. Qb2+ Kg8 2. Be6+ Bf7 3. Rh3 Bxe6 4. Rxh4 gxh4 5. c5 Bxc5 6. Qe5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/1Qp1n2p/3b4/6pb/2P1Pp1q/P4R1B/6PP/R6K%20w%20-%20-%200%201&size=2"
+}

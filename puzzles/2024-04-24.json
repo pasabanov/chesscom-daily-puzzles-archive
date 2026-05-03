@@ -1,0 +1,8 @@
+{
+	"title": "Hello, Goodbye",
+	"url": "https://www.chess.com/daily/2024-04-24",
+	"publish_time": 1713942000,
+	"fen": "2rr1q2/2p3k1/ppQ2bp1/7p/P1Bp4/3P1R1P/3B2P1/7K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2rr1q2/2p3k1/ppQ2bp1/7p/P1Bp4/3P1R1P/3B2P1/7K w - - 0 1\"]\r\n\r\n1. Rxf6 Qxf6 2. Bh6+ Kxh6 3. Qxf6 *",
+	"image": "https://www.chess.com/dynboard?fen=2rr1q2/2p3k1/ppQ2bp1/7p/P1Bp4/3P1R1P/3B2P1/7K%20w%20-%20-%200%201&size=2"
+}

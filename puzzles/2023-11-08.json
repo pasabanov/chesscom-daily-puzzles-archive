@@ -1,0 +1,8 @@
+{
+	"title": "Illusory Outpost",
+	"url": "https://www.chess.com/daily/2023-11-08",
+	"publish_time": 1699430400,
+	"fen": "r2r3k/2pqb1pp/5p1n/pN6/Pp1nPP2/1B1PQ2P/2PB2RK/2R5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2r3k/2pqb1pp/5p1n/pN6/Pp1nPP2/1B1PQ2P/2PB2RK/2R5 b - - 0 1\"]\r\n\r\n1... Nxb3 2. cxb3 c6 3. Nc3 bxc3 *",
+	"image": "https://www.chess.com/dynboard?fen=r2r3k/2pqb1pp/5p1n/pN6/Pp1nPP2/1B1PQ2P/2PB2RK/2R5%20b%20-%20-%200%201&size=2"
+}

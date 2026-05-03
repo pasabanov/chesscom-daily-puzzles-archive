@@ -1,0 +1,8 @@
+{
+	"title": "A Fork Within a Fork",
+	"url": "https://www.chess.com/daily/2023-11-28",
+	"publish_time": 1701158400,
+	"fen": "3r4/1b5p/7N/2p1p1Nk/Pp6/1P2P1PK/2B5/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r4/1b5p/7N/2p1p1Nk/Pp6/1P2P1PK/2B5/8 w - - 0 1\"]\r\n\r\n1. g4+ Kxg5 2. Nf7+ Kf6 3. Nxd8 *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/1b5p/7N/2p1p1Nk/Pp6/1P2P1PK/2B5/8%20w%20-%20-%200%201&size=2"
+}

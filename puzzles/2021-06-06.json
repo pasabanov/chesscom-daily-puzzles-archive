@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Captures",
+	"url": "https://www.chess.com/daily/2021-06-06",
+	"publish_time": 1622962800,
+	"fen": "r7/p1Q4p/1N4P1/k3p3/3qP3/5b2/PP1P2PP/RNB1K2R b KQ - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r7/p1Q4p/1N4P1/k3p3/3qP3/5b2/PP1P2PP/RNB1K2R b KQ - 0 1\"]\r\n\r\n1...Qxe4+ 2.Kf2 Qe2+ 3.Kg3 Qxg2+ 4.Kh4 Qg4# *",
+	"image": "https://www.chess.com/dynboard?fen=r7/p1Q4p/1N4P1/k3p3/3qP3/5b2/PP1P2PP/RNB1K2R%20b%20KQ%20-%200%201&size=2"
+}

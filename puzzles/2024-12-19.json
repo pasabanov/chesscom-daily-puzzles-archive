@@ -1,0 +1,8 @@
+{
+	"title": "Robert's Mate Takes the Cake! 🎂",
+	"url": "https://www.chess.com/daily/2024-12-19",
+	"publish_time": 1734595200,
+	"fen": "3q4/8/4p1k1/2p1Qp2/5K2/R3B1P1/1P3P2/7r b - - 0 1",
+	"pgn": "[Event \"Chess.com Blitz Game\"]\r\n[White \"Happy Birthday GM Hess!\"]\r\n[Black \"Blitz Game Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"3q4/8/4p1k1/2p1Qp2/5K2/R3B1P1/1P3P2/7r b - - 0 1\"]\r\n\r\n1... Rh4+ 2. Kf3 Qd1+ 3. Kg2 Qh1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3q4/8/4p1k1/2p1Qp2/5K2/R3B1P1/1P3P2/7r%20b%20-%20-%200%201&size=2"
+}

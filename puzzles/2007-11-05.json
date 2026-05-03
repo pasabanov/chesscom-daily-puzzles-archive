@@ -1,0 +1,9 @@
+{
+	"title": "Black to Draw",
+	"comments": "And the white knight and king will stop the black pawns",
+	"url": "https://www.chess.com/daily/2007-11-05",
+	"publish_time": 1194249600,
+	"fen": "5k2/8/5PP1/pp2K3/5N2/8/1r6/8 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5k2/8/5PP1/pp2K3/5N2/8/1r6/8 b - - 0 1\"]\r\n\r\n1... Rf2 2. Ne6+ Kg8 3. f7+ Rxf7 4. gxf7+ Kxf7\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5k2/8/5PP1/pp2K3/5N2/8/1r6/8%20b%20-%20-%200%201&size=2"
+}

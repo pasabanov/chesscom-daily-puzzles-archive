@@ -1,0 +1,8 @@
+{
+	"title": "Eye of the Chess Tiger",
+	"url": "https://www.chess.com/daily/2025-07-26",
+	"publish_time": 1753513200,
+	"fen": "3r3k/1p5p/r5q1/n1Qpb3/4p3/1PN5/PBP2PPP/3R1RK1 b - - 0 29",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"chesstiger787\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r3k/1p5p/r5q1/n1Qpb3/4p3/1PN5/PBP2PPP/3R1RK1 b - - 0 29\"]\r\n\r\n29... Bxh2+ 30. Kxh2 Qxg2+ 31. Kxg2 Rg8+ 32. Kh3 Rh6# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3r3k/1p5p/r5q1/n1Qpb3/4p3/1PN5/PBP2PPP/3R1RK1%20b%20-%20-%200%2029&size=2"
+}

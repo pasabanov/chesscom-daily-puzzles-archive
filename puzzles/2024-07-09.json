@@ -1,0 +1,8 @@
+{
+	"title": "Calculate Twice, Pin Once",
+	"url": "https://www.chess.com/daily/2024-07-09",
+	"publish_time": 1720508400,
+	"fen": "6k1/2q2pb1/5np1/p2B3p/Pp6/1P3NP1/5PP1/3Q2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/2q2pb1/5np1/p2B3p/Pp6/1P3NP1/5PP1/3Q2K1 b - - 0 1\"]\r\n\r\n1... Qd7 2. Bxf7+ Qxf7 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/2q2pb1/5np1/p2B3p/Pp6/1P3NP1/5PP1/3Q2K1%20b%20-%20-%200%201&size=2"
+}

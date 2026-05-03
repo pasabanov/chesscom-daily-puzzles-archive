@@ -1,0 +1,8 @@
+{
+	"title": "Chasing",
+	"url": "https://www.chess.com/daily/2016-12-30",
+	"publish_time": 1483084800,
+	"fen": "r6B/q6Q/2Npk1B1/2p5/6p1/b7/6K1/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r6B/q6Q/2Npk1B1/2p5/6p1/b7/6K1/8 w - - 0 1\"]\r\n\r\n1. Bf5+ Kd5 2. Be4+ Kc4 3. Bd3+ Kb3 4. Bc2+ Ka2 5. Bb1+ Kb3 6. Qc2#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r6B/q6Q/2Npk1B1/2p5/6p1/b7/6K1/8%20w%20-%20-%200%201&size=2"
+}

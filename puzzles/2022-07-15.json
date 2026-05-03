@@ -1,0 +1,8 @@
+{
+	"title": "Pin Buffet",
+	"url": "https://www.chess.com/daily/2022-07-15",
+	"publish_time": 1657868400,
+	"fen": "5rk1/4bnpp/p3r3/3qp3/PpN2B2/1Q6/1P2RPPP/4R1K1 b - - 0 35",
+	"pgn": "[Event \"London Phillips&Drew\"]\r\n[Site \"London\"]\r\n[Date \"1982.??.??\"]\r\n[Round \"?\"]\r\n[White \"Spassky, Boris Vasilievich(Variation from Game)\"]\r\n[Black \"Karpov, Anatoly\"]\r\n[Result \"0-1\"]\r\n[ECO \"C88\"]\r\n[WhiteElo \"2625\"]\r\n[BlackElo \"2720\"]\r\n[FEN \"5rk1/4bnpp/p3r3/3qp3/PpN2B2/1Q6/1P2RPPP/4R1K1 b - - 0 35\"]\r\n\r\n35... Nd6 36. Nd2 Qxb3 37. Nxb3 Rxf4 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/4bnpp/p3r3/3qp3/PpN2B2/1Q6/1P2RPPP/4R1K1%20b%20-%20-%200%2035&size=2"
+}

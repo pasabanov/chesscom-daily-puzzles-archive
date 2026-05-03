@@ -1,0 +1,8 @@
+{
+	"title": "Nothing Passes By This Goalie",
+	"url": "https://www.chess.com/daily/2024-10-28",
+	"publish_time": 1730098800,
+	"fen": "8/8/1p1p3R/p1pP1kp1/2P2p2/2P1rP1P/P4KP1/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/1p1p3R/p1pP1kp1/2P2p2/2P1rP1P/P4KP1/8 w - - 0 1\"]\r\n\r\n1. g4+ fxg3+ 2. Kxe3 g2 3. Kf2 g1=Q+ 4. Kxg1 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/1p1p3R/p1pP1kp1/2P2p2/2P1rP1P/P4KP1/8%20w%20-%20-%200%201&size=2"
+}

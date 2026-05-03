@@ -1,0 +1,8 @@
+{
+	"title": "Attacking Harmony",
+	"url": "https://www.chess.com/daily/2024-12-29",
+	"publish_time": 1735459200,
+	"fen": "1k1r4/p1bq4/6P1/1PpP2p1/2B1b3/R1PnNP2/5BKP/Q5R1 b - - 0 1",
+	"pgn": "[White \"Pepe\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"1k1r4/p1bq4/6P1/1PpP2p1/2B1b3/R1PnNP2/5BKP/Q5R1 b - - 0 1\"]\r\n\r\n1... Qh3+ 2. Kxh3 Bxf3 3. Bh4 Nf2+ 4. Bxf2 Rh8+ 5. Bh4 Rxh4# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1k1r4/p1bq4/6P1/1PpP2p1/2B1b3/R1PnNP2/5BKP/Q5R1%20b%20-%20-%200%201&size=2"
+}

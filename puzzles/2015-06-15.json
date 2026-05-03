@@ -1,0 +1,9 @@
+{
+	"title": "Check Please!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-06-15",
+	"publish_time": 1434351600,
+	"fen": "5r1k/pbp1R2p/1p2Ppp1/8/8/1P2P1KP/PQ4P1/B6q w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5r1k/pbp1R2p/1p2Ppp1/8/8/1P2P1KP/PQ4P1/B6q w - - 0 1\"]\r\n\r\n1. Qxf6+ Rxf6 2. Bxf6+ Kg8 3. Re8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/pbp1R2p/1p2Ppp1/8/8/1P2P1KP/PQ4P1/B6q%20w%20-%20-%200%201&size=2"
+}

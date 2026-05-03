@@ -1,0 +1,8 @@
+{
+	"title": "A Moment of Clarity",
+	"url": "https://www.chess.com/daily/2020-06-30",
+	"publish_time": 1593500400,
+	"fen": "r3k2r/1pp2p2/3p2pp/p2Pp2n/1PPnP1bP/P1N1QqP1/2BKNP2/R6R b kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3k2r/1pp2p2/3p2pp/p2Pp2n/1PPnP1bP/P1N1QqP1/2BKNP2/R6R b kq - 0 1\"]\r\n\r\n1...Qxe3+ 2.fxe3 Nxe2 3.Nxe2 Bxe2 4.Kxe2 Nxg3+ 5.Kf3 Nxh1 *",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/1pp2p2/3p2pp/p2Pp2n/1PPnP1bP/P1N1QqP1/2BKNP2/R6R%20b%20kq%20-%200%201&size=2"
+}

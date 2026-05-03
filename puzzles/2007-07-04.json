@@ -1,0 +1,8 @@
+{
+	"title": "Does It All Really Work?",
+	"url": "https://www.chess.com/daily/2007-07-04",
+	"publish_time": 1183532400,
+	"fen": "rn2k3/6Rr/bp2p2B/p2pN3/2pP2Pq/P1Pn4/5P2/R5K1 w q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rn2k3/6Rr/bp2p2B/p2pN3/2pP2Pq/P1Pn4/5P2/R5K1 w q - 0 1\"]\r\n\r\n1. Rg8+ Ke7 2. Bf8+ Kd8 3. Bd6# *",
+	"image": "https://www.chess.com/dynboard?fen=rn2k3/6Rr/bp2p2B/p2pN3/2pP2Pq/P1Pn4/5P2/R5K1%20w%20q%20-%200%201&size=2"
+}

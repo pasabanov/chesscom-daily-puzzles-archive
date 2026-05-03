@@ -1,0 +1,8 @@
+{
+	"title": "If You Pin It, Can You Win It?",
+	"url": "https://www.chess.com/daily/2022-09-23",
+	"publish_time": 1663916400,
+	"fen": "4k2r/2p1b1pp/1pn1ppb1/8/3P4/1P3NNP/R4PP1/5BK1 w k - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4k2r/2p1b1pp/1pn1ppb1/8/3P4/1P3NNP/R4PP1/5BK1 w k - 0 1\"]\r\n\r\n1. Bb5 Kd7 2. d5 exd5 3. Nd4 Bd3 4. Bxc6+ *",
+	"image": "https://www.chess.com/dynboard?fen=4k2r/2p1b1pp/1pn1ppb1/8/3P4/1P3NNP/R4PP1/5BK1%20w%20k%20-%200%201&size=2"
+}

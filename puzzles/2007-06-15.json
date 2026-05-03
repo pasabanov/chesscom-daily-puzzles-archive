@@ -1,0 +1,9 @@
+{
+	"title": "Looks Like Everything is Protected...",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-06-15",
+	"publish_time": 1181890800,
+	"fen": "r1b1rqk1/5p2/5Pp1/ppp1B1Q1/8/1P1P3R/P5PP/5RK1 w - - 0 1",
+	"pgn": "[FEN \"r1b1rqk1/5p2/5Pp1/ppp1B1Q1/8/1P1P3R/P5PP/5RK1 w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Qxg6+ $3 1... fxg6 2. f7+ Qxf7 3. Rh8# *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1rqk1/5p2/5Pp1/ppp1B1Q1/8/1P1P3R/P5PP/5RK1%20w%20-%20-%200%201&size=2"
+}

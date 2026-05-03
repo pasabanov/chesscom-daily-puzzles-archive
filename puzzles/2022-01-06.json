@@ -1,0 +1,8 @@
+{
+	"title": "No-Go for Bogo",
+	"url": "https://www.chess.com/daily/2022-01-06",
+	"publish_time": 1641456000,
+	"fen": "3r1bk1/ppq3pp/2p5/2P2Q1B/8/1P4P1/P6P/5RK1 w - - 2 24",
+	"pgn": "[Event \"New York\"]\r\n[Site \"New York, NY USA\"]\r\n[Date \"1924.04.02\"]\r\n[Round \"12\"]\r\n[White \"Richard Reti\"]\r\n[Black \"Efim Bogoljubov\"]\r\n[Result \"1-0\"]\r\n[ECO \"A13\"]\r\n[EventDate \"1924.03.16\"]\r\n[PlyCount \"49\"]\r\n[FEN \"3r1bk1/ppq3pp/2p5/2P2Q1B/8/1P4P1/P6P/5RK1 w - - 2 24\"]\r\n\r\n24.Bf7+ Kh8 25.Be8 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r1bk1/ppq3pp/2p5/2P2Q1B/8/1P4P1/P6P/5RK1%20w%20-%20-%202%2024&size=2"
+}

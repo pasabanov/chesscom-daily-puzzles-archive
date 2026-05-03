@@ -1,0 +1,8 @@
+{
+	"title": "Improving Upon World Championship Play",
+	"url": "https://www.chess.com/daily/2021-09-30",
+	"publish_time": 1632985200,
+	"fen": "6k1/4bpp1/p1b1pn2/1p2q1N1/1P5Q/2N3P1/PB2PP1P/6K1 w - - 5 27",
+	"pgn": "[Event \"Euwe - Alekhine World Championship Rematch\"]\r\n[Site \"Rotterdam NED\"]\r\n[Date \"1937.11.11\"]\r\n[Round \"16\"]\r\n[White \"Alexander Alekhine\"]\r\n[Black \"Max Euwe\"]\r\n[Result \"1/2-1/2\"]\r\n[ECO \"E02\"]\r\n[PlyCount \"129\"]\r\n[FEN \"6k1/4bpp1/p1b1pn2/1p2q1N1/1P5Q/2N3P1/PB2PP1P/6K1 w - - 5 27\"]\r\n\r\n27.Qh8+ Kxh8 28.Nxf7+ Kg8 29.Nxe5 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/4bpp1/p1b1pn2/1p2q1N1/1P5Q/2N3P1/PB2PP1P/6K1%20w%20-%20-%205%2027&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "😱Gotham's Birthday Bash 🥳",
+	"url": "https://www.chess.com/daily/2024-12-05",
+	"publish_time": 1733385600,
+	"fen": "4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1",
+	"pgn": "[Event \"Late-Titled-Tuesday-Blitz-March-12-2024\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.03.12\"]\r\n[White \"Divljasvinja14\"]\r\n[Black \"GothamChess (Ra8 Removed)\"]\r\n[Result \"0-1\"]\r\n[FEN \"4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1\"]\r\n\r\n1... Nh2+ 2. Kg1 Nf3+ 3. Kf1 Rh1+ 4. Bxh1 Qg1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2%20b%20k%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Heavy Lifting",
+	"url": "https://www.chess.com/daily/2020-03-02",
+	"publish_time": 1583136000,
+	"fen": "r4rk1/2R5/p3pq2/1p5p/4R1p1/1P6/P2Q1PPP/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/2R5/p3pq2/1p5p/4R1p1/1P6/P2Q1PPP/6K1 b - - 0 1\"]\r\n\r\n1...Rad8 2.Qe1 Rd1 3.Qxd1 Qxf2+ 4.Kh1 Qf1+ 5.Qxf1 Rxf1# *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/2R5/p3pq2/1p5p/4R1p1/1P6/P2Q1PPP/6K1%20b%20-%20-%200%201&size=2"
+}

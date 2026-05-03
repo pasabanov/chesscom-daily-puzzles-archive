@@ -1,0 +1,8 @@
+{
+	"title": "Scaling the Wall",
+	"url": "https://www.chess.com/daily/2020-07-12",
+	"publish_time": 1594537200,
+	"fen": "4R3/pp3r2/2p4k/4B3/4P3/7b/P7/5rRK w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4R3/pp3r2/2p4k/4B3/4P3/7b/P7/5rRK w - - 0 1\"]\r\n\r\n1.Rh8+ Rh7 2.Bg7+ Kh5 3.Rxh7# *",
+	"image": "https://www.chess.com/dynboard?fen=4R3/pp3r2/2p4k/4B3/4P3/7b/P7/5rRK%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "A Strong Botez Birthday Gambit",
+	"url": "https://www.chess.com/daily/2022-09-24",
+	"publish_time": 1664002800,
+	"fen": "2r3k1/5ppp/4p3/4P3/p2BP3/2q5/1p3PPP/1Q1R2K1 b - - 0 28",
+	"pgn": "[Event \"HUN-ch 18th\"]\r\n[Site \"Budapest HUN\"]\r\n[Date \"1963.02.01\"]\r\n[Round \"15\"]\r\n[White \"Laszlo Sapi\"]\r\n[Black \"Laszlo Barczay\"]\r\n[Result \"0-1\"]\r\n[ECO \"D44\"]\r\n[SetUp \"1\"]\r\n[FEN \"2r3k1/5ppp/4p3/4P3/p2BP3/2q5/1p3PPP/1Q1R2K1 b - - 0 28\"]\r\n[PlyCount \"7\"]\r\n[EventDate \"1963.01.12\"]\r\n\r\n28... Qxd4 29. Rxd4 Rc1+ 30. Rd1 Rxb1 31. Rxb1 a3 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/5ppp/4p3/4P3/p2BP3/2q5/1p3PPP/1Q1R2K1%20b%20-%20-%200%2028&size=2"
+}

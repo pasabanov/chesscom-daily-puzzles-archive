@@ -1,0 +1,8 @@
+{
+	"title": "The X-File",
+	"url": "https://www.chess.com/daily/2019-12-11",
+	"publish_time": 1576051200,
+	"fen": "2r2k2/1p3pb1/2q1b1p1/1prN4/3pP1P1/1B1Q1P2/PP5R/1K5R w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"2r2k2/1p3pb1/2q1b1p1/1prN4/3pP1P1/1B1Q1P2/PP5R/1K5R w - - 0 1\"]\r\n\r\n1. Rh8+ Bxh8 2. Rxh8+ Kg7 3. Qxd4+ f6 4. Qxf6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r2k2/1p3pb1/2q1b1p1/1prN4/3pP1P1/1B1Q1P2/PP5R/1K5R%20w%20-%20-%200%201&size=2"
+}

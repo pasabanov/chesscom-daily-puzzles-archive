@@ -1,0 +1,8 @@
+{
+	"title": "Discover a Grandmaster Oversight",
+	"url": "https://www.chess.com/daily/2024-04-21",
+	"publish_time": 1713682800,
+	"fen": "2q2r1k/pp4rp/5Rp1/3N4/4P3/1PQ3P1/P5KP/8 w - - 0 31",
+	"pgn": "[Event \"Wch Blitz 4th\"]\r\n[Site \"Moscow\"]\r\n[Date \"2009.11.18\"]\r\n[Round \"35\"]\r\n[White \"Tkachiev, Vladislav (Missed Op\"]\r\n[Black \"Aronian, Levon\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2642\"]\r\n[BlackElo \"2786\"]\r\n[FEN \"2q2r1k/pp4rp/5Rp1/3N4/4P3/1PQ3P1/P5KP/8 w - - 0 31\"]\r\n\r\n31. Rf7 Rfg8 32. Rxg7 Qxc3 33. Rxg8+ Kxg8 34. Nxc3 *",
+	"image": "https://www.chess.com/dynboard?fen=2q2r1k/pp4rp/5Rp1/3N4/4P3/1PQ3P1/P5KP/8%20w%20-%20-%200%2031&size=2"
+}

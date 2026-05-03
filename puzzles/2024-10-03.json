@@ -1,0 +1,8 @@
+{
+	"title": "Judit's Pawn Finds a Way",
+	"url": "https://www.chess.com/daily/2024-10-03",
+	"publish_time": 1727938800,
+	"fen": "6k1/R5p1/5p1p/7P/3r2P1/Pp3PK1/8/8 b - - 0 35",
+	"pgn": "[Event \"It OHRA\"]\r\n[Site \"Amsterdam (Netherlands)\"]\r\n[Date \"1990.??.??\"]\r\n[Round \"?\"]\r\n[White \"Bertholee Rob\"]\r\n[Black \"Judit Polgar\"]\r\n[Result \"0-1\"]\r\n[SetUp \"1\"]\r\n[FEN \"6k1/R5p1/5p1p/7P/3r2P1/Pp3PK1/8/8 b - - 0 35\"]\r\n[PlyCount \"5\"]\r\n[EventDate \"1990.??.??\"]\r\n\r\n35... Rb4 36. axb4 b2 37. Re7 b1=Q 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/R5p1/5p1p/7P/3r2P1/Pp3PK1/8/8%20b%20-%20-%200%2035&size=2"
+}

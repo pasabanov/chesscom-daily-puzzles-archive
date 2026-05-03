@@ -1,0 +1,8 @@
+{
+	"title": "Danya's Royal Dance",
+	"url": "https://www.chess.com/daily/2023-11-11",
+	"publish_time": 1699689600,
+	"fen": "1r5k/p5pp/2p2b2/5p2/7q/2P1B2P/P1Q2P2/K4BR1 b - - 0 28",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2021.04.10\"]\r\n[Round \"?\"]\r\n[White \"wonderfultime\"]\r\n[Black \"DanielNaroditsky\"]\r\n[Result \"0-1\"]\r\n[ECO \"A41\"]\r\n[WhiteElo \"3015\"]\r\n[BlackElo \"3125\"]\r\n[FEN \"1r5k/p5pp/2p2b2/5p2/7q/2P1B2P/P1Q2P2/K4BR1 b - - 0 28\"]\r\n\r\n28... Qa4 29. Qc1 Qd1 30. Bb5 Bxc3+ 31. Kb1 Rxb5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1r5k/p5pp/2p2b2/5p2/7q/2P1B2P/P1Q2P2/K4BR1%20b%20-%20-%200%2028&size=2"
+}

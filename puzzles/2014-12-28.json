@@ -1,0 +1,9 @@
+{
+	"title": "Opposite Squares Attack",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2014-12-28",
+	"publish_time": 1419753600,
+	"fen": "8/3B4/p7/1p2bp2/1P2k3/P4R2/4K3/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/3B4/p7/1p2bp2/1P2k3/P4R2/4K3/8 w - - 0 1\"]\r\n\r\n1. Bc6+ Kd4 2. Rd3+ Kc4 3. Bd5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/3B4/p7/1p2bp2/1P2k3/P4R2/4K3/8%20w%20-%20-%200%201&size=2"
+}

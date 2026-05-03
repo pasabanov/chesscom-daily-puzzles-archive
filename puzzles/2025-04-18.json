@@ -1,0 +1,8 @@
+{
+	"title": "Bronstein's Bombshell",
+	"url": "https://www.chess.com/daily/2025-04-18",
+	"publish_time": 1744959600,
+	"fen": "r3r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/1P4PP/R6K b - - 0 24",
+	"pgn": "[Event \"USSR Championship\"]\r\n[Site \"Tallinn URS\"]\r\n[Date \"1965.11.23\"]\r\n[Round \"2\"]\r\n[White \"Vladas Mikenas\"]\r\n[Black \"David Bronstein\"]\r\n[Result \"0-1\"]\r\n[ECO \"A53\"]\r\n[FEN \"r3r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/1P4PP/R6K b - - 0 24\"]\r\n\r\n24... Rxa3 25. Qxa3 Qe1+ 26. Rxe1 Rxe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/1P4PP/R6K%20b%20-%20-%200%2024&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Disconnecting Connection",
+	"url": "https://www.chess.com/daily/2021-09-06",
+	"publish_time": 1630911600,
+	"fen": "3rb3/5pk1/2n1pn1p/rp3Pp1/6P1/1P2B2P/2R3BK/R3N3 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3rb3/5pk1/2n1pn1p/rp3Pp1/6P1/1P2B2P/2R3BK/R3N3 w - - 0 1\"]\r\n\r\n1.Rxa5 Nxa5 2.Bb6 Rd1 3.Bxa5 *",
+	"image": "https://www.chess.com/dynboard?fen=3rb3/5pk1/2n1pn1p/rp3Pp1/6P1/1P2B2P/2R3BK/R3N3%20w%20-%20-%200%201&size=2"
+}

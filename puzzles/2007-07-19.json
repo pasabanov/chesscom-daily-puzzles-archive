@@ -1,0 +1,9 @@
+{
+	"title": "The Quiet Moves are the Hardest",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-07-19",
+	"publish_time": 1184828400,
+	"fen": "8/2N2k1p/5pp1/4p3/p5PP/1Pn2Q2/3q1PK1/8 w - - 0 1",
+	"pgn": "[FEN \"8/2N2k1p/5pp1/4p3/p5PP/1Pn2Q2/3q1PK1/8 w - - 0 1\"]\r\n[PlyCount \"13\"]\r\n1. Qc6 {threatens Qe8+} Kg7 (1... Qd8 2. Qxc3 a3 3. Qc4+ Ke7 4.\r\nNd5+ Kf8 5. b4 {W has a N for a P}) 2. Qe8 Qd6 3. Ne6+ Kh6 4. Qf7 {\r\nand mate on g7} Qc6+ 5. Kh2 Qd7 6. Qxd7 axb3 7. Qg7# *",
+	"image": "https://www.chess.com/dynboard?fen=8/2N2k1p/5pp1/4p3/p5PP/1Pn2Q2/3q1PK1/8%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Cupid's Arrow",
+	"url": "https://www.chess.com/daily/2022-02-14",
+	"publish_time": 1644825600,
+	"fen": "1r1r3k/p5pb/7p/7P/P2Bp3/2P5/3P1R2/1RK5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r1r3k/p5pb/7p/7P/P2Bp3/2P5/3P1R2/1RK5 b - - 0 1\"]\r\n\r\n1...Rxb1+ 2.Kxb1 e3+ 3.Kc1 exf2 *",
+	"image": "https://www.chess.com/dynboard?fen=1r1r3k/p5pb/7p/7P/P2Bp3/2P5/3P1R2/1RK5%20b%20-%20-%200%201&size=2"
+}

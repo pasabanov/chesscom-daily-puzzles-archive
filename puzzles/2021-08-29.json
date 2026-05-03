@@ -1,0 +1,8 @@
+{
+	"title": "Del Rio Delight",
+	"url": "https://www.chess.com/daily/2021-08-29",
+	"publish_time": 1630220400,
+	"fen": "5N2/r3Bpkp/6p1/3q4/5Q1K/8/8/8 w - - 0 1",
+	"pgn": "[White \"Del Rio\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"5N2/r3Bpkp/6p1/3q4/5Q1K/8/8/8 w - - 0 1\"]\r\n\r\n1.Ne6+ Qxe6 2.Qh6+ Kxh6 3.Bf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5N2/r3Bpkp/6p1/3q4/5Q1K/8/8/8%20w%20-%20-%200%201&size=2"
+}

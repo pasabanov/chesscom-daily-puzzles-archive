@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 7",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2012-01-14",
+	"publish_time": 1326528000,
+	"fen": "r1kq1bnr/pp4pp/n4p2/1N6/2BQ1B2/6Pb/PPP2K1P/R3R3 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1kq1bnr/pp4pp/n4p2/1N6/2BQ1B2/6Pb/PPP2K1P/R3R3 w - - 0 1\"]\r\n\r\n1. Nxa7+ Rxa7 2. Qxd8+ Kxd8 3. Rad1+ Bd6 4. Rxd6+ Bd7 5. Rxd7+ Kc8 6. Re8+ Kxd7 7. Bb5# \r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1kq1bnr/pp4pp/n4p2/1N6/2BQ1B2/6Pb/PPP2K1P/R3R3%20w%20-%20-%200%201&size=2"
+}

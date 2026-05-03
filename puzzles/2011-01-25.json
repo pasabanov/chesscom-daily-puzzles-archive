@@ -1,0 +1,9 @@
+{
+	"title": "Manipulating the Opponent's Pieces",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-01-25",
+	"publish_time": 1295942400,
+	"fen": "8/1r4k1/1N1R3p/p5r1/P2R1n2/5P2/1P6/7K b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/1r4k1/1N1R3p/p5r1/P2R1n2/5P2/1P6/7K b - - 0 1\"]\r\n\r\n1...Rh5+ 2. Kg1 Ne2+ 3. Kg2 Nxd4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/1r4k1/1N1R3p/p5r1/P2R1n2/5P2/1P6/7K%20b%20-%20-%200%201&size=2"
+}

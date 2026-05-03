@@ -1,0 +1,8 @@
+{
+	"title": "In Search of Clarity",
+	"url": "https://www.chess.com/daily/2020-07-16",
+	"publish_time": 1594882800,
+	"fen": "1k1r1bnr/ppp3pp/5q2/4Q3/2Pn2b1/P4NP1/1P1N1PBP/R1B2RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1k1r1bnr/ppp3pp/5q2/4Q3/2Pn2b1/P4NP1/1P1N1PBP/R1B2RK1 b - - 0 1\"]\r\n\r\n1...Bxf3 2.Qxf6 Ne2+ 3.Kh1 Bxg2+ *",
+	"image": "https://www.chess.com/dynboard?fen=1k1r1bnr/ppp3pp/5q2/4Q3/2Pn2b1/P4NP1/1P1N1PBP/R1B2RK1%20b%20-%20-%200%201&size=2"
+}

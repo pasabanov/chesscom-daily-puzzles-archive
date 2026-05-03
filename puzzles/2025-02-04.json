@@ -1,0 +1,8 @@
+{
+	"title": "A Royal Night Out",
+	"url": "https://www.chess.com/daily/2025-02-04",
+	"publish_time": 1738656000,
+	"fen": "3r1nk1/5np1/2q4p/p2p1Q2/2pP2N1/4PP2/P5RP/5BK1 w - - 0 38",
+	"pgn": "[Event \"Isle of Wight Open 2024\"]\r\n[Date \"2024.04.20\"]\r\n[White \"Keith C Arkell\"]\r\n[Black \"M D Vinuda Shenal Gunathilake\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r1nk1/5np1/2q4p/p2p1Q2/2pP2N1/4PP2/P5RP/5BK1 w - - 0 38\"]\r\n\r\n38. Qxf7+ Kxf7 39. Ne5+ Ke6 40. Nxc6 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r1nk1/5np1/2q4p/p2p1Q2/2pP2N1/4PP2/P5RP/5BK1%20w%20-%20-%200%2038&size=2"
+}

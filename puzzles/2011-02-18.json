@@ -1,0 +1,9 @@
+{
+	"title": "Forcing a Draw",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-02-18",
+	"publish_time": 1298016000,
+	"fen": "8/7N/8/2B1k1K1/6Pp/6Pp/6p1/8 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/7N/8/2B1k1K1/6Pp/6Pp/6p1/8 w KQkq - 0 1\"]\r\n\r\n1. Bg1 hxg3 2. Kh4 h2 3. Ng5 h1=Q+ 4. Kxg3 Kf6 5. Nh3 Kg6 6. Kh4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/7N/8/2B1k1K1/6Pp/6Pp/6p1/8%20w%20KQkq%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Patience",
+	"url": "https://www.chess.com/daily/2022-04-08",
+	"publish_time": 1649401200,
+	"fen": "8/p4p1k/1p5p/1N2p3/P3Pn2/5pq1/1Q3RP1/5KB1 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/p4p1k/1p5p/1N2p3/P3Pn2/5pq1/1Q3RP1/5KB1 b - - 1 1\"]\r\n\r\n1...fxg2+ 2.Rxg2 Qf3+ 3.Qf2 Qd1+ 4.Qe1 Qd3+ 5.Qe2 Nxe2 *",
+	"image": "https://www.chess.com/dynboard?fen=8/p4p1k/1p5p/1N2p3/P3Pn2/5pq1/1Q3RP1/5KB1%20b%20-%20-%201%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Lane Closure",
+	"url": "https://www.chess.com/daily/2023-12-07",
+	"publish_time": 1701936000,
+	"fen": "3r1k2/p4pn1/bp4pN/2b1B2p/7Q/P4P2/1P4PP/3rR2K w - - 0 32",
+	"pgn": "[Event \"Cup Doeberl\"]\r\n[Site \"Canberra (Australia)\"]\r\n[Date \"2001.??.??\"]\r\n[Round \"7\"]\r\n[White \"Lane Gary W (AUS)\"]\r\n[Black \"Djuric Stefan (SCG)\"]\r\n[Result \"1-0\"]\r\n[ECO \"B22\"]\r\n[WhiteElo \"2448\"]\r\n[BlackElo \"2512\"]\r\n[FEN \"3r1k2/p4pn1/bp4pN/2b1B2p/7Q/P4P2/1P4PP/3rR2K w - - 0 32\"]\r\n\r\n32. Bd6+ R8xd6 33. Qe7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r1k2/p4pn1/bp4pN/2b1B2p/7Q/P4P2/1P4PP/3rR2K%20w%20-%20-%200%2032&size=2"
+}

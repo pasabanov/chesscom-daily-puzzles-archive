@@ -1,0 +1,9 @@
+{
+	"title": "Advancement",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-02-11",
+	"publish_time": 1297411200,
+	"fen": "1R6/2pk4/1P6/8/3r4/K7/P7/8 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1R6/2pk4/1P6/8/3r4/K7/P7/8 w KQkq - 0 1\"]\r\n\r\n1. Rd8+ Kxd8 2. b7 Rb4 3. Kxb4 c5+ 4. Ka5 Kc7 5. Ka6 Kb8 6. Kb6 c4 7. a4 c3 8. a5 c2 9. a6 c1=Q 10. a7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1R6/2pk4/1P6/8/3r4/K7/P7/8%20w%20KQkq%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2012-03-29",
+	"publish_time": 1333004400,
+	"fen": "2r1r2k/1q3ppp/p2Rp3/2p1P3/6QB/p3P3/bP3PPP/3R2K1 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1r2k/1q3ppp/p2Rp3/2p1P3/6QB/p3P3/bP3PPP/3R2K1 w KQkq - 0 1\"]\r\n\r\n1. Bf6 gxf6 2. exf6 Rg8 3. Rd8 Rcxd8 4. Rxd8 Qxg2+ 5. Qxg2 Rxd8 6. Qg7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r1r2k/1q3ppp/p2Rp3/2p1P3/6QB/p3P3/bP3PPP/3R2K1%20w%20KQkq%20-%200%201&size=2"
+}

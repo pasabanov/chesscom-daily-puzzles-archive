@@ -1,0 +1,8 @@
+{
+	"title": "Loose Piece Finish Line",
+	"url": "https://www.chess.com/daily/2024-03-05",
+	"publish_time": 1709625600,
+	"fen": "5r1k/1p2b2p/p1q4p/Q2pP3/P2P3P/8/2P1B2P/5RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r1k/1p2b2p/p1q4p/Q2pP3/P2P3P/8/2P1B2P/5RK1 b - - 0 1\"]\r\n\r\n1... Qg6+ 2. Kh1 Qe4+ 3. Bf3 Rxf3 4. Rxf3 Qxf3+ *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/1p2b2p/p1q4p/Q2pP3/P2P3P/8/2P1B2P/5RK1%20b%20-%20-%200%201&size=2"
+}

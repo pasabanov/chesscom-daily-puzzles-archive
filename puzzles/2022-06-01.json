@@ -1,0 +1,8 @@
+{
+	"title": "Anticipating Counterplay",
+	"url": "https://www.chess.com/daily/2022-06-01",
+	"publish_time": 1654066800,
+	"fen": "8/4R3/8/3b2pk/5B2/8/r6P/6K1 b - - 0 42",
+	"pgn": "[Event \"TCh-CHN Division A 2014\"]\r\n[Site \"Jiaxing CHN\"]\r\n[Date \"2014.09.12\"]\r\n[Round \"?\"]\r\n[White \"Xu Xiangyu\"]\r\n[Black \"Yu Yangyi\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/4R3/8/3b2pk/5B2/8/r6P/6K1 b - - 0 42\"]\r\n\r\n42...Rg2+ 43.Kf1 gxf4 44.Re5+ Rg5 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/4R3/8/3b2pk/5B2/8/r6P/6K1%20b%20-%20-%200%2042&size=2"
+}

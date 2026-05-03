@@ -1,0 +1,8 @@
+{
+	"title": "Such Great Heights",
+	"url": "https://www.chess.com/daily/2019-11-14",
+	"publish_time": 1573718400,
+	"fen": "r1b1k2r/pp2npp1/2p5/2Pp4/3P1qP1/2NB1Pp1/PP2Q1P1/R3R1K1 b q - 0 19",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"r1b1k2r/pp2npp1/2p5/2Pp4/3P1qP1/2NB1Pp1/PP2Q1P1/R3R1K1 b q - 0 19\"]\r\n\r\n19... Rh1+ 20. Kxh1 Qh6+ 21. Kg1 Qh2+ 22. Kf1 Qh1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k2r/pp2npp1/2p5/2Pp4/3P1qP1/2NB1Pp1/PP2Q1P1/R3R1K1%20b%20q%20-%200%2019&size=2"
+}

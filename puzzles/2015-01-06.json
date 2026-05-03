@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 3",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-01-06",
+	"publish_time": 1420531200,
+	"fen": "r3k3/pp1b1q2/2p1pB1Q/3p4/1nPPPp2/2N5/PP3P2/R3K1R1 w Q - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3k3/pp1b1q2/2p1pB1Q/3p4/1nPPPp2/2N5/PP3P2/R3K1R1 w Q - 0 1\"]\r\n\r\n1. Qh8+ Qf8 2. Qh5+ Qf7 3. Rg8# \r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3k3/pp1b1q2/2p1pB1Q/3p4/1nPPPp2/2N5/PP3P2/R3K1R1%20w%20Q%20-%200%201&size=2"
+}

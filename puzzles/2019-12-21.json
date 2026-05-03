@@ -1,0 +1,8 @@
+{
+	"title": "A Horse With No Name",
+	"url": "https://www.chess.com/daily/2019-12-21",
+	"publish_time": 1576915200,
+	"fen": "3Nk3/r7/7R/8/3K4/8/8/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3Nk3/r7/7R/8/3K4/8/8/8 w - - 0 1\"]\r\n\r\n1. Rh8+ Kd7 2. Rh7+ Kd6 3. Nf7+ Kc7 4. Ne5+ Kb6 5. Nc4+ Ka6 6. Rh6+ Kb7 7. Nd6+\r\nKb8 8. Rh8+ Kc7 9. Nb5+ Kb6 10. Nxa7 *",
+	"image": "https://www.chess.com/dynboard?fen=3Nk3/r7/7R/8/3K4/8/8/8%20w%20-%20-%200%201&size=2"
+}

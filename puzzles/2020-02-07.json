@@ -1,0 +1,8 @@
+{
+	"title": "Step By Step",
+	"url": "https://www.chess.com/daily/2020-02-07",
+	"publish_time": 1581062400,
+	"fen": "1r3rk1/p4ppp/3B4/P2N4/2BpPQq1/3P2Pb/8/R6K b - - 0 25",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/p4ppp/3B4/P2N4/2BpPQq1/3P2Pb/8/R6K b - - 0 25\"]\r\n\r\n25...Qe2 26.Rg1 Bg4 27.Rf1 Rb2 28.Ne7+ Kh8 29.Ng6+ hxg6 *",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/p4ppp/3B4/P2N4/2BpPQq1/3P2Pb/8/R6K%20b%20-%20-%200%2025&size=2"
+}

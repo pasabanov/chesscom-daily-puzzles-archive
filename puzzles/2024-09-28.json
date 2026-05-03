@@ -1,0 +1,8 @@
+{
+	"title": "Making the Rook Blink",
+	"url": "https://www.chess.com/daily/2024-09-28",
+	"publish_time": 1727506800,
+	"fen": "3r4/ppk2p2/2p1p1p1/2PrP2p/1PKRR3/P4P1P/6P1/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r4/ppk2p2/2p1p1p1/2PrP2p/1PKRR3/P4P1P/6P1/8 b - - 0 1\"]\r\n\r\n1... f5 2. exf6 e5 3. Rxd5 cxd5+ 4. Kc3 dxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/ppk2p2/2p1p1p1/2PrP2p/1PKRR3/P4P1P/6P1/8%20b%20-%20-%200%201&size=2"
+}

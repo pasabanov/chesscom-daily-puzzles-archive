@@ -1,0 +1,8 @@
+{
+	"title": "Would You Like a Draw?",
+	"url": "https://www.chess.com/daily/2023-03-30",
+	"publish_time": 1680159600,
+	"fen": "6k1/p4p2/8/1P2q1p1/P3p3/7r/5Q2/1R3RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/p4p2/8/1P2q1p1/P3p3/7r/5Q2/1R3RK1 b - - 0 1\"]\r\n\r\n1... Rg3+ 2. Kh1 Qh8+ 3. Qh2 Rh3 4. Qxh3 Qxh3+ *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p4p2/8/1P2q1p1/P3p3/7r/5Q2/1R3RK1%20b%20-%20-%200%201&size=2"
+}

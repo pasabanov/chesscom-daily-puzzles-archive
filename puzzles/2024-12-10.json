@@ -1,0 +1,8 @@
+{
+	"title": "Check for the Best Move",
+	"url": "https://www.chess.com/daily/2024-12-10",
+	"publish_time": 1733817600,
+	"fen": "8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1\"]\r\n\r\n1. Qc7+ Ka8 2. Qa7# *",
+	"image": "https://www.chess.com/dynboard?fen=8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1%20w%20-%20-%200%201&size=2"
+}

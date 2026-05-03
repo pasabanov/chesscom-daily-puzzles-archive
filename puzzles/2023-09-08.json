@@ -1,0 +1,8 @@
+{
+	"title": "It's Not a Bug, It's Forced Mate!",
+	"url": "https://www.chess.com/daily/2023-09-08",
+	"publish_time": 1694156400,
+	"fen": "3R3r/5pbk/1pB1p1p1/4P1Pn/8/r1p5/P4PP1/2K4R w - - 0 24",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2023.01.05\"]\r\n[Round \"?\"]\r\n[White \"gmjlh\"]\r\n[Black \"MagnusCarlsen\"]\r\n[Result \"1-0\"]\r\n[ECO \"B06\"]\r\n[WhiteElo \"2870\"]\r\n[BlackElo \"3171\"]\r\n[FEN \"3R3r/5pbk/1pB1p1p1/4P1Pn/8/r1p5/P4PP1/2K4R w - - 0 24\"]\r\n\r\n24. Rxh5+ gxh5 25. Be4+ f5 26. exf6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3R3r/5pbk/1pB1p1p1/4P1Pn/8/r1p5/P4PP1/2K4R%20w%20-%20-%200%2024&size=2"
+}

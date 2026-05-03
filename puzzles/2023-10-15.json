@@ -1,0 +1,8 @@
+{
+	"title": "Kasparyan's Siren Call",
+	"url": "https://www.chess.com/daily/2023-10-15",
+	"publish_time": 1697353200,
+	"fen": "2B3K1/8/3N1p1p/6pk/5P1P/6P1/7r/5r2 w - - 0 1",
+	"pgn": "[White \"Kasparyan, G\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"2B3K1/8/3N1p1p/6pk/5P1P/6P1/7r/5r2 w - - 0 1\"]\r\n\r\n1. Ne8 Kg6 2. h5+ Rxh5 3. f5+ Rxf5 4. g4 Re5 5. Bf5+ Rxf5 6. Ng7 Ra5 7. gxh5#\r\n1-0",
+	"image": "https://www.chess.com/dynboard?fen=2B3K1/8/3N1p1p/6pk/5P1P/6P1/7r/5r2%20w%20-%20-%200%201&size=2"
+}

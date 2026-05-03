@@ -1,0 +1,8 @@
+{
+	"title": "Grand Finale",
+	"url": "https://www.chess.com/daily/2025-10-24",
+	"publish_time": 1761289200,
+	"fen": "r4rk1/1b3ppp/p1q1p3/1p2P3/4nR1B/PB6/1P3PPP/3QR1K1 b - - 0 1",
+	"pgn": "[White \"Gumularz - Sarin Inspired\"]\r\n[Black \"EnPassantFork Grand Finale\"]\r\n[Result \"0-1\"]\r\n[FEN \"r4rk1/1b3ppp/p1q1p3/1p2P3/4nR1B/PB6/1P3PPP/3QR1K1 b - - 0 1\"]\r\n\r\n1... Nc3 2. Qf3 Ne2+ 3. Rxe2 Qc1+ 4. Re1 Qxe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1b3ppp/p1q1p3/1p2P3/4nR1B/PB6/1P3PPP/3QR1K1%20b%20-%20-%200%201&size=2"
+}

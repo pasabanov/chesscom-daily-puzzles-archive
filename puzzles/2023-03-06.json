@@ -1,0 +1,8 @@
+{
+	"title": "The Fork is Mightier Than the Queen",
+	"url": "https://www.chess.com/daily/2023-03-06",
+	"publish_time": 1678089600,
+	"fen": "5k2/7p/R2N4/8/3q1P2/n5P1/P4PKP/2r5 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5k2/7p/R2N4/8/3q1P2/n5P1/P4PKP/2r5 w - - 0 1\"]\r\n\r\n1. Ra8+ Ke7 2. Nf5+ Kf7 3. Nxd4 *",
+	"image": "https://www.chess.com/dynboard?fen=5k2/7p/R2N4/8/3q1P2/n5P1/P4PKP/2r5%20w%20-%20-%200%201&size=2"
+}

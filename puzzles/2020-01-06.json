@@ -1,0 +1,8 @@
+{
+	"title": "Stick a Fork In It",
+	"url": "https://www.chess.com/daily/2020-01-06",
+	"publish_time": 1578297600,
+	"fen": "r4r2/pp2R1pk/2b3np/2p2p2/7R/1BP2N2/PP4PP/6K1 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"r4r2/pp2R1pk/2b3np/2p2p2/7R/1BP2N2/PP4PP/6K1 w - - 0 1\"]\r\n\r\n1.Ng5+ Kh8 2.Rxh6+ gxh6 3.Rh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4r2/pp2R1pk/2b3np/2p2p2/7R/1BP2N2/PP4PP/6K1%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Spring Ahead",
+	"url": "https://www.chess.com/daily/2021-03-06",
+	"publish_time": 1615017600,
+	"fen": "rn2kb1r/1b1n1pp1/4p3/1N2q1Bp/3N2Q1/8/PPP3PP/2KR3R w kq - 0 15",
+	"pgn": "[Event \"U.S. Open\"]\r\n[Date \"1982\"]\r\n[White \"Donald Griffith\"]\r\n[Black \"Kevin Hopps\"]\r\n[Result \"*\"]\r\n[FEN \"rn2kb1r/1b1n1pp1/4p3/1N2q1Bp/3N2Q1/8/PPP3PP/2KR3R w kq - 0 15\"]\r\n\r\n15.Nc7+ Qxc7 16.Nxe6 Qe5 17.Nc7+ Qxc7 18.Qe2+ Ne5 19.Qxe5+ Be7 20.Qxc7 *",
+	"image": "https://www.chess.com/dynboard?fen=rn2kb1r/1b1n1pp1/4p3/1N2q1Bp/3N2Q1/8/PPP3PP/2KR3R%20w%20kq%20-%200%2015&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Judit's Birthday Surprise 🎉",
+	"url": "https://www.chess.com/daily/2025-07-23",
+	"publish_time": 1753254000,
+	"fen": "k7/1p1q1pp1/p2p4/P2P2P1/4R2r/7r/KPP1Q1R1/8 b - - 0 33",
+	"pgn": "[Event \"Reykjavik op\"]\r\n[Site \"Reykjavik\"]\r\n[Date \"1988.??.??\"]\r\n[White \"Tisdall, Jonathan D\"]\r\n[Black \"Polgar, Judit\"]\r\n[Result \"0-1\"]\r\n[ECO \"B81\"]\r\n[WhiteElo \"2305\"]\r\n[BlackElo \"2510\"]\r\n[FEN \"k7/1p1q1pp1/p2p4/P2P2P1/4R2r/7r/KPP1Q1R1/8 b - - 0 33\"]\r\n\r\n33... Qa4+ 34. Rxa4 Rxa4+ 35. Kb1 Rh1+ 36. Qd1 Rxd1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=k7/1p1q1pp1/p2p4/P2P2P1/4R2r/7r/KPP1Q1R1/8%20b%20-%20-%200%2033&size=2"
+}

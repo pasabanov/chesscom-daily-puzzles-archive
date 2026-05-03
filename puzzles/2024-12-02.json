@@ -1,0 +1,8 @@
+{
+	"title": "Fork First, Capture Later",
+	"url": "https://www.chess.com/daily/2024-12-02",
+	"publish_time": 1733126400,
+	"fen": "3r1r1k/6pp/1p6/p1nb1p2/8/4B1N1/PPP2PPK/R3R3 b - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r1r1k/6pp/1p6/p1nb1p2/8/4B1N1/PPP2PPK/R3R3 b - - 0 1\"]\r\n\r\n1... f4 2. Bxc5 fxg3+ 3. Kxg3 bxc5 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3r1r1k/6pp/1p6/p1nb1p2/8/4B1N1/PPP2PPK/R3R3%20b%20-%20-%200%201&size=2"
+}

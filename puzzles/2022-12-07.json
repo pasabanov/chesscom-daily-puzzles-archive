@@ -1,0 +1,8 @@
+{
+	"title": "Even Grandmasters Blunder...",
+	"url": "https://www.chess.com/daily/2022-12-07",
+	"publish_time": 1670400000,
+	"fen": "rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 10",
+	"pgn": "[Event \"US Chess Chp\"]\r\n[Date \"2022.10.12\"]\r\n[Round \"7.6\"]\r\n[White \"Dominguez Perez, Leinier\"]\r\n[Black \"Moradiabadi, Elshan\"]\r\n[Result \"1-0\"]\r\n[ECO \"C42\"]\r\n[WhiteElo \"2747\"]\r\n[BlackElo \"2534\"]\r\n[SetUp \"1\"]\r\n[FEN \"rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 10\"]\r\n\r\n10. Bxe4 Bxe4 11. Nc3 Bxf3 12. Nxd5 Bxd1 13. Nxe7+ 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1%20w%20-%20-%200%2010&size=2"
+}

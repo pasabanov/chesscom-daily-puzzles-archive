@@ -1,0 +1,8 @@
+{
+	"title": "Pigs on the Loose",
+	"url": "https://www.chess.com/daily/2021-08-21",
+	"publish_time": 1629529200,
+	"fen": "7k/1ppn3p/3p4/3PpQ2/p1P1P3/P3P3/1PK2Nr1/r7 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7k/1ppn3p/3p4/3PpQ2/p1P1P3/P3P3/1PK2Nr1/r7 b - - 0 1\"]\r\n\r\n1...Rf1 2.Qxd7 Rfxf2+ 3.Kc3 Rc2+ 4.Kb4 Rxb2+ 5.Kxa4 Rg8 *",
+	"image": "https://www.chess.com/dynboard?fen=7k/1ppn3p/3p4/3PpQ2/p1P1P3/P3P3/1PK2Nr1/r7%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Magnus Reveals a Birthday Gift",
+	"url": "https://www.chess.com/daily/2023-11-30",
+	"publish_time": 1701331200,
+	"fen": "2rr2k1/pb3pp1/4q2p/2pn4/2Q1P3/P4P2/1P3BPP/2KR2NR b - - 0 23",
+	"pgn": "[Event \"NOR-chT qualifier\"]\r\n[Site \"Norway\"]\r\n[Date \"2001.??.??\"]\r\n[Round \"1\"]\r\n[White \"Gaasland, Glenn\"]\r\n[Black \"Carlsen, Magnus\"]\r\n[Result \"0-1\"]\r\n[ECO \"E32\"]\r\n[BlackElo \"2072\"]\r\n[FEN \"2rr2k1/pb3pp1/4q2p/2pn4/2Q1P3/P4P2/1P3BPP/2KR2NR b - - 0 23\"]\r\n\r\n23... Ne3 24. Rxd8+ Rxd8 25. Qxe6 Rd1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2rr2k1/pb3pp1/4q2p/2pn4/2Q1P3/P4P2/1P3BPP/2KR2NR%20b%20-%20-%200%2023&size=2"
+}

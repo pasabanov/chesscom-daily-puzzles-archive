@@ -1,0 +1,8 @@
+{
+	"title": "Waiting for 1-0",
+	"url": "https://www.chess.com/daily/2024-02-25",
+	"publish_time": 1708848000,
+	"fen": "8/8/8/8/4p3/5pNN/4p3/2K1k3 w - - 0 1",
+	"pgn": "[White \"Loyd, Sam\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/8/8/4p3/5pNN/4p3/2K1k3 w - - 0 1\"]\r\n\r\n1. Nf5 Kf1 2. Ne3+ Ke1 3. Kc2 f2 4. Kc1 f1=Q 5. Nc2# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/8/4p3/5pNN/4p3/2K1k3%20w%20-%20-%200%201&size=2"
+}

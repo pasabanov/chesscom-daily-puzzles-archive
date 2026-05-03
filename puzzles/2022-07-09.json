@@ -1,0 +1,8 @@
+{
+	"title": "Endgame Precision",
+	"url": "https://www.chess.com/daily/2022-07-09",
+	"publish_time": 1657350000,
+	"fen": "8/8/4b3/5qk1/7p/5Q2/5KN1/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/4b3/5qk1/7p/5Q2/5KN1/8 b - - 0 1\"]\r\n\r\n1... Qxf3+ 2. Kxf3 Bd5+ 3. Kf2 h3 4. Ne3 h2 5. Nxd5 h1=Q *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/4b3/5qk1/7p/5Q2/5KN1/8%20b%20-%20-%200%201&size=2"
+}

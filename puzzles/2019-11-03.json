@@ -1,0 +1,8 @@
+{
+	"title": "Pins and Needles",
+	"url": "https://www.chess.com/daily/2019-11-03",
+	"publish_time": 1572764400,
+	"fen": "4R3/pp2R1Bp/2p3k1/4Q1q1/8/5r2/P2r1PPP/6K1 b - - 0 1",
+	"pgn": "[Date \"2014.06.19\"]\r\n[Result \"*\"]\r\n[FEN \"4R3/pp2R1Bp/2p3k1/4Q1q1/8/5r2/P2r1PPP/6K1 b - - 0 1\"]\r\n\r\n1... Rd1+ 2. Qe1 Rxe1+ 3. Rxe1 Kxg7 *",
+	"image": "https://www.chess.com/dynboard?fen=4R3/pp2R1Bp/2p3k1/4Q1q1/8/5r2/P2r1PPP/6K1%20b%20-%20-%200%201&size=2"
+}

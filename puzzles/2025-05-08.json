@@ -1,0 +1,8 @@
+{
+	"title": "Tactical Backtracking",
+	"url": "https://www.chess.com/daily/2025-05-08",
+	"publish_time": 1746687600,
+	"fen": "3r1rk1/ppp2pp1/3q1b1B/2N2P2/4p1Q1/1P6/P1P3PP/5R1K w - - 0 1",
+	"pgn": "[White \"D_Jinny\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"3r1rk1/ppp2pp1/3q1b1B/2N2P2/4p1Q1/1P6/P1P3PP/5R1K w - - 0 1\"]\r\n\r\n1. Bxg7 Bxg7 2. f6 Qxf6 3. Rxf6 Rd1+ 4. Qxd1 *",
+	"image": "https://www.chess.com/dynboard?fen=3r1rk1/ppp2pp1/3q1b1B/2N2P2/4p1Q1/1P6/P1P3PP/5R1K%20w%20-%20-%200%201&size=2"
+}

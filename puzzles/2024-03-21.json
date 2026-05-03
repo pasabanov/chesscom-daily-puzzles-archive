@@ -1,0 +1,8 @@
+{
+	"title": "Tag, You're It!",
+	"url": "https://www.chess.com/daily/2024-03-21",
+	"publish_time": 1711004400,
+	"fen": "r4rk1/p3Rp2/2pp2pp/2n5/3qP3/4R2P/P2N1PP1/3Q2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/p3Rp2/2pp2pp/2n5/3qP3/4R2P/P2N1PP1/3Q2K1 b - - 0 1\"]\r\n\r\n1... Qf6 2. Rc7 Qd8 3. Rxc6 Qd7 4. Rxc5 dxc5 *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/p3Rp2/2pp2pp/2n5/3qP3/4R2P/P2N1PP1/3Q2K1%20b%20-%20-%200%201&size=2"
+}

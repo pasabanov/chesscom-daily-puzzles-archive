@@ -1,0 +1,8 @@
+{
+	"title": "Exploiting Opening Dysfunction",
+	"url": "https://www.chess.com/daily/2018-04-24",
+	"publish_time": 1524553200,
+	"fen": "r1b1kb1r/2p2ppp/p1p2q2/3p2N1/3Qn3/8/PPP2PPP/RNB1R1K1 w kq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1kb1r/2p2ppp/p1p2q2/3p2N1/3Qn3/8/PPP2PPP/RNB1R1K1 w kq - 0 1\"]\r\n\r\n1. Nxe4 dxe4 2. Qxe4+ Be7 3. Bg5 Qxg5 4. Qxc6+ Kf8 5. Qxa8\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1b1kb1r/2p2ppp/p1p2q2/3p2N1/3Qn3/8/PPP2PPP/RNB1R1K1%20w%20kq%20-%200%201&size=2"
+}

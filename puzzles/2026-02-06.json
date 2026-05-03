@@ -1,0 +1,8 @@
+{
+	"title": "Resolving Tension",
+	"url": "https://www.chess.com/daily/2026-02-06",
+	"publish_time": 1770364800,
+	"fen": "6r1/1p1kp3/3n4/3P2pR/1qnR4/1Nr3N1/PQP2PP1/K7 b - - 0 27",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"EnPassantFork\"]\r\n[Result \"0-1\"]\r\n[FEN \"6r1/1p1kp3/3n4/3P2pR/1qnR4/1Nr3N1/PQP2PP1/K7 b - - 0 27\"]\r\n\r\n27... Rxb3 28. cxb3 Qe1+ 29. Qb1 Qc3+ 30. Qb2 Qxb2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6r1/1p1kp3/3n4/3P2pR/1qnR4/1Nr3N1/PQP2PP1/K7%20b%20-%20-%200%2027&size=2"
+}

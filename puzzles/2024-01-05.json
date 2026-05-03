@@ -1,0 +1,8 @@
+{
+	"title": "Will Lightning Strike Twice?",
+	"url": "https://www.chess.com/daily/2024-01-05",
+	"publish_time": 1704441600,
+	"fen": "1k4rr/pp4q1/P7/2Np1p2/1P1P1P1n/2PQ1B1p/5R2/R6K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1k4rr/pp4q1/P7/2Np1p2/1P1P1P1n/2PQ1B1p/5R2/R6K b - - 0 1\"]\r\n\r\n1... Nxf3 2. Qxf3 Qg2+ 3. Rxg2 hxg2+ 4. Kg1 Rh1+ 5. Kf2 Rxa1 *",
+	"image": "https://www.chess.com/dynboard?fen=1k4rr/pp4q1/P7/2Np1p2/1P1P1P1n/2PQ1B1p/5R2/R6K%20b%20-%20-%200%201&size=2"
+}

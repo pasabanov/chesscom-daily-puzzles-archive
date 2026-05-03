@@ -1,0 +1,8 @@
+{
+	"title": "Grandmaster Puzzle Rush",
+	"url": "https://www.chess.com/daily/2025-01-14",
+	"publish_time": 1736841600,
+	"fen": "4r1k1/p4pb1/3qb1p1/np2B1P1/7R/Pn2P1N1/5PB1/1K5R w - - 0 27",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.10.01\"]\r\n[Round \"?\"]\r\n[White \"GMHess\"]\r\n[Black \"penguingm1\"]\r\n[Result \"1-0\"]\r\n[ECO \"A01\"]\r\n[WhiteElo \"2900\"]\r\n[BlackElo \"2999\"]\r\n[FEN \"4r1k1/p4pb1/3qb1p1/np2B1P1/7R/Pn2P1N1/5PB1/1K5R w - - 0 27\"]\r\n\r\n27. Rh8+ Bxh8 28. Rxh8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/p4pb1/3qb1p1/np2B1P1/7R/Pn2P1N1/5PB1/1K5R%20w%20-%20-%200%2027&size=2"
+}

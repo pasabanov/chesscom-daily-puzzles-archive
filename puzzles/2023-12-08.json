@@ -1,0 +1,8 @@
+{
+	"title": "Looming Kingside Loose Ends",
+	"url": "https://www.chess.com/daily/2023-12-08",
+	"publish_time": 1702022400,
+	"fen": "5rk1/r1q2p1p/p3pQ2/1bPp1p2/1R6/3BP3/P4PPP/1R4K1 w - - 0 30",
+	"pgn": "[Event \"Madrid International\"]\r\n[Site \"Madrid\"]\r\n[Date \"1973.11.30\"]\r\n[Round \"4\"]\r\n[White \"Hort, Vlastimil\"]\r\n[Black \"Portisch, Lajos\"]\r\n[Result \"1-0\"]\r\n[FEN \"5rk1/r1q2p1p/p3pQ2/1bPp1p2/1R6/3BP3/P4PPP/1R4K1 w - - 0 30\"]\r\n\r\n30. Rg4+ fxg4 31. Qg5+ Kh8 32. Qh6 Rg8 33. Qxh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/r1q2p1p/p3pQ2/1bPp1p2/1R6/3BP3/P4PPP/1R4K1%20w%20-%20-%200%2030&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Forcing Opponent into a Bad Position",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-08-31",
+	"publish_time": 1251702000,
+	"fen": "3r4/5kpp/Q3pp2/2p2q2/8/P1R1B2P/5PP1/6K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r4/5kpp/Q3pp2/2p2q2/8/P1R1B2P/5PP1/6K1 b - - 0 1\"]\r\n\r\n1...Rd1+ 2. Kh2 Qe5+ 3. f4 Qxc3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3r4/5kpp/Q3pp2/2p2q2/8/P1R1B2P/5PP1/6K1%20b%20-%20-%200%201&size=2"
+}

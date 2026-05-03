@@ -1,0 +1,9 @@
+{
+	"title": "Clever sacrifices",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-05-24",
+	"publish_time": 1179990000,
+	"fen": "4rrk1/pp3ppp/2n5/3N3R/7q/8/PP2Q1PP/3R3K w - - 0 1",
+	"pgn": "[FEN \"4rrk1/pp3ppp/2n5/3N3R/7q/8/PP2Q1PP/3R3K w - - 0 1\"]\r\n[PlyCount \"7\"]\r\n\r\n1. Qxe8 1... Qxh5 2. Ne7+ 2... Nxe7 3. Qxf8+ 3... Kxf8 4. Rd8# *",
+	"image": "https://www.chess.com/dynboard?fen=4rrk1/pp3ppp/2n5/3N3R/7q/8/PP2Q1PP/3R3K%20w%20-%20-%200%201&size=2"
+}

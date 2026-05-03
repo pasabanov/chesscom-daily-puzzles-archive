@@ -1,0 +1,9 @@
+{
+	"title": "Powerful Bishops",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-06-18",
+	"publish_time": 1182150000,
+	"fen": "r1bqk2r/pppn1pp1/5n1p/2B5/2B1p3/2N5/PPP1Q1PP/R4RK1 w kq - 0 1",
+	"pgn": "[FEN \"r1bqk2r/pppn1pp1/5n1p/2B5/2B1p3/2N5/PPP1Q1PP/R4RK1 w kq - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1. Qxe4+ $3 1... Nxe4 2. Bxf7# *",
+	"image": "https://www.chess.com/dynboard?fen=r1bqk2r/pppn1pp1/5n1p/2B5/2B1p3/2N5/PPP1Q1PP/R4RK1%20w%20kq%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Just Enough Time",
+	"url": "https://www.chess.com/daily/2019-06-07",
+	"publish_time": 1559890800,
+	"fen": "r5k1/3n1r1p/p1qpP1p1/8/3Q4/1P3b2/PB4PP/R4R1K b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5k1/3n1r1p/p1qpP1p1/8/3Q4/1P3b2/PB4PP/R4R1K b - - 0 1\"]\r\n\r\n1...Bxg2+ 2. Kg1 Rxf1+ 3. Rxf1 Ne5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/3n1r1p/p1qpP1p1/8/3Q4/1P3b2/PB4PP/R4R1K%20b%20-%20-%200%201&size=2"
+}

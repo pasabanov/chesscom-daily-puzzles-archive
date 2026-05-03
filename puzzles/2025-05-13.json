@@ -1,0 +1,8 @@
+{
+	"title": "Opening Knight",
+	"url": "https://www.chess.com/daily/2025-05-13",
+	"publish_time": 1747119600,
+	"fen": "5rk1/1bp2rp1/1p1p2QP/2p1p3/4qbN1/P1P4R/1P4P1/6K1 w - - 0 1",
+	"pgn": "[White \"Pepe\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5rk1/1bp2rp1/1p1p2QP/2p1p3/4qbN1/P1P4R/1P4P1/6K1 w - - 0 1\"]\r\n\r\n1. Nf6+ Kh8 2. hxg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/1bp2rp1/1p1p2QP/2p1p3/4qbN1/P1P4R/1P4P1/6K1%20w%20-%20-%200%201&size=2"
+}

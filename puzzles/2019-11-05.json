@@ -1,0 +1,8 @@
+{
+	"title": "Junior Speed Chess Championship",
+	"url": "https://www.chess.com/daily/2019-11-05",
+	"publish_time": 1572940800,
+	"fen": "3r2k1/1p3pp1/2p3bp/p1Q1nN2/1q2P3/1B3P2/PP4PP/2R3K1 b - - 0 24",
+	"pgn": "[Date \"2019.06.03\"]\r\n[White \"nihalsarin\"]\r\n[Black \"Konavets\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r2k1/1p3pp1/2p3bp/p1Q1nN2/1q2P3/1B3P2/PP4PP/2R3K1 b - - 0 24\"]\r\n\r\n24... Rd1+ 25. Rxd1 Qxc5+ 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/1p3pp1/2p3bp/p1Q1nN2/1q2P3/1B3P2/PP4PP/2R3K1%20b%20-%20-%200%2024&size=2"
+}

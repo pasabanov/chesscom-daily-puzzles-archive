@@ -1,0 +1,8 @@
+{
+	"title": "Sledgehammer",
+	"url": "https://www.chess.com/daily/2020-04-08",
+	"publish_time": 1586329200,
+	"fen": "5rk1/pppq1pp1/4rP1p/3pPR1Q/4p3/2P3P1/PP4BP/6K1 w - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5rk1/pppq1pp1/4rP1p/3pPR1Q/4p3/2P3P1/PP4BP/6K1 w - - 1 1\"]\r\n\r\n1.Rg5 hxg5 2.Qxg5 Rxf6 3.exf6 *",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/pppq1pp1/4rP1p/3pPR1Q/4p3/2P3P1/PP4BP/6K1%20w%20-%20-%201%201&size=2"
+}

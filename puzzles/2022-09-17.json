@@ -1,0 +1,8 @@
+{
+	"title": "Quality Over Quantity",
+	"url": "https://www.chess.com/daily/2022-09-17",
+	"publish_time": 1663398000,
+	"fen": "2Q3rk/1P4r1/6q1/7p/3P4/4QB1P/P4p2/2R4K b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"2Q3rk/1P4r1/6q1/7p/3P4/4QB1P/P4p2/2R4K b - - 0 1\"]\r\n\r\n1... Qg1+ 2. Rxg1 Rxg1+ 3. Kh2 f1=N# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2Q3rk/1P4r1/6q1/7p/3P4/4QB1P/P4p2/2R4K%20b%20-%20-%200%201&size=2"
+}

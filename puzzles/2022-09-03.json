@@ -1,0 +1,8 @@
+{
+	"title": "Forks, Pins, and Counterattacks",
+	"url": "https://www.chess.com/daily/2022-09-03",
+	"publish_time": 1662188400,
+	"fen": "2r1k2r/1p1bqpp1/p1n2n2/3Pp3/P7/2PB1NPp/1PQN1P1P/R3K2R b KQk - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r1k2r/1p1bqpp1/p1n2n2/3Pp3/P7/2PB1NPp/1PQN1P1P/R3K2R b KQk - 0 1\"]\r\n\r\n1... Nb4 2. Qb1 Nxd3+ 3. Qxd3 e4 4. d6 Qe6 5. Qe2 exf3 *",
+	"image": "https://www.chess.com/dynboard?fen=2r1k2r/1p1bqpp1/p1n2n2/3Pp3/P7/2PB1NPp/1PQN1P1P/R3K2R%20b%20KQk%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Evans on the Eve of Victory",
+	"url": "https://www.chess.com/daily/2021-12-31",
+	"publish_time": 1640937600,
+	"fen": "4bk1r/Q4ppp/1p2q3/8/4B3/8/P4PPP/4R1K1 w - - 0 26",
+	"pgn": "[Event \"USA-ch\"]\r\n[Site \"New York, NY USA\"]\r\n[Date \"1958.12.30\"]\r\n[Round \"9\"]\r\n[White \"Larry Melvyn Evans\"]\r\n[Black \"Arthur Bisguier\"]\r\n[Result \"1-0\"]\r\n[FEN \"4bk1r/Q4ppp/1p2q3/8/4B3/8/P4PPP/4R1K1 w - - 0 26\"]\r\n\r\n26.Qa3+ Qe7 27.Bc6 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4bk1r/Q4ppp/1p2q3/8/4B3/8/P4PPP/4R1K1%20w%20-%20-%200%2026&size=2"
+}

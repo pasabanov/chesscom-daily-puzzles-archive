@@ -1,0 +1,8 @@
+{
+	"title": "Check the Queen's Blindspots",
+	"url": "https://www.chess.com/daily/2024-01-14",
+	"publish_time": 1705219200,
+	"fen": "8/8/8/3p4/3p1q2/5N2/2R2K2/7k w - - 0 1",
+	"pgn": "[White \"Matours, M\"]\r\n[Black \"Study (Variation)\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/8/3p4/3p1q2/5N2/2R2K2/7k w - - 0 1\"]\r\n\r\n1. Rc6 Qe3+ 2. Kg3 d3 3. Ra6 Qc1 4. Ra7 Qh6 5. Ra1+ Qc1 6. Rxc1# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/3p4/3p1q2/5N2/2R2K2/7k%20w%20-%20-%200%201&size=2"
+}

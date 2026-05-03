@@ -1,0 +1,8 @@
+{
+	"title": "Razzle-Dazzle",
+	"url": "https://www.chess.com/daily/2025-08-22",
+	"publish_time": 1755846000,
+	"fen": "r1b1r3/pp2p1bk/1n2P1pp/1BpN4/6nB/5N2/qPQ3PP/2KR4 w - - 0 1",
+	"pgn": "[White \"SamCopeland\"]\r\n[Black \"Chess.com Blitz Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1r3/pp2p1bk/1n2P1pp/1BpN4/6nB/5N2/qPQ3PP/2KR4 w - - 0 1\"]\r\n\r\n1. Qxg6+ Kxg6 2. Bd3+ Kh5 3. Nf4# *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1r3/pp2p1bk/1n2P1pp/1BpN4/6nB/5N2/qPQ3PP/2KR4%20w%20-%20-%200%201&size=2"
+}

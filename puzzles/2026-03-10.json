@@ -1,0 +1,8 @@
+{
+	"title": "All Clear!",
+	"url": "https://www.chess.com/daily/2026-03-10",
+	"publish_time": 1773126000,
+	"fen": "3rr2k/6pp/p1n1p2q/1p2B3/1P2PP2/6P1/P3Q2P/R4R1K b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Smocktopus\"]\r\n[Result \"0-1\"]\r\n[FEN \"3rr2k/6pp/p1n1p2q/1p2B3/1P2PP2/6P1/P3Q2P/R4R1K b - - 0 1\"]\r\n\r\n1... Nxe5 2. fxe5 Rd2 3. Qf3 Qxh2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3rr2k/6pp/p1n1p2q/1p2B3/1P2PP2/6P1/P3Q2P/R4R1K%20b%20-%20-%200%201&size=2"
+}

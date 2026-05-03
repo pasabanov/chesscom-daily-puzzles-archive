@@ -1,0 +1,8 @@
+{
+	"title": "Mutual Vulnerabilities",
+	"url": "https://www.chess.com/daily/2022-05-27",
+	"publish_time": 1653634800,
+	"fen": "2r3k1/pR2bq1p/6pB/4pp2/8/2r4Q/P4PPP/3R2K1 w - - 6 35",
+	"pgn": "[Event \"It\"]\r\n[Site \"Copenhagen (Denmark)\"]\r\n[Date \"1991.??.??\"]\r\n[Round \"?\"]\r\n[White \"Roland Reinhard Greger (Variation from Game)\"]\r\n[Black \"Pia Cramling\"]\r\n[Result \"*\"]\r\n[FEN \"2r3k1/pR2bq1p/6pB/4pp2/8/2r4Q/P4PPP/3R2K1 w - - 6 35\"]\r\n\r\n35.Qxc3 Rxc3 36.Rb8+ Bf8 37.Rdd8 Rc1+ 38.Bxc1 *",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/pR2bq1p/6pB/4pp2/8/2r4Q/P4PPP/3R2K1%20w%20-%20-%206%2035&size=2"
+}

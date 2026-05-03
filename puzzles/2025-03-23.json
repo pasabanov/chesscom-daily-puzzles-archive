@@ -1,0 +1,8 @@
+{
+	"title": "Some Tactical Assembly Required",
+	"url": "https://www.chess.com/daily/2025-03-23",
+	"publish_time": 1742713200,
+	"fen": "2r1r1k1/p2nb2p/1pn3pB/q7/P2PpQ2/2P3NP/1P2B1P1/R4K2 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r1r1k1/p2nb2p/1pn3pB/q7/P2PpQ2/2P3NP/1P2B1P1/R4K2 w - - 0 1\"]\r\n\r\n1. Qf7+ Kxf7 2. Bc4+ Kf6 3. Nxe4+ Kf5 4. g4+ Kxe4 5. Re1+ Kf3 6. Re3# *",
+	"image": "https://www.chess.com/dynboard?fen=2r1r1k1/p2nb2p/1pn3pB/q7/P2PpQ2/2P3NP/1P2B1P1/R4K2%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Trick or Treat!",
+	"url": "https://www.chess.com/daily/2023-10-31",
+	"publish_time": 1698735600,
+	"fen": "rnb1kbnr/ppp1qppp/3p4/1N1PP3/8/8/PPP1QPPP/R1B1KB1R w KQkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rnb1kbnr/ppp1qppp/3p4/1N1PP3/8/8/PPP1QPPP/R1B1KB1R w KQkq - 0 1\"]\r\n\r\n1. Nxc7+ Qxc7 2. exd6+ Be7 3. dxc7 *",
+	"image": "https://www.chess.com/dynboard?fen=rnb1kbnr/ppp1qppp/3p4/1N1PP3/8/8/PPP1QPPP/R1B1KB1R%20w%20KQkq%20-%200%201&size=2"
+}

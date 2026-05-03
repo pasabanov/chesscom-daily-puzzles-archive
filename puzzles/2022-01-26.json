@@ -1,0 +1,8 @@
+{
+	"title": "A Surprise Greeting",
+	"url": "https://www.chess.com/daily/2022-01-26",
+	"publish_time": 1643184000,
+	"fen": "3rk2r/pp1nbppp/2p1p3/4P3/3q4/2NB1Q2/PP4PP/3RR2K w k - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3rk2r/pp1nbppp/2p1p3/4P3/3q4/2NB1Q2/PP4PP/3RR2K w k - 0 1\"]\r\n\r\n1. Bg6 Nxe5 2. Rxe5 Qxd1+ 3. Nxd1 *",
+	"image": "https://www.chess.com/dynboard?fen=3rk2r/pp1nbppp/2p1p3/4P3/3q4/2NB1Q2/PP4PP/3RR2K%20w%20k%20-%200%201&size=2"
+}

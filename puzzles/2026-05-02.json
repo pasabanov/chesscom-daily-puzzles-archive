@@ -1,0 +1,8 @@
+{
+	"title": "Knock Knock",
+	"url": "https://www.chess.com/daily/2026-05-02",
+	"publish_time": 1777705200,
+	"fen": "1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R w - - 0 25",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R w - - 0 25\"]\r\n\r\n25. Nf5 gxf5 26. Bxf5 Re8 27. Bxh7+ Kh8 28. Bg6+ Kg8 29. Qh7+ Kf8 30. Qxf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R%20w%20-%20-%200%2025&size=2"
+}

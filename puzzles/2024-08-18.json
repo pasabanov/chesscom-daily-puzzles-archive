@@ -1,0 +1,8 @@
+{
+	"title": "Many Distractions, No Defense",
+	"url": "https://www.chess.com/daily/2024-08-18",
+	"publish_time": 1723964400,
+	"fen": "r2b1rk1/2q2p1p/p3b2Q/1pn3B1/4Pp2/P1NB4/1PP3PP/R6K w - - 0 21",
+	"pgn": "[Event \"Ch URS (1/2 final)\"]\r\n[Site \"Riga (Latvia)\"]\r\n[Date \"1952.08.18\"]\r\n[Round \"6\"]\r\n[White \"Ravinsky Grigory Ionovich\"]\r\n[Black \"Ilivitzki Georgi A (RUS)\"]\r\n[Result \"1-0\"]\r\n[ECO \"B93\"]\r\n[BlackElo \"2380\"]\r\n[FEN \"r2b1rk1/2q2p1p/p3b2Q/1pn3B1/4Pp2/P1NB4/1PP3PP/R6K w - - 0 21\"]\r\n\r\n21. Bf6 Bxf6 22. e5 Nxd3 23. exf6 Nf2+ 24. Kg1 Nh3+ 25. Kf1 Bc4+ 26. Ne2 Bxe2+\r\n27. Ke1 Qe5 28. Qg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2b1rk1/2q2p1p/p3b2Q/1pn3B1/4Pp2/P1NB4/1PP3PP/R6K%20w%20-%20-%200%2021&size=2"
+}

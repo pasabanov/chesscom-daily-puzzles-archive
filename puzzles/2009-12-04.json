@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-12-04",
+	"publish_time": 1259913600,
+	"fen": "8/2K3Q1/2p2Pp1/2P2pPp/2R2Pkn/2Pp1n1b/6p1/3B1NR1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/2K3Q1/2p2Pp1/2P2pPp/2R2Pkn/2Pp1n1b/6p1/3B1NR1 w - - 0 1\"]\r\n\r\n1. Qe7 d2 2. Re4 fxe4 3. Qxe4 Nf5 4. Qxf3+ Kh4 5. Qf2+ Ng3 6. Qxg3#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/2K3Q1/2p2Pp1/2P2pPp/2R2Pkn/2Pp1n1b/6p1/3B1NR1%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "The Stars Align in St. Louis",
+	"url": "https://www.chess.com/daily/2020-02-18",
+	"publish_time": 1582012800,
+	"fen": "r3k2r/ppq2ppp/2pb2n1/7n/3BP2P/2N2P2/PP2QP2/1K1R1B1R w kq - 5 15",
+	"pgn": "[Event \"Cairns Cup\"]\r\n[Site \"St Louis, MO USA\"]\r\n[Date \"2019.02.15\"]\r\n[Round \"9\"]\r\n[White \"Anna Vitalyevna Zatonskih\"]\r\n[Black \"Marie Sebag\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2428\"]\r\n[BlackElo \"2476\"]\r\n[ECO \"D11\"]\r\n[EventDate \"2019.02.05\"]\r\n[PlyCount \"97\"]\r\n[FEN \"r3k2r/ppq2ppp/2pb2n1/7n/3BP2P/2N2P2/PP2QP2/1K1R1B1R w kq - 5 15\"]\r\n\r\n15.Nb5 cxb5 16.Qxb5+ Kf8 17.Qxh5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/ppq2ppp/2pb2n1/7n/3BP2P/2N2P2/PP2QP2/1K1R1B1R%20w%20kq%20-%205%2015&size=2"
+}

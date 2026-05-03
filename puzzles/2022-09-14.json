@@ -1,0 +1,8 @@
+{
+	"title": "Blind Diagonal",
+	"url": "https://www.chess.com/daily/2022-09-14",
+	"publish_time": 1663138800,
+	"fen": "3r4/6p1/1R2pk2/1bp1p2p/1p1bP2P/1R2NP2/1P1K2P1/8 b - - 0 32",
+	"pgn": "[Event \"Groningen op\"]\r\n[Site \"Groningen\"]\r\n[Date \"1991.??.??\"]\r\n[Round \"4\"]\r\n[White \"Basart, Josep Maria\"]\r\n[Black \"Finegold, Benjamin\"]\r\n[Result \"0-1\"]\r\n[ECO \"D11\"]\r\n[WhiteElo \"2205\"]\r\n[BlackElo \"2455\"]\r\n[FEN \"3r4/6p1/1R2pk2/1bp1p2p/1p1bP2P/1R2NP2/1P1K2P1/8 b - - 0 32\"]\r\n\r\n32... Bxe3+ 33. Kxe3 Bc4 34. R6xb4 cxb4 *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/6p1/1R2pk2/1bp1p2p/1p1bP2P/1R2NP2/1P1K2P1/8%20b%20-%20-%200%2032&size=2"
+}

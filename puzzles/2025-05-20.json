@@ -1,0 +1,8 @@
+{
+	"title": "Bullet Oversight, Puzzle Knockout",
+	"url": "https://www.chess.com/daily/2025-05-20",
+	"publish_time": 1747724400,
+	"fen": "3R4/pb3p1k/1pq1pP1p/2p2n1P/6p1/1PP2NP1/P4P2/2Q3K1 w - - 16 39",
+	"pgn": "[Event \"Chess.com\"]\r\n[White \"pepe\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3R4/pb3p1k/1pq1pP1p/2p2n1P/6p1/1PP2NP1/P4P2/2Q3K1 w - - 16 39\"]\r\n[TimeControl \"Bullet Game\"]\r\n\r\n39. Qxh6+ Nxh6 40. Ng5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3R4/pb3p1k/1pq1pP1p/2p2n1P/6p1/1PP2NP1/P4P2/2Q3K1%20w%20-%20-%2016%2039&size=2"
+}

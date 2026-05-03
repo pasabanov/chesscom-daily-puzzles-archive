@@ -1,0 +1,8 @@
+{
+	"title": "Gennady's Legacy",
+	"url": "https://www.chess.com/daily/2020-03-25",
+	"publish_time": 1585119600,
+	"fen": "r1b2rk1/2qpbppp/pnp1p3/2P5/3B1P2/3B4/PP4PP/R2Q1RK1 w - - 0 17",
+	"pgn": "[Event \"USSR Championship\"]\r\n[Site \"Moscow URS\"]\r\n[Date \"1973.10.21\"]\r\n[Round \"14\"]\r\n[White \"Gennadi Kuzmin\"]\r\n[Black \"Evgeni Sveshnikov\"]\r\n[Result \"1-0\"]\r\n[FEN \"r1b2rk1/2qpbppp/pnp1p3/2P5/3B1P2/3B4/PP4PP/R2Q1RK1 w - - 0 17\"]\r\n\r\n17.Bxh7+ Kxh7 18.Qh5+ Kg8 19.Bxg7 Kxg7 20.Qg4+ Kh7 21.Rf3 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1b2rk1/2qpbppp/pnp1p3/2P5/3B1P2/3B4/PP4PP/R2Q1RK1%20w%20-%20-%200%2017&size=2"
+}

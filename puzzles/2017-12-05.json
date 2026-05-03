@@ -1,0 +1,8 @@
+{
+	"title": "Defense Exposed",
+	"url": "https://www.chess.com/daily/2017-12-05",
+	"publish_time": 1512460800,
+	"fen": "r1b2r1k/1pp2ppB/p1np1b1p/2qn2N1/7P/N1P5/PPQB1PP1/4RK1R w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b2r1k/1pp2ppB/p1np1b1p/2qn2N1/7P/N1P5/PPQB1PP1/4RK1R w - - 0 1\"]\r\n\r\n1. Nxf7+ Rxf7 2. Re8+ Rf8 3. Rxf8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1b2r1k/1pp2ppB/p1np1b1p/2qn2N1/7P/N1P5/PPQB1PP1/4RK1R%20w%20-%20-%200%201&size=2"
+}

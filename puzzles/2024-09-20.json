@@ -1,0 +1,8 @@
+{
+	"title": "Promote Early and Often",
+	"url": "https://www.chess.com/daily/2024-09-20",
+	"publish_time": 1726815600,
+	"fen": "8/8/3P4/4p1p1/2k1P1P1/1p5p/pK5P/8 b - - 0 55",
+	"pgn": "[Event \"FIDE World Rapid Team Chess Championship\"]\r\n[Site \"?\"]\r\n[Date \"2024.08.02\"]\r\n[Round \"?\"]\r\n[White \"Arjun Erigaisi\"]\r\n[Black \"Magnus Carlsen\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/8/3P4/4p1p1/2k1P1P1/1p5p/pK5P/8 b - - 0 55\"]\r\n\r\n55... Kd3 56. d7 a1=Q+ 57. Kxa1 Kc2 58. d8=Q b2+ 59. Ka2 b1=Q+ 60. Ka3 Qb3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/8/3P4/4p1p1/2k1P1P1/1p5p/pK5P/8%20b%20-%20-%200%2055&size=2"
+}

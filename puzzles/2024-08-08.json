@@ -1,0 +1,8 @@
+{
+	"title": "First Rank Attraction",
+	"url": "https://www.chess.com/daily/2024-08-08",
+	"publish_time": 1723100400,
+	"fen": "1r4k1/6pp/2pNp3/p2nP2Q/3q4/P6R/N1PBB1P1/3K4 b - - 0 1",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"1r4k1/6pp/2pNp3/p2nP2Q/3q4/P6R/N1PBB1P1/3K4 b - - 0 1\"]\r\n\r\n1... Rb1+ 2. Nc1 Rxc1+ 3. Kxc1 Qa1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/6pp/2pNp3/p2nP2Q/3q4/P6R/N1PBB1P1/3K4%20b%20-%20-%200%201&size=2"
+}

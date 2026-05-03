@@ -1,0 +1,8 @@
+{
+	"title": "Nepo's Knockout",
+	"url": "https://www.chess.com/daily/2023-04-12",
+	"publish_time": 1681282800,
+	"fen": "2rr1b1k/1bq5/p2p1NPp/5P2/2P1PpQ1/7R/6BP/7K w - - 0 34",
+	"pgn": "[Event \"RUS-ch U10\"]\r\n[Site \"Serpukhov\"]\r\n[Date \"2000\"]\r\n[Round \"2\"]\r\n[White \"Nepomniachtchi, Ian (Game Variation)\"]\r\n[Black \"Matlakov, Maxim\"]\r\n[Result \"1-0\"]\r\n[FEN \"2rr1b1k/1bq5/p2p1NPp/5P2/2P1PpQ1/7R/6BP/7K w - - 0 34\"]\r\n\r\n34. g7+ Qxg7 35. Rxh6+ Qxh6 36. Qg8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2rr1b1k/1bq5/p2p1NPp/5P2/2P1PpQ1/7R/6BP/7K%20w%20-%20-%200%2034&size=2"
+}

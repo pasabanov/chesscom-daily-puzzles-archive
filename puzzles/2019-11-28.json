@@ -1,0 +1,8 @@
+{
+	"title": "Tryptophan and Tarrasch",
+	"url": "https://www.chess.com/daily/2019-11-28",
+	"publish_time": 1574928000,
+	"fen": "5rk1/p5pp/8/8/2Pbp3/1P4P1/7P/4RN1K b - - 0 36",
+	"pgn": "[Date \"1883.07.16\"]\r\n[White \"Wilhelm Hahn\"]\r\n[Black \"Siegbert Tarrasch\"]\r\n[Result \"0-1\"]\r\n[FEN \"5rk1/p5pp/8/8/2Pbp3/1P4P1/7P/4RN1K b - - 0 36\"]\r\n\r\n36...Bc3 37.Rd1 Rxf1+ 38.Rxf1 e3 39.Kg2 e2 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/p5pp/8/8/2Pbp3/1P4P1/7P/4RN1K%20b%20-%20-%200%2036&size=2"
+}

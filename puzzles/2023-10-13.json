@@ -1,0 +1,8 @@
+{
+	"title": "Checkmate Spiral",
+	"url": "https://www.chess.com/daily/2023-10-13",
+	"publish_time": 1697180400,
+	"fen": "4k2N/4n2p/p2PQ3/1q6/8/b1B5/PP3r1P/2KR2NR b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"4k2N/4n2p/p2PQ3/1q6/8/b1B5/PP3r1P/2KR2NR b - - 0 1\"]\r\n\r\n1... Bxb2+ 2. Kb1 Bxc3+ 3. Qb3 Rb2+ 4. Kc1 Qg5+ 5. Rd2 Qxd2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4k2N/4n2p/p2PQ3/1q6/8/b1B5/PP3r1P/2KR2NR%20b%20-%20-%200%201&size=2"
+}

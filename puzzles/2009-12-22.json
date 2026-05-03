@@ -1,0 +1,9 @@
+{
+	"title": "Check Win",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-12-22",
+	"publish_time": 1261468800,
+	"fen": "5N2/1pq2p1k/p3rnp1/P6p/1P1R4/2rQ2P1/5PKP/3R4 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5N2/1pq2p1k/p3rnp1/P6p/1P1R4/2rQ2P1/5PKP/3R4 b - - 0 1\"]\r\n\r\n1...Kg8 2. Nxe6 Qc6+ 3. Kg1 Rxd3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5N2/1pq2p1k/p3rnp1/P6p/1P1R4/2rQ2P1/5PKP/3R4%20b%20-%20-%200%201&size=2"
+}

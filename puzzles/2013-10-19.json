@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 5",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2013-10-19",
+	"publish_time": 1382166000,
+	"fen": "r1q1r2k/pppb1Q1B/2n5/6N1/2Pp2n1/4B3/PP1N2Pb/K4R2 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1q1r2k/pppb1Q1B/2n5/6N1/2Pp2n1/4B3/PP1N2Pb/K4R2 w - - 0 1\"]\r\n\r\n1. Qh5 Re7 2. Bg6+ Kg8 3. Bf7+ Rxf7 4. Qxf7+ Kh8 5. Qh7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1q1r2k/pppb1Q1B/2n5/6N1/2Pp2n1/4B3/PP1N2Pb/K4R2%20w%20-%20-%200%201&size=2"
+}

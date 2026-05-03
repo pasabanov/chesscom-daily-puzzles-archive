@@ -1,0 +1,8 @@
+{
+	"title": "Trapeze Act",
+	"url": "https://www.chess.com/daily/2026-01-03",
+	"publish_time": 1767427200,
+	"fen": "4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2 w - - 0 1",
+	"pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2 w - - 0 1\"]\r\n\r\n1. R1f5+ Kh6 2. g5+ Kxh5 3. Rg7 Qf8 4. g4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2%20w%20-%20-%200%201&size=2"
+}

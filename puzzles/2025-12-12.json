@@ -1,0 +1,8 @@
+{
+	"title": "Beneath the Surface",
+	"url": "https://www.chess.com/daily/2025-12-12",
+	"publish_time": 1765526400,
+	"fen": "2k5/2p2N1q/3p1p2/p7/1n2r1RB/1NP4B/PP3P1P/1K1R2Q1 b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"EnPassantFork + BryanCFB\"]\r\n[Result \"0-1\"]\r\n[FEN \"2k5/2p2N1q/3p1p2/p7/1n2r1RB/1NP4B/PP3P1P/1K1R2Q1 b - - 0 1\"]\r\n\r\n1... Rxg4+ 2. Rd3 Qxd3+ 3. Ka1 Nc2+ 4. Kb1 Ne1+ 5. Kc1 Qc2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2k5/2p2N1q/3p1p2/p7/1n2r1RB/1NP4B/PP3P1P/1K1R2Q1%20b%20-%20-%200%201&size=2"
+}

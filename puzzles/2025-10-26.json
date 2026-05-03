@@ -1,0 +1,8 @@
+{
+	"title": "The Chase is On!",
+	"url": "https://www.chess.com/daily/2025-10-26",
+	"publish_time": 1761462000,
+	"fen": "1Q1Q4/q3r1pk/5p1p/p6n/B1N4R/3P3b/r4P2/5RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1Q1Q4/q3r1pk/5p1p/p6n/B1N4R/3P3b/r4P2/5RK1 b - - 0 1\"]\r\n\r\n1... Qxf2+ 2. Rxf2 Re1+ 3. Kh2 Rxf2+ 4. Kxh3 Rh1+ 5. Kg4 f5+ 6. Kxh5 g6# *",
+	"image": "https://www.chess.com/dynboard?fen=1Q1Q4/q3r1pk/5p1p/p6n/B1N4R/3P3b/r4P2/5RK1%20b%20-%20-%200%201&size=2"
+}

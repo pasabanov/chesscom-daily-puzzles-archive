@@ -1,0 +1,9 @@
+{
+	"title": "Bada-bada-bing!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-09-09",
+	"publish_time": 1189321200,
+	"fen": "2rrk3/QR3pp1/2n1b2p/1BB1q3/3P4/8/P4PPP/6K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2rrk3/QR3pp1/2n1b2p/1BB1q3/3P4/8/P4PPP/6K1 w - - 0 1\"]\r\n\r\n1. Re7+ Kf8 { the black knight is pinned and cannot capture the rook! }  2. Re8+ { a sacrifice to allow the white queen in the game. }  2... Kxe8 3. Qe7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2rrk3/QR3pp1/2n1b2p/1BB1q3/3P4/8/P4PPP/6K1%20w%20-%20-%200%201&size=2"
+}

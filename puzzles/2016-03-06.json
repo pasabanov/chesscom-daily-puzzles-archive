@@ -1,0 +1,9 @@
+{
+	"title": "King Safety is Important",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2016-03-06",
+	"publish_time": 1457251200,
+	"fen": "r2qr1k1/ppp2p1p/3p1p1B/2b1p3/2B1P3/3P1P1b/PPP2P1P/R2Q1R1K w - - 0 13",
+	"pgn": "[FEN \"r2qr1k1/ppp2p1p/3p1p1B/2b1p3/2B1P3/3P1P1b/PPP2P1P/R2Q1R1K w - - 0 13\"]\r\n[PlyCount \"13\"]\r\n\r\n13. Rg1+ Kh8 14. Bg7+ Kg8 15. Bxf6+ Kf8 16. Rg8+ Kxg8 17. Qg1+ Bg4 18. Qxg4+ Kf8 19. Qg7# \r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2qr1k1/ppp2p1p/3p1p1B/2b1p3/2B1P3/3P1P1b/PPP2P1P/R2Q1R1K%20w%20-%20-%200%2013&size=2"
+}

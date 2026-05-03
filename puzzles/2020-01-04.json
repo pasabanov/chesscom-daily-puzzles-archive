@@ -1,0 +1,8 @@
+{
+	"title": "Crossroads",
+	"url": "https://www.chess.com/daily/2020-01-04",
+	"publish_time": 1578124800,
+	"fen": "2R2b1k/5q2/1p5p/p2P1p2/P4p1B/1P2rB2/5K1P/6R1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2R2b1k/5q2/1p5p/p2P1p2/P4p1B/1P2rB2/5K1P/6R1 w - - 0 1\"]\r\n\r\n1.Bh5 Qxh5 2.Bf6+ Kh7 3.Rc7+ Re7 4.Rxe7+ Bxe7 5.Rg7+ Kh8 6.Rg5+ Bxf6 7.\r\nRxh5 *",
+	"image": "https://www.chess.com/dynboard?fen=2R2b1k/5q2/1p5p/p2P1p2/P4p1B/1P2rB2/5K1P/6R1%20w%20-%20-%200%201&size=2"
+}

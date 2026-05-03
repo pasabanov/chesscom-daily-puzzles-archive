@@ -1,0 +1,8 @@
+{
+	"title": "Nodirbek's Birthday Extravaganza 🎉",
+	"url": "https://www.chess.com/daily/2024-09-18",
+	"publish_time": 1726642800,
+	"fen": "3qrb2/3n1p1k/ppb3p1/2p1BNQn/P1P2P2/1P6/2B3PP/3R2K1 w - - 0 31",
+	"pgn": "[Event \"UZB-ch 1st League\"]\r\n[Site \"Tashkent\"]\r\n[Date \"2014.03.10\"]\r\n[Round \"10\"]\r\n[White \"Abdusattorov, Nodirbek\"]\r\n[Black \"Sattarov, Bobir\"]\r\n[Result \"1-0\"]\r\n[ECO \"C41\"]\r\n[WhiteElo \"2024\"]\r\n[BlackElo \"2271\"]\r\n[FEN \"3qrb2/3n1p1k/ppb3p1/2p1BNQn/P1P2P2/1P6/2B3PP/3R2K1 w - - 0 31\"]\r\n\r\n31. Qxh5+ gxh5 32. Ne7+ Kh6 33. Ng8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3qrb2/3n1p1k/ppb3p1/2p1BNQn/P1P2P2/1P6/2B3PP/3R2K1%20w%20-%20-%200%2031&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Prioritizing Forcing Moves",
+	"url": "https://www.chess.com/daily/2022-08-11",
+	"publish_time": 1660201200,
+	"fen": "3nR3/pp3p2/5rkp/7N/r5P1/2P4P/P4PK1/8 w - - 0 34",
+	"pgn": "[Event \"Cannes op\"]\r\n[Site \"Cannes\"]\r\n[Date \"1992.??.??\"]\r\n[Round \"?\"]\r\n[White \"Huzman, Alexander\"]\r\n[Black \"Letreguilly, Olivier\"]\r\n[Result \"1-0\"]\r\n[ECO \"E11\"]\r\n[WhiteElo \"2505\"]\r\n[BlackElo \"2295\"]\r\n[FEN \"3nR3/pp3p2/5rkp/7N/r5P1/2P4P/P4PK1/8 w - - 0 34\"]\r\n\r\n34. Rg8+ Kh7 35. Nxf6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3nR3/pp3p2/5rkp/7N/r5P1/2P4P/P4PK1/8%20w%20-%20-%200%2034&size=2"
+}

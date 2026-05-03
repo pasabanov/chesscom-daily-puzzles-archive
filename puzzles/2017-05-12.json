@@ -1,0 +1,8 @@
+{
+	"title": "Losing Connection",
+	"url": "https://www.chess.com/daily/2017-05-12",
+	"publish_time": 1494572400,
+	"fen": "5bk1/p5p1/n2q1pN1/1p2pP1Q/1P1p4/P1rP4/2r3B1/R4RK1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5bk1/p5p1/n2q1pN1/1p2pP1Q/1P1p4/P1rP4/2r3B1/R4RK1 w - - 0 1\"]\r\n\r\n1. Bd5+ Qxd5 2. Qh8+ Kf7 3. Qxf8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5bk1/p5p1/n2q1pN1/1p2pP1Q/1P1p4/P1rP4/2r3B1/R4RK1%20w%20-%20-%200%201&size=2"
+}

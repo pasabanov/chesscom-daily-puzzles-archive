@@ -1,0 +1,8 @@
+{
+	"title": "Simple Simplification",
+	"url": "https://www.chess.com/daily/2017-05-25",
+	"publish_time": 1495695600,
+	"fen": "5rk1/1pq2rpp/p7/8/2QNpR2/P3P1PP/1P6/6K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/1pq2rpp/p7/8/2QNpR2/P3P1PP/1P6/6K1 w - - 0 1\"]\r\n\r\n1. Qxc7 Rxc7 2. Rxf8+ Kxf8 3. Ne6+ Ke7 4. Nxc7\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/1pq2rpp/p7/8/2QNpR2/P3P1PP/1P6/6K1%20w%20-%20-%200%201&size=2"
+}

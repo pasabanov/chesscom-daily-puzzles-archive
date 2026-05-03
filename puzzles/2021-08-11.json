@@ -1,0 +1,8 @@
+{
+	"title": "Cannonball",
+	"url": "https://www.chess.com/daily/2021-08-11",
+	"publish_time": 1628665200,
+	"fen": "2r3k1/1p1br1pp/p2p1p2/3Pq3/4PRPP/3B1R2/PP3Q2/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/1p1br1pp/p2p1p2/3Pq3/4PRPP/3B1R2/PP3Q2/6K1 w - - 0 1\"]\r\n\r\n1.Rf5 Bxf5 2.Rxf5 Rc1+ 3.Kg2 Rec7 4.Rxe5 *",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/1p1br1pp/p2p1p2/3Pq3/4PRPP/3B1R2/PP3Q2/6K1%20w%20-%20-%200%201&size=2"
+}

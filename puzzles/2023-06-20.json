@@ -1,0 +1,8 @@
+{
+	"title": "Lean On Me",
+	"url": "https://www.chess.com/daily/2023-06-20",
+	"publish_time": 1687244400,
+	"fen": "8/8/3k1p2/5K1p/3P3p/1b3P1P/p7/2R5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/3k1p2/5K1p/3P3p/1b3P1P/p7/2R5 b - - 0 1\"]\r\n\r\n1... Bc2+ 2. Kxf6 Bb1 3. Rc3 a1=Q *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/3k1p2/5K1p/3P3p/1b3P1P/p7/2R5%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "March to the Back Rank",
+	"url": "https://www.chess.com/daily/2023-03-01",
+	"publish_time": 1677657600,
+	"fen": "4r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/6PP/R6K b - - 0 25",
+	"pgn": "[Event \"USSR Championship\"]\r\n[Site \"Tallinn URS\"]\r\n[Date \"2023.01.20\"]\r\n[Round \"2\"]\r\n[White \"Vladas Mikenas (End of Game Variation)\"]\r\n[Black \"David Bronstein\"]\r\n[Result \"0-1\"]\r\n[ECO \"A53\"]\r\n[SetUp \"1\"]\r\n[FEN \"4r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/6PP/R6K b - - 0 25\"]\r\n[PlyCount \"7\"]\r\n[EventDate \"2023.??.??\"]\r\n\r\n25... Qxa1+ 26. Rb1 Re1+ 27. Rxe1 Qxe1+ 28. Qf1 Qxf1# *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/6PP/R6K%20b%20-%20-%200%2025&size=2"
+}

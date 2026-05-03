@@ -1,0 +1,8 @@
+{
+	"title": "Chessbrah's Icing on the Cake",
+	"url": "https://www.chess.com/daily/2024-05-24",
+	"publish_time": 1716534000,
+	"fen": "1R1Q4/6pk/6rp/3p1q2/3Pp3/4B2P/6PK/3n4 b - - 0 36",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.03.26\"]\r\n[Round \"?\"]\r\n[White \"mbojan\"]\r\n[Black \"hansen\"]\r\n[Result \"0-1\"]\r\n[ECO \"C84\"]\r\n[WhiteElo \"2905\"]\r\n[BlackElo \"2988\"]\r\n[FEN \"1R1Q4/6pk/6rp/3p1q2/3Pp3/4B2P/6PK/3n4 b - - 0 36\"]\r\n\r\n36... Rxg2+ 37. Kxg2 Nxe3+ 38. Kg3 Qf3+ 39. Kh2 Qg2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1R1Q4/6pk/6rp/3p1q2/3Pp3/4B2P/6PK/3n4%20b%20-%20-%200%2036&size=2"
+}

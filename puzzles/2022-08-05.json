@@ -1,0 +1,8 @@
+{
+	"title": "Breaking Down the Castle Walls",
+	"url": "https://www.chess.com/daily/2022-08-05",
+	"publish_time": 1659682800,
+	"fen": "r3k2r/2b2pp1/2bqpn2/pP5p/3P1n2/P1N3PP/BP3P1K/R1BQNR2 b kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3k2r/2b2pp1/2bqpn2/pP5p/3P1n2/P1N3PP/BP3P1K/R1BQNR2 b kq - 0 1\"]\r\n\r\n1... Ng4+ 2. hxg4 hxg4+ 3. Kg1 Rh1# *",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/2b2pp1/2bqpn2/pP5p/3P1n2/P1N3PP/BP3P1K/R1BQNR2%20b%20kq%20-%200%201&size=2"
+}

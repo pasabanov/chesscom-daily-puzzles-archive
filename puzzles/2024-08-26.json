@@ -1,0 +1,8 @@
+{
+	"title": "When in Doubt, Sac Your Opponent's Queen",
+	"url": "https://www.chess.com/daily/2024-08-26",
+	"publish_time": 1724655600,
+	"fen": "r3r1k1/1ppb1pp1/p2p3p/8/1P1bN3/PQ3B2/q1PB2PP/2K1R2R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3r1k1/1ppb1pp1/p2p3p/8/1P1bN3/PQ3B2/q1PB2PP/2K1R2R b - - 0 1\"]\r\n\r\n1... Qa1+ 2. Qb1 Bb2+ 3. Kd1 Qxb1+ *",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/1ppb1pp1/p2p3p/8/1P1bN3/PQ3B2/q1PB2PP/2K1R2R%20b%20-%20-%200%201&size=2"
+}

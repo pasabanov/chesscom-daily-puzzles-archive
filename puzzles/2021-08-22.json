@@ -1,0 +1,8 @@
+{
+	"title": "Light Square Debate",
+	"url": "https://www.chess.com/daily/2021-08-22",
+	"publish_time": 1629615600,
+	"fen": "q5r1/4N1bk/pp1pP2p/2r2p2/P7/2nQ3P/1PB4B/R3R1Kb w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"q5r1/4N1bk/pp1pP2p/2r2p2/P7/2nQ3P/1PB4B/R3R1Kb w - - 0 1\"]\r\n\r\n1.Qxf5+ Rxf5 2.Bxf5+ Kh8 3.Ng6+ Kh7 4.Ne5+ Kh8 5.Nf7# *",
+	"image": "https://www.chess.com/dynboard?fen=q5r1/4N1bk/pp1pP2p/2r2p2/P7/2nQ3P/1PB4B/R3R1Kb%20w%20-%20-%200%201&size=2"
+}

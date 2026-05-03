@@ -1,0 +1,9 @@
+{
+	"title": "Using Checks",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-08-26",
+	"publish_time": 1282806000,
+	"fen": "6k1/5ppp/8/1p2q3/p2R3r/P7/1B3R2/3Q1K2 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/5ppp/8/1p2q3/p2R3r/P7/1B3R2/3Q1K2 b - - 0 1\"]\r\n\r\n1...Rh1+ 2. Kg2 Qh2+ 3. Kf3 Qh5+ 4. Ke3 Rxd1\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5ppp/8/1p2q3/p2R3r/P7/1B3R2/3Q1K2%20b%20-%20-%200%201&size=2"
+}

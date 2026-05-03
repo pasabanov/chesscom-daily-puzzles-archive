@@ -1,0 +1,8 @@
+{
+	"title": "A Grand Plan",
+	"url": "https://www.chess.com/daily/2026-02-28",
+	"publish_time": 1772265600,
+	"fen": "r6k/5rp1/2b1n3/5p1p/2B2n1q/1QP2PN1/P4BPP/1R3RK1 b - - 0 26",
+	"pgn": "[Date \"2026.01.10\"]\r\n[White \"Stalmach, Richard\"]\r\n[Black \"Grandelius, Nils\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2405\"]\r\n[BlackElo \"2660\"]\r\n[FEN \"r6k/5rp1/2b1n3/5p1p/2B2n1q/1QP2PN1/P4BPP/1R3RK1 b - - 0 26\"]\r\n\r\n26... Qh3 27. gxh3 Nxh3+ 28. Kg2 Nef4+ 29. Kh1 Bxf3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r6k/5rp1/2b1n3/5p1p/2B2n1q/1QP2PN1/P4BPP/1R3RK1%20b%20-%20-%200%2026&size=2"
+}

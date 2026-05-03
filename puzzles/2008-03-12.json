@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-03-12",
+	"publish_time": 1205305200,
+	"fen": "4r3/1k2rp2/7R/Q7/1nqp4/8/5PPP/4R1K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4r3/1k2rp2/7R/Q7/1nqp4/8/5PPP/4R1K1 w - - 0 1\"]\r\n\r\n1. Rxe7+ Rxe7 2. Qb6+ Kc8 3. Rh8+ Re8 4. Rxe8+ Kd7 5. Rd8+ Ke7 6. Qd6#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4r3/1k2rp2/7R/Q7/1nqp4/8/5PPP/4R1K1%20w%20-%20-%200%201&size=2"
+}

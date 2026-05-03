@@ -1,0 +1,8 @@
+{
+	"title": "Birthday Brah Checkmate 🍰",
+	"url": "https://www.chess.com/daily/2024-12-30",
+	"publish_time": 1735545600,
+	"fen": "R4Q2/5p1k/2p3bB/1p1n3p/4p2P/2q1P3/5PP1/5K2 b - - 0 1",
+	"pgn": "[Event \"Chess.com blitz\"]\r\n[White \"tgpgoat (Rook added to a8)\"]\r\n[Black \"KNVB Happy Birthday, Aman!\"]\r\n[Result \"1-0\"]\r\n[FEN \"R4Q2/5p1k/2p3bB/1p1n3p/4p2P/2q1P3/5PP1/5K2 b - - 0 1\"]\r\n\r\n1... Qc1+ 2. Ke2 Nc3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=R4Q2/5p1k/2p3bB/1p1n3p/4p2P/2q1P3/5PP1/5K2%20b%20-%20-%200%201&size=2"
+}

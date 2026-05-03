@@ -1,0 +1,8 @@
+{
+	"title": "Major Fall, Minor Lift",
+	"url": "https://www.chess.com/daily/2021-03-27",
+	"publish_time": 1616828400,
+	"fen": "7k/5bpr/4R3/q3b3/1p5N/3B4/p3K1Q1/8 w - - 0 1",
+	"pgn": "[Date \"1901\"]\r\n[White \"Van Woelderen\"]\r\n[Black \"Composition\"]\r\n[Result \"*\"]\r\n[FEN \"7k/5bpr/4R3/q3b3/1p5N/3B4/p3K1Q1/8 w - - 0 1\"]\r\n\r\n1.Re8+ Bxe8 2.Qg6 Bxg6 3.Nxg6+ Kg8 4.Bc4+ Qd5 5.Bxd5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=7k/5bpr/4R3/q3b3/1p5N/3B4/p3K1Q1/8%20w%20-%20-%200%201&size=2"
+}

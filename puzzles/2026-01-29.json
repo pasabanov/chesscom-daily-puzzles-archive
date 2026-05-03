@@ -1,0 +1,8 @@
+{
+	"title": "Beyond the Fork",
+	"url": "https://www.chess.com/daily/2026-01-29",
+	"publish_time": 1769673600,
+	"fen": "2r1r1k1/pp1R1p1p/n5pB/2P1p3/1PB1n3/P6P/7P/2K5 w - - 2 19",
+	"pgn": "[White \"rlefko\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2r1r1k1/pp1R1p1p/n5pB/2P1p3/1PB1n3/P6P/7P/2K5 w - - 2 19\"]\r\n\r\n19. Rxf7 Nd6 20. Rf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r1r1k1/pp1R1p1p/n5pB/2P1p3/1PB1n3/P6P/7P/2K5%20w%20-%20-%202%2019&size=2"
+}

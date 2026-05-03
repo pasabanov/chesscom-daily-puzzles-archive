@@ -1,0 +1,8 @@
+{
+	"title": "Board Awareness",
+	"url": "https://www.chess.com/daily/2021-01-31",
+	"publish_time": 1612080000,
+	"fen": "1k1r4/1pp5/p4Q2/2P5/4NPp1/6Pb/PPP4P/5rRK b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1k1r4/1pp5/p4Q2/2P5/4NPp1/6Pb/PPP4P/5rRK b - - 0 1\"]\r\n\r\n1...Rdd1 2.Qd8+ Rxd8 3.Rxf1 Bxf1 *",
+	"image": "https://www.chess.com/dynboard?fen=1k1r4/1pp5/p4Q2/2P5/4NPp1/6Pb/PPP4P/5rRK%20b%20-%20-%200%201&size=2"
+}

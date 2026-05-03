@@ -1,0 +1,8 @@
+{
+	"title": "A First Rank Adventure",
+	"url": "https://www.chess.com/daily/2025-06-06",
+	"publish_time": 1749193200,
+	"fen": "1br3k1/p4ppp/1p1qp3/8/NP6/Pn1QP2P/4NPP1/3R2K1 b - - 0 25",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"chesstiger787\"]\r\n[Result \"0-1\"]\r\n[FEN \"1br3k1/p4ppp/1p1qp3/8/NP6/Pn1QP2P/4NPP1/3R2K1 b - - 0 25\"]\r\n\r\n25... Qxd3 26. Rxd3 Nc1 27. Rd2 Nxe2+ 28. Rxe2 Rc1+ 29. Re1 Rxe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1br3k1/p4ppp/1p1qp3/8/NP6/Pn1QP2P/4NPP1/3R2K1%20b%20-%20-%200%2025&size=2"
+}

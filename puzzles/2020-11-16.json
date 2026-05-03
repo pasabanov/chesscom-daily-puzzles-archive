@@ -1,0 +1,8 @@
+{
+	"title": "Under Pressure",
+	"url": "https://www.chess.com/daily/2020-11-16",
+	"publish_time": 1605513600,
+	"fen": "r3r1k1/1b1Rqpb1/p5pp/2p1N2n/PpB2n2/1P3N2/1BP2PPP/4QRK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3r1k1/1b1Rqpb1/p5pp/2p1N2n/PpB2n2/1P3N2/1BP2PPP/4QRK1 b - - 0 1\"]\r\n\r\n1...Qxd7 2.Nxd7 Rxe1 3.Rxe1 Bxb2 *",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/1b1Rqpb1/p5pp/2p1N2n/PpB2n2/1P3N2/1BP2PPP/4QRK1%20b%20-%20-%200%201&size=2"
+}

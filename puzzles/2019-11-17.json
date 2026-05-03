@@ -1,0 +1,8 @@
+{
+	"title": "Castles Made of Sand",
+	"url": "https://www.chess.com/daily/2019-11-17",
+	"publish_time": 1573977600,
+	"fen": "4Brk1/pb4p1/1p1b1q2/3p3R/6Q1/2P4P/PP3PP1/R5K1 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"4Brk1/pb4p1/1p1b1q2/3p3R/6Q1/2P4P/PP3PP1/R5K1 b - - 0 1\"]\r\n\r\n1... Qxf2+ 2. Kh1 Qf1+ 3. Rxf1 Rxf1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4Brk1/pb4p1/1p1b1q2/3p3R/6Q1/2P4P/PP3PP1/R5K1%20b%20-%20-%200%201&size=2"
+}

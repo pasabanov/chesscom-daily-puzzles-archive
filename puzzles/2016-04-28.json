@@ -1,0 +1,9 @@
+{
+	"title": "Analysis of Philidor's Defense",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2016-04-28",
+	"publish_time": 1461826800,
+	"fen": "rnbq1bnr/ppp1k1pp/8/4N2Q/3Pp3/8/PPP2PPP/R1B1KB1R w KQ - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rnbq1bnr/ppp1k1pp/8/4N2Q/3Pp3/8/PPP2PPP/R1B1KB1R w KQ - 0 1\"]\r\n\r\n1. Qf7+ Kd6 2. Nc4+ Kc6 3. Na5+ Kb6 4. Qb3+ Bb4+ 5. Qxb4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=rnbq1bnr/ppp1k1pp/8/4N2Q/3Pp3/8/PPP2PPP/R1B1KB1R%20w%20KQ%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Follow the Forcing Moves",
+	"url": "https://www.chess.com/daily/2025-04-12",
+	"publish_time": 1744441200,
+	"fen": "5rk1/3Q3R/p4bpn/4p3/2b1R1P1/2N4P/PP3BK1/2q5 b - - 6 29",
+	"pgn": "[White \"Bikfoot\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"5rk1/3Q3R/p4bpn/4p3/2b1R1P1/2N4P/PP3BK1/2q5 b - - 6 29\"]\r\n\r\n29... Qf1+ 30. Kg3 Bh4+ 31. Kxh4 Qxf2+ 32. Kg5 Qf6+ 33. Kxh6 Qh4+ 34. Kxg6 Rf6#\r\n0-1",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/3Q3R/p4bpn/4p3/2b1R1P1/2N4P/PP3BK1/2q5%20b%20-%20-%206%2029&size=2"
+}

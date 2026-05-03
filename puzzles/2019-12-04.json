@@ -1,0 +1,8 @@
+{
+	"title": "Let's Dance",
+	"url": "https://www.chess.com/daily/2019-12-04",
+	"publish_time": 1575446400,
+	"fen": "1n1q4/5k1p/1pp2bp1/p1p1np2/5N1P/1P2P1P1/PBQ2PB1/6K1 w - - 0 26",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2019.05.26\"]\r\n[White \"ChessQueen\"]\r\n[Black \"ZatonskihAnna\"]\r\n[Result \"1-0\"]\r\n[FEN \"1n1q4/5k1p/1pp2bp1/p1p1np2/5N1P/1P2P1P1/PBQ2PB1/6K1 w - - 0 26\"]\r\n\r\n26.Bxe5 Bxe5 27.Qc4+ Ke8 28.Qg8+ Kd7 29.Qe6+ 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1n1q4/5k1p/1pp2bp1/p1p1np2/5N1P/1P2P1P1/PBQ2PB1/6K1%20w%20-%20-%200%2026&size=2"
+}

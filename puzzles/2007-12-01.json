@@ -1,0 +1,9 @@
+{
+	"title": "How to Stop the Passed Pawns?",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-12-01",
+	"publish_time": 1196496000,
+	"fen": "4R3/8/7R/1K1k4/p7/8/p5r1/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4R3/8/7R/1K1k4/p7/8/p5r1/8 w - - 0 1\"]\r\n\r\n1. Rd8+ Ke5 (1... Ke4 2. Rh4+) 2. Rh1 Rb2+ 3. Kc5 Rb1 (3... Rc2+ 4. Kb4 Rb2+ 5. Ka3 Rb1 6. Rh5+) 4. Rf1 Ke6 (4... a1=Q 5. Re8#) 5. Re8+ Kd7 6. Rfe1 a1=Q 7. R1e7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4R3/8/7R/1K1k4/p7/8/p5r1/8%20w%20-%20-%200%201&size=2"
+}

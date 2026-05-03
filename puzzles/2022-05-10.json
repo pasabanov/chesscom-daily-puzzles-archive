@@ -1,0 +1,8 @@
+{
+	"title": "Tarrasch Captures Your Attention",
+	"url": "https://www.chess.com/daily/2022-05-10",
+	"publish_time": 1652166000,
+	"fen": "r4rk1/2pqbppp/p1n1b3/1p1pP3/3Nn3/1BP5/PP3PPP/RNBQR1K1 w - - 5 12",
+	"pgn": "[Event \"Frankfurt\"]\r\n[Site \"Frankfurt am Main GER\"]\r\n[Date \"1887.08.01\"]\r\n[Round \"20\"]\r\n[White \"Siegbert Tarrasch\"]\r\n[Black \"Johannes Zukertort\"]\r\n[Result \"1-0\"]\r\n[FEN \"r4rk1/2pqbppp/p1n1b3/1p1pP3/3Nn3/1BP5/PP3PPP/RNBQR1K1 w - - 5 12\"]\r\n\r\n12.Nxe6 fxe6 13.Rxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/2pqbppp/p1n1b3/1p1pP3/3Nn3/1BP5/PP3PPP/RNBQR1K1%20w%20-%20-%205%2012&size=2"
+}

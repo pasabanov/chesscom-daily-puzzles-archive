@@ -1,0 +1,8 @@
+{
+	"title": "The Middle of Nowhere",
+	"url": "https://www.chess.com/daily/2020-10-07",
+	"publish_time": 1602054000,
+	"fen": "rn2kb1r/1b1n1pp1/p3N3/1p2q1Bp/6Q1/8/PPP3PP/2KR1B1R w kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rn2kb1r/1b1n1pp1/p3N3/1p2q1Bp/6Q1/8/PPP3PP/2KR1B1R w kq - 0 1\"]\r\n\r\n1.Nc7+ Qxc7 2.Qe2+ Ne5 3.Qxe5+ Qxe5 4.Rd8# *",
+	"image": "https://www.chess.com/dynboard?fen=rn2kb1r/1b1n1pp1/p3N3/1p2q1Bp/6Q1/8/PPP3PP/2KR1B1R%20w%20kq%20-%200%201&size=2"
+}

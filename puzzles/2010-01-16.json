@@ -1,0 +1,9 @@
+{
+	"title": "Solving Complexities",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-01-16",
+	"publish_time": 1263628800,
+	"fen": "8/1P6/p4p2/p1k2Pp1/B1p1K1p1/R1P1P3/5PPp/7n w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/1P6/p4p2/p1k2Pp1/B1p1K1p1/R1P1P3/5PPp/7n w - - 0 1\"]\r\n\r\n1. Ra2 Ng3+ 2. fxg3 h1=Q 3. b8=R Qf1 4. Rc8+ Kd6 5. Rd2+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/1P6/p4p2/p1k2Pp1/B1p1K1p1/R1P1P3/5PPp/7n%20w%20-%20-%200%201&size=2"
+}

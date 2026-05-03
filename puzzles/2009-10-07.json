@@ -1,0 +1,9 @@
+{
+	"title": "King Hunt",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-10-07",
+	"publish_time": 1254898800,
+	"fen": "5r2/4b1k1/p2p1r2/P1P1p3/5np1/BP2R3/6P1/3RN1K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5r2/4b1k1/p2p1r2/P1P1p3/5np1/BP2R3/6P1/3RN1K1 b - - 0 1\"]\r\n\r\n1...Ne2+ 2. Rxe2 Rf1+ 3. Kh2 Rh8+ 4. Kg3 Bh4+ 5. Kxg4 Rf4+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5r2/4b1k1/p2p1r2/P1P1p3/5np1/BP2R3/6P1/3RN1K1%20b%20-%20-%200%201&size=2"
+}

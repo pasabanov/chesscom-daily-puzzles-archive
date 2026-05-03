@@ -1,0 +1,8 @@
+{
+	"title": "An Incredible Missed Opportunity",
+	"url": "https://www.chess.com/daily/2020-05-30",
+	"publish_time": 1590822000,
+	"fen": "8/r3b1k1/4p1p1/2p1P2p/1BP1bP1P/R2p1qP1/3Q3K/R7 b - - 1 51",
+	"pgn": "[Event \"2nd Kolkata GM Open 2015\"]\r\n[Site \"Kolkata IND\"]\r\n[Date \"2015.03.20\"]\r\n[Round \"5.15\"]\r\n[White \"Vijayalakshmi, Subbaraman\"]\r\n[Black \"Ortiz Suarez, Isan Reynaldo\"]\r\n[Result \"1/2-1/2\"]\r\n[WhiteElo \"2319\"]\r\n[BlackElo \"2625\"]\r\n[FEN \"8/r3b1k1/4p1p1/2p1P2p/1BP1bP1P/R2p1qP1/3Q3K/R7 b - - 1 51\"]\r\n\r\n51...Rxa3 52.Bxa3 Bd8 53.Bxc5 Ba5 54.Qf2 d2 55.Qxf3 Bxf3 1/2-1/2",
+	"image": "https://www.chess.com/dynboard?fen=8/r3b1k1/4p1p1/2p1P2p/1BP1bP1P/R2p1qP1/3Q3K/R7%20b%20-%20-%201%2051&size=2"
+}

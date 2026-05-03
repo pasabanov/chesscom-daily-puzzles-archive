@@ -1,0 +1,8 @@
+{
+	"title": "Velimirovic's Fireworks Display",
+	"url": "https://www.chess.com/daily/2022-03-19",
+	"publish_time": 1647673200,
+	"fen": "4rrk1/4Qppp/p2P1n2/1p6/3p4/PB6/1PP3Pq/1K1RR3 w - - 1 22",
+	"pgn": "[Event \"Amsterdam IBM\"]\r\n[Site \"Amsterdam NED\"]\r\n[Date \"1974.07.18\"]\r\n[Round \"3\"]\r\n[White \"Dragoljub Velimirovic\"]\r\n[Black \"Istvan Csom\"]\r\n[Result \"1-0\"]\r\n[FEN \"4rrk1/4Qppp/p2P1n2/1p6/3p4/PB6/1PP3Pq/1K1RR3 w - - 1 22\"]\r\n\r\n22.Bxf7+ Rxf7 23.Qxe8+ Nxe8 24.Rxe8+ Rf8 25.d7 Qd6 26.Rf1 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4rrk1/4Qppp/p2P1n2/1p6/3p4/PB6/1PP3Pq/1K1RR3%20w%20-%20-%201%2022&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 3",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2013-02-13",
+	"publish_time": 1360742400,
+	"fen": "r1b1qrk1/ppp1nNp1/2np3p/2b1p2Q/2B1P3/2N4P/PPPP1PP1/R1B1K2R w KQ - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1qrk1/ppp1nNp1/2np3p/2b1p2Q/2B1P3/2N4P/PPPP1PP1/R1B1K2R w KQ - 0 1\"]\r\n\r\n1. Nxh6+ Kh7 2. Nf7+ Kg8 3. Qh8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1b1qrk1/ppp1nNp1/2np3p/2b1p2Q/2B1P3/2N4P/PPPP1PP1/R1B1K2R%20w%20KQ%20-%200%201&size=2"
+}

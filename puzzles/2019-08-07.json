@@ -1,0 +1,8 @@
+{
+	"title": "Incredible Checkmate",
+	"url": "https://www.chess.com/daily/2019-08-07",
+	"publish_time": 1565161200,
+	"fen": "r2qkb1r/pp2pppp/8/2pB4/3n2b1/2NP2P1/PPP1NP1P/R1BQK2R b KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2qkb1r/pp2pppp/8/2pB4/3n2b1/2NP2P1/PPP1NP1P/R1BQK2R b KQkq - 0 1\"]\r\n\r\n1...Qxd5 2. Nxd5 Nf3+ 3. Kf1 Bh3#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2qkb1r/pp2pppp/8/2pB4/3n2b1/2NP2P1/PPP1NP1P/R1BQK2R%20b%20KQkq%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Gukesh's Grand Entrance",
+	"url": "https://www.chess.com/daily/2024-04-06",
+	"publish_time": 1712386800,
+	"fen": "6kb/3qpp1p/pp1pbnpB/4rNQ1/1P6/P5PB/5P1P/2R3K1 w - - 0 30",
+	"pgn": "[Event \"Sharjah Masters 3rd\"]\r\n[Site \"Sharjah\"]\r\n[Date \"2019.03.23\"]\r\n[Round \"2\"]\r\n[White \"Gukesh, Dommaraju\"]\r\n[Black \"Paramzina, Anastasya\"]\r\n[Result \"1-0\"]\r\n[ECO \"A30\"]\r\n[WhiteElo \"2529\"]\r\n[BlackElo \"2196\"]\r\n[FEN \"6kb/3qpp1p/pp1pbnpB/4rNQ1/1P6/P5PB/5P1P/2R3K1 w - - 0 30\"]\r\n\r\n30. Rc8+ Qxc8 31. Nxe7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6kb/3qpp1p/pp1pbnpB/4rNQ1/1P6/P5PB/5P1P/2R3K1%20w%20-%20-%200%2030&size=2"
+}

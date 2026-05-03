@@ -1,0 +1,8 @@
+{
+	"title": "Knight Knight",
+	"url": "https://www.chess.com/daily/2017-04-21",
+	"publish_time": 1492758000,
+	"fen": "r1b3kr/p1NnQpbp/1pN3pq/8/2P1PP2/6P1/PP5P/R1B1KB1R w KQ - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b3kr/p1NnQpbp/1pN3pq/8/2P1PP2/6P1/PP5P/R1B1KB1R w KQ - 0 1\"]\r\n\r\n1. Qd8+ Bf8 2. Ne7+ Kg7 3. Ne8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1b3kr/p1NnQpbp/1pN3pq/8/2P1PP2/6P1/PP5P/R1B1KB1R%20w%20KQ%20-%200%201&size=2"
+}

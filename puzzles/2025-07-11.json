@@ -1,0 +1,8 @@
+{
+	"title": "Magnetic Playground",
+	"url": "https://www.chess.com/daily/2025-07-11",
+	"publish_time": 1752217200,
+	"fen": "5rk1/ppq2ppb/2p2p1p/8/2QP1b1N/PBP4P/1P2RPP1/7K b - - 3 21",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"MagNiels_Carlsen\"]\r\n[Result \"0-1\"]\r\n[FEN \"5rk1/ppq2ppb/2p2p1p/8/2QP1b1N/PBP4P/1P2RPP1/7K b - - 3 21\"]\r\n\r\n21... g5 22. Nf3 b5 23. Qc5 Bd6 24. Qxd6 Qxd6 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/ppq2ppb/2p2p1p/8/2QP1b1N/PBP4P/1P2RPP1/7K%20b%20-%20-%203%2021&size=2"
+}

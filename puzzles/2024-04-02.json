@@ -1,0 +1,8 @@
+{
+	"title": "It's Not April 1st, It's a Feature!",
+	"url": "https://www.chess.com/daily/2024-04-02",
+	"publish_time": 1712041200,
+	"fen": "r7/1r3pbk/6p1/pp2q2p/4p2P/PNN1Q1P1/1PP2P2/2KR3R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r7/1r3pbk/6p1/pp2q2p/4p2P/PNN1Q1P1/1PP2P2/2KR3R b - - 0 1\"]\r\n\r\n1... Bh6 2. f4 exf3 3. Qxh6+ Kxh6 *",
+	"image": "https://www.chess.com/dynboard?fen=r7/1r3pbk/6p1/pp2q2p/4p2P/PNN1Q1P1/1PP2P2/2KR3R%20b%20-%20-%200%201&size=2"
+}

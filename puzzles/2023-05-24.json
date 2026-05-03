@@ -1,0 +1,8 @@
+{
+	"title": "Sleeping on the Job",
+	"url": "https://www.chess.com/daily/2023-05-24",
+	"publish_time": 1684911600,
+	"fen": "rnb2b1r/ppq2k1p/5pp1/8/2pP4/B1P2N1P/P1P1QPP1/1R2R1K1 w - - 0 17",
+	"pgn": "[Event \"Staunton Memorial\"]\r\n[Site \"Crowthorne ENG\"]\r\n[Date \"2006.08.16\"]\r\n[Round \"3\"]\r\n[White \"Peter K Wells\"]\r\n[Black \"Jonathan Speelman\"]\r\n[Result \"1-0\"]\r\n[ECO \"B06\"]\r\n[WhiteElo \"2480\"]\r\n[BlackElo \"2541\"]\r\n[FEN \"rnb2b1r/ppq2k1p/5pp1/8/2pP4/B1P2N1P/P1P1QPP1/1R2R1K1 w - - 0 17\"]\r\n\r\n17. Qe8+ Kg7 18. Bxf8+ Rxf8 19. Re7+ Kg8 20. Qxf8+ Kxf8 21. Rxc7 *",
+	"image": "https://www.chess.com/dynboard?fen=rnb2b1r/ppq2k1p/5pp1/8/2pP4/B1P2N1P/P1P1QPP1/1R2R1K1%20w%20-%20-%200%2017&size=2"
+}

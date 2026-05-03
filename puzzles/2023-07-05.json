@@ -1,0 +1,8 @@
+{
+	"title": "The Queen's Dream",
+	"url": "https://www.chess.com/daily/2023-07-05",
+	"publish_time": 1688540400,
+	"fen": "7r/4Qpk1/pR4p1/P2p2P1/3P2np/6Pq/2B4P/6BK b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7r/4Qpk1/pR4p1/P2p2P1/3P2np/6Pq/2B4P/6BK b - - 0 1\"]\r\n\r\n1... Nf2+ 2. Bxf2 Qf1+ 3. Bg1 Qf3# *",
+	"image": "https://www.chess.com/dynboard?fen=7r/4Qpk1/pR4p1/P2p2P1/3P2np/6Pq/2B4P/6BK%20b%20-%20-%200%201&size=2"
+}

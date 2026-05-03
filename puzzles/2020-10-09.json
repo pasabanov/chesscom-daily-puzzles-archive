@@ -1,0 +1,8 @@
+{
+	"title": "Sensitive Exposure",
+	"url": "https://www.chess.com/daily/2020-10-09",
+	"publish_time": 1602226800,
+	"fen": "1r2kr2/pQ6/2np4/3N1q1p/7P/8/PbP3B1/1K1R4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r2kr2/pQ6/2np4/3N1q1p/7P/8/PbP3B1/1K1R4 w - - 0 1\"]\r\n\r\n1.Nf6+ Bxf6 2.Bxc6+ Qd7 3.Qxb8+ *",
+	"image": "https://www.chess.com/dynboard?fen=1r2kr2/pQ6/2np4/3N1q1p/7P/8/PbP3B1/1K1R4%20w%20-%20-%200%201&size=2"
+}

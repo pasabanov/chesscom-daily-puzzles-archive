@@ -1,0 +1,8 @@
+{
+	"title": "Last Pattern Standing",
+	"url": "https://www.chess.com/daily/2024-06-21",
+	"publish_time": 1718953200,
+	"fen": "4R3/1p2b1p1/4k1P1/p7/7B/1P6/1r2rP2/3K2R1 b - - 0 33",
+	"pgn": "[Event \"It\"]\r\n[Site \"Stockholm SWE\"]\r\n[Date \"2002.08.07\"]\r\n[Round \"5\"]\r\n[White \"Couso, Luis\"]\r\n[Black \"Gritsak, Orest\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2345\"]\r\n[BlackElo \"2542\"]\r\n[FEN \"4R3/1p2b1p1/4k1P1/p7/7B/1P6/1r2rP2/3K2R1 b - - 0 33\"]\r\n\r\n33... Kd7 34. Rxe7+ Rxe7 35. Bxe7 Rb1+ 36. Ke2 Rxg1 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4R3/1p2b1p1/4k1P1/p7/7B/1P6/1r2rP2/3K2R1%20b%20-%20-%200%2033&size=2"
+}

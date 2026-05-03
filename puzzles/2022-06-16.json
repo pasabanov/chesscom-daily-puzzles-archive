@@ -1,0 +1,8 @@
+{
+	"title": "Aronian's Fingerprints",
+	"url": "https://www.chess.com/daily/2022-06-16",
+	"publish_time": 1655362800,
+	"fen": "2r3k1/pp3p1p/1n2b3/4P3/3KPp2/1N1B4/PP4PP/7R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/pp3p1p/1n2b3/4P3/3KPp2/1N1B4/PP4PP/7R b - - 0 1\"]\r\n\r\n1...Na4 2.Bb5 Rd8+ 3.Bd7 Rxd7# *",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/pp3p1p/1n2b3/4P3/3KPp2/1N1B4/PP4PP/7R%20b%20-%20-%200%201&size=2"
+}

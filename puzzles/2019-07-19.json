@@ -1,0 +1,8 @@
+{
+	"title": "Some Pieces Cannot Be Moved",
+	"url": "https://www.chess.com/daily/2019-07-19",
+	"publish_time": 1563519600,
+	"fen": "r3kb1r/pppq3p/2np1pp1/3Np3/4P1n1/P2PBN2/1PPQ1PPP/R4RK1 w kq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3kb1r/pppq3p/2np1pp1/3Np3/4P1n1/P2PBN2/1PPQ1PPP/R4RK1 w kq - 0 1\"]\r\n\r\n1. h3 Nxe3 2. Nxf6+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3kb1r/pppq3p/2np1pp1/3Np3/4P1n1/P2PBN2/1PPQ1PPP/R4RK1%20w%20kq%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Forcing Chess",
+	"url": "https://www.chess.com/daily/2019-03-07",
+	"publish_time": 1551945600,
+	"fen": "2kr3r/pppn2pp/8/P1Q1Pp2/B2P4/B4pPq/7P/1R5K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2kr3r/pppn2pp/8/P1Q1Pp2/B2P4/B4pPq/7P/1R5K w - - 0 1\"]\r\n\r\n1. Qxc7+ Kxc7 2. Bd6+ Kc8 3. Rc1+ Nc5 4. Rxc5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2kr3r/pppn2pp/8/P1Q1Pp2/B2P4/B4pPq/7P/1R5K%20w%20-%20-%200%201&size=2"
+}

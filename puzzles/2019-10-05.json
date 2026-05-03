@@ -1,0 +1,8 @@
+{
+	"title": "Finding The Entry Point",
+	"url": "https://www.chess.com/daily/2019-10-05",
+	"publish_time": 1570258800,
+	"fen": "r4r2/pp2R1pk/2b3np/2p2p2/7R/1BP2N2/PP4PP/6K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4r2/pp2R1pk/2b3np/2p2p2/7R/1BP2N2/PP4PP/6K1 w - - 0 1\"]\r\n\r\n1. Ng5+ Kh8 2. Rxh6+ gxh6 3. Rh7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4r2/pp2R1pk/2b3np/2p2p2/7R/1BP2N2/PP4PP/6K1%20w%20-%20-%200%201&size=2"
+}

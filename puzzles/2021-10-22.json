@@ -1,0 +1,8 @@
+{
+	"title": "Boiling Point",
+	"url": "https://www.chess.com/daily/2021-10-22",
+	"publish_time": 1634886000,
+	"fen": "3r4/3r2pk/2qbb1pp/p1pN4/P1P2B1P/1P6/3RQ1P1/3R2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r4/3r2pk/2qbb1pp/p1pN4/P1P2B1P/1P6/3RQ1P1/3R2K1 b - - 0 1\"]\r\n\r\n1...Bxf4 2.Nxf4 Bg4 3.Qxg4 Rxd2 4.Rxd2 Rxd2 *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/3r2pk/2qbb1pp/p1pN4/P1P2B1P/1P6/3RQ1P1/3R2K1%20b%20-%20-%200%201&size=2"
+}

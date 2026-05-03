@@ -1,0 +1,8 @@
+{
+	"title": "One Step Back...",
+	"url": "https://www.chess.com/daily/2021-09-28",
+	"publish_time": 1632812400,
+	"fen": "r1r3k1/4qpp1/5n1p/1bpp1Q2/p7/P2PP1P1/1PRN1PBP/2R3K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1r3k1/4qpp1/5n1p/1bpp1Q2/p7/P2PP1P1/1PRN1PBP/2R3K1 b - - 0 1\"]\r\n\r\n1...Bd7 2.Qf4 g5 3.Qf3 Bg4 4.Qxg4 Nxg4 *",
+	"image": "https://www.chess.com/dynboard?fen=r1r3k1/4qpp1/5n1p/1bpp1Q2/p7/P2PP1P1/1PRN1PBP/2R3K1%20b%20-%20-%200%201&size=2"
+}

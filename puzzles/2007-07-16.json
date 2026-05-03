@@ -1,0 +1,9 @@
+{
+	"title": "Take a hike!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-07-16",
+	"publish_time": 1184569200,
+	"fen": "1q5r/1b2Q2p/6k1/r4p2/7P/2N5/PPP3P1/1K3R2 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1q5r/1b2Q2p/6k1/r4p2/7P/2N5/PPP3P1/1K3R2 w - - 0 1\"]\r\n\r\n1. h5+ Kxh5 ( 1... Kh6 2. Qf6+ Kxh5 3. Rh1+ Kg4 4. Qh4# ) 2. Qf7+ Kh4 ( 2... Kh6 3. Qf6+ Kh5 4. Rh1+ Kg4 5. Qh4# ) 3. Qf6+ Kg3 4. Qg5+ Kh2 5. Qh4+ Kxg2 6. Rf2+ Kg1 7. Ne2#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1q5r/1b2Q2p/6k1/r4p2/7P/2N5/PPP3P1/1K3R2%20w%20-%20-%200%201&size=2"
+}

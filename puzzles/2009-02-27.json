@@ -1,0 +1,9 @@
+{
+	"title": "Bronstein Magic",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-02-27",
+	"publish_time": 1235721600,
+	"fen": "r3r1k1/1p1q1ppp/8/p2PN3/1nQP1n2/RP6/3N1PPP/3R2K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3r1k1/1p1q1ppp/8/p2PN3/1nQP1n2/RP6/3N1PPP/3R2K1 b - - 0 1\"]\r\n\r\n1...Rxe5 2. dxe5 Qg4 3. Qf1 Nh3+ 4. Kh1 Qxd1 5. Qxd1 Nxf2+ 6. Kg1 Nxd1\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/1p1q1ppp/8/p2PN3/1nQP1n2/RP6/3N1PPP/3R2K1%20b%20-%20-%200%201&size=2"
+}

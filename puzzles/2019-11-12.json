@@ -1,0 +1,8 @@
+{
+	"title": "Flipping a Coin",
+	"url": "https://www.chess.com/daily/2019-11-12",
+	"publish_time": 1573545600,
+	"fen": "r4rk1/p2p2pp/3p4/1P1bpP2/6Q1/4P3/PP1qBKPP/R6R w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/p2p2pp/3p4/1P1bpP2/6Q1/4P3/PP1qBKPP/R6R w - - 0 1\"]\r\n\r\n1. Rad1 Qc2 2. Rxd5 *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/p2p2pp/3p4/1P1bpP2/6Q1/4P3/PP1qBKPP/R6R%20w%20-%20-%200%201&size=2"
+}

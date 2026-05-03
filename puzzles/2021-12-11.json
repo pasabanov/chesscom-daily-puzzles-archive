@@ -1,0 +1,8 @@
+{
+	"title": "Vishy's 52 Candles",
+	"url": "https://www.chess.com/daily/2021-12-11",
+	"publish_time": 1639209600,
+	"fen": "rn3rk1/pp3p1p/3qb1p1/2p5/2BpPP2/2P2N2/P2Q2PP/R4RK1 w - - 0 15",
+	"pgn": "[Event \"Online Nations Cup Prelim\"]\r\n[Site \"chess.com INT\"]\r\n[Date \"2020.05.07\"]\r\n[Round \"5.1\"]\r\n[White \"Anand, Viswanathan\"]\r\n[Black \"Nepomniachtchi, Ian\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2753\"]\r\n[BlackElo \"2784\"]\r\n[FEN \"rn3rk1/pp3p1p/3qb1p1/2p5/2BpPP2/2P2N2/P2Q2PP/R4RK1 w - - 0 15\"]\r\n\r\n15.f5 Bxc4 16.e5 Qd7 17.f6 Kh8 18.Qh6 Rg8 19.Ng5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rn3rk1/pp3p1p/3qb1p1/2p5/2BpPP2/2P2N2/P2Q2PP/R4RK1%20w%20-%20-%200%2015&size=2"
+}

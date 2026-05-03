@@ -1,0 +1,8 @@
+{
+	"title": "Explosive Development",
+	"url": "https://www.chess.com/daily/2022-01-25",
+	"publish_time": 1643097600,
+	"fen": "rn2k2r/p1p2ppp/1pqbpn2/5b2/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rn2k2r/p1p2ppp/1pqbpn2/5b2/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 1\"]\r\n\r\n1.e4 Nxe4 2.Bb5 Nxc3 3.Bxc6+ Nxc6 4.bxc3 *",
+	"image": "https://www.chess.com/dynboard?fen=rn2k2r/p1p2ppp/1pqbpn2/5b2/3P4/2N2N2/PP2PPPP/R1BQKB1R%20w%20KQkq%20-%200%201&size=2"
+}

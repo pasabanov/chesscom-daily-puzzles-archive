@@ -1,0 +1,8 @@
+{
+	"title": "Kingpin",
+	"url": "https://www.chess.com/daily/2019-12-13",
+	"publish_time": 1576224000,
+	"fen": "2k1rr2/pp4Q1/2B3p1/6B1/2q5/8/P5P1/3R2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2k1rr2/pp4Q1/2B3p1/6B1/2q5/8/P5P1/3R2K1 b - - 0 1\"]\r\n\r\n1... Qc5+ 2. Kh2 Rh8+ 3. Bh6 Qxc6 4. Rc1 Qxc1 *",
+	"image": "https://www.chess.com/dynboard?fen=2k1rr2/pp4Q1/2B3p1/6B1/2q5/8/P5P1/3R2K1%20b%20-%20-%200%201&size=2"
+}

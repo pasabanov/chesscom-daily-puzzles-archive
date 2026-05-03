@@ -1,0 +1,8 @@
+{
+	"title": "Magnus Overlooks a Tactical Shot",
+	"url": "https://www.chess.com/daily/2023-01-18",
+	"publish_time": 1674028800,
+	"fen": "3r3k/2R4p/4B3/8/r1p5/2P1BK2/1b4PP/8 w - - 0 34",
+	"pgn": "[Event \"Opera Euro Rapid KO\"]\r\n[Site \"chess24.com INT\"]\r\n[Date \"2022.12.02\"]\r\n[Round \"2.13\"]\r\n[White \"Carlsen, Magnus (Missed Variation)\"]\r\n[Black \"Vachier Lagrave, Maxime\"]\r\n[Result \"1-0\"]\r\n[ECO \"D85\"]\r\n[WhiteElo \"2862\"]\r\n[BlackElo \"2784\"]\r\n[SetUp \"1\"]\r\n[FEN \"3r3k/2R4p/4B3/8/r1p5/2P1BK2/1b4PP/8 w - - 0 34\"]\r\n[PlyCount \"3\"]\r\n[EventDate \"2022.??.??\"]\r\n[EventType \"rapid\"]\r\n\r\n34. Rc8 Rxc8 35. Bd4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r3k/2R4p/4B3/8/r1p5/2P1BK2/1b4PP/8%20w%20-%20-%200%2034&size=2"
+}

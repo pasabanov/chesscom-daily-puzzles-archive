@@ -1,0 +1,8 @@
+{
+	"title": "Dismantling the Underpinnings",
+	"url": "https://www.chess.com/daily/2020-07-23",
+	"publish_time": 1595487600,
+	"fen": "3r2k1/5pp1/7p/1p1q4/1PnNp3/1Q2P1BP/1b3PP1/1R4K1 b - - 1 31",
+	"pgn": "[Event \"Capablanca - Alekhine World Championship Match\"]\r\n[Site \"Buenos Aires ARG\"]\r\n[Date \"1927.10.26\"]\r\n[Round \"21\"]\r\n[White \"Jose Raul Capablanca\"]\r\n[Black \"Alexander Alekhine\"]\r\n[Result \"*\"]\r\n[ECO \"D63\"]\r\n[PlyCount \"64\"]\r\n[FEN \"3r2k1/5pp1/7p/1p1q4/1PnNp3/1Q2P1BP/1b3PP1/1R4K1 b - - 1 31\"]\r\n\r\n31...Bxd4 32.Rd1 Nxe3 33.Qxd5 Rxd5 *",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/5pp1/7p/1p1q4/1PnNp3/1Q2P1BP/1b3PP1/1R4K1%20b%20-%20-%201%2031&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Playing to Win",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-10-20",
+	"publish_time": 1256022000,
+	"fen": "r3k2r/p3p1bp/2p2np1/1p1p2B1/1qnP1P2/1PNQP1NP/P1P5/1K1R3R b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3k2r/p3p1bp/2p2np1/1p1p2B1/1qnP1P2/1PNQP1NP/P1P5/1K1R3R b - - 0 1\"]\r\n\r\n1...Qa3 2. bxc4 bxc4 3. Qd2 Rb8+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/p3p1bp/2p2np1/1p1p2B1/1qnP1P2/1PNQP1NP/P1P5/1K1R3R%20b%20-%20-%200%201&size=2"
+}

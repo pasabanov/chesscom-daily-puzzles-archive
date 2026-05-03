@@ -1,0 +1,8 @@
+{
+	"title": "Isolating the Elements",
+	"url": "https://www.chess.com/daily/2020-03-15",
+	"publish_time": 1584255600,
+	"fen": "1b4k1/6p1/1q3p1p/pp5Q/8/1P3N2/2r1rPPP/2R2RK1 w - - 3 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1b4k1/6p1/1q3p1p/pp5Q/8/1P3N2/2r1rPPP/2R2RK1 w - - 3 1\"]\r\n\r\n1.Rxc2 Rxc2 2.Qe8+ Kh7 3.Qe4+ f5 4.Qxc2 *",
+	"image": "https://www.chess.com/dynboard?fen=1b4k1/6p1/1q3p1p/pp5Q/8/1P3N2/2r1rPPP/2R2RK1%20w%20-%20-%203%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Duck, Duck, Loose!",
+	"url": "https://www.chess.com/daily/2024-02-15",
+	"publish_time": 1707984000,
+	"fen": "1r3rk1/1b1q1ppp/pp1b4/n2N4/4P3/N1P2B1P/PQ3PP1/1R3RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/1b1q1ppp/pp1b4/n2N4/4P3/N1P2B1P/PQ3PP1/1R3RK1 b - - 0 1\"]\r\n\r\n1... Bxd5 2. exd5 Qa4 3. Nc2 Qf4 4. g3 Qxf3 *",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/1b1q1ppp/pp1b4/n2N4/4P3/N1P2B1P/PQ3PP1/1R3RK1%20b%20-%20-%200%201&size=2"
+}

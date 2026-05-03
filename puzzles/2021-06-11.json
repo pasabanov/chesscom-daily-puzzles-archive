@@ -1,0 +1,8 @@
+{
+	"title": "Step Right Up",
+	"url": "https://www.chess.com/daily/2021-06-11",
+	"publish_time": 1623394800,
+	"fen": "2kr4/pp5Q/2p1p2P/8/4P3/K1n3P1/b2r1PB1/R1R5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2kr4/pp5Q/2p1p2P/8/4P3/K1n3P1/b2r1PB1/R1R5 b - - 0 1\"]\r\n\r\n1...Nb5+ 2.Kb4 R2d4+ 3.Kc5 Nc7 4.Rxa2 b6+ *",
+	"image": "https://www.chess.com/dynboard?fen=2kr4/pp5Q/2p1p2P/8/4P3/K1n3P1/b2r1PB1/R1R5%20b%20-%20-%200%201&size=2"
+}

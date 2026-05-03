@@ -1,0 +1,8 @@
+{
+	"title": "Crossing Wires",
+	"url": "https://www.chess.com/daily/2019-11-01",
+	"publish_time": 1572591600,
+	"fen": "2br3k/2r1q2p/2P1p3/pp2Pp1B/1p3P1Q/2p3R1/P6P/6RK w - - 0 2",
+	"pgn": "[Date \"2019.10.28\"]\r\n[Result \"1-0\"]\r\n[FEN \"2br3k/2r1q2p/2P1p3/pp2Pp1B/1p3P1Q/2p3R1/P6P/6RK w - - 0 2\"]\r\n\r\n2. Bf7 Qxh4 3. Rg8+ Rxg8 4. Rxg8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2br3k/2r1q2p/2P1p3/pp2Pp1B/1p3P1Q/2p3R1/P6P/6RK%20w%20-%20-%200%202&size=2"
+}

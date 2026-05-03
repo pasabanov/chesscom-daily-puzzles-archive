@@ -1,0 +1,8 @@
+{
+	"title": "Checkmate Vibes",
+	"url": "https://www.chess.com/daily/2024-10-09",
+	"publish_time": 1728457200,
+	"fen": "4rb1k/p2b2rp/1q3Q2/5p2/P1B1n2R/1P5P/2P3P1/2B2R1K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4rb1k/p2b2rp/1q3Q2/5p2/P1B1n2R/1P5P/2P3P1/2B2R1K w - - 0 1\"]\r\n\r\n1. Rxh7+ Kxh7 2. Qh4+ Kg6 3. Qh6# *",
+	"image": "https://www.chess.com/dynboard?fen=4rb1k/p2b2rp/1q3Q2/5p2/P1B1n2R/1P5P/2P3P1/2B2R1K%20w%20-%20-%200%201&size=2"
+}

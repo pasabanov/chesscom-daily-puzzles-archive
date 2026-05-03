@@ -1,0 +1,9 @@
+{
+	"title": "Decoy for the Win",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-02-14",
+	"publish_time": 1266134400,
+	"fen": "6k1/5p1p/p2p1Qp1/1p1P3P/4K1P1/1P2RP2/P1rq2B1/8 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/5p1p/p2p1Qp1/1p1P3P/4K1P1/1P2RP2/P1rq2B1/8 b - - 0 1\"]\r\n\r\n1...Qb4+ 2. Qd4 f5+ 3. gxf5 gxf5+ 4. Kxf5 Qxd4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5p1p/p2p1Qp1/1p1P3P/4K1P1/1P2RP2/P1rq2B1/8%20b%20-%20-%200%201&size=2"
+}

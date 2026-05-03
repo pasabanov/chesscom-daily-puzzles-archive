@@ -1,0 +1,8 @@
+{
+	"title": "Kingside Stampede",
+	"url": "https://www.chess.com/daily/2021-12-14",
+	"publish_time": 1639468800,
+	"fen": "r1b4k/1pq3pB/p1nbp2r/3p2N1/3P4/2N1BQ2/PP3PPP/2R2RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b4k/1pq3pB/p1nbp2r/3p2N1/3P4/2N1BQ2/PP3PPP/2R2RK1 b - - 0 1\"]\r\n\r\n1...Bxh2+ 2.Kh1 Bg1+ 3.Qh3 Rxh3+ 4.gxh3 Qh2# *",
+	"image": "https://www.chess.com/dynboard?fen=r1b4k/1pq3pB/p1nbp2r/3p2N1/3P4/2N1BQ2/PP3PPP/2R2RK1%20b%20-%20-%200%201&size=2"
+}

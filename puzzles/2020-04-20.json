@@ -1,0 +1,8 @@
+{
+	"title": "Self Discovery",
+	"url": "https://www.chess.com/daily/2020-04-20",
+	"publish_time": 1587366000,
+	"fen": "r1bqk2r/4ppbp/p1n2np1/1pp5/3P4/2NBBN1P/PPP2PP1/R2QK2R b KQkq - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1bqk2r/4ppbp/p1n2np1/1pp5/3P4/2NBBN1P/PPP2PP1/R2QK2R b KQkq - 1 1\"]\r\n\r\n1...cxd4 2.Nxd4 Nxd4 3.Bxd4 Qxd4 4.Bxb5+ Nd7 *",
+	"image": "https://www.chess.com/dynboard?fen=r1bqk2r/4ppbp/p1n2np1/1pp5/3P4/2NBBN1P/PPP2PP1/R2QK2R%20b%20KQkq%20-%201%201&size=2"
+}

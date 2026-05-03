@@ -1,0 +1,8 @@
+{
+	"title": "Overwhelming the Defenses",
+	"url": "https://www.chess.com/daily/2020-11-04",
+	"publish_time": 1604476800,
+	"fen": "1k6/1p1r1rB1/p1p1pPp1/Q2n4/7R/7P/Pq3PP1/3R2K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1k6/1p1r1rB1/p1p1pPp1/Q2n4/7R/7P/Pq3PP1/3R2K1 w - - 0 1\"]\r\n\r\n1.Rh8+ Ka7 2.Qc5+ Qb6 3.Rxd5 Rxd5 4.Ra8+ Kxa8 5.Qxb6 *",
+	"image": "https://www.chess.com/dynboard?fen=1k6/1p1r1rB1/p1p1pPp1/Q2n4/7R/7P/Pq3PP1/3R2K1%20w%20-%20-%200%201&size=2"
+}

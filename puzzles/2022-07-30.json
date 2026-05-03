@@ -1,0 +1,8 @@
+{
+	"title": "Cross-examining the Rook",
+	"url": "https://www.chess.com/daily/2022-07-30",
+	"publish_time": 1659164400,
+	"fen": "8/p7/8/7p/R5k1/P7/1PP2Kpr/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/p7/8/7p/R5k1/P7/1PP2Kpr/8 b - - 0 1\"]\r\n\r\n1... Kh3 2. Ra5 Rh1 3. Rxh5+ Kg4 4. Kxg2 Rxh5 *",
+	"image": "https://www.chess.com/dynboard?fen=8/p7/8/7p/R5k1/P7/1PP2Kpr/8%20b%20-%20-%200%201&size=2"
+}

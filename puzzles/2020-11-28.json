@@ -1,0 +1,8 @@
+{
+	"title": "Taming the Avalanche",
+	"url": "https://www.chess.com/daily/2020-11-28",
+	"publish_time": 1606550400,
+	"fen": "8/2K5/k7/2p5/2R1p3/3p4/8/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/2K5/k7/2p5/2R1p3/3p4/8/8 w - - 0 1\"]\r\n\r\n1.Kc6 Ka5 2.Kxc5 d2 3.Rd4 e3 4.Rd6 Ka4 5.Kc4 Ka3 6.Kc3 *",
+	"image": "https://www.chess.com/dynboard?fen=8/2K5/k7/2p5/2R1p3/3p4/8/8%20w%20-%20-%200%201&size=2"
+}

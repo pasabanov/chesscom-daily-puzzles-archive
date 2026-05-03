@@ -1,0 +1,8 @@
+{
+	"title": "Critical Exposure",
+	"url": "https://www.chess.com/daily/2021-04-30",
+	"publish_time": 1619766000,
+	"fen": "r3k2r/2pn4/p6p/1pQ3p1/3P4/3q4/PP3PB1/2R3K1 w kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3k2r/2pn4/p6p/1pQ3p1/3P4/3q4/PP3PB1/2R3K1 w kq - 0 1\"]\r\n\r\n1.Re1+ Kd8 2.Qe7+ Kc8 3.Qe8+ Rxe8 4.Rxe8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/2pn4/p6p/1pQ3p1/3P4/3q4/PP3PB1/2R3K1%20w%20kq%20-%200%201&size=2"
+}

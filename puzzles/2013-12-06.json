@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 8",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2013-12-06",
+	"publish_time": 1386316800,
+	"fen": "r2q1rk1/4bppp/4pn2/3pN1B1/3P4/pbPB3Q/1P3PPP/3RR1K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2q1rk1/4bppp/4pn2/3pN1B1/3P4/pbPB3Q/1P3PPP/3RR1K1 w - - 0 1\"]\r\n\r\n1. Bxf6 h6 2. Ng4 Bxf6 3. Nxh6+ gxh6 4. Qxh6 Re8 5. Bh7+ Kh8 6. Bg6+ Kg8 7.Qh7+ Kf8 8. Qxf7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2q1rk1/4bppp/4pn2/3pN1B1/3P4/pbPB3Q/1P3PPP/3RR1K1%20w%20-%20-%200%201&size=2"
+}

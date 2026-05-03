@@ -1,0 +1,8 @@
+{
+	"title": "Trail of Crumbs",
+	"url": "https://www.chess.com/daily/2020-08-23",
+	"publish_time": 1598166000,
+	"fen": "3r1r2/1p4k1/1pp1p2p/1P2Pp2/4b1P1/1RP1B1KP/P3R3/8 b - g3 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r1r2/1p4k1/1pp1p2p/1P2Pp2/4b1P1/1RP1B1KP/P3R3/8 b - g3 0 1\"]\r\n\r\n1...f4+ 2.Bxf4 Rd3+ 3.Re3 Rxe3+ 4.Bxe3 Rf3+ 5.Kh2 Rxe3 *",
+	"image": "https://www.chess.com/dynboard?fen=3r1r2/1p4k1/1pp1p2p/1P2Pp2/4b1P1/1RP1B1KP/P3R3/8%20b%20-%20g3%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "End To End",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2016-03-14",
+	"publish_time": 1457938800,
+	"fen": "1Q2B3/8/8/8/4q3/3k4/7K/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1Q2B3/8/8/8/4q3/3k4/7K/8 w - - 0 1\"]\r\n\r\n1. Bg6 Qxg6 2. Qb1+ Ke3 3. Qxg6\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1Q2B3/8/8/8/4q3/3k4/7K/8%20w%20-%20-%200%201&size=2"
+}

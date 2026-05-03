@@ -1,0 +1,8 @@
+{
+	"title": "Connecting Flight",
+	"url": "https://www.chess.com/daily/2021-07-19",
+	"publish_time": 1626678000,
+	"fen": "1q3k2/2pQ1ppp/3b4/r7/p1P5/P5B1/5PPP/4R1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1q3k2/2pQ1ppp/3b4/r7/p1P5/P5B1/5PPP/4R1K1 w - - 0 1\"]\r\n\r\n1.Bxd6+ cxd6 2.Qe7+ Kg8 3.Qe8+ Qxe8 4.Rxe8# *",
+	"image": "https://www.chess.com/dynboard?fen=1q3k2/2pQ1ppp/3b4/r7/p1P5/P5B1/5PPP/4R1K1%20w%20-%20-%200%201&size=2"
+}

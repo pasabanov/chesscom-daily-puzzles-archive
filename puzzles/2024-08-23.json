@@ -1,0 +1,8 @@
+{
+	"title": "The Check That Doesn't Bounce",
+	"url": "https://www.chess.com/daily/2024-08-23",
+	"publish_time": 1724396400,
+	"fen": "k6r/p4Qp1/1pN2n2/8/P2P3r/q6P/5RPK/4R3 b - - 0 1",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"k6r/p4Qp1/1pN2n2/8/P2P3r/q6P/5RPK/4R3 b - - 0 1\"]\r\n\r\n1... Rxh3+ 2. gxh3 Qxh3+ 3. Kg1 Qh1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=k6r/p4Qp1/1pN2n2/8/P2P3r/q6P/5RPK/4R3%20b%20-%20-%200%201&size=2"
+}

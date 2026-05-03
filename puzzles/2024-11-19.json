@@ -1,0 +1,8 @@
+{
+	"title": "King Around the Rosie",
+	"url": "https://www.chess.com/daily/2024-11-19",
+	"publish_time": 1732003200,
+	"fen": "8/6Q1/8/8/4q3/8/1K2p3/4k3 w - - 0 85",
+	"pgn": "[Event \"Ch URS (team)\"]\r\n[Site \"Riga (Latvia)\"]\r\n[Date \"1954.??.??\"]\r\n[Round \"?\"]\r\n[White \"Batuev Andrey Mikhailovich\"]\r\n[Black \"Vladimir P Simagin\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/6Q1/8/8/4q3/8/1K2p3/4k3 w - - 0 85\"]\r\n\r\n85. Qg1+ Kd2 86. Qc1+ Kd3 87. Qc3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/6Q1/8/8/4q3/8/1K2p3/4k3%20w%20-%20-%200%2085&size=2"
+}

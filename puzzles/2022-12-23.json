@@ -1,0 +1,8 @@
+{
+	"title": "A Long Way to Run",
+	"url": "https://www.chess.com/daily/2022-12-23",
+	"publish_time": 1671782400,
+	"fen": "1R4r1/3p1p1p/2pQpk2/8/2N1bP2/2P3np/1P5K/2B5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1R4r1/3p1p1p/2pQpk2/8/2N1bP2/2P3np/1P5K/2B5 b - - 0 1\"]\r\n\r\n1... Nf1+ 2. Kxh3 Bf5+ 3. Kh4 Rg4+ 4. Kh5 Ng3+ 5. Kh6 Rh4# *",
+	"image": "https://www.chess.com/dynboard?fen=1R4r1/3p1p1p/2pQpk2/8/2N1bP2/2P3np/1P5K/2B5%20b%20-%20-%200%201&size=2"
+}

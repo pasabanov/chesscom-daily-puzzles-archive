@@ -1,0 +1,8 @@
+{
+	"title": "The \"Forget About It\" Pawn",
+	"url": "https://www.chess.com/daily/2021-06-15",
+	"publish_time": 1623740400,
+	"fen": "rn2k1r1/ppp2p1p/5q2/4pb2/2P5/5P2/P2PP1PP/RN1QKBNR b KQq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rn2k1r1/ppp2p1p/5q2/4pb2/2P5/5P2/P2PP1PP/RN1QKBNR b KQq - 0 1\"]\r\n\r\n1...Qh4+ 2.g3 Rxg3 3.Qa4+ Bd7 4.hxg3 Qxg3+ 5.Kd1 Bxa4+ *",
+	"image": "https://www.chess.com/dynboard?fen=rn2k1r1/ppp2p1p/5q2/4pb2/2P5/5P2/P2PP1PP/RN1QKBNR%20b%20KQq%20-%200%201&size=2"
+}

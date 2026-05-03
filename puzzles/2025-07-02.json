@@ -1,0 +1,8 @@
+{
+	"title": "Clearing the Winning Path",
+	"url": "https://www.chess.com/daily/2025-07-02",
+	"publish_time": 1751439600,
+	"fen": "2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Pepe\"]\r\n[Result \"0-1\"]\r\n[FEN \"2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29\"]\r\n\r\n29... Rc1+ 30. Rxc1 Rxc1+ 31. Kxc1 Qe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R%20b%20-%20-%200%2029&size=2"
+}

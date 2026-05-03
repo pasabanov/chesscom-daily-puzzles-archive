@@ -1,0 +1,8 @@
+{
+	"title": "Exit Stage Right",
+	"url": "https://www.chess.com/daily/2021-10-20",
+	"publish_time": 1634713200,
+	"fen": "1r3k2/p3Np2/2p3p1/2P5/5qP1/3R4/PbP1QP2/3K4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3k2/p3Np2/2p3p1/2P5/5qP1/3R4/PbP1QP2/3K4 w - - 0 1\"]\r\n\r\n1.Nxg6+ fxg6 2.Rf3 Rd8+ 3.Ke1 Bc3+ 4.Kf1 *",
+	"image": "https://www.chess.com/dynboard?fen=1r3k2/p3Np2/2p3p1/2P5/5qP1/3R4/PbP1QP2/3K4%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Maurice's Birthday Bombshell",
+	"url": "https://www.chess.com/daily/2024-03-06",
+	"publish_time": 1709712000,
+	"fen": "6k1/p1r2p1p/4p1pB/1p1nP3/4q3/2P5/PP3QPP/2KR4 w - - 0 30",
+	"pgn": "[Event \"Continental op 45'\"]\r\n[Site \"Los Angeles\"]\r\n[Date \"2000.07.28\"]\r\n[Round \"5\"]\r\n[White \"Ashley, Maurice\"]\r\n[Black \"Van Buskirk, Charles Anthony\"]\r\n[Result \"1-0\"]\r\n[FEN \"6k1/p1r2p1p/4p1pB/1p1nP3/4q3/2P5/PP3QPP/2KR4 w - - 0 30\"]\r\n[ECO \"B65\"]\r\n[WhiteElo \"2482\"]\r\n[BlackElo \"2307\"]\r\n\r\n30. Qf6 Nxf6 31. Rd8+ Ne8 32. Rxe8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p1r2p1p/4p1pB/1p1nP3/4q3/2P5/PP3QPP/2KR4%20w%20-%20-%200%2030&size=2"
+}

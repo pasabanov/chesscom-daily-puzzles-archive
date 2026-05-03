@@ -1,0 +1,8 @@
+{
+	"title": "Removing, Creating a Guard",
+	"url": "https://www.chess.com/daily/2025-02-13",
+	"publish_time": 1739433600,
+	"fen": "3r4/5pbk/2p1p1pp/p1P5/4PP2/P1N3P1/1P1rRP2/1KR5 b - - 0 24",
+	"pgn": "[White \"EnpassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r4/5pbk/2p1p1pp/p1P5/4PP2/P1N3P1/1P1rRP2/1KR5 b - - 0 24\"]\r\n\r\n24... Bxc3 25. Rxd2 Bxd2 26. Rd1 a4 27. Kc2 Ba5 28. Rxd8 Bxd8 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3r4/5pbk/2p1p1pp/p1P5/4PP2/P1N3P1/1P1rRP2/1KR5%20b%20-%20-%200%2024&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Trick or Treat",
+	"url": "https://www.chess.com/daily/2020-10-31",
+	"publish_time": 1604127600,
+	"fen": "4r1k1/3b4/Q5p1/1pBP4/1P3Pq1/3R4/P5BP/4b1K1 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/3b4/Q5p1/1pBP4/1P3Pq1/3R4/P5BP/4b1K1 b - - 1 1\"]\r\n\r\n1...Re2 2.Qa8+ Bc8 3.d6 Bh4 4.Rd1 Rxg2+ 5.Qxg2 Qxd1+ *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/3b4/Q5p1/1pBP4/1P3Pq1/3R4/P5BP/4b1K1%20b%20-%20-%201%201&size=2"
+}

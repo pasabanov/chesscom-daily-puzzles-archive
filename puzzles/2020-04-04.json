@@ -1,0 +1,8 @@
+{
+	"title": "Eastbound and Down",
+	"url": "https://www.chess.com/daily/2020-04-04",
+	"publish_time": 1585983600,
+	"fen": "5K1k/R7/8/8/p7/1b6/p2n2N1/8 w - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5K1k/R7/8/8/p7/1b6/p2n2N1/8 w - - 1 1\"]\r\n\r\n1.Nh4 Bc2 2.Ra5 Bd1 3.Ra6 Kh7 4.Nf5 a1=Q 5.Rh6# *",
+	"image": "https://www.chess.com/dynboard?fen=5K1k/R7/8/8/p7/1b6/p2n2N1/8%20w%20-%20-%201%201&size=2"
+}

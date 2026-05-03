@@ -1,0 +1,8 @@
+{
+	"title": "Taking the Scenic Route",
+	"url": "https://www.chess.com/daily/2022-03-29",
+	"publish_time": 1648537200,
+	"fen": "4r1k1/1bn2pb1/ppq3pp/3p4/Q2P4/P1N2N1P/1P3PP1/2R2BK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/1bn2pb1/ppq3pp/3p4/Q2P4/P1N2N1P/1P3PP1/2R2BK1 w - - 0 1\"]\r\n\r\n1.Qxc6 Bxc6 2.Na2 Re6 3.Nb4 Bb7 4.Rxc7 *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/1bn2pb1/ppq3pp/3p4/Q2P4/P1N2N1P/1P3PP1/2R2BK1%20w%20-%20-%200%201&size=2"
+}

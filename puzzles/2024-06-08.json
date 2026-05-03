@@ -1,0 +1,8 @@
+{
+	"title": "Major Piece Tightrope",
+	"url": "https://www.chess.com/daily/2024-06-08",
+	"publish_time": 1717830000,
+	"fen": "5k2/p1Q3R1/3p3p/r7/q5PK/5r2/P4P1P/3R4 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5k2/p1Q3R1/3p3p/r7/q5PK/5r2/P4P1P/3R4 b - - 0 1\"]\r\n\r\n1... Rh5+ 2. Kxh5 Rh3+ 3. Kg6 Qe4+ 4. Kf6 Rf3# *",
+	"image": "https://www.chess.com/dynboard?fen=5k2/p1Q3R1/3p3p/r7/q5PK/5r2/P4P1P/3R4%20b%20-%20-%200%201&size=2"
+}

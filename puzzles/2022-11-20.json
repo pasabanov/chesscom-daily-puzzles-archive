@@ -1,0 +1,8 @@
+{
+	"title": "Troitsky's Pieces Outmatch the Pawns",
+	"url": "https://www.chess.com/daily/2022-11-20",
+	"publish_time": 1668931200,
+	"fen": "8/8/8/8/5N2/p1RK4/pk6/8 w - - 0 1",
+	"pgn": "[White \"Troitsky\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/8/8/5N2/p1RK4/pk6/8 w - - 0 1\"]\r\n\r\n1. Rc2+ Kb3 2. Rc1 Kb2 3. Kd2 a1=Q 4. Nd3+ Ka2 5. Nb4+ Kb2 6. Rxa1 Kxa1 7. Kc1\r\na2 8. Nc2# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/8/5N2/p1RK4/pk6/8%20w%20-%20-%200%201&size=2"
+}

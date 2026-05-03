@@ -1,0 +1,8 @@
+{
+	"title": "Tactics Take Center Stage",
+	"url": "https://www.chess.com/daily/2023-10-06",
+	"publish_time": 1696575600,
+	"fen": "3k3r/2r2p1p/3bpp2/qB1b4/1p3P2/1n2BN2/4Q1PP/3RR2K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3k3r/2r2p1p/3bpp2/qB1b4/1p3P2/1n2BN2/4Q1PP/3RR2K w - - 0 1\"]\r\n\r\n1. Rxd5 exd5 2. Bb6 Qxb6 3. Qe8+ Rxe8 4. Rxe8# *",
+	"image": "https://www.chess.com/dynboard?fen=3k3r/2r2p1p/3bpp2/qB1b4/1p3P2/1n2BN2/4Q1PP/3RR2K%20w%20-%20-%200%201&size=2"
+}

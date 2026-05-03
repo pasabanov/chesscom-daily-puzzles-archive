@@ -1,0 +1,8 @@
+{
+	"title": "Cooldown",
+	"url": "https://www.chess.com/daily/2020-11-22",
+	"publish_time": 1606032000,
+	"fen": "r1b1k1nr/1p2pp2/p2p2p1/P1pN3p/2P1P3/1nqP2P1/R1N1KP1P/1Q3B1R b kq - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1k1nr/1p2pp2/p2p2p1/P1pN3p/2P1P3/1nqP2P1/R1N1KP1P/1Q3B1R b kq - 1 1\"]\r\n\r\n1...Bg4+ 2.f3 Qd2# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k1nr/1p2pp2/p2p2p1/P1pN3p/2P1P3/1nqP2P1/R1N1KP1P/1Q3B1R%20b%20kq%20-%201%201&size=2"
+}

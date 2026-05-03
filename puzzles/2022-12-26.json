@@ -1,0 +1,8 @@
+{
+	"title": "Pushing Your Luck",
+	"url": "https://www.chess.com/daily/2022-12-26",
+	"publish_time": 1672041600,
+	"fen": "1r6/2bn1p1p/p1k2p2/3Rp3/PPP5/1N2P3/4KPPP/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r6/2bn1p1p/p1k2p2/3Rp3/PPP5/1N2P3/4KPPP/8 w - - 0 1\"]\r\n\r\n1. b5+ axb5 2. axb5+ Kb6 3. Rxd7 *",
+	"image": "https://www.chess.com/dynboard?fen=1r6/2bn1p1p/p1k2p2/3Rp3/PPP5/1N2P3/4KPPP/8%20w%20-%20-%200%201&size=2"
+}

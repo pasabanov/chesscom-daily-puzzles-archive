@@ -1,0 +1,8 @@
+{
+	"title": "Grandmaster Loses Loose Piece",
+	"url": "https://www.chess.com/daily/2023-12-04",
+	"publish_time": 1701676800,
+	"fen": "r3k1nr/pp2p1bp/1qn3p1/1B1pP3/Q5b1/5N2/PP1N1PPP/R1B1K2R w KQkq - 0 11",
+	"pgn": "[Event \"52nd Biel GM Blitz 2019\"]\r\n[Site \"Biel SUI\"]\r\n[Date \"2019.07.27\"]\r\n[White \"Peter Leko\"]\r\n[Black \"Nico Georgiadis\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3k1nr/pp2p1bp/1qn3p1/1B1pP3/Q5b1/5N2/PP1N1PPP/R1B1K2R w KQkq - 0 11\"]\r\n\r\n11. Bxc6+ Qxc6 12. Qxg4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3k1nr/pp2p1bp/1qn3p1/1B1pP3/Q5b1/5N2/PP1N1PPP/R1B1K2R%20w%20KQkq%20-%200%2011&size=2"
+}

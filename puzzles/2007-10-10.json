@@ -1,0 +1,9 @@
+{
+	"title": "Decisive Declaration",
+	"comments": "If 2. hxg3 white has mate with Rh5-h1",
+	"url": "https://www.chess.com/daily/2007-10-10",
+	"publish_time": 1191999600,
+	"fen": "2r3k1/ppq2ppp/2b1p3/2br4/1P6/P2B2P1/1BPQ1P1P/2R2RK1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r3k1/ppq2ppp/2b1p3/2br4/1P6/P2B2P1/1BPQ1P1P/2R2RK1 b - - 0 1\"]\r\n\r\n1... Qxg3+ 2. Kh1 (2. hxg3 Rh5) Qf3+ 3. Kg1 Rg5+ 4. Qxg5 Qh1#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/ppq2ppp/2b1p3/2br4/1P6/P2B2P1/1BPQ1P1P/2R2RK1%20b%20-%20-%200%201&size=2"
+}

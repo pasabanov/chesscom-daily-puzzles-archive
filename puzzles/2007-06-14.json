@@ -1,0 +1,9 @@
+{
+	"title": "Can You Trap The Queen?",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-06-14",
+	"publish_time": 1181804400,
+	"fen": "rn2kb1r/ppp2ppp/2b1pq2/8/3P4/3B1N2/PPP2PPP/R1BQK2R w KQkq - 0 1",
+	"pgn": "[FEN \"rn2kb1r/ppp2ppp/2b1pq2/8/3P4/3B1N2/PPP2PPP/R1BQK2R w KQkq - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Bg5 1... Bxf3 2. Qd2 2... Qxd4 3. Bb5+ *",
+	"image": "https://www.chess.com/dynboard?fen=rn2kb1r/ppp2ppp/2b1pq2/8/3P4/3B1N2/PPP2PPP/R1BQK2R%20w%20KQkq%20-%200%201&size=2"
+}

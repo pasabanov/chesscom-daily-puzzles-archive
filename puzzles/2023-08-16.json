@@ -1,0 +1,8 @@
+{
+	"title": "Wobbly Pieces, Teetering King",
+	"url": "https://www.chess.com/daily/2023-08-16",
+	"publish_time": 1692169200,
+	"fen": "2R1r3/p2nqpbk/Bp4pp/3b4/3N4/1P3PB1/PP3QPP/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2R1r3/p2nqpbk/Bp4pp/3b4/3N4/1P3PB1/PP3QPP/6K1 b - - 0 1\"]\r\n\r\n1... Rxc8 2. Bxc8 Qc5 3. Bxd7 Bxd4 4. Qxd4 Qxd4+ *",
+	"image": "https://www.chess.com/dynboard?fen=2R1r3/p2nqpbk/Bp4pp/3b4/3N4/1P3PB1/PP3QPP/6K1%20b%20-%20-%200%201&size=2"
+}

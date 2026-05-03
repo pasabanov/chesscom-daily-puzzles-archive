@@ -1,0 +1,8 @@
+{
+	"title": "Around the World in Five Moves",
+	"url": "https://www.chess.com/daily/2024-02-02",
+	"publish_time": 1706860800,
+	"fen": "q6r/1bR1p1k1/1B3bp1/1p3p2/1P3Pnr/1B1PN1N1/3RQ1P1/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"q6r/1bR1p1k1/1B3bp1/1p3p2/1P3Pnr/1B1PN1N1/3RQ1P1/6K1 b - - 0 1\"]\r\n\r\n1... Rh1+ 2. Nxh1 Rxh1+ 3. Kxh1 Qh8+ 4. Kg1 Qh2+ 5. Kf1 Qh1# *",
+	"image": "https://www.chess.com/dynboard?fen=q6r/1bR1p1k1/1B3bp1/1p3p2/1P3Pnr/1B1PN1N1/3RQ1P1/6K1%20b%20-%20-%200%201&size=2"
+}

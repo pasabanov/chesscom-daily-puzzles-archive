@@ -1,0 +1,8 @@
+{
+	"title": "Forcing Moves Melt Pawn Shields",
+	"url": "https://www.chess.com/daily/2023-12-20",
+	"publish_time": 1703059200,
+	"fen": "7k/bpp4p/p2p3p/P6q/Q1Nn1P2/2PB3P/1P2r1PK/R2R4 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7k/bpp4p/p2p3p/P6q/Q1Nn1P2/2PB3P/1P2r1PK/R2R4 b - - 0 1\"]\r\n\r\n1... Nf3+ 2. Kh1 Qxh3+ 3. gxh3 Rh2# *",
+	"image": "https://www.chess.com/dynboard?fen=7k/bpp4p/p2p3p/P6q/Q1Nn1P2/2PB3P/1P2r1PK/R2R4%20b%20-%20-%200%201&size=2"
+}

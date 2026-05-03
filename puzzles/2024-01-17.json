@@ -1,0 +1,8 @@
+{
+	"title": "Making a Splash",
+	"url": "https://www.chess.com/daily/2024-01-17",
+	"publish_time": 1705478400,
+	"fen": "r1bq2r1/1p5k/2p3p1/p1Pp1p2/Pn1Q4/NP3P2/1B3PBP/4R1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1bq2r1/1p5k/2p3p1/p1Pp1p2/Pn1Q4/NP3P2/1B3PBP/4R1K1 w - - 0 1\"]\r\n\r\n1. Re8 Qxe8 2. Qh4# *",
+	"image": "https://www.chess.com/dynboard?fen=r1bq2r1/1p5k/2p3p1/p1Pp1p2/Pn1Q4/NP3P2/1B3PBP/4R1K1%20w%20-%20-%200%201&size=2"
+}

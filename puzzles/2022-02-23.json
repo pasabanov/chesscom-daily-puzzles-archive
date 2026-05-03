@@ -1,0 +1,8 @@
+{
+	"title": "Goh Your Own Wei",
+	"url": "https://www.chess.com/daily/2022-02-23",
+	"publish_time": 1645603200,
+	"fen": "2br2k1/5pb1/1q1p2pQ/pp4P1/1nr1P3/1N5R/PPP5/1K1B3R w - - 1 30",
+	"pgn": "[Event \"18th Sants Open 2016\"]\r\n[Site \"Barcelona ESP\"]\r\n[Date \"2016.08.19\"]\r\n[Round \"?\"]\r\n[White \"Goh Wei Ming\"]\r\n[Black \"Yoann Le Montagner\"]\r\n[Result \"1-0\"]\r\n[FEN \"2br2k1/5pb1/1q1p2pQ/pp4P1/1nr1P3/1N5R/PPP5/1K1B3R w - - 1 30\"]\r\n\r\n30.Qh8+ Bxh8 31.Rxh8+ Kg7 32.R1h7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2br2k1/5pb1/1q1p2pQ/pp4P1/1nr1P3/1N5R/PPP5/1K1B3R%20w%20-%20-%201%2030&size=2"
+}

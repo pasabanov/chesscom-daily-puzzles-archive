@@ -1,0 +1,8 @@
+{
+	"title": "Mutual Tension",
+	"url": "https://www.chess.com/daily/2021-03-24",
+	"publish_time": 1616569200,
+	"fen": "4r1k1/pbp5/1p5b/4NP1p/1PP3qP/1N1B2P1/P5Q1/4R1K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/pbp5/1p5b/4NP1p/1PP3qP/1N1B2P1/P5Q1/4R1K1 b - - 0 1\"]\r\n\r\n1...Rxe5 2.Rxe5 Bxg2 3.Kxg2 Bf4 *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/pbp5/1p5b/4NP1p/1PP3qP/1N1B2P1/P5Q1/4R1K1%20b%20-%20-%200%201&size=2"
+}

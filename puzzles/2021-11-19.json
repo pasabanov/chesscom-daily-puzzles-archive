@@ -1,0 +1,8 @@
+{
+	"title": "November Rain",
+	"url": "https://www.chess.com/daily/2021-11-19",
+	"publish_time": 1637308800,
+	"fen": "2Q5/6k1/P5p1/1b1P3q/1P2rpP1/7p/7P/R2R3K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2Q5/6k1/P5p1/1b1P3q/1P2rpP1/7p/7P/R2R3K b - - 0 1\"]\r\n\r\n1...Re1+ 2.Rxe1 Qxd5+ 3.Kg1 Qg2# *",
+	"image": "https://www.chess.com/dynboard?fen=2Q5/6k1/P5p1/1b1P3q/1P2rpP1/7p/7P/R2R3K%20b%20-%20-%200%201&size=2"
+}

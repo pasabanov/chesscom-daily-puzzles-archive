@@ -1,0 +1,8 @@
+{
+	"title": "Clearing the Castle",
+	"url": "https://www.chess.com/daily/2023-10-05",
+	"publish_time": 1696489200,
+	"fen": "2r2rk1/p5p1/bp3pP1/3N1P1P/PP1P2p1/8/5P2/3nK2R w K - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r2rk1/p5p1/bp3pP1/3N1P1P/PP1P2p1/8/5P2/3nK2R w K - 0 1\"]\r\n\r\n1. Ne7+ Kh8 2. h6 Rfe8 3. hxg7+ Kxg7 4. Rh7+ Kf8 5. Rf7# *",
+	"image": "https://www.chess.com/dynboard?fen=2r2rk1/p5p1/bp3pP1/3N1P1P/PP1P2p1/8/5P2/3nK2R%20w%20K%20-%200%201&size=2"
+}

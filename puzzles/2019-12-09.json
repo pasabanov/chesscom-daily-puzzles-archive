@@ -1,0 +1,8 @@
+{
+	"title": "Band on the Run",
+	"url": "https://www.chess.com/daily/2019-12-09",
+	"publish_time": 1575878400,
+	"fen": "r1bqkbnr/1pp4p/p1p5/4N1Q1/3PP3/8/PPP2PPP/RN2K2R w KQ - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"r1bqkbnr/1pp4p/p1p5/4N1Q1/3PP3/8/PPP2PPP/RN2K2R w KQ - 0 1\"]\r\n\r\n1. Qh5+ Ke7 2. Qf7+ Kd6 3. Nc4# *",
+	"image": "https://www.chess.com/dynboard?fen=r1bqkbnr/1pp4p/p1p5/4N1Q1/3PP3/8/PPP2PPP/RN2K2R%20w%20KQ%20-%200%201&size=2"
+}

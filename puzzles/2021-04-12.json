@@ -1,0 +1,8 @@
+{
+	"title": "House Warming",
+	"url": "https://www.chess.com/daily/2021-04-12",
+	"publish_time": 1618210800,
+	"fen": "r4rk1/p1p2pp1/Bp1p3p/3P4/4Pn1q/P3R3/1PQ3PP/R6K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/p1p2pp1/Bp1p3p/3P4/4Pn1q/P3R3/1PQ3PP/R6K w - - 0 1\"]\r\n\r\n1.g3 Qh3 2.Bf1 Qg4 3.gxf4 *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/p1p2pp1/Bp1p3p/3P4/4Pn1q/P3R3/1PQ3PP/R6K%20w%20-%20-%200%201&size=2"
+}

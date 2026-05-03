@@ -1,0 +1,8 @@
+{
+	"title": "Gobble Gobble",
+	"url": "https://www.chess.com/daily/2021-11-25",
+	"publish_time": 1637827200,
+	"fen": "1b3rk1/1pq2ppp/p5b1/P7/4N3/QP2BP1P/2r3P1/1R2R1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1b3rk1/1pq2ppp/p5b1/P7/4N3/QP2BP1P/2r3P1/1R2R1K1 w - - 0 1\"]\r\n\r\n1.Nf6+ gxf6 2.Qxf8+ Kxf8 3.Bh6+ Kg8 4.Re8# *",
+	"image": "https://www.chess.com/dynboard?fen=1b3rk1/1pq2ppp/p5b1/P7/4N3/QP2BP1P/2r3P1/1R2R1K1%20w%20-%20-%200%201&size=2"
+}

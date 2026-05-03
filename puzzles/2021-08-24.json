@@ -1,0 +1,8 @@
+{
+	"title": "Breaking Down the Barriers",
+	"url": "https://www.chess.com/daily/2021-08-24",
+	"publish_time": 1629788400,
+	"fen": "8/8/2k5/rR5p/2P2Pp1/1K4P1/8/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/2k5/rR5p/2P2Pp1/1K4P1/8/8 b - - 0 1\"]\r\n\r\n1...Rxb5+ 2.cxb5+ Kxb5 3.Kc3 h4 4.gxh4 g3 5.Kd3 g2 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/2k5/rR5p/2P2Pp1/1K4P1/8/8%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Open Net",
+	"url": "https://www.chess.com/daily/2025-03-05",
+	"publish_time": 1741161600,
+	"fen": "2Q5/5p1r/1p1b1Pk1/p7/P3PpPr/1PR5/2P5/6K1 b - - 0 45",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"2Q5/5p1r/1p1b1Pk1/p7/P3PpPr/1PR5/2P5/6K1 b - - 0 45\"]\r\n\r\n45... Rh1+ 46. Kg2 R7h2+ 47. Kf3 Rf1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2Q5/5p1r/1p1b1Pk1/p7/P3PpPr/1PR5/2P5/6K1%20b%20-%20-%200%2045&size=2"
+}

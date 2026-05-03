@@ -1,0 +1,8 @@
+{
+	"title": "Which Capture Wins Material?",
+	"url": "https://www.chess.com/daily/2023-08-01",
+	"publish_time": 1690873200,
+	"fen": "2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1 b - - 0 1\"]\r\n\r\n1... Rxc1 2. Qxc1 Qxa4 *",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1%20b%20-%20-%200%201&size=2"
+}

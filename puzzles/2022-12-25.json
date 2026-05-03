@@ -1,0 +1,8 @@
+{
+	"title": "A Surprise Coming Down the Chimney",
+	"url": "https://www.chess.com/daily/2022-12-25",
+	"publish_time": 1671955200,
+	"fen": "4K2k/6p1/6P1/3p4/8/8/2B2P1p/5Rn1 w - - 0 1",
+	"pgn": "[Event \"?\"]\r\n[Site \"?\"]\r\n[Date \"????.??.??\"]\r\n[Round \"?\"]\r\n[White \"Salkind, Lazar\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"4K2k/6p1/6P1/3p4/8/8/2B2P1p/5Rn1 w - - 0 1\"]\r\n\r\n1. Be4 dxe4 2. Rd1 h1=Q 3. Rd8 Qh4 4. Ra8 Qf6 5. Kd7+ Qf8 6. Rxf8# *",
+	"image": "https://www.chess.com/dynboard?fen=4K2k/6p1/6P1/3p4/8/8/2B2P1p/5Rn1%20w%20-%20-%200%201&size=2"
+}

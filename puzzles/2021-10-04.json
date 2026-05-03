@@ -1,0 +1,8 @@
+{
+	"title": "Untethered",
+	"url": "https://www.chess.com/daily/2021-10-04",
+	"publish_time": 1633330800,
+	"fen": "r2qk2r/1p3ppp/p3pnn1/2bp2BB/8/2NP2QP/PPP2PP1/R3R1K1 b kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2qk2r/1p3ppp/p3pnn1/2bp2BB/8/2NP2QP/PPP2PP1/R3R1K1 b kq - 0 1\"]\r\n\r\n1...Nxh5 2.Bxd8 Nxg3 *",
+	"image": "https://www.chess.com/dynboard?fen=r2qk2r/1p3ppp/p3pnn1/2bp2BB/8/2NP2QP/PPP2PP1/R3R1K1%20b%20kq%20-%200%201&size=2"
+}

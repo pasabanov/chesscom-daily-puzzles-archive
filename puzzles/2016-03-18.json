@@ -1,0 +1,9 @@
+{
+	"title": "Combinational Play",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2016-03-18",
+	"publish_time": 1458284400,
+	"fen": "4k3/p1P1p1p1/1pq4p/8/1Qn4P/3N2P1/P4P2/4K3 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4k3/p1P1p1p1/1pq4p/8/1Qn4P/3N2P1/P4P2/4K3 w - - 0 1\"]\r\n\r\n1. Qb5 Qxb5 2. c8=Q+ Kf7 3. Qxc4+ Qxc4 4. Ne5+ Ke6 5. Nxc4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4k3/p1P1p1p1/1pq4p/8/1Qn4P/3N2P1/P4P2/4K3%20w%20-%20-%200%201&size=2"
+}

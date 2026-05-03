@@ -1,0 +1,8 @@
+{
+	"title": "Magnetic Force",
+	"url": "https://www.chess.com/daily/2021-10-14",
+	"publish_time": 1634194800,
+	"fen": "2R5/p4pbk/6qp/P7/4n3/5PP1/2Q3P1/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2R5/p4pbk/6qp/P7/4n3/5PP1/2Q3P1/6K1 b - - 0 1\"]\r\n\r\n1...Bd4+ 2.Kf1 Qa6+ 3.Rc4 Qxc4+ 4.Qxc4 Nd2+ 5.Ke2 Nxc4 *",
+	"image": "https://www.chess.com/dynboard?fen=2R5/p4pbk/6qp/P7/4n3/5PP1/2Q3P1/6K1%20b%20-%20-%200%201&size=2"
+}

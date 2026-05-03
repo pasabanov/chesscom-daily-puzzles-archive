@@ -1,0 +1,8 @@
+{
+	"title": "When Pigs Fly",
+	"url": "https://www.chess.com/daily/2021-12-28",
+	"publish_time": 1640678400,
+	"fen": "6k1/p2Q3p/1r4pP/2P5/8/1R6/PP2qr2/1KR5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/p2Q3p/1r4pP/2P5/8/1R6/PP2qr2/1KR5 b - - 0 1\"]\r\n\r\n1...Qxb2+ 2.Rxb2 Rbxb2+ 3.Ka1 Rxa2+ 4.Kb1 Rfb2# *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p2Q3p/1r4pP/2P5/8/1R6/PP2qr2/1KR5%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Forced Mate",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-10-04",
+	"publish_time": 1443942000,
+	"fen": "5rk1/p3qpp1/1p1r2n1/2p1p1pR/4B1P1/2PP2P1/P1P1QPK1/7R w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/p3qpp1/1p1r2n1/2p1p1pR/4B1P1/2PP2P1/P1P1QPK1/7R w - - 0 1\"]\r\n\r\n1. Rh8+ Nxh8 2. Bh7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/p3qpp1/1p1r2n1/2p1p1pR/4B1P1/2PP2P1/P1P1QPK1/7R%20w%20-%20-%200%201&size=2"
+}

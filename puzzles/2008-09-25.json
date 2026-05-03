@@ -1,0 +1,9 @@
+{
+	"title": "Mating Sequence",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-09-25",
+	"publish_time": 1222326000,
+	"fen": "8/P2B1pk1/6p1/1pPRp1np/1B1bP3/7P/6PK/5r2 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/P2B1pk1/6p1/1pPRp1np/1B1bP3/7P/6PK/5r2 b - - 0 1\"]\r\n\r\n1...Bg1+ 2. Kh1 Nxe4 3. g4 Be3+ 4. Kg2 Rf2+ 5. Kh1 Ng3+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/P2B1pk1/6p1/1pPRp1np/1B1bP3/7P/6PK/5r2%20b%20-%20-%200%201&size=2"
+}

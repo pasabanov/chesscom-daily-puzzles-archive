@@ -1,0 +1,8 @@
+{
+	"title": "Spotlight",
+	"url": "https://www.chess.com/daily/2020-09-02",
+	"publish_time": 1599030000,
+	"fen": "k4q2/pb6/1B1p1r2/6n1/Q3B2p/1R1P2P1/7P/4R2K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"k4q2/pb6/1B1p1r2/6n1/Q3B2p/1R1P2P1/7P/4R2K b - - 0 1\"]\r\n\r\n1...Rf1+ 2.Rxf1 Qxf1+ 3.Bg1 Qf3+ 4.Bxf3 Bxf3# *",
+	"image": "https://www.chess.com/dynboard?fen=k4q2/pb6/1B1p1r2/6n1/Q3B2p/1R1P2P1/7P/4R2K%20b%20-%20-%200%201&size=2"
+}

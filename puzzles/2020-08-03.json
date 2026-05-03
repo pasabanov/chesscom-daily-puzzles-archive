@@ -1,0 +1,8 @@
+{
+	"title": "Piecemeal",
+	"url": "https://www.chess.com/daily/2020-08-03",
+	"publish_time": 1596438000,
+	"fen": "4k3/R7/p4K2/7p/2bB3P/r1P5/8/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4k3/R7/p4K2/7p/2bB3P/r1P5/8/8 w - - 0 1\"]\r\n\r\n1.Re7+ Kd8 2.Bb6+ Kc8 3.Rc7+ Kb8 4.Rxc4 *",
+	"image": "https://www.chess.com/dynboard?fen=4k3/R7/p4K2/7p/2bB3P/r1P5/8/8%20w%20-%20-%200%201&size=2"
+}

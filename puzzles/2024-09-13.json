@@ -1,0 +1,8 @@
+{
+	"title": "Breaching the Defensive Wall",
+	"url": "https://www.chess.com/daily/2024-09-13",
+	"publish_time": 1726210800,
+	"fen": "3r2k1/2qp4/2nRprp1/p6p/1pQ2N1P/1P4P1/1KP5/3R4 w - - 2 25",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/2qp4/2nRprp1/p6p/1pQ2N1P/1P4P1/1KP5/3R4 w - - 2 25\"]\r\n\r\n25. Qxc6 dxc6 26. Rxd8+ Rf8 27. Rxf8+ Kxf8 28. Nxe6+ Ke7 29. Nxc7 *",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/2qp4/2nRprp1/p6p/1pQ2N1P/1P4P1/1KP5/3R4%20w%20-%20-%202%2025&size=2"
+}

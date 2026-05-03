@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Vidit's Clincher",
+	"url": "https://www.chess.com/daily/2024-04-10",
+	"publish_time": 1712732400,
+	"fen": "3r4/7p/8/4k3/1P2bp2/R2B4/4K2P/8 b - - 0 33",
+	"pgn": "[Event \"Sigeman & Co\"]\r\n[Site \"Malmo SWE\"]\r\n[Date \"2018.05.07\"]\r\n[Round \"4\"]\r\n[White \"Alexander Morozevich\"]\r\n[Black \"Vidit Santosh Gujrathi\"]\r\n[Result \"0-1\"]\r\n[ECO \"D96\"]\r\n[WhiteElo \"2665\"]\r\n[BlackElo \"2707\"]\r\n[FEN \"3r4/7p/8/4k3/1P2bp2/R2B4/4K2P/8 b - - 0 33\"]\r\n\r\n33... f3+ 34. Ke3 Bxd3 35. Rxd3 f2 36. Rxd8 f1=Q 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3r4/7p/8/4k3/1P2bp2/R2B4/4K2P/8%20b%20-%20-%200%2033&size=2"
+}

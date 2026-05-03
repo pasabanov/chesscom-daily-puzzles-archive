@@ -1,0 +1,8 @@
+{
+	"title": "Just Passing Through Town",
+	"url": "https://www.chess.com/daily/2022-06-03",
+	"publish_time": 1654239600,
+	"fen": "5n1k/3q2p1/7p/7P/1pB4K/1P4P1/2P1Q3/8 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5n1k/3q2p1/7p/7P/1pB4K/1P4P1/2P1Q3/8 b - - 1 1\"]\r\n\r\n1...g5+ 2.hxg6 Nxg6+ 3.Kh5 Qf5+ 4.Kxh6 Ne5 5.Bd3 Nf7# *",
+	"image": "https://www.chess.com/dynboard?fen=5n1k/3q2p1/7p/7P/1pB4K/1P4P1/2P1Q3/8%20b%20-%20-%201%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Fork in Your Back Pocket",
+	"url": "https://www.chess.com/daily/2024-10-15",
+	"publish_time": 1728975600,
+	"fen": "r2qkb1r/1pp2ppp/5n2/p2p4/1n1P1B2/PQ2PN1P/1PP2PP1/RN2K2R b KQkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2qkb1r/1pp2ppp/5n2/p2p4/1n1P1B2/PQ2PN1P/1PP2PP1/RN2K2R b KQkq - 0 1\"]\r\n\r\n1... a4 2. Qc3 Ne4 3. Qxc7 Qxc7 4. Bxc7 Nxc2+ 5. Kd1 Nxa1 *",
+	"image": "https://www.chess.com/dynboard?fen=r2qkb1r/1pp2ppp/5n2/p2p4/1n1P1B2/PQ2PN1P/1PP2PP1/RN2K2R%20b%20KQkq%20-%200%201&size=2"
+}

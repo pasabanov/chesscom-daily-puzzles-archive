@@ -1,0 +1,9 @@
+{
+	"title": "Sneaky Play",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-11-09",
+	"publish_time": 1289289600,
+	"fen": "2r1r1k1/p2N1ppp/1q1Bpn2/n1p5/Qbb5/2N3P1/PP2PPBP/R2R2K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1r1k1/p2N1ppp/1q1Bpn2/n1p5/Qbb5/2N3P1/PP2PPBP/R2R2K1 b - - 0 1\"]\r\n\r\n1...Nxd7 2. Qxd7 Bxc3 3. bxc3 Bb5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r1r1k1/p2N1ppp/1q1Bpn2/n1p5/Qbb5/2N3P1/PP2PPBP/R2R2K1%20b%20-%20-%200%201&size=2"
+}

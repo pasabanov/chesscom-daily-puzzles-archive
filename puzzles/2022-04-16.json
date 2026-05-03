@@ -1,0 +1,8 @@
+{
+	"title": "Dueling Major Pieces",
+	"url": "https://www.chess.com/daily/2022-04-16",
+	"publish_time": 1650092400,
+	"fen": "3r4/RQ6/4qpk1/6p1/P3p2p/1P5P/5PP1/6K1 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r4/RQ6/4qpk1/6p1/P3p2p/1P5P/5PP1/6K1 b - - 1 1\"]\r\n\r\n1...Rd1+ 2.Kh2 Qd6+ 3.g3 hxg3+ 4.Kg2 Rg1+ 5.Kxg1 Qd1+ 6.Kg2 Qf3+ 7.Kf1 \r\nQxf2# *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/RQ6/4qpk1/6p1/P3p2p/1P5P/5PP1/6K1%20b%20-%20-%201%201&size=2"
+}

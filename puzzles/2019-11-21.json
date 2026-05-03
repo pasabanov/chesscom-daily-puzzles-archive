@@ -1,0 +1,8 @@
+{
+	"title": "Daily Puzzle in Action",
+	"url": "https://www.chess.com/daily/2019-11-21",
+	"publish_time": 1574323200,
+	"fen": "r4rk1/pp2ppbp/4bnp1/q1n5/5B2/N4NP1/PP2PPBP/R1Q2RK1 w - - 0 13",
+	"pgn": "[Event \"Twin Cities Chess League\"]\r\n[Site \"Roseville, MN\"]\r\n[Date \"2019.11.15\"]\r\n[Round \"2\"]\r\n[White \"Mattson, Dane\"]\r\n[Black \"Variation in Game\"]\r\n[Result \"1-0\"]\r\n[FEN \"r4rk1/pp2ppbp/4bnp1/q1n5/5B2/N4NP1/PP2PPBP/R1Q2RK1 w - - 0 13\"]\r\n[EventDate \"2019.11.15\"]\r\n\r\n13. b4 Qxb4 14. Rb1 Qa5 15. Rb5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/pp2ppbp/4bnp1/q1n5/5B2/N4NP1/PP2PPBP/R1Q2RK1%20w%20-%20-%200%2013&size=2"
+}

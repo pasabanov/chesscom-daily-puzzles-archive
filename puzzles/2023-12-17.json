@@ -1,0 +1,8 @@
+{
+	"title": "Secret Ingredient in a Checkmate Recipe",
+	"url": "https://www.chess.com/daily/2023-12-17",
+	"publish_time": 1702800000,
+	"fen": "1r2kb1r/p1p1p1p1/1p2Bn2/1N1pN1B1/7p/1P4P1/8/6K1 w k - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r2kb1r/p1p1p1p1/1p2Bn2/1N1pN1B1/7p/1P4P1/8/6K1 w k - 0 1\"]\r\n\r\n1. Bf4 Rb7 2. Nd4 c6 3. Ndxc6 Nd7 4. Bf7# *",
+	"image": "https://www.chess.com/dynboard?fen=1r2kb1r/p1p1p1p1/1p2Bn2/1N1pN1B1/7p/1P4P1/8/6K1%20w%20k%20-%200%201&size=2"
+}

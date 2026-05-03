@@ -1,0 +1,8 @@
+{
+	"title": "Trailblazer",
+	"url": "https://www.chess.com/daily/2020-08-15",
+	"publish_time": 1597474800,
+	"fen": "r1r3k1/pQ3pbp/5np1/2p1p3/4N3/3P1BP1/PP2PPKP/R1Bq4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1r3k1/pQ3pbp/5np1/2p1p3/4N3/3P1BP1/PP2PPKP/R1Bq4 w - - 0 1\"]\r\n\r\n1.Nxf6+ Bxf6 2.Bd5 Rf8 3.Bxf7+ Kh8 4.Bg5 Bxg5 5.Rxd1 *",
+	"image": "https://www.chess.com/dynboard?fen=r1r3k1/pQ3pbp/5np1/2p1p3/4N3/3P1BP1/PP2PPKP/R1Bq4%20w%20-%20-%200%201&size=2"
+}

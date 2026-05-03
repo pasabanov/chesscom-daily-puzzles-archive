@@ -1,0 +1,9 @@
+{
+	"title": "Endgame Test",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-04-29",
+	"publish_time": 1272524400,
+	"fen": "3k4/8/P4P2/5Kp1/6Bp/8/6r1/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3k4/8/P4P2/5Kp1/6Bp/8/6r1/8 w - - 0 1\"]\r\n\r\n1. Kg6 Ra2 2. Be2 Rxe2 3. f7\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3k4/8/P4P2/5Kp1/6Bp/8/6r1/8%20w%20-%20-%200%201&size=2"
+}

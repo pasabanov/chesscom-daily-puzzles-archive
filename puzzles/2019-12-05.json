@@ -1,0 +1,8 @@
+{
+	"title": "Rarefied Air",
+	"url": "https://www.chess.com/daily/2019-12-05",
+	"publish_time": 1575532800,
+	"fen": "1r6/7p/5Rpk/Pp3P2/1pP3P1/5K1P/8/8 b - - 0 44",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r6/7p/5Rpk/Pp3P2/1pP3P1/5K1P/8/8 b - - 0 44\"]\r\n\r\n44... b3 45. Rb6 b2 46. Rxb8 b1=Q *",
+	"image": "https://www.chess.com/dynboard?fen=1r6/7p/5Rpk/Pp3P2/1pP3P1/5K1P/8/8%20b%20-%20-%200%2044&size=2"
+}

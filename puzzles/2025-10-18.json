@@ -1,0 +1,8 @@
+{
+	"title": "Pry, Pry, Pry",
+	"url": "https://www.chess.com/daily/2025-10-18",
+	"publish_time": 1760770800,
+	"fen": "2kr4/1ppq3p/p6p/P2b1p1P/1QNp1P2/2P1r1P1/R1P1P3/3K1BR1 b - - 0 22",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Pepe\"]\r\n[Result \"0-1\"]\r\n[FEN \"2kr4/1ppq3p/p6p/P2b1p1P/1QNp1P2/2P1r1P1/R1P1P3/3K1BR1 b - - 0 22\"]\r\n\r\n22... Bxc4 23. Qxc4 dxc3+ 24. Ke1 Rf3 25. exf3 Qd2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2kr4/1ppq3p/p6p/P2b1p1P/1QNp1P2/2P1r1P1/R1P1P3/3K1BR1%20b%20-%20-%200%2022&size=2"
+}

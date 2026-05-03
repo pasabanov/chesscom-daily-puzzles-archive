@@ -1,0 +1,8 @@
+{
+	"title": "Between the Lines",
+	"url": "https://www.chess.com/daily/2022-08-18",
+	"publish_time": 1660806000,
+	"fen": "1r1q1r1k/3n3p/p2p1b2/2p2pQ1/1pB1pP2/1P5P/PB4R1/R6K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r1q1r1k/3n3p/p2p1b2/2p2pQ1/1pB1pP2/1P5P/PB4R1/R6K w - - 0 1\"]\r\n\r\n1. Qg7+ Bxg7 2. Bxg7# *",
+	"image": "https://www.chess.com/dynboard?fen=1r1q1r1k/3n3p/p2p1b2/2p2pQ1/1pB1pP2/1P5P/PB4R1/R6K%20w%20-%20-%200%201&size=2"
+}

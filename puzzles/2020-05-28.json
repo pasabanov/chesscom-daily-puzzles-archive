@@ -1,0 +1,8 @@
+{
+	"title": "Perpetual Motion",
+	"url": "https://www.chess.com/daily/2020-05-28",
+	"publish_time": 1590649200,
+	"fen": "b1r2qk1/p2R1p1p/1pn1pQp1/4P3/8/2P3P1/P4PBP/2B3K1 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"b1r2qk1/p2R1p1p/1pn1pQp1/4P3/8/2P3P1/P4PBP/2B3K1 w - - 0 1\"]\r\n\r\n1.Bh6 Qxh6 2.Qxf7+ Kh8 3.Qf6+ Kg8 4.Qxe6+ Kh8 5.Qf6+ Kg8 6.Bd5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=b1r2qk1/p2R1p1p/1pn1pQp1/4P3/8/2P3P1/P4PBP/2B3K1%20w%20-%20-%200%201&size=2"
+}

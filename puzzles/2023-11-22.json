@@ -1,0 +1,8 @@
+{
+	"title": "Go Long!",
+	"url": "https://www.chess.com/daily/2023-11-22",
+	"publish_time": 1700640000,
+	"fen": "3rk1nr/p4ppp/b1p5/4P3/1b2q3/2N1BN2/PP3PPP/R2QK2R w KQk - 0 12",
+	"pgn": "[Event \"Memorial A.Petrov (open)\"]\r\n[Site \"St. Petersburg (Russia)\"]\r\n[Date \"2000\"]\r\n[White \"Akimov Ivan\"]\r\n[Black \"Aleksei Pridorozhni\"]\r\n[Result \"1-0\"]\r\n[FEN \"3rk1nr/p4ppp/b1p5/4P3/1b2q3/2N1BN2/PP3PPP/R2QK2R w KQk - 0 12\"]\r\n\r\n12. Qxd8+ Kxd8 13. O-O-O+ Kc8 14. Nxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=3rk1nr/p4ppp/b1p5/4P3/1b2q3/2N1BN2/PP3PPP/R2QK2R%20w%20KQk%20-%200%2012&size=2"
+}

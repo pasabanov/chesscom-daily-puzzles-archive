@@ -1,0 +1,8 @@
+{
+	"title": "Seeing Through the Matrix",
+	"url": "https://www.chess.com/daily/2025-08-24",
+	"publish_time": 1756018800,
+	"fen": "6k1/1pp2rp1/p1n1qn1R/4p3/PB2P3/2PP1KP1/3Q1PB1/7R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/1pp2rp1/p1n1qn1R/4p3/PB2P3/2PP1KP1/3Q1PB1/7R b - - 0 1\"]\r\n\r\n1... Nd4+ 2. cxd4 Qg4+ 3. Ke3 Nd5+ 4. exd5 exd4# *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1pp2rp1/p1n1qn1R/4p3/PB2P3/2PP1KP1/3Q1PB1/7R%20b%20-%20-%200%201&size=2"
+}

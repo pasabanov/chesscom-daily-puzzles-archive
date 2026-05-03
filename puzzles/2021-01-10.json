@@ -1,0 +1,8 @@
+{
+	"title": "Overstep",
+	"url": "https://www.chess.com/daily/2021-01-10",
+	"publish_time": 1610265600,
+	"fen": "2r5/4q1p1/3Rp2p/3b1pkP/1N1Q2P1/1p2P1P1/r7/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r5/4q1p1/3Rp2p/3b1pkP/1N1Q2P1/1p2P1P1/r7/6K1 w - - 0 1\"]\r\n\r\n1.Qf4+ Kf6 2.Qxf5# *",
+	"image": "https://www.chess.com/dynboard?fen=2r5/4q1p1/3Rp2p/3b1pkP/1N1Q2P1/1p2P1P1/r7/6K1%20w%20-%20-%200%201&size=2"
+}

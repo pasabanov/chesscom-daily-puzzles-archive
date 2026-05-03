@@ -1,0 +1,8 @@
+{
+	"title": "Sunset",
+	"url": "https://www.chess.com/daily/2020-05-04",
+	"publish_time": 1588575600,
+	"fen": "1r4k1/5p2/3p4/2pPpN2/p3P1P1/P6r/KPRQ1B2/5q2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r4k1/5p2/3p4/2pPpN2/p3P1P1/P6r/KPRQ1B2/5q2 b - - 0 1\"]\r\n\r\n1...Rxa3+ 2.bxa3 Qb1# *",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/5p2/3p4/2pPpN2/p3P1P1/P6r/KPRQ1B2/5q2%20b%20-%20-%200%201&size=2"
+}

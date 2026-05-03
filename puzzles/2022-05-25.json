@@ -1,0 +1,8 @@
+{
+	"title": "Janowski's Jackpot",
+	"url": "https://www.chess.com/daily/2022-05-25",
+	"publish_time": 1653462000,
+	"fen": "k7/1b6/p3R3/Bp6/4P3/6r1/P3K1P1/8 w - - 0 38",
+	"pgn": "[Event \"It\"]\r\n[Site \"Paris (France)\"]\r\n[Date \"1900.??.??\"]\r\n[Round \"?\"]\r\n[White \"Janowski Dawid M (POL)\"]\r\n[Black \"Sterling Francisco\"]\r\n[Result \"1-0\"]\r\n[ECO \"B45\"]\r\n[FEN \"k7/1b6/p3R3/Bp6/4P3/6r1/P3K1P1/8 w - - 0 38\"]\r\n\r\n38.Re8+ Ka7 39.Be1 Rxg2+ 40.Bf2+ Rxf2+ 41.Kxf2 1-0",
+	"image": "https://www.chess.com/dynboard?fen=k7/1b6/p3R3/Bp6/4P3/6r1/P3K1P1/8%20w%20-%20-%200%2038&size=2"
+}

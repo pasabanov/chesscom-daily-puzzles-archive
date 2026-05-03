@@ -1,0 +1,8 @@
+{
+	"title": "Knight and Rook Reunion",
+	"url": "https://www.chess.com/daily/2022-08-21",
+	"publish_time": 1661065200,
+	"fen": "rnq4r/1b3kp1/p3Nbp1/1p6/4p3/2N1B2Q/PPP4P/2KR1R2 w - - 0 21",
+	"pgn": "[Event \"WchT Students 12th final A\"]\r\n[Site \"Sinaia\"]\r\n[Date \"1965.08.01\"]\r\n[Round \"1\"]\r\n[White \"Kavalek, Lubomir\"]\r\n[Black \"Khodos, German L\"]\r\n[Result \"1-0\"]\r\n[ECO \"B43\"]\r\n[SetUp \"1\"]\r\n[FEN \"rnq4r/1b3kp1/p3Nbp1/1p6/4p3/2N1B2Q/PPP4P/2KR1R2 w - - 0 21\"]\r\n[PlyCount \"7\"]\r\n[EventDate \"1965.08.01\"]\r\n[EventType \"team-tourn\"]\r\n[EventRounds \"9\"]\r\n[EventCountry \"ROU\"]\r\n[WhiteTeam \"Czekhoslovakia\"]\r\n[BlackTeam \"Soviet Union\"]\r\n[WhiteTeamCountry \"CSR\"]\r\n[BlackTeamCountry \"URS\"]\r\n\r\n21. Ng5+ Kg8 22. Rd8+ Bxd8 23. Qxh8+ Kxh8 24. Rf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rnq4r/1b3kp1/p3Nbp1/1p6/4p3/2N1B2Q/PPP4P/2KR1R2%20w%20-%20-%200%2021&size=2"
+}

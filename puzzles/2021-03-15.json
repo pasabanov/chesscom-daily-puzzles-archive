@@ -1,0 +1,8 @@
+{
+	"title": "Major Minor Harmonization",
+	"url": "https://www.chess.com/daily/2021-03-15",
+	"publish_time": 1615791600,
+	"fen": "3r1k2/p4n2/1p4Rp/5pp1/2P5/1PB3P1/5PP1/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r1k2/p4n2/1p4Rp/5pp1/2P5/1PB3P1/5PP1/6K1 w - - 0 1\"]\r\n\r\n1.Bb4+ Ke8 2.Re6+ Kd7 3.Re7+ Kc6 4.Rxf7 *",
+	"image": "https://www.chess.com/dynboard?fen=3r1k2/p4n2/1p4Rp/5pp1/2P5/1PB3P1/5PP1/6K1%20w%20-%20-%200%201&size=2"
+}

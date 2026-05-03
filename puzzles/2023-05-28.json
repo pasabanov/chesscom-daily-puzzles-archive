@@ -1,0 +1,8 @@
+{
+	"title": "Please Take My Rooks!",
+	"url": "https://www.chess.com/daily/2023-05-28",
+	"publish_time": 1685257200,
+	"fen": "2k5/p1p2R1Q/1pq1p1r1/4P3/8/2P5/Pr5P/2KR4 w - - 0 24",
+	"pgn": "[Event \"URS-ch19 Semifinal\"]\r\n[Site \"Leningrad\"]\r\n[Date \"1951.??.??\"]\r\n[Round \"?\"]\r\n[White \"Kortschnoj, Viktor Lvovich\"]\r\n[Black \"Chekhover, Vitaly A\"]\r\n[Result \"1-0\"]\r\n[ECO \"C10\"]\r\n[SetUp \"1\"]\r\n[FEN \"2k5/p1p2R1Q/1pq1p1r1/4P3/8/2P5/Pr5P/2KR4 w - - 0 24\"]\r\n\r\n24. Rd8+ Kb7 25. Rxc7+ Qxc7 26. Rd7 Rxh2 27. Rxc7+ *",
+	"image": "https://www.chess.com/dynboard?fen=2k5/p1p2R1Q/1pq1p1r1/4P3/8/2P5/Pr5P/2KR4%20w%20-%20-%200%2024&size=2"
+}

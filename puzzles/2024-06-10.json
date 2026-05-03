@@ -1,0 +1,8 @@
+{
+	"title": "Rook and Knight Unite!",
+	"url": "https://www.chess.com/daily/2024-06-10",
+	"publish_time": 1718002800,
+	"fen": "r1b2b2/p1pk3r/1pnp3p/3N1pp1/1PP5/2P2PB1/P5PP/R3RK2 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b2b2/p1pk3r/1pnp3p/3N1pp1/1PP5/2P2PB1/P5PP/R3RK2 w - - 0 1\"]\r\n\r\n1. Nf6+ Kd8 2. Re8# *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2b2/p1pk3r/1pnp3p/3N1pp1/1PP5/2P2PB1/P5PP/R3RK2%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Active Defense",
+	"url": "https://www.chess.com/daily/2020-06-19",
+	"publish_time": 1592550000,
+	"fen": "r5k1/2N2ppp/2Q1p3/3pP3/3P4/q4N1P/5PP1/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r5k1/2N2ppp/2Q1p3/3pP3/3P4/q4N1P/5PP1/6K1 b - - 0 1\"]\r\n\r\n1...Rc8 2.Ng5 Qa1+ 3.Kh2 Qxd4 4.Ngxe6 Qxe5+ 5.f4 Qxe6 6.Qxe6 fxe6 *",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/2N2ppp/2Q1p3/3pP3/3P4/q4N1P/5PP1/6K1%20b%20-%20-%200%201&size=2"
+}

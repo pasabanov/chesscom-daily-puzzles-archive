@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 7",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-04-29",
+	"publish_time": 1304060400,
+	"fen": "7k/3R4/5p1P/p4K2/8/3p4/r1pB1pp1/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"7k/3R4/5p1P/p4K2/8/3p4/r1pB1pp1/8 w - - 0 1\"]\r\n\r\n1. Bg5 f1=Q+ 2. Kg6 Qf5+ 3. Kxf5 g1=Q 4. Bxf6+ Kg8 5. h7+ Kf8 6. Rd8+ Kf7 7. h8=N# \r\n*",
+	"image": "https://www.chess.com/dynboard?fen=7k/3R4/5p1P/p4K2/8/3p4/r1pB1pp1/8%20w%20-%20-%200%201&size=2"
+}

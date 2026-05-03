@@ -1,0 +1,8 @@
+{
+	"title": "Follow the Checks",
+	"url": "https://www.chess.com/daily/2024-11-23",
+	"publish_time": 1732348800,
+	"fen": "1k6/1pp4P/p3b1Q1/6P1/P1qb4/2N3N1/1KR5/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1k6/1pp4P/p3b1Q1/6P1/P1qb4/2N3N1/1KR5/8 b - - 0 1\"]\r\n\r\n1... Qa2+ 2. Kc1 Be3+ 3. Kd1 Bg4+ 4. Nge2 Qa1+ 5. Rc1 Qxc1# *",
+	"image": "https://www.chess.com/dynboard?fen=1k6/1pp4P/p3b1Q1/6P1/P1qb4/2N3N1/1KR5/8%20b%20-%20-%200%201&size=2"
+}

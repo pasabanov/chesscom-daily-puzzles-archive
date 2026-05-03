@@ -1,0 +1,8 @@
+{
+	"title": "A Patient Discovery",
+	"url": "https://www.chess.com/daily/2024-06-06",
+	"publish_time": 1717657200,
+	"fen": "r1b2rk1/ppq1bp1p/4p1p1/8/3R2Q1/2PB4/P1P2PPP/R1B3K1 b - - 0 1",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2014.02.01\"]\r\n[Round \"?\"]\r\n[White \"denizkaraman\"]\r\n[Black \"ilija_i_oblomov\"]\r\n[Result \"*\"]\r\n[FEN \"r1b2rk1/ppq1bp1p/4p1p1/8/3R2Q1/2PB4/P1P2PPP/R1B3K1 b - - 0 1\"]\r\n\r\n1... Qxc3 2. Rb1 e5 3. Qe2 Qxd4 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2rk1/ppq1bp1p/4p1p1/8/3R2Q1/2PB4/P1P2PPP/R1B3K1%20b%20-%20-%200%201&size=2"
+}

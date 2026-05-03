@@ -1,0 +1,9 @@
+{
+	"title": "Checkmate Anyone?",
+	"comments": "If black takes the a8 rook then it leads to checkmate with Qf6-g7",
+	"url": "https://www.chess.com/daily/2007-09-30",
+	"publish_time": 1191135600,
+	"fen": "R4r1k/1pp4p/3p1r1b/3Pp3/1nP4Q/7P/2b1KP2/3N2R1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"R4r1k/1pp4p/3p1r1b/3Pp3/1nP4Q/7P/2b1KP2/3N2R1 b - - 0 1\"]\r\n\r\n1... Bd3+ (1... Rxa8 2. Qxf6+ Bg7 3. Qxg7#) 2. Ke1 Nc2#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=R4r1k/1pp4p/3p1r1b/3Pp3/1nP4Q/7P/2b1KP2/3N2R1%20b%20-%20-%200%201&size=2"
+}

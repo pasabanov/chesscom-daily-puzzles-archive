@@ -1,0 +1,8 @@
+{
+	"title": "Three-Part Harmony",
+	"url": "https://www.chess.com/daily/2022-09-16",
+	"publish_time": 1663311600,
+	"fen": "7r/1p6/k1bB4/1p2P3/P2Q1K1P/1P1B2P1/8/3q1N2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7r/1p6/k1bB4/1p2P3/P2Q1K1P/1P1B2P1/8/3q1N2 b - - 0 1\"]\r\n\r\n1... Qf3+ 2. Kg5 Rh5+ 3. Kg6 Be8+ 4. Kg7 Qf7# *",
+	"image": "https://www.chess.com/dynboard?fen=7r/1p6/k1bB4/1p2P3/P2Q1K1P/1P1B2P1/8/3q1N2%20b%20-%20-%200%201&size=2"
+}

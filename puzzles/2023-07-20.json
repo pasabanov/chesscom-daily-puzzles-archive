@@ -1,0 +1,8 @@
+{
+	"title": "Save the Last Capture for Me",
+	"url": "https://www.chess.com/daily/2023-07-20",
+	"publish_time": 1689836400,
+	"fen": "r1bq1rk1/Np2npp1/2n1p2p/3pP3/1P5P/2PB1N2/5PP1/R2QK2R w KQ - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1bq1rk1/Np2npp1/2n1p2p/3pP3/1P5P/2PB1N2/5PP1/R2QK2R w KQ - 0 1\"]\r\n\r\n1. Nxc6 Rxa1 2. Nxe7+ Qxe7 3. Qxa1 *",
+	"image": "https://www.chess.com/dynboard?fen=r1bq1rk1/Np2npp1/2n1p2p/3pP3/1P5P/2PB1N2/5PP1/R2QK2R%20w%20KQ%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Gift Wrap",
+	"url": "https://www.chess.com/daily/2020-12-15",
+	"publish_time": 1608019200,
+	"fen": "8/2p3pk/1p1p4/p3p2p/P3P2q/3P3P/2P2rPK/1R2Q3 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/2p3pk/1p1p4/p3p2p/P3P2q/3P3P/2P2rPK/1R2Q3 w - - 0 1\"]\r\n\r\n1.Kg1 Rf4 2.Qxh4 Rxh4 3.g3 Rxh3 4.Kg2 *",
+	"image": "https://www.chess.com/dynboard?fen=8/2p3pk/1p1p4/p3p2p/P3P2q/3P3P/2P2rPK/1R2Q3%20w%20-%20-%200%201&size=2"
+}

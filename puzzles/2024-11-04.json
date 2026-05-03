@@ -1,0 +1,9 @@
+{
+	"title": "Which Way Should We Capture?",
+	"comments": "Inspired by https://www.chess.com/puzzles/problem/2395966",
+	"url": "https://www.chess.com/daily/2024-11-04",
+	"publish_time": 1730707200,
+	"fen": "3r4/1b3ppk/p2qp2p/1pp1Pn1N/2P3Q1/8/PPB2PPP/3rR1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r4/1b3ppk/p2qp2p/1pp1Pn1N/2P3Q1/8/PPB2PPP/3rR1K1 w - - 0 1\"]\r\n\r\n1. Qxg7# *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/1b3ppk/p2qp2p/1pp1Pn1N/2P3Q1/8/PPB2PPP/3rR1K1%20w%20-%20-%200%201&size=2"
+}

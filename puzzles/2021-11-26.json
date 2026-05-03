@@ -1,0 +1,8 @@
+{
+	"title": "Acquiring Material",
+	"url": "https://www.chess.com/daily/2021-11-26",
+	"publish_time": 1637913600,
+	"fen": "r1r3k1/5ppp/p3pP2/3bq3/1p2N1P1/8/PP1Q2P1/4RR1K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1r3k1/5ppp/p3pP2/3bq3/1p2N1P1/8/PP1Q2P1/4RR1K w - - 0 1\"]\r\n\r\n1.Rf5 exf5 2.Qg5 Kf8 3.Qxg7+ Ke8 4.Nd6+ Kd7 5.Rxe5 *",
+	"image": "https://www.chess.com/dynboard?fen=r1r3k1/5ppp/p3pP2/3bq3/1p2N1P1/8/PP1Q2P1/4RR1K%20w%20-%20-%200%201&size=2"
+}

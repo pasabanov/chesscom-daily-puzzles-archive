@@ -1,0 +1,8 @@
+{
+	"title": "The Eleventh Hour",
+	"url": "https://www.chess.com/daily/2019-12-10",
+	"publish_time": 1575964800,
+	"fen": "8/4n3/6p1/2r1k3/PR5P/1PN2P1P/2Kpp3/8 w - - 0 45",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/4n3/6p1/2r1k3/PR5P/1PN2P1P/2Kpp3/8 w - - 0 45\"]\r\n\r\n45. Re4+ Kd6 46. Kxd2 e1=Q+ 47. Rxe1 *",
+	"image": "https://www.chess.com/dynboard?fen=8/4n3/6p1/2r1k3/PR5P/1PN2P1P/2Kpp3/8%20w%20-%20-%200%2045&size=2"
+}

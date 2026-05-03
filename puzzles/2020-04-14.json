@@ -1,0 +1,8 @@
+{
+	"title": "Save the Best for Lask",
+	"url": "https://www.chess.com/daily/2020-04-14",
+	"publish_time": 1586847600,
+	"fen": "3r1rn1/pp1n2kp/1qpN1pp1/6Q1/4P3/1B1R4/PP3PPP/2R3K1 w - - 0 25",
+	"pgn": "[Event \"Zurich\"]\r\n[Site \"Zurich SUI\"]\r\n[Date \"1934.07.25\"]\r\n[Round \"12\"]\r\n[White \"Alexander Alekhine\"]\r\n[Black \"Emanuel Lasker\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r1rn1/pp1n2kp/1qpN1pp1/6Q1/4P3/1B1R4/PP3PPP/2R3K1 w - - 0 25\"]\r\n\r\n25.Nf5+ Kh8 26.Qxg6 hxg6 27.Rh3+ Nh6 28.Rxh6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r1rn1/pp1n2kp/1qpN1pp1/6Q1/4P3/1B1R4/PP3PPP/2R3K1%20w%20-%20-%200%2025&size=2"
+}

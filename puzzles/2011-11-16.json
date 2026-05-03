@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 3",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-11-16",
+	"publish_time": 1321430400,
+	"fen": "r5rk/1R4pp/R5P1/5Q2/8/7K/8/8 w q - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5rk/1R4pp/R5P1/5Q2/8/7K/8/8 w q - 0 1\"]\r\n\r\n1. Qh5 h6 2. Qxh6+ gxh6 3. Rh7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r5rk/1R4pp/R5P1/5Q2/8/7K/8/8%20w%20q%20-%200%201&size=2"
+}

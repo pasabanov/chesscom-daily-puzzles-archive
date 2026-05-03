@@ -1,0 +1,8 @@
+{
+	"title": "Abu Na'am's Mansuba",
+	"url": "https://www.chess.com/daily/2021-12-03",
+	"publish_time": 1638518400,
+	"fen": "1r1r4/8/1n6/2p5/2P5/1NK5/R3R3/1k6 b - - 0 1",
+	"pgn": "[Date \"830 AD\"]\r\n[White \"Abu Na'am\"]\r\n[Black \"Mansuba\"]\r\n[Result \"*\"]\r\n[FEN \"1r1r4/8/1n6/2p5/2P5/1NK5/R3R3/1k6 b - - 0 1\"]\r\n\r\n1...Na4+ 2.Rxa4 Rxb3+ 3.Kxb3 Rd3# *",
+	"image": "https://www.chess.com/dynboard?fen=1r1r4/8/1n6/2p5/2P5/1NK5/R3R3/1k6%20b%20-%20-%200%201&size=2"
+}

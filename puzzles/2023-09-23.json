@@ -1,0 +1,8 @@
+{
+	"title": "Attracting the King's Attention",
+	"url": "https://www.chess.com/daily/2023-09-23",
+	"publish_time": 1695452400,
+	"fen": "r4rk1/1pp2pp1/p1n1qn1p/4p3/4P3/PPBP1KP1/2PQ1PBP/3R3R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/1pp2pp1/p1n1qn1p/4p3/4P3/PPBP1KP1/2PQ1PBP/3R3R b - - 0 1\"]\r\n\r\n1... Nd4+ 2. Bxd4 Qg4+ 3. Ke3 Nd5+ 4. exd5 exd4# *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1pp2pp1/p1n1qn1p/4p3/4P3/PPBP1KP1/2PQ1PBP/3R3R%20b%20-%20-%200%201&size=2"
+}

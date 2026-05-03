@@ -1,0 +1,8 @@
+{
+	"title": "A Nunnduhrful Birthday Mate!",
+	"url": "https://www.chess.com/daily/2024-04-25",
+	"publish_time": 1714028400,
+	"fen": "r6k/3R3p/2p3p1/2P1R3/2Q2P1q/7r/6P1/6K1 w - - 0 45",
+	"pgn": "[Event \"Lugano Open-07\"]\r\n[Site \"Lugano\"]\r\n[Date \"1982.03.??\"]\r\n[Round \"?\"]\r\n[White \"Nunn, John DM\"]\r\n[Black \"Duhr, Stefan\"]\r\n[Result \"1-0\"]\r\n[ECO \"B04\"]\r\n[WhiteElo \"2590\"]\r\n[FEN \"r6k/3R3p/2p3p1/2P1R3/2Q2P1q/7r/6P1/6K1 w - - 0 45\"]\r\n\r\n45. Re8+ Rxe8 46. Qd4+ Kg8 47. Qg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r6k/3R3p/2p3p1/2P1R3/2Q2P1q/7r/6P1/6K1%20w%20-%20-%200%2045&size=2"
+}

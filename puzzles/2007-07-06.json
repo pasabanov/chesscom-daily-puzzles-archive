@@ -1,0 +1,9 @@
+{
+	"title": "Lots of Work to Win a Rook!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-07-06",
+	"publish_time": 1183705200,
+	"fen": "rn2k2r/pp3p1p/3b4/qNpPpN2/8/8/PPP3PP/R2QK2R w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rn2k2r/pp3p1p/3b4/qNpPpN2/8/8/PPP3PP/R2QK2R w KQkq - 0 1\"]\r\n\r\n1. b4 ( 1. Qd2 Bc7 { And everything holds... }  ) Qxb4+ ( 1... Qxb5 2. Nxd6+ Ke7 3. Nxb5 ) 2. c3 Qe4+ { Has to keep checking - the bishop is in trouble! }  3. Qe2 Qxe2+ ( 3... Qxf5 4. Nxd6+ Kf8 5. Nxf5 ) 4. Kxe2 Be7 5. Nc7+ Kd7 6. Nxa8 { And white is up a rook! }\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=rn2k2r/pp3p1p/3b4/qNpPpN2/8/8/PPP3PP/R2QK2R%20w%20KQkq%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Corner Pocket",
+	"url": "https://www.chess.com/daily/2019-11-11",
+	"publish_time": 1573459200,
+	"fen": "3R4/ppR2Bkp/8/4p3/4b3/1PP1b3/P5rP/K7 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"3R4/ppR2Bkp/8/4p3/4b3/1PP1b3/P5rP/K7 b - - 0 1\"]\r\n\r\n1... Rg1+ 2. Kb2 Bc1+ 3. Ka1 Ba3+ 4. Rd1 Rxd1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3R4/ppR2Bkp/8/4p3/4b3/1PP1b3/P5rP/K7%20b%20-%20-%200%201&size=2"
+}

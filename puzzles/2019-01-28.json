@@ -1,0 +1,8 @@
+{
+	"title": "Just In Time",
+	"url": "https://www.chess.com/daily/2019-01-28",
+	"publish_time": 1548662400,
+	"fen": "r7/8/8/5PK1/8/1k6/8/8 w q - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r7/8/8/5PK1/8/1k6/8/8 w q - 0 1\"]\r\n\r\n1. Kf6 Kc4 2. Ke6 Kd4 3. f6 Ra6+ 4. Ke7 Ke5 5. f7 Ra7+ 6. Ke8 Ke6 7. f8=N+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r7/8/8/5PK1/8/1k6/8/8%20w%20q%20-%200%201&size=2"
+}

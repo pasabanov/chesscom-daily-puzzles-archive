@@ -1,0 +1,8 @@
+{
+	"title": "Swiss Cheese",
+	"url": "https://www.chess.com/daily/2021-12-23",
+	"publish_time": 1640246400,
+	"fen": "2kr3r/pppq3b/2nb3p/3p3P/3P1nPN/1QP3B1/PP1N1P2/2KR1B1R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2kr3r/pppq3b/2nb3p/3p3P/3P1nPN/1QP3B1/PP1N1P2/2KR1B1R b - - 0 1\"]\r\n\r\n1...Nxd4 2.cxd4 Qc6+ 3.Nc4 dxc4 *",
+	"image": "https://www.chess.com/dynboard?fen=2kr3r/pppq3b/2nb3p/3p3P/3P1nPN/1QP3B1/PP1N1P2/2KR1B1R%20b%20-%20-%200%201&size=2"
+}

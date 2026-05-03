@@ -1,0 +1,8 @@
+{
+	"title": "Long Distance Connection",
+	"url": "https://www.chess.com/daily/2021-12-22",
+	"publish_time": 1640160000,
+	"fen": "1r3rk1/1p3bpp/p1n2p2/2q5/8/3B1Q2/P4PPP/2B1RRK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/1p3bpp/p1n2p2/2q5/8/3B1Q2/P4PPP/2B1RRK1 w - - 0 1\"]\r\n\r\n1.Ba3 Nb4 2.Qe4 f5 3.Qxb4 Qxb4 4.Bxb4 *",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/1p3bpp/p1n2p2/2q5/8/3B1Q2/P4PPP/2B1RRK1%20w%20-%20-%200%201&size=2"
+}

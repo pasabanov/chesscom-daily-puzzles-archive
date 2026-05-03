@@ -1,0 +1,8 @@
+{
+	"title": "Season's Greetings",
+	"url": "https://www.chess.com/daily/2020-12-21",
+	"publish_time": 1608537600,
+	"fen": "r1b2rk1/pp2qpbp/4pn2/2p3Np/2B2P2/1PN1P3/PBQP2P1/R3K3 w Q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b2rk1/pp2qpbp/4pn2/2p3Np/2B2P2/1PN1P3/PBQP2P1/R3K3 w Q - 0 1\"]\r\n\r\n1.Nd5 exd5 2.Bxf6 Qe4 3.Nxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2rk1/pp2qpbp/4pn2/2p3Np/2B2P2/1PN1P3/PBQP2P1/R3K3%20w%20Q%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "A Patient Knight",
+	"url": "https://www.chess.com/daily/2021-02-04",
+	"publish_time": 1612425600,
+	"fen": "8/7p/k1Bp2n1/3P2p1/2P1Pp2/1R3KbP/rP4R1/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/7p/k1Bp2n1/3P2p1/2P1Pp2/1R3KbP/rP4R1/8 b - - 0 1\"]\r\n\r\n1...Ne5+ 2.Ke2 f3+ 3.Rxf3 Rxb2+ 4.Kf1 Rb1+ 5.Ke2 Re1+ 6.Kd2 Nxf3+ *",
+	"image": "https://www.chess.com/dynboard?fen=8/7p/k1Bp2n1/3P2p1/2P1Pp2/1R3KbP/rP4R1/8%20b%20-%20-%200%201&size=2"
+}

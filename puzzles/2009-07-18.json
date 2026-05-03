@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 12",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-07-18",
+	"publish_time": 1247900400,
+	"fen": "k7/p7/B7/8/8/3p4/8/B6K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"k7/p7/B7/8/8/3p4/8/B6K w - - 0 1\"]\r\n\r\n1. Bc3 Kb8 2. Be5+ Ka8 3. Bf4 d2 4. Bxd2 Kb8 5. Ba5 Ka8 6. Kg2 Kb8 7. Kf3 Ka8 8. Ke4 Kb8 9. Kd5 Ka8 10. Kc6 Kb8 11. Bc7+ Ka8 12. Bb7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=k7/p7/B7/8/8/3p4/8/B6K%20w%20-%20-%200%201&size=2"
+}

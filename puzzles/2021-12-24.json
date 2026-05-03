@@ -1,0 +1,8 @@
+{
+	"title": "Think Like a Grandmaster",
+	"url": "https://www.chess.com/daily/2021-12-24",
+	"publish_time": 1640332800,
+	"fen": "2kr4/Q4p2/2q1pP2/1p4B1/2p4P/3n2P1/P4P2/3R2K1 b - - 2 27",
+	"pgn": "[Event \"USSR Championship\"]\r\n[Site \"Moscow URS\"]\r\n[Date \"1948.11.15\"]\r\n[Round \"4\"]\r\n[White \"Andre Lilienthal\"]\r\n[Black \"Alexander Kotov\"]\r\n[Result \"0-1\"]\r\n[ECO \"D44\"]\r\n[EventDate \"1948.??.??\"]\r\n[PlyCount \"54\"]\r\n[FEN \"2kr4/Q4p2/2q1pP2/1p4B1/2p4P/3n2P1/P4P2/3R2K1 b - - 2 27\"]\r\n\r\n27...Rd7 28.Qe3 Nf4 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2kr4/Q4p2/2q1pP2/1p4B1/2p4P/3n2P1/P4P2/3R2K1%20b%20-%20-%202%2027&size=2"
+}

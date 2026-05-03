@@ -1,0 +1,8 @@
+{
+	"title": "A Parting Gesture",
+	"url": "https://www.chess.com/daily/2023-06-14",
+	"publish_time": 1686726000,
+	"fen": "r2q3k/pp1b1Q1p/3p1bp1/5p2/2B5/1P5P/P1PP1PP1/4R1K1 w - - 0 25",
+	"pgn": "[Event \"17th RSFSR Ch\"]\r\n[Site \"Krasnodar, USSR\"]\r\n[Date \"1957.05.??\"]\r\n[White \"Rashid Gibiatovich Nezhmetdinov\"]\r\n[Black \"Yuri M Kotkov\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2q3k/pp1b1Q1p/3p1bp1/5p2/2B5/1P5P/P1PP1PP1/4R1K1 w - - 0 25\"]\r\n\r\n25. Re8+ Qxe8 26. Qxf6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2q3k/pp1b1Q1p/3p1bp1/5p2/2B5/1P5P/P1PP1PP1/4R1K1%20w%20-%20-%200%2025&size=2"
+}

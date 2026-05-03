@@ -1,0 +1,9 @@
+{
+	"title": "Long But Forced",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-09-08",
+	"publish_time": 1189234800,
+	"fen": "1R2r1k1/6pp/p2Q1P2/1p1P4/6KP/P3q3/1P6/8 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1R2r1k1/6pp/p2Q1P2/1p1P4/6KP/P3q3/1P6/8 b - - 0 1\"]\r\n\r\n1... h5+ 2. Kxh5 Qf3+ 3. Kg5 Qxf6+ ( 3... Qg2+ 4. Kf5 g6+ 5. Kf4 Qh2+ 6. Kg5 Qxd6 7. Rxe8+ Kf7 8. Re7+ Kf8 { and this is also winning, but less simple }  ) 4. Qxf6 gxf6+ 5. Kxf6 Rxb8\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1R2r1k1/6pp/p2Q1P2/1p1P4/6KP/P3q3/1P6/8%20b%20-%20-%200%201&size=2"
+}

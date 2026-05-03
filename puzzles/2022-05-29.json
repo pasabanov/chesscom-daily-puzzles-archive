@@ -1,0 +1,8 @@
+{
+	"title": "Ernest Study",
+	"url": "https://www.chess.com/daily/2022-05-29",
+	"publish_time": 1653807600,
+	"fen": "bk6/pnp1K3/8/1P1N4/8/8/q4B2/5Q2 w - - 0 1",
+	"pgn": "[Date \"1985\"]\r\n[White \"Pogosyants, Ernest\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"bk6/pnp1K3/8/1P1N4/8/8/q4B2/5Q2 w - - 0 1\"]\r\n\r\n1. Bxa7+ Kxa7 2. b6+ cxb6 3. Nb4 Qa4 4. Qa6+ Qxa6 5. Nc6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=bk6/pnp1K3/8/1P1N4/8/8/q4B2/5Q2%20w%20-%20-%200%201&size=2"
+}

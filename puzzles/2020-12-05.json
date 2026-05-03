@@ -1,0 +1,8 @@
+{
+	"title": "Persuasive Patience",
+	"url": "https://www.chess.com/daily/2020-12-05",
+	"publish_time": 1607155200,
+	"fen": "8/6pp/8/6PP/7P/8/pk1K4/q6Q w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/6pp/8/6PP/7P/8/pk1K4/q6Q w - - 0 1\"]\r\n\r\n1.Qxa1+ Kxa1 2.Kc1 g6 3.Kc2 h6 4.Kc1 gxh5 5.Kc2 hxg5 6.hxg5 h4 7.g6 h3 8.\r\ng7 h2 9.g8=Q h1=Q 10.Qg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/6pp/8/6PP/7P/8/pk1K4/q6Q%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Two-move Checkmate",
+	"url": "https://www.chess.com/daily/2007-06-11",
+	"publish_time": 1181545200,
+	"fen": "2b1r2k/4q1p1/1p5p/1P5P/1N1N4/R1P2RP1/2Q2KP1/4r3 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"2b1r2k/4q1p1/1p5p/1P5P/1N1N4/R1P2RP1/2Q2KP1/4r3 b - - 0 1\"]\r\n\r\n1... Rf1+ 2. Kxf1 Qe1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2b1r2k/4q1p1/1p5p/1P5P/1N1N4/R1P2RP1/2Q2KP1/4r3%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Thinking in Circles",
+	"url": "https://www.chess.com/daily/2022-04-02",
+	"publish_time": 1648882800,
+	"fen": "8/3pQ3/1p4p1/p2qPp1p/3r1k2/1P1R3P/6P1/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/3pQ3/1p4p1/p2qPp1p/3r1k2/1P1R3P/6P1/6K1 w - - 0 1\"]\r\n\r\n1.Qh4+ Kxe5 2.Qe7+ Qe6 3.Qg7+ Qf6 4.Qxf6+ Kxf6 5.Rxd4 *",
+	"image": "https://www.chess.com/dynboard?fen=8/3pQ3/1p4p1/p2qPp1p/3r1k2/1P1R3P/6P1/6K1%20w%20-%20-%200%201&size=2"
+}

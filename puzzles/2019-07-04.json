@@ -1,0 +1,8 @@
+{
+	"title": "Just Enough",
+	"url": "https://www.chess.com/daily/2019-07-04",
+	"publish_time": 1562223600,
+	"fen": "8/4RK1k/r4P2/8/8/8/8/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/4RK1k/r4P2/8/8/8/8/8 w - - 0 1\"]\r\n\r\n1. Kf8+ Kg6 2. f7 Kf6 3. Kg8 Kxe7 4. f8=Q+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/4RK1k/r4P2/8/8/8/8/8%20w%20-%20-%200%201&size=2"
+}

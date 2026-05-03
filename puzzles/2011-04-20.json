@@ -1,0 +1,9 @@
+{
+	"title": "Forcing Continuation",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-04-20",
+	"publish_time": 1303282800,
+	"fen": "3r1r1k/ppp2Bpp/1b1p4/6q1/4P1P1/5Q2/PP3PK1/R6R w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r1r1k/ppp2Bpp/1b1p4/6q1/4P1P1/5Q2/PP3PK1/R6R w - - 0 1\"]\r\n\r\n1. Rxh7+ Kxh7 2. Rh1+ Qh6 3. Qf5+ Kh8 4. Rxh6+ gxh6 5. Qf6+ Kh7 6. Qg6+ Kh8 7. Qxh6#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3r1r1k/ppp2Bpp/1b1p4/6q1/4P1P1/5Q2/PP3PK1/R6R%20w%20-%20-%200%201&size=2"
+}

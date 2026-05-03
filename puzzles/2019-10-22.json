@@ -1,0 +1,8 @@
+{
+	"title": "Little Space Many Problems",
+	"url": "https://www.chess.com/daily/2019-10-22",
+	"publish_time": 1571727600,
+	"fen": "r2k2nr/1pp1bpq1/p1npb1p1/7p/2P2B2/4NNP1/PP2BP1P/R1Q2RK1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2k2nr/1pp1bpq1/p1npb1p1/7p/2P2B2/4NNP1/PP2BP1P/R1Q2RK1 b - - 0 1\"]\r\n\r\n1...g5 2. Bxg5 Bxg5 3. Nxg5 Qxg5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2k2nr/1pp1bpq1/p1npb1p1/7p/2P2B2/4NNP1/PP2BP1P/R1Q2RK1%20b%20-%20-%200%201&size=2"
+}

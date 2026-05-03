@@ -1,0 +1,8 @@
+{
+	"title": "Top of the Class",
+	"url": "https://www.chess.com/daily/2022-06-13",
+	"publish_time": 1655103600,
+	"fen": "8/8/8/pp1p2k1/6P1/4R1KP/6N1/6q1 w - - 0 59",
+	"pgn": "[Event \"It (open)\"]\r\n[Site \"St. Cugat (Spain)\"]\r\n[Date \"1992.??.??\"]\r\n[Round \"?\"]\r\n[White \"Topalov Veselin (BUL)\"]\r\n[Black \"Glavina Pablo (ARG)\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2520\"]\r\n[BlackElo \"2447\"]\r\n[FEN \"8/8/8/pp1p2k1/6P1/4R1KP/6N1/6q1 w - - 0 59\"]\r\n\r\n59.Re6 Qd4 60.h4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/pp1p2k1/6P1/4R1KP/6N1/6q1%20w%20-%20-%200%2059&size=2"
+}

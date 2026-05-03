@@ -1,0 +1,8 @@
+{
+	"title": "Front and Center",
+	"url": "https://www.chess.com/daily/2021-03-18",
+	"publish_time": 1616050800,
+	"fen": "r4rk1/1pp1pp1p/p5p1/8/bP1q2P1/P2B1P1Q/Rb1K4/1N4NR b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/1pp1pp1p/p5p1/8/bP1q2P1/P2B1P1Q/Rb1K4/1N4NR b - - 0 1\"]\r\n\r\n1...Rfd8 2.Qxh7+ Kf8 3.Qh6+ Ke8 4.Qe3 Bc1+ 5.Kxc1 Qxe3+ *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1pp1pp1p/p5p1/8/bP1q2P1/P2B1P1Q/Rb1K4/1N4NR%20b%20-%20-%200%201&size=2"
+}

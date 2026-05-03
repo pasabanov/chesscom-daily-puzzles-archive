@@ -1,0 +1,8 @@
+{
+	"title": "Tactical Second Act",
+	"url": "https://www.chess.com/daily/2025-02-09",
+	"publish_time": 1739088000,
+	"fen": "4k3/2P1p2p/N1q3p1/1p4Q1/p1n2n2/5N2/P5PP/6K1 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"4k3/2P1p2p/N1q3p1/1p4Q1/p1n2n2/5N2/P5PP/6K1 w - - 0 1\"]\r\n\r\n1. Qxb5 Qxb5 2. c8=Q+ Kf7 3. Qxc4+ Qxc4 4. Ne5+ Ke6 5. Nxc4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4k3/2P1p2p/N1q3p1/1p4Q1/p1n2n2/5N2/P5PP/6K1%20w%20-%20-%200%201&size=2"
+}

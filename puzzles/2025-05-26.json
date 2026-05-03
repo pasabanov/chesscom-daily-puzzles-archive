@@ -1,0 +1,8 @@
+{
+	"title": "Check for a Free Queen",
+	"url": "https://www.chess.com/daily/2025-05-26",
+	"publish_time": 1748242800,
+	"fen": "2kr3r/ppp2pp1/2n2q1p/3Q4/3NN1b1/2P1P3/PP3PBK/R4R2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2kr3r/ppp2pp1/2n2q1p/3Q4/3NN1b1/2P1P3/PP3PBK/R4R2 b - - 0 1\"]\r\n\r\n1... Qh4+ 2. Kg1 Rxd5 *",
+	"image": "https://www.chess.com/dynboard?fen=2kr3r/ppp2pp1/2n2q1p/3Q4/3NN1b1/2P1P3/PP3PBK/R4R2%20b%20-%20-%200%201&size=2"
+}

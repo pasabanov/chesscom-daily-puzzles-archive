@@ -1,0 +1,8 @@
+{
+	"title": "An Assistant from the Audience",
+	"url": "https://www.chess.com/daily/2022-05-14",
+	"publish_time": 1652511600,
+	"fen": "k2r3r/B1p3bp/Q1pp2p1/6P1/N1P1Pq2/5n1P/P1P2P2/1K3R2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"k2r3r/B1p3bp/Q1pp2p1/6P1/N1P1Pq2/5n1P/P1P2P2/1K3R2 b - - 0 1\"]\r\n\r\n1...Nd2+ 2.Kc1 Nb3+ 3.Kb1 Qc1+ 4.Rxc1 Nd2# *",
+	"image": "https://www.chess.com/dynboard?fen=k2r3r/B1p3bp/Q1pp2p1/6P1/N1P1Pq2/5n1P/P1P2P2/1K3R2%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Throwing a Hail Mary",
+	"url": "https://www.chess.com/daily/2021-11-23",
+	"publish_time": 1637654400,
+	"fen": "2rr4/2q3k1/5p2/5B1p/P3Q2P/b2p1P1P/8/1R1R2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2rr4/2q3k1/5p2/5B1p/P3Q2P/b2p1P1P/8/1R1R2K1 b - - 0 1\"]\r\n\r\n1...Qg3+ 2.Kh1 Rc2 3.Rb7+ Kf8 4.Qe7+ Bxe7 *",
+	"image": "https://www.chess.com/dynboard?fen=2rr4/2q3k1/5p2/5B1p/P3Q2P/b2p1P1P/8/1R1R2K1%20b%20-%20-%200%201&size=2"
+}

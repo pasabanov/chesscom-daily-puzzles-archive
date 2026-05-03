@@ -1,0 +1,9 @@
+{
+	"title": "Fast Activation",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-08-12",
+	"publish_time": 1439362800,
+	"fen": "r1bq1kr1/ppp1n1pp/8/8/3P4/BQ3N2/P4PPP/b4RK1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1bq1kr1/ppp1n1pp/8/8/3P4/BQ3N2/P4PPP/b4RK1 w - - 0 1\"]\r\n\r\n1. Ne5 Qe8 2. Qf3+ Bf5 3. Qxf5+ Qf7 4. Qxf7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1bq1kr1/ppp1n1pp/8/8/3P4/BQ3N2/P4PPP/b4RK1%20w%20-%20-%200%201&size=2"
+}

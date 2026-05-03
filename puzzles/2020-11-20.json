@@ -1,0 +1,8 @@
+{
+	"title": "Rumors",
+	"url": "https://www.chess.com/daily/2020-11-20",
+	"publish_time": 1605859200,
+	"fen": "r4rk1/ppq2ppp/4p3/1R2b1B1/2nQ4/2P3P1/P3PPBP/5RK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/ppq2ppp/4p3/1R2b1B1/2nQ4/2P3P1/P3PPBP/5RK1 w - - 0 1\"]\r\n\r\n1.Rc5 Bxd4 2.Rxc7 Bb6 3.Rxc4 *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/ppq2ppp/4p3/1R2b1B1/2nQ4/2P3P1/P3PPBP/5RK1%20w%20-%20-%200%201&size=2"
+}

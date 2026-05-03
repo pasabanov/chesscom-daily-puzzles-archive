@@ -1,0 +1,8 @@
+{
+	"title": "Loose Pin",
+	"url": "https://www.chess.com/daily/2020-10-19",
+	"publish_time": 1603090800,
+	"fen": "1kb1R3/p1b5/P7/1p4qp/1P1P4/7P/5PQP/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1kb1R3/p1b5/P7/1p4qp/1P1P4/7P/5PQP/6K1 b - - 0 1\"]\r\n\r\n1...Qc1+ 2.Qf1 Bxh2+ 3.Kg2 Qc6+ 4.Kxh2 Qxe8 *",
+	"image": "https://www.chess.com/dynboard?fen=1kb1R3/p1b5/P7/1p4qp/1P1P4/7P/5PQP/6K1%20b%20-%20-%200%201&size=2"
+}

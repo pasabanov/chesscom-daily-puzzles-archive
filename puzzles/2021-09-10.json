@@ -1,0 +1,8 @@
+{
+	"title": "Instrusion",
+	"url": "https://www.chess.com/daily/2021-09-10",
+	"publish_time": 1631257200,
+	"fen": "1rr3k1/1R3ppp/4p3/n3q3/1Q6/5BP1/4PP1P/3R2K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1rr3k1/1R3ppp/4p3/n3q3/1Q6/5BP1/4PP1P/3R2K1 w - - 0 1\"]\r\n\r\n1.Rxb8 Rxb8 2.Rd6 Rc8 3.Ra6 *",
+	"image": "https://www.chess.com/dynboard?fen=1rr3k1/1R3ppp/4p3/n3q3/1Q6/5BP1/4PP1P/3R2K1%20w%20-%20-%200%201&size=2"
+}

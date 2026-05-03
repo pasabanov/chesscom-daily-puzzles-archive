@@ -1,0 +1,8 @@
+{
+	"title": "The Illusion of Solidity",
+	"url": "https://www.chess.com/daily/2021-04-22",
+	"publish_time": 1619074800,
+	"fen": "1r3rk1/1p6/p2P3p/P3p3/5np1/2BPPp1q/R6P/1Q1B1RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/1p6/p2P3p/P3p3/5np1/2BPPp1q/R6P/1Q1B1RK1 b - - 0 1\"]\r\n\r\n1...f2+ 2.Raxf2 Qg2+ 3.Rxg2 Nh3+ 4.Kh1 Rxf1+ 5.Rg1 Rxg1# *",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/1p6/p2P3p/P3p3/5np1/2BPPp1q/R6P/1Q1B1RK1%20b%20-%20-%200%201&size=2"
+}

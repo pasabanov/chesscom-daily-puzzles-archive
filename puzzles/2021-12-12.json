@@ -1,0 +1,8 @@
+{
+	"title": "The Second Act",
+	"url": "https://www.chess.com/daily/2021-12-12",
+	"publish_time": 1639296000,
+	"fen": "6n1/2p1p1N1/2kP4/K1p5/8/3B4/8/8 w - - 0 1",
+	"pgn": "[Event \"Probleemblad 2021\"]\r\n[White \"Nielsen and Minski\"]\r\n[Black \"Composition\"]\r\n[Result \"*\"]\r\n[FEN \"6n1/2p1p1N1/2kP4/K1p5/8/3B4/8/8 w - - 0 1\"]\r\n\r\n1.Bc4 e6 2.Bxe6 Nf6 3.Ne8 Nxe8 4.d7 Nd6 5.d8=N# *",
+	"image": "https://www.chess.com/dynboard?fen=6n1/2p1p1N1/2kP4/K1p5/8/3B4/8/8%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Gross Tangled in a Net",
+	"url": "https://www.chess.com/daily/2024-05-17",
+	"publish_time": 1715929200,
+	"fen": "8/2k5/3NB3/2pP4/8/4p1r1/2r5/1R5K w - - 0 51",
+	"pgn": "[Event \"Budapest FS07 IM-B\"]\r\n[Site \"Budapest\"]\r\n[Date \"1993.??.??\"]\r\n[Round \"1\"]\r\n[White \"Szieberth, Adam\"]\r\n[Black \"Gross, David\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2285\"]\r\n[BlackElo \"2270\"]\r\n[FEN \"8/2k5/3NB3/2pP4/8/4p1r1/2r5/1R5K w - - 0 51\"]\r\n\r\n51. Ne8+ Kd8 52. d6 Kxe8 53. Rb8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/2k5/3NB3/2pP4/8/4p1r1/2r5/1R5K%20w%20-%20-%200%2051&size=2"
+}

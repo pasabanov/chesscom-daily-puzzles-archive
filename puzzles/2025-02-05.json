@@ -1,0 +1,8 @@
+{
+	"title": "Fancy Prance",
+	"url": "https://www.chess.com/daily/2025-02-05",
+	"publish_time": 1738742400,
+	"fen": "2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1 b - - 4 18",
+	"pgn": "[White \"Bikfoot\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1 b - - 4 18\"]\r\n\r\n18... Nd4 19. Qxe7 Nxf3+ 20. Kg2 Nxe1+ 21. Rxe1 Rxe7 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1%20b%20-%20-%204%2018&size=2"
+}

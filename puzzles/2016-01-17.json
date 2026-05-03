@@ -1,0 +1,8 @@
+{
+	"title": "A Quiet Move",
+	"url": "https://www.chess.com/daily/2016-01-17",
+	"publish_time": 1453017600,
+	"fen": "2r5/2p3R1/1p3p2/1Pk1p3/P3P3/1KPPn1b1/8/8 w - - 5 48",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"2r5/2p3R1/1p3p2/1Pk1p3/P3P3/1KPPn1b1/8/8 w - - 5 48\"]\r\n\r\n48. Rd7 c6 49. d4+ exd4 50. cxd4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r5/2p3R1/1p3p2/1Pk1p3/P3P3/1KPPn1b1/8/8%20w%20-%20-%205%2048&size=2"
+}

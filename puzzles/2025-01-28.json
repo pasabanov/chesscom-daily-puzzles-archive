@@ -1,0 +1,8 @@
+{
+	"title": "Brilliant Corners",
+	"url": "https://www.chess.com/daily/2025-01-28",
+	"publish_time": 1738051200,
+	"fen": "r7/4p1k1/5pP1/2pN1P2/1pP3Q1/1P1q1P2/P7/6RK b - - 0 1",
+	"pgn": "[White \"AstrocatTBC\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"r7/4p1k1/5pP1/2pN1P2/1pP3Q1/1P1q1P2/P7/6RK b - - 0 1\"]\r\n\r\n1... Rh8+ 2. Kg2 Qe2+ 3. Kg3 Qh2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r7/4p1k1/5pP1/2pN1P2/1pP3Q1/1P1q1P2/P7/6RK%20b%20-%20-%200%201&size=2"
+}

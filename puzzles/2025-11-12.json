@@ -1,0 +1,8 @@
+{
+	"title": "Show Yourself",
+	"url": "https://www.chess.com/daily/2025-11-12",
+	"publish_time": 1762934400,
+	"fen": "3r1qrk/pp4Rp/5p2/n3pN2/3bP1Q1/P2b3P/1P1B3K/8 w - - 0 32",
+	"pgn": "[White \"MagNiels_Carlsen\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r1qrk/pp4Rp/5p2/n3pN2/3bP1Q1/P2b3P/1P1B3K/8 w - - 0 32\"]\r\n\r\n32. Rxh7+ Kxh7 33. Qh5+ Qh6 34. Qxh6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r1qrk/pp4Rp/5p2/n3pN2/3bP1Q1/P2b3P/1P1B3K/8%20w%20-%20-%200%2032&size=2"
+}

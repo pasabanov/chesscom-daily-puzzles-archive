@@ -1,0 +1,8 @@
+{
+	"title": "Here Comes the Sun",
+	"url": "https://www.chess.com/daily/2026-04-17",
+	"publish_time": 1776409200,
+	"fen": "r7/4bkp1/Bp3p2/8/Q1p3pR/Nn1q2B1/1P3P2/4K2R b K - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"r7/4bkp1/Bp3p2/8/Q1p3pR/Nn1q2B1/1P3P2/4K2R b K - 0 1\"]\r\n\r\n1... Bb4+ 2. Qxb4 Re8+ 3. Be5 Rxe5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r7/4bkp1/Bp3p2/8/Q1p3pR/Nn1q2B1/1P3P2/4K2R%20b%20K%20-%200%201&size=2"
+}

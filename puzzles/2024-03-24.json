@@ -1,0 +1,8 @@
+{
+	"title": "Yasser's Surprise Checkmate Party",
+	"url": "https://www.chess.com/daily/2024-03-24",
+	"publish_time": 1711263600,
+	"fen": "1r6/4k3/3b1p2/1N1np1p1/PP1pP1r1/3P3K/5P2/1RB2R2 b - - 0 1",
+	"pgn": "[Event \"Phillips & Drew GLC Kings\"]\r\n[Date \"1984\"]\r\n[White \"Viktor Korchnoi (Pawn change on a4)\"]\r\n[Black \"Yasser Seirawan\"]\r\n[Result \"0-1\"]\r\n[FEN \"1r6/4k3/3b1p2/1N1np1p1/PP1pP1r1/3P3K/5P2/1RB2R2 b - - 0 1\"]\r\n\r\n1... f5 2. exf5 Nf6 3. f3 Rh8# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1r6/4k3/3b1p2/1N1np1p1/PP1pP1r1/3P3K/5P2/1RB2R2%20b%20-%20-%200%201&size=2"
+}

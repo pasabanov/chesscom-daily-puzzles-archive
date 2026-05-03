@@ -1,0 +1,8 @@
+{
+	"title": "Marching into a Mating Net",
+	"url": "https://www.chess.com/daily/2024-09-01",
+	"publish_time": 1725174000,
+	"fen": "r2k3N/p1p2Bpp/8/Q1K1p3/5qb1/8/PPP3PP/RN5R b - - 0 1",
+	"pgn": "[White \"D_Jinny\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"r2k3N/p1p2Bpp/8/Q1K1p3/5qb1/8/PPP3PP/RN5R b - - 0 1\"]\r\n\r\n1... Qd4+ 2. Kc6 Qd6+ 3. Kb7 Bc8+ 4. Kxa8 Qc6+ 5. Kxa7 Qb7# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r2k3N/p1p2Bpp/8/Q1K1p3/5qb1/8/PPP3PP/RN5R%20b%20-%20-%200%201&size=2"
+}

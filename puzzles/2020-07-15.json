@@ -1,0 +1,8 @@
+{
+	"title": "Time in a Bottle",
+	"url": "https://www.chess.com/daily/2020-07-15",
+	"publish_time": 1594796400,
+	"fen": "8/5k2/nr2pPp1/3pP2p/RB1P3P/1K1P4/8/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/5k2/nr2pPp1/3pP2p/RB1P3P/1K1P4/8/8 b - - 0 1\"]\r\n\r\n1...Rxb4+ 2.Rxb4 Nxb4 3.Kxb4 g5 4.hxg5 h4 5.Kc5 h3 6.Kd6 h2 7.g6+ Kxg6 8.\r\nKe7 h1=Q 9.f7 Qh7 *",
+	"image": "https://www.chess.com/dynboard?fen=8/5k2/nr2pPp1/3pP2p/RB1P3P/1K1P4/8/8%20b%20-%20-%200%201&size=2"
+}

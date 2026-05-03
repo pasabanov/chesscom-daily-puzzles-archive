@@ -1,0 +1,8 @@
+{
+	"title": "It Just So Happens",
+	"url": "https://www.chess.com/daily/2019-12-22",
+	"publish_time": 1577001600,
+	"fen": "2r5/1R4p1/3kn2p/1B2p3/2p1P2N/2P3PP/1Pq2b1K/2B5 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r5/1R4p1/3kn2p/1B2p3/2p1P2N/2P3PP/1Pq2b1K/2B5 w - - 0 1\"]\r\n\r\n1.Nf5+ Kc5 2.b4+ cxb3 3.Ba3# *",
+	"image": "https://www.chess.com/dynboard?fen=2r5/1R4p1/3kn2p/1B2p3/2p1P2N/2P3PP/1Pq2b1K/2B5%20w%20-%20-%200%201&size=2"
+}

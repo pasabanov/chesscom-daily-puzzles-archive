@@ -1,0 +1,8 @@
+{
+	"title": "Caught in the Crosshairs",
+	"url": "https://www.chess.com/daily/2019-12-12",
+	"publish_time": 1576137600,
+	"fen": "8/7p/8/5N1P/1Pb5/2Bpbk2/8/3K4 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"8/7p/8/5N1P/1Pb5/2Bpbk2/8/3K4 b - - 0 1\"]\r\n\r\n1... Bb3+ 2. Ke1 d2+ 3. Bxd2 Bf2+ 4. Kf1 Bc4# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/7p/8/5N1P/1Pb5/2Bpbk2/8/3K4%20b%20-%20-%200%201&size=2"
+}

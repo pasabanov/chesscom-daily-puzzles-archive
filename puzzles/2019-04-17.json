@@ -1,0 +1,8 @@
+{
+	"title": "Reti opening analysis",
+	"url": "https://www.chess.com/daily/2019-04-17",
+	"publish_time": 1555484400,
+	"fen": "r1b1kbnr/p1p1p1pp/2q2p2/1p6/8/4P3/PP1P1PPP/R1BQKB1R w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1kbnr/p1p1p1pp/2q2p2/1p6/8/4P3/PP1P1PPP/R1BQKB1R w KQkq - 0 1\"]\r\n\r\n1. Qh5+ g6 2. Bxb5 gxh5 3. Bxc6+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1b1kbnr/p1p1p1pp/2q2p2/1p6/8/4P3/PP1P1PPP/R1BQKB1R%20w%20KQkq%20-%200%201&size=2"
+}

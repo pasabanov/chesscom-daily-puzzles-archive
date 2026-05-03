@@ -1,0 +1,8 @@
+{
+	"title": "Three Square Meals",
+	"url": "https://www.chess.com/daily/2021-04-05",
+	"publish_time": 1617606000,
+	"fen": "8/1p6/8/P1p5/2P2k2/5pp1/1P4N1/5K2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1p6/8/P1p5/2P2k2/5pp1/1P4N1/5K2 b - - 0 1\"]\r\n\r\n1...fxg2+ 2.Kxg2 Kg4 3.a6 bxa6 4.b4 cxb4 5.c5 Kf5 6.c6 Ke6 7.c7 Kd7 8.\r\nc8=Q+ Kxc8 *",
+	"image": "https://www.chess.com/dynboard?fen=8/1p6/8/P1p5/2P2k2/5pp1/1P4N1/5K2%20b%20-%20-%200%201&size=2"
+}

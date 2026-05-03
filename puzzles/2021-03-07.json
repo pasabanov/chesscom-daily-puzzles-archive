@@ -1,0 +1,8 @@
+{
+	"title": "A Sunday Stroll",
+	"url": "https://www.chess.com/daily/2021-03-07",
+	"publish_time": 1615104000,
+	"fen": "rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 1\"]\r\n\r\n1.Bxe4 Bxe4 2.Nc3 Bxf3 3.Nxd5 Bxd1 4.Nxe7+ *",
+	"image": "https://www.chess.com/dynboard?fen=rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1%20w%20-%20-%200%201&size=2"
+}

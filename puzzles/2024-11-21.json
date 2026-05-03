@@ -1,0 +1,8 @@
+{
+	"title": "Diagonal Darts",
+	"url": "https://www.chess.com/daily/2024-11-21",
+	"publish_time": 1732176000,
+	"fen": "3q1rk1/pbb2pp1/1p5p/2n5/2B2Q2/2B5/1P2r1PP/R4RK1 w - - 0 14",
+	"pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3q1rk1/pbb2pp1/1p5p/2n5/2B2Q2/2B5/1P2r1PP/R4RK1 w - - 0 14\"]\r\n\r\n14. Bxf7+ Kh7 15. Qf5+ Kh8 16. Bxg7+ Kxg7 17. Qg6+ Kh8 18. Qxh6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3q1rk1/pbb2pp1/1p5p/2n5/2B2Q2/2B5/1P2r1PP/R4RK1%20w%20-%20-%200%2014&size=2"
+}

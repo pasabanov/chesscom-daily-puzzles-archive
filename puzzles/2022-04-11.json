@@ -1,0 +1,8 @@
+{
+	"title": "Uncle Yermo's Birthday Gift",
+	"url": "https://www.chess.com/daily/2022-04-11",
+	"publish_time": 1649660400,
+	"fen": "r2q2r1/5pkp/3p4/p3pB1Q/2Pb4/1P4P1/7P/R1B2K2 w - - 7 31",
+	"pgn": "[Event \"Ch USA (Gr.1)\"]\r\n[Site \"Chandler (USA)\"]\r\n[Date \"1997.??.??\"]\r\n[Round \"?\"]\r\n[White \"Alex Yermolinsky\"]\r\n[Black \"Alexander Ivanov\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2q2r1/5pkp/3p4/p3pB1Q/2Pb4/1P4P1/7P/R1B2K2 w - - 7 31\"]\r\n\r\n31.Qh6+ Kh8 32.Qxh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2q2r1/5pkp/3p4/p3pB1Q/2Pb4/1P4P1/7P/R1B2K2%20w%20-%20-%207%2031&size=2"
+}

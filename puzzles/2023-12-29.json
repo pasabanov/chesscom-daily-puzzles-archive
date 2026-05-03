@@ -1,0 +1,8 @@
+{
+	"title": "The Point of No Return",
+	"url": "https://www.chess.com/daily/2023-12-29",
+	"publish_time": 1703836800,
+	"fen": "r1b1k2r/5pp1/p1n1p2p/1p2Pn1P/1P1p2q1/3B1N2/2PB1PP1/1R2QK1R w kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1k2r/5pp1/p1n1p2p/1p2Pn1P/1P1p2q1/3B1N2/2PB1PP1/1R2QK1R w kq - 0 1\"]\r\n\r\n1. Rh3 Bb7 2. Nh2 Qxh3 3. gxh3 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k2r/5pp1/p1n1p2p/1p2Pn1P/1P1p2q1/3B1N2/2PB1PP1/1R2QK1R%20w%20kq%20-%200%201&size=2"
+}

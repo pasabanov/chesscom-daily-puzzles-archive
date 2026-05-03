@@ -1,0 +1,9 @@
+{
+	"title": "Don't Look Too Hard",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-07-18",
+	"publish_time": 1184742000,
+	"fen": "3q1b1k/1b5p/2p1Q1p1/1pP5/4Nr2/4R2P/5PP1/5BK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[SetUp \"1\"]\r\n[FEN \"3q1b1k/1b5p/2p1Q1p1/1pP5/4Nr2/4R2P/5PP1/5BK1 w - - 0 1\"]\r\n[PlyCount \"1\"]\r\n\r\n1. Qe5+ Bg7 2. Qxf4",
+	"image": "https://www.chess.com/dynboard?fen=3q1b1k/1b5p/2p1Q1p1/1pP5/4Nr2/4R2P/5PP1/5BK1%20w%20-%20-%200%201&size=2"
+}

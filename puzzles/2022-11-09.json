@@ -1,0 +1,8 @@
+{
+	"title": "Danya's First Rank Birthday Bash",
+	"url": "https://www.chess.com/daily/2022-11-09",
+	"publish_time": 1667980800,
+	"fen": "3r2k1/Q4pp1/5bbp/3B4/8/qP3P2/P4BPP/3R2K1 b - - 0 26",
+	"pgn": "[Event \"Far West Open\"]\r\n[Site \"Reno\"]\r\n[Date \"2010.04.04\"]\r\n[Round \"5\"]\r\n[White \"Formanek, Edward\"]\r\n[Black \"Naroditsky, Daniel\"]\r\n[Result \"0-1\"]\r\n[ECO \"B50\"]\r\n[WhiteElo \"2306\"]\r\n[BlackElo \"2434\"]\r\n[SetUp \"1\"]\r\n[FEN \"3r2k1/Q4pp1/5bbp/3B4/8/qP3P2/P4BPP/3R2K1 b - - 0 26\"]\r\n\r\n26... Rxd5 27. Qxa3 Rxd1+ 28. Be1 Bd4+ 29. Kf1 Bd3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/Q4pp1/5bbp/3B4/8/qP3P2/P4BPP/3R2K1%20b%20-%20-%200%2026&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Thunderclap",
+	"url": "https://www.chess.com/daily/2021-01-12",
+	"publish_time": 1610438400,
+	"fen": "5k2/pb4pQ/1p3q1p/8/2Pb4/3B4/PP4PP/4R2K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5k2/pb4pQ/1p3q1p/8/2Pb4/3B4/PP4PP/4R2K b - - 0 1\"]\r\n\r\n1...Bxg2+ 2.Kxg2 Qf2+ 3.Kh3 Qf3+ *",
+	"image": "https://www.chess.com/dynboard?fen=5k2/pb4pQ/1p3q1p/8/2Pb4/3B4/PP4PP/4R2K%20b%20-%20-%200%201&size=2"
+}

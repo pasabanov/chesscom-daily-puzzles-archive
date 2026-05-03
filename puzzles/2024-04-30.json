@@ -1,0 +1,8 @@
+{
+	"title": "Anna's Birthday Blitz Checkmate",
+	"url": "https://www.chess.com/daily/2024-04-30",
+	"publish_time": 1714460400,
+	"fen": "rnb2k2/pp2q1pQ/2p1p3/4P3/5rP1/3B4/PPP2P1P/R4RK1 w - - 0 18",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.02.22\"]\r\n[Round \"?\"]\r\n[White \"annacramling\"]\r\n[Black \"JoeBruin\"]\r\n[Result \"1-0\"]\r\n[ECO \"B15\"]\r\n[WhiteElo \"2111\"]\r\n[BlackElo \"2089\"]\r\n[FEN \"rnb2k2/pp2q1pQ/2p1p3/4P3/5rP1/3B4/PPP2P1P/R4RK1 w - - 0 18\"]\r\n\r\n18. Qh8+ Kf7 19. Bg6+ Kxg6 20. Qh5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rnb2k2/pp2q1pQ/2p1p3/4P3/5rP1/3B4/PPP2P1P/R4RK1%20w%20-%20-%200%2018&size=2"
+}

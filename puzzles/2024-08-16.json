@@ -1,0 +1,8 @@
+{
+	"title": "JohanVA's Queen Encore",
+	"url": "https://www.chess.com/daily/2024-08-16",
+	"publish_time": 1723791600,
+	"fen": "5bk1/P4p2/4nQ1p/3p4/2b3p1/3q1NB1/5PPP/1r2R1K1 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Queen Encore\"]\r\n[Result \"1-0\"]\r\n[FEN \"5bk1/P4p2/4nQ1p/3p4/2b3p1/3q1NB1/5PPP/1r2R1K1 w - - 0 1\"]\r\n\r\n1. Qxf7+ Kxf7 2. Ne5+ Kg8 3. Nxd3 Rxe1+ 4. Nxe1 d4 5. a8=Q *",
+	"image": "https://www.chess.com/dynboard?fen=5bk1/P4p2/4nQ1p/3p4/2b3p1/3q1NB1/5PPP/1r2R1K1%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Resolving Rook Drama",
+	"url": "https://www.chess.com/daily/2022-10-13",
+	"publish_time": 1665644400,
+	"fen": "8/r1k2ppp/PR2p1b1/R1r5/8/4KP2/6PP/5B2 w - - 0 45",
+	"pgn": "[Event \"World-ch Kramnik-Topalov playoff +2-1=1\"]\r\n[Site \"Elista\"]\r\n[Date \"2006.10.13\"]\r\n[Round \"4\"]\r\n[White \"Kramnik, Vladimir\"]\r\n[Black \"Topalov, Veselin\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2743\"]\r\n[BlackElo \"2813\"]\r\n[FEN \"8/r1k2ppp/PR2p1b1/R1r5/8/4KP2/6PP/5B2 w - - 0 45\"]\r\n\r\n45. Rb7+ Rxb7 46. Rxc5+ Kb6 47. axb7 *",
+	"image": "https://www.chess.com/dynboard?fen=8/r1k2ppp/PR2p1b1/R1r5/8/4KP2/6PP/5B2%20w%20-%20-%200%2045&size=2"
+}

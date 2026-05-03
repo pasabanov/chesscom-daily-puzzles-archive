@@ -1,0 +1,8 @@
+{
+	"title": "Facing the Music",
+	"url": "https://www.chess.com/daily/2020-02-03",
+	"publish_time": 1580716800,
+	"fen": "r2qr1k1/ppp2Nbp/5np1/1b6/4P3/8/PP1N1PPP/R1BQR1K1 b - - 0 13",
+	"pgn": "[Event \"Essent Open\"]\r\n[Site \"Hoogeveen NED\"]\r\n[Date \"2000.10.17\"]\r\n[Round \"5\"]\r\n[White \"Joost Berkvens\"]\r\n[Black \"Victor Markovich Mikhalevski\"]\r\n[Result \"0-1\"]\r\n[FEN \"r2qr1k1/ppp2Nbp/5np1/1b6/4P3/8/PP1N1PPP/R1BQR1K1 b - - 0 13\"]\r\n\r\n13...Kxf7 14.Qb3+ Qd5 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r2qr1k1/ppp2Nbp/5np1/1b6/4P3/8/PP1N1PPP/R1BQR1K1%20b%20-%20-%200%2013&size=2"
+}

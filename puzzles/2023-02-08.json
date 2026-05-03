@@ -1,0 +1,8 @@
+{
+	"title": "Exposing White's Key Weakness",
+	"url": "https://www.chess.com/daily/2023-02-08",
+	"publish_time": 1675843200,
+	"fen": "3r2k1/1pr2pb1/1q1N2pp/pQ2n3/8/4PP2/PP1R1BPP/3R2K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/1pr2pb1/1q1N2pp/pQ2n3/8/4PP2/PP1R1BPP/3R2K1 b - - 0 1\"]\r\n\r\n1... Qxb5 2. Nxb5 Rxd2 3. Rxd2 Rc1+ 4. Be1 Rxe1+ *",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/1pr2pb1/1q1N2pp/pQ2n3/8/4PP2/PP1R1BPP/3R2K1%20b%20-%20-%200%201&size=2"
+}

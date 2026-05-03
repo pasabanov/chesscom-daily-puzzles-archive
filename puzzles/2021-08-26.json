@@ -1,0 +1,8 @@
+{
+	"title": "Long Distance Call",
+	"url": "https://www.chess.com/daily/2021-08-26",
+	"publish_time": 1629961200,
+	"fen": "3r2kb/4q2p/p3p1pQ/1p4N1/2n2RP1/4P2P/KP1r4/3N1R2 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r2kb/4q2p/p3p1pQ/1p4N1/2n2RP1/4P2P/KP1r4/3N1R2 w - - 0 1\"]\r\n\r\n1.Rf8+ Rxf8 2.Rxf8+ Qxf8 3.Qxh7# *",
+	"image": "https://www.chess.com/dynboard?fen=3r2kb/4q2p/p3p1pQ/1p4N1/2n2RP1/4P2P/KP1r4/3N1R2%20w%20-%20-%200%201&size=2"
+}

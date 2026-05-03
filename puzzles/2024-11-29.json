@@ -1,0 +1,8 @@
+{
+	"title": "Loose Around the Edges",
+	"url": "https://www.chess.com/daily/2024-11-29",
+	"publish_time": 1732867200,
+	"fen": "6k1/p5p1/1p2p3/2p5/P1b2q2/2Bp3R/5NPP/R3K3 b Q - 0 1",
+	"pgn": "[White \"Gunnar247\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"6k1/p5p1/1p2p3/2p5/P1b2q2/2Bp3R/5NPP/R3K3 b Q - 0 1\"]\r\n\r\n1... d2+ 2. Bxd2 Qe5+ 3. Re3 Qxa1+ 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p5p1/1p2p3/2p5/P1b2q2/2Bp3R/5NPP/R3K3%20b%20Q%20-%200%201&size=2"
+}

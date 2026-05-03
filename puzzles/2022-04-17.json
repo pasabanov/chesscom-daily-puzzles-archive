@@ -1,0 +1,8 @@
+{
+	"title": "Riding into the Night",
+	"url": "https://www.chess.com/daily/2022-04-17",
+	"publish_time": 1650178800,
+	"fen": "8/pp2pp2/kpp5/4P3/K7/N3P3/8/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/pp2pp2/kpp5/4P3/K7/N3P3/8/8 w - - 0 1\"]\r\n\r\n1.Nb5 cxb5+ 2.Kb4 f5 3.exf6 exf6 4.e4 f5 5.e5 f4 6.e6 f3 7.e7 f2 8.e8=N \r\nf1=Q 9.Nc7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/pp2pp2/kpp5/4P3/K7/N3P3/8/8%20w%20-%20-%200%201&size=2"
+}

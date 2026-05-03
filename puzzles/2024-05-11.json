@@ -1,0 +1,8 @@
+{
+	"title": "Magnets, Forks, and Pins, Oh My!",
+	"url": "https://www.chess.com/daily/2024-05-11",
+	"publish_time": 1715410800,
+	"fen": "1r2r1k1/p4p1p/6pB/q7/8/3Q2P1/PbP2PKP/1R3R2 w - - 0 20",
+	"pgn": "[Event \"Prague\"]\r\n[Site \"Prague\"]\r\n[Date \"1942.??.??\"]\r\n[Round \"?\"]\r\n[White \"Rada\"]\r\n[Black \"Kostal\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r2r1k1/p4p1p/6pB/q7/8/3Q2P1/PbP2PKP/1R3R2 w - - 0 20\"]\r\n\r\n20. Rxb2 Rxb2 21. Qd4 Qe5 22. Re1 Qxd4 23. Rxe8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r2r1k1/p4p1p/6pB/q7/8/3Q2P1/PbP2PKP/1R3R2%20w%20-%20-%200%2020&size=2"
+}

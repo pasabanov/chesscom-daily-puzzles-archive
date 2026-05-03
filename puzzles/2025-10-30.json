@@ -1,0 +1,8 @@
+{
+	"title": "Crisscross",
+	"url": "https://www.chess.com/daily/2025-10-30",
+	"publish_time": 1761807600,
+	"fen": "1r2k2r/1p4pp/2n1ppb1/p2n4/Pb1P4/6QP/1PB1RPP1/2R3K1 w - - 0 1",
+	"pgn": "[White \"NotNerdyN3rd\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r2k2r/1p4pp/2n1ppb1/p2n4/Pb1P4/6QP/1PB1RPP1/2R3K1 w - - 0 1\"]\r\n\r\n1. Bxg6+ hxg6 2. Rxc6 bxc6 3. Qxb8+ 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r2k2r/1p4pp/2n1ppb1/p2n4/Pb1P4/6QP/1PB1RPP1/2R3K1%20w%20-%20-%200%201&size=2"
+}

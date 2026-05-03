@@ -1,0 +1,8 @@
+{
+	"title": "Free Queen?",
+	"url": "https://www.chess.com/daily/2025-09-05",
+	"publish_time": 1757055600,
+	"fen": "2r3k1/q1r2pb1/3pb1p1/1p2n1P1/1P2PP1R/3Q1BK1/1B2N3/7R b - - 0 37",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/q1r2pb1/3pb1p1/1p2n1P1/1P2PP1R/3Q1BK1/1B2N3/7R b - - 0 37\"]\r\n\r\n37... Qf2+ 38. Kxf2 Nxd3+ 39. Ke3 Nxb2 *",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/q1r2pb1/3pb1p1/1p2n1P1/1P2PP1R/3Q1BK1/1B2N3/7R%20b%20-%20-%200%2037&size=2"
+}

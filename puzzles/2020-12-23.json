@@ -1,0 +1,8 @@
+{
+	"title": "Navigating the Chaos",
+	"url": "https://www.chess.com/daily/2020-12-23",
+	"publish_time": 1608710400,
+	"fen": "Q6Q/8/p2p2k1/1pn2bq1/1nPr4/P7/3N4/b1BK1B1R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"Q6Q/8/p2p2k1/1pn2bq1/1nPr4/P7/3N4/b1BK1B1R b - - 0 1\"]\r\n\r\n1...Bc2+ 2.Ke2 Qe7+ 3.Ne4 Rxe4+ 4.Kf3 Bd1+ 5.Kg2 Rg4+ 6.Kh3 Bxh8 *",
+	"image": "https://www.chess.com/dynboard?fen=Q6Q/8/p2p2k1/1pn2bq1/1nPr4/P7/3N4/b1BK1B1R%20b%20-%20-%200%201&size=2"
+}

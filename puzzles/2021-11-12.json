@@ -1,0 +1,8 @@
+{
+	"title": "Relative Pressure",
+	"url": "https://www.chess.com/daily/2021-11-12",
+	"publish_time": 1636704000,
+	"fen": "3r2k1/5pp1/p6p/np6/2q4P/2b1PNQ1/P4PP1/1BR3K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/5pp1/p6p/np6/2q4P/2b1PNQ1/P4PP1/1BR3K1 b - - 0 1\"]\r\n\r\n1...Be5 2.Rxc4 Rd1+ 3.Kh2 Bxg3+ *",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/5pp1/p6p/np6/2q4P/2b1PNQ1/P4PP1/1BR3K1%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Pave Your Own Path",
+	"url": "https://www.chess.com/daily/2024-09-17",
+	"publish_time": 1726556400,
+	"fen": "5r2/1bb2pk1/pn1q1pp1/4p1P1/2p1r1Nn/2P1Q3/PP3RP1/5R1K w - - 0 30",
+	"pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"5r2/1bb2pk1/pn1q1pp1/4p1P1/2p1r1Nn/2P1Q3/PP3RP1/5R1K w - - 0 30\"]\r\n[PlyCount \"7\"]\r\n\r\n30. gxf6+ Kg8 31. Qh6 Nf5 32. Rxf5 Qxf6 33. Nxf6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5r2/1bb2pk1/pn1q1pp1/4p1P1/2p1r1Nn/2P1Q3/PP3RP1/5R1K%20w%20-%20-%200%2030&size=2"
+}

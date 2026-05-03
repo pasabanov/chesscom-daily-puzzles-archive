@@ -1,0 +1,8 @@
+{
+	"title": "Clearing the Checkmate Square",
+	"url": "https://www.chess.com/daily/2025-04-10",
+	"publish_time": 1744268400,
+	"fen": "rnb2b1r/p1k4p/p1p2p2/2N3p1/4pP2/4B3/P1P3PP/1R1R2K1 w - - 0 18",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"rnb2b1r/p1k4p/p1p2p2/2N3p1/4pP2/4B3/P1P3PP/1R1R2K1 w - - 0 18\"]\r\n\r\n18. Rb7+ Bxb7 19. Ne6+ Kc8 20. Rd8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rnb2b1r/p1k4p/p1p2p2/2N3p1/4pP2/4B3/P1P3PP/1R1R2K1%20w%20-%20-%200%2018&size=2"
+}

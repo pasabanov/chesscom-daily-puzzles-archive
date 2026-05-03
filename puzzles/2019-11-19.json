@@ -1,0 +1,8 @@
+{
+	"title": "Pushing Your Luck",
+	"url": "https://www.chess.com/daily/2019-11-19",
+	"publish_time": 1574150400,
+	"fen": "3r3k/p2QP2p/1p4p1/2p5/5P1q/2P4B/1P3P2/2K3R1 b - - 3 27",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r3k/p2QP2p/1p4p1/2p5/5P1q/2P4B/1P3P2/2K3R1 b - - 3 27\"]\r\n\r\n27...Qxf4+ 28.Kb1 Qe4+ 29.Ka1 Rxd7 30.Bxd7 Qxe7 *",
+	"image": "https://www.chess.com/dynboard?fen=3r3k/p2QP2p/1p4p1/2p5/5P1q/2P4B/1P3P2/2K3R1%20b%20-%20-%203%2027&size=2"
+}

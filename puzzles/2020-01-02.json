@@ -1,0 +1,8 @@
+{
+	"title": "Resolution Realized",
+	"url": "https://www.chess.com/daily/2020-01-02",
+	"publish_time": 1577952000,
+	"fen": "6k1/p4p1p/2b1pBp1/2qP4/P1n4P/2P3P1/1r2QPB1/3R2K1 w - - 1 26",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/p4p1p/2b1pBp1/2qP4/P1n4P/2P3P1/1r2QPB1/3R2K1 w - - 1 26\"]\r\n\r\n26.dxc6 Rxe2 27.Rd8+ Qf8 28.c7 Nb6 29.Be7 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p4p1p/2b1pBp1/2qP4/P1n4P/2P3P1/1r2QPB1/3R2K1%20w%20-%20-%201%2026&size=2"
+}

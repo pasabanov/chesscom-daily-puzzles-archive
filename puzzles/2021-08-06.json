@@ -1,0 +1,8 @@
+{
+	"title": "Deceptive Discovery",
+	"url": "https://www.chess.com/daily/2021-08-06",
+	"publish_time": 1628233200,
+	"fen": "r1b1r3/1p3pkp/pQ3bp1/P3p3/1B6/2q2B2/1R3PPP/3R2K1 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1r3/1p3pkp/pQ3bp1/P3p3/1B6/2q2B2/1R3PPP/3R2K1 b - - 1 1\"]\r\n\r\n1...Qxb2 2.Bf8+ Rxf8 3.Qxb2 e4 4.Qb4 exf3 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1r3/1p3pkp/pQ3bp1/P3p3/1B6/2q2B2/1R3PPP/3R2K1%20b%20-%20-%201%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Get to a Winning Position",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-08-29",
+	"publish_time": 1188370800,
+	"fen": "r1qr3k/pp4pp/2n2p2/1P2p3/2P5/Q1P1BN1b/5PPP/R2R2K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1qr3k/pp4pp/2n2p2/1P2p3/2P5/Q1P1BN1b/5PPP/R2R2K1 b - - 0 1\"]\r\n\r\n1... Rxd1+ 2. Rxd1 Qg4 3. Ne1 ( 3. g3 Qxf3 { and checkmate on g2 is immediate }  ) Qxd1 4. Qc1 ( 4. Kf1 Bxg2+ 5. Kxg2 Qxe1 6. bxc6 bxc6 ) Qxc1 5. Bxc1 Na5 6. gxh3 Nxc4 { and white is totally bused - down the exchange and a pawn with terrible pawn structure. GAME OVER! }\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1qr3k/pp4pp/2n2p2/1P2p3/2P5/Q1P1BN1b/5PPP/R2R2K1%20b%20-%20-%200%201&size=2"
+}

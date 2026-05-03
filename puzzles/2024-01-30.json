@@ -1,0 +1,8 @@
+{
+	"title": "Capturing on the Edge",
+	"url": "https://www.chess.com/daily/2024-01-30",
+	"publish_time": 1706601600,
+	"fen": "r1q1r1k1/5pp1/pn5p/8/Q7/6PN/5P1P/1RR3K1 w - - 0 33",
+	"pgn": "[Event \"Vlissingen HZ op 02nd\"]\r\n[Site \"Vlissingen\"]\r\n[Date \"1998.07.15\"]\r\n[Round \"5\"]\r\n[White \"Mikhalevski, Victor\"]\r\n[Black \"Ikonnikov, Vyacheslav\"]\r\n[Result \"1-0\"]\r\n[ECO \"E01\"]\r\n[WhiteElo \"2540\"]\r\n[BlackElo \"2555\"]\r\n[FEN \"r1q1r1k1/5pp1/pn5p/8/Q7/6PN/5P1P/1RR3K1 w - - 0 33\"]\r\n\r\n33. Rxc8 Nxa4 34. Rc4 Rab8 35. Rxb8 Rxb8 36. Rxa4 *",
+	"image": "https://www.chess.com/dynboard?fen=r1q1r1k1/5pp1/pn5p/8/Q7/6PN/5P1P/1RR3K1%20w%20-%20-%200%2033&size=2"
+}

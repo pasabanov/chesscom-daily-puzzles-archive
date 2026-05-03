@@ -1,0 +1,8 @@
+{
+	"title": "Tactics and Timing",
+	"url": "https://www.chess.com/daily/2021-08-04",
+	"publish_time": 1628060400,
+	"fen": "8/3k4/2p2np1/p1Pp1p1p/5P1P/1P2K1P1/P4R2/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/3k4/2p2np1/p1Pp1p1p/5P1P/1P2K1P1/P4R2/8 b - - 0 1\"]\r\n\r\n1...Ng4+ 2.Kf3 Nxf2 3.Kxf2 d4 4.Ke2 Ke6 5.Kd3 Kd5 6.a3 Kxc5 *",
+	"image": "https://www.chess.com/dynboard?fen=8/3k4/2p2np1/p1Pp1p1p/5P1P/1P2K1P1/P4R2/8%20b%20-%20-%200%201&size=2"
+}

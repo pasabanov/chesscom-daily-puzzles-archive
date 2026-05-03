@@ -1,0 +1,8 @@
+{
+	"title": "Mate in 3",
+	"url": "https://www.chess.com/daily/2012-11-23",
+	"publish_time": 1353657600,
+	"fen": "8/8/p6R/5p1P/4rkp1/8/6PK/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/p6R/5p1P/4rkp1/8/6PK/8 b - - 0 1\"]\r\n\r\n1... g3+ 2. Kh3 Re1 3. Rxa6 Rh1# *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/p6R/5p1P/4rkp1/8/6PK/8%20b%20-%20-%200%201&size=2"
+}

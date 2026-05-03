@@ -1,0 +1,8 @@
+{
+	"title": "The Queen's Dream Destination",
+	"url": "https://www.chess.com/daily/2024-01-19",
+	"publish_time": 1705651200,
+	"fen": "1R1r4/4b2k/2P1q1pp/p6P/B2r4/2Q2pP1/PB3P2/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1R1r4/4b2k/2P1q1pp/p6P/B2r4/2Q2pP1/PB3P2/6K1 b - - 0 1\"]\r\n\r\n1... Rd1+ 2. Bxd1 Rxd1+ 3. Kh2 Rh1+ 4. Kxh1 Qh3+ 5. Kg1 Qg2# *",
+	"image": "https://www.chess.com/dynboard?fen=1R1r4/4b2k/2P1q1pp/p6P/B2r4/2Q2pP1/PB3P2/6K1%20b%20-%20-%200%201&size=2"
+}

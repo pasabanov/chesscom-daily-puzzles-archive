@@ -1,0 +1,8 @@
+{
+	"title": "In Search of a Crown",
+	"url": "https://www.chess.com/daily/2023-04-29",
+	"publish_time": 1682751600,
+	"fen": "3R4/6pk/4p2p/2q2p1P/1p2Q1P1/7K/rPP5/8 w - - 0 35",
+	"pgn": "[Event \"Aeroflot\"]\r\n[Site \"Moscow (Russia)\"]\r\n[Date \"2005.02.22\"]\r\n[Round \"?\"]\r\n[White \"Ian Nepomniachtchi\"]\r\n[Black \"Dmitry Bocharov\"]\r\n[Result \"1-0\"]\r\n[FEN \"3R4/6pk/4p2p/2q2p1P/1p2Q1P1/7K/rPP5/8 w - - 0 35\"]\r\n\r\n35. g5 hxg5 36. Qxe6 Qe3+ 37. Qxe3 *",
+	"image": "https://www.chess.com/dynboard?fen=3R4/6pk/4p2p/2q2p1P/1p2Q1P1/7K/rPP5/8%20w%20-%20-%200%2035&size=2"
+}

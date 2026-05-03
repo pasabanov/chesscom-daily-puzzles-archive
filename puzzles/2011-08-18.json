@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-08-18",
+	"publish_time": 1313650800,
+	"fen": "2r1b1k1/p1q1brp1/1p2p1QB/4p3/4N3/2PBR3/P4PPP/6K1 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1b1k1/p1q1brp1/1p2p1QB/4p3/4N3/2PBR3/P4PPP/6K1 w KQkq - 0 1\"]\r\n\r\n1. Qh7+ Kxh7 2. Nf6+ Kh8 3. Bxg7+ Rxg7 4. Rh3+ Bh5 5. Rxh5+ Rh7 6. Rxh7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r1b1k1/p1q1brp1/1p2p1QB/4p3/4N3/2PBR3/P4PPP/6K1%20w%20KQkq%20-%200%201&size=2"
+}

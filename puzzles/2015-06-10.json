@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4 Back to Back",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-06-10",
+	"publish_time": 1433919600,
+	"fen": "r4r2/p1p3k1/1p4Bn/3p2QR/3P1Pn1/2P5/P6P/7K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4r2/p1p3k1/1p4Bn/3p2QR/3P1Pn1/2P5/P6P/7K w - - 0 1\"]\r\n\r\n1. Bf5+ Kh8 2. Rxh6+ Nxh6 3. Qxh6+ Kg8 4. Qh7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4r2/p1p3k1/1p4Bn/3p2QR/3P1Pn1/2P5/P6P/7K%20w%20-%20-%200%201&size=2"
+}

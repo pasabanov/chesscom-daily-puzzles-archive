@@ -1,0 +1,9 @@
+{
+	"title": "Calc Test",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-09-13",
+	"publish_time": 1284361200,
+	"fen": "3r1rk1/pppqb1p1/2n1p1pp/3nP3/8/P4NN1/1PP1QPPP/R1BR2K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r1rk1/pppqb1p1/2n1p1pp/3nP3/8/P4NN1/1PP1QPPP/R1BR2K1 b - - 0 1\"]\r\n\r\n1...Nc3 2. Rxd7 Nxe2+ 3. Nxe2 Rxd7\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3r1rk1/pppqb1p1/2n1p1pp/3nP3/8/P4NN1/1PP1QPPP/R1BR2K1%20b%20-%20-%200%201&size=2"
+}

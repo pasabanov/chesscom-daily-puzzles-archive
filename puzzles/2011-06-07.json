@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 3",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-06-07",
+	"publish_time": 1307430000,
+	"fen": "rnbr4/2q1kp1Q/p1P1p3/1P3p2/1PP4N/5BP1/5P1P/4R1K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rnbr4/2q1kp1Q/p1P1p3/1P3p2/1PP4N/5BP1/5P1P/4R1K1 w - - 0 1\"]\r\n\r\n1. Nxf5+ Kf6 2. Qg7+ Kxf5 3. Bg4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=rnbr4/2q1kp1Q/p1P1p3/1P3p2/1PP4N/5BP1/5P1P/4R1K1%20w%20-%20-%200%201&size=2"
+}

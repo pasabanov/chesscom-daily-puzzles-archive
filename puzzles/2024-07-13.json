@@ -1,0 +1,8 @@
+{
+	"title": "Queenside Drama",
+	"url": "https://www.chess.com/daily/2024-07-13",
+	"publish_time": 1720854000,
+	"fen": "4rr2/ppk4p/2p4Q/3P4/8/B5P1/3q1P2/1R2n1K1 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"4rr2/ppk4p/2p4Q/3P4/8/B5P1/3q1P2/1R2n1K1 w - - 0 1\"]\r\n\r\n1. Rxb7+ Kxb7 2. Qxc6+ Kb8 3. Bd6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4rr2/ppk4p/2p4Q/3P4/8/B5P1/3q1P2/1R2n1K1%20w%20-%20-%200%201&size=2"
+}

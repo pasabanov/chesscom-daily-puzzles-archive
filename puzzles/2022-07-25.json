@@ -1,0 +1,8 @@
+{
+	"title": "When the Knight and Rook Join Forces",
+	"url": "https://www.chess.com/daily/2022-07-25",
+	"publish_time": 1658732400,
+	"fen": "r4rk1/1p3pp1/p3n3/R2N4/1P6/7P/5PP1/5RK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/1p3pp1/p3n3/R2N4/1P6/7P/5PP1/5RK1 w - - 0 1\"]\r\n\r\n1. Ne7+ Kh7 2. Rh5# *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1p3pp1/p3n3/R2N4/1P6/7P/5PP1/5RK1%20w%20-%20-%200%201&size=2"
+}

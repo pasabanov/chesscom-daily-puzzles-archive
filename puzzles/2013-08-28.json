@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2013-08-28",
+	"publish_time": 1377673200,
+	"fen": "r2qr3/1bpn1pk1/pp2p1p1/4P3/4N3/3B1Q2/PPP2PP1/1K1R3R w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2qr3/1bpn1pk1/pp2p1p1/4P3/4N3/3B1Q2/PPP2PP1/1K1R3R w - - 0 1\"]\r\n\r\n1. Rh7+ Kxh7 2. Qxf7+ Kh6 3. Rh1+ Qh4 4. Rxh4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2qr3/1bpn1pk1/pp2p1p1/4P3/4N3/3B1Q2/PPP2PP1/1K1R3R%20w%20-%20-%200%201&size=2"
+}

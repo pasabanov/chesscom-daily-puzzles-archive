@@ -1,0 +1,8 @@
+{
+	"title": "Under the Radar",
+	"url": "https://www.chess.com/daily/2020-05-15",
+	"publish_time": 1589526000,
+	"fen": "Rr6/5K2/7P/1kp1b3/1p6/8/3P4/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"Rr6/5K2/7P/1kp1b3/1p6/8/3P4/8 w - - 0 1\"]\r\n\r\n1.Rxb8+ Bxb8 2.Ke6 Be5 3.Kxe5 b3 4.h7 b2 5.h8=R 1-0",
+	"image": "https://www.chess.com/dynboard?fen=Rr6/5K2/7P/1kp1b3/1p6/8/3P4/8%20w%20-%20-%200%201&size=2"
+}

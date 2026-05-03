@@ -1,0 +1,8 @@
+{
+	"title": "Leap First, Checkmate Later",
+	"url": "https://www.chess.com/daily/2024-09-15",
+	"publish_time": 1726383600,
+	"fen": "3r4/1q2kp2/2pNp2p/1p4p1/1npQ4/r1n1RB1P/2P3P1/7K w - - 0 1",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r4/1q2kp2/2pNp2p/1p4p1/1npQ4/r1n1RB1P/2P3P1/7K w - - 0 1\"]\r\n\r\n1. Nf5+ Ke8 2. Rxe6+ fxe6 3. Bh5+ Qf7 4. Bxf7+ Kxf7 5. Qg7+ Ke8 6. Qe7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r4/1q2kp2/2pNp2p/1p4p1/1npQ4/r1n1RB1P/2P3P1/7K%20w%20-%20-%200%201&size=2"
+}

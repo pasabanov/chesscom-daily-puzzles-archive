@@ -1,0 +1,8 @@
+{
+	"title": "The Price to Win a Piece",
+	"url": "https://www.chess.com/daily/2024-04-18",
+	"publish_time": 1713423600,
+	"fen": "4q1k1/5ppp/1p6/2p5/p1P5/P2P1N2/1b2rPPP/1Q1R1K2 w - - 0 28",
+	"pgn": "[Event \"Tirnavia-B\"]\r\n[Site \"Trnava\"]\r\n[Date \"1988.??.??\"]\r\n[Round \"11\"]\r\n[White \"Rozentalis, Eduardas\"]\r\n[Black \"Diaz Diaz, Joaquin Carlos\"]\r\n[Result \"1-0\"]\r\n[ECO \"B22\"]\r\n[WhiteElo \"2520\"]\r\n[BlackElo \"2485\"]\r\n[FEN \"4q1k1/5ppp/1p6/2p5/p1P5/P2P1N2/1b2rPPP/1Q1R1K2 w - - 0 28\"]\r\n\r\n28. Ng1 Rxf2+ 29. Kxf2 Bd4+ 30. Kf1 Qe3 31. Nh3 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4q1k1/5ppp/1p6/2p5/p1P5/P2P1N2/1b2rPPP/1Q1R1K2%20w%20-%20-%200%2028&size=2"
+}

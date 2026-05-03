@@ -1,0 +1,8 @@
+{
+	"title": "Forcing Moves Flurry",
+	"url": "https://www.chess.com/daily/2024-12-13",
+	"publish_time": 1734076800,
+	"fen": "2r1nrk1/bp3ppp/p2p4/q5Q1/P1n1p3/3B1P2/1B2NP1P/1R4RK w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"2r1nrk1/bp3ppp/p2p4/q5Q1/P1n1p3/3B1P2/1B2NP1P/1R4RK w - - 0 1\"]\r\n\r\n1. Qxg7+ Nxg7 2. Rxg7+ Kh8 3. Rg8+ Kxg8 4. Rg1+ Qg5 5. Rxg5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r1nrk1/bp3ppp/p2p4/q5Q1/P1n1p3/3B1P2/1B2NP1P/1R4RK%20w%20-%20-%200%201&size=2"
+}

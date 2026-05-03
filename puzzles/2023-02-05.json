@@ -1,0 +1,8 @@
+{
+	"title": "Endgame Forecast",
+	"url": "https://www.chess.com/daily/2023-02-05",
+	"publish_time": 1675584000,
+	"fen": "2R2b1k/5q2/1p5p/p2P1p2/P4p1B/1P2rB2/5K1P/6R1 w - - 0 48",
+	"pgn": "[Event \"CRO-chT1A 19th\"]\r\n[Site \"Sibenik\"]\r\n[Date \"2010.09.12\"]\r\n[Round \"9\"]\r\n[White \"Malakhov, Vladimir\"]\r\n[Black \"Bosiocic, Marin\"]\r\n[Result \"1-0\"]\r\n[ECO \"A37\"]\r\n[WhiteElo \"2725\"]\r\n[BlackElo \"2557\"]\r\n[SetUp \"1\"]\r\n[FEN \"2R2b1k/5q2/1p5p/p2P1p2/P4p1B/1P2rB2/5K1P/6R1 w - - 0 48\"]\r\n\r\n48. Bh5 Qxh5 49. Bf6+ Kh7 50. Rc7+ Re7 51. Rxe7+ Bxe7 52. Rg7+ Kh8 53. Rg5+\r\nBxf6 54. Rxh5 *",
+	"image": "https://www.chess.com/dynboard?fen=2R2b1k/5q2/1p5p/p2P1p2/P4p1B/1P2rB2/5K1P/6R1%20w%20-%20-%200%2048&size=2"
+}

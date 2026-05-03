@@ -1,0 +1,8 @@
+{
+	"title": "Can You Spare a Tempo?",
+	"url": "https://www.chess.com/daily/2024-05-09",
+	"publish_time": 1715238000,
+	"fen": "r1N2k1r/1p3p2/p2p4/2pP2p1/P2bq1p1/2P2PP1/4B1K1/R2Q1R2 b - - 0 24",
+	"pgn": "[Event \"Match/Nation YUG-HUN (6-4) (4-6)\"]\r\n[Site \"Pula\"]\r\n[Date \"1971.09.12\"]\r\n[Round \"1.5\"]\r\n[White \"Forintos, Gyozo Victor\"]\r\n[Black \"Minic, Dragoljub\"]\r\n[Result \"0-1\"]\r\n[FEN \"r1N2k1r/1p3p2/p2p4/2pP2p1/P2bq1p1/2P2PP1/4B1K1/R2Q1R2 b - - 0 24\"]\r\n\r\n24... Rh2+ 25. Kxh2 Qh7+ 26. Kg2 Qh3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1N2k1r/1p3p2/p2p4/2pP2p1/P2bq1p1/2P2PP1/4B1K1/R2Q1R2%20b%20-%20-%200%2024&size=2"
+}

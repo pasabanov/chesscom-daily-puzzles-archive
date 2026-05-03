@@ -1,0 +1,8 @@
+{
+	"title": "Tactical Overload",
+	"url": "https://www.chess.com/daily/2022-11-04",
+	"publish_time": 1667545200,
+	"fen": "1r3b1r/1p1k1pp1/4p1n1/q2pPnBp/8/Pp4P1/1P3Q1P/2RR1B1K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3b1r/1p1k1pp1/4p1n1/q2pPnBp/8/Pp4P1/1P3Q1P/2RR1B1K w - - 0 1\"]\r\n\r\n1. Qa7 Qxa7 2. Bb5# *",
+	"image": "https://www.chess.com/dynboard?fen=1r3b1r/1p1k1pp1/4p1n1/q2pPnBp/8/Pp4P1/1P3Q1P/2RR1B1K%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Cherry on Top",
+	"url": "https://www.chess.com/daily/2022-03-15",
+	"publish_time": 1647327600,
+	"fen": "3r2k1/pp3pp1/2np3p/3p2qB/3P2N1/2Pb1PQP/P5P1/4R1K1 w - - 3 28",
+	"pgn": "[Event \"Corus A\"]\r\n[Site \"Wijk aan Zee NED\"]\r\n[Date \"2008.01.17\"]\r\n[Round \"?\"]\r\n[White \"Veselin Topalov\"]\r\n[Black \"Boris Gelfand\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r2k1/pp3pp1/2np3p/3p2qB/3P2N1/2Pb1PQP/P5P1/4R1K1 w - - 3 28\"]\r\n\r\n28.f4 Qxh5 29.Nf6+ Kh8 30.Nxh5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/pp3pp1/2np3p/3p2qB/3P2N1/2Pb1PQP/P5P1/4R1K1%20w%20-%20-%203%2028&size=2"
+}

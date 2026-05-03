@@ -1,0 +1,9 @@
+{
+	"title": "Fatal Light Squares",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-04-28",
+	"publish_time": 1272438000,
+	"fen": "r3r1k1/5ppp/2pR1q2/2P5/1p2B3/1Q4Pb/1P3P1P/4R1K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3r1k1/5ppp/2pR1q2/2P5/1p2B3/1Q4Pb/1P3P1P/4R1K1 b - - 0 1\"]\r\n\r\n1...Rxe4 2. Rxe4 Qxd6 3. cxd6 Ra1+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/5ppp/2pR1q2/2P5/1p2B3/1Q4Pb/1P3P1P/4R1K1%20b%20-%20-%200%201&size=2"
+}

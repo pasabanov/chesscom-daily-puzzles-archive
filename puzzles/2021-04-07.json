@@ -1,0 +1,8 @@
+{
+	"title": "Winning the Won Game",
+	"url": "https://www.chess.com/daily/2021-04-07",
+	"publish_time": 1617778800,
+	"fen": "5r2/1Q3R2/3p3p/4p1pk/1P1n4/6PP/4q1P1/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r2/1Q3R2/3p3p/4p1pk/1P1n4/6PP/4q1P1/6K1 b - - 0 1\"]\r\n\r\n1...Qe3+ 2.Kh2 Ne2 3.Qf3+ Qxf3 *",
+	"image": "https://www.chess.com/dynboard?fen=5r2/1Q3R2/3p3p/4p1pk/1P1n4/6PP/4q1P1/6K1%20b%20-%20-%200%201&size=2"
+}

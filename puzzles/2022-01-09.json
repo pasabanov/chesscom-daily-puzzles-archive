@@ -1,0 +1,8 @@
+{
+	"title": "A Frail Blockade",
+	"url": "https://www.chess.com/daily/2022-01-09",
+	"publish_time": 1641715200,
+	"fen": "6k1/5p1p/2b2Pp1/P1Rr4/3pp1P1/BP5P/8/7K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/5p1p/2b2Pp1/P1Rr4/3pp1P1/BP5P/8/7K b - - 0 1\"]\r\n\r\n1...Rxc5 2.Bxc5 d3 3.Be3 d2 4.Bxd2 e3+ 5.Kg1 exd2 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5p1p/2b2Pp1/P1Rr4/3pp1P1/BP5P/8/7K%20b%20-%20-%200%201&size=2"
+}

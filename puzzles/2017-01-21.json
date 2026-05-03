@@ -1,0 +1,8 @@
+{
+	"title": "With Check",
+	"url": "https://www.chess.com/daily/2017-01-21",
+	"publish_time": 1484985600,
+	"fen": "8/5P2/6R1/7k/3pb1p1/1P1r4/P1K2P2/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/5P2/6R1/7k/3pb1p1/1P1r4/P1K2P2/8 w - - 0 1\"]\r\n\r\n1. Rh6+ Kg5 2. f4+ Kxf4 3. f8=Q+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/5P2/6R1/7k/3pb1p1/1P1r4/P1K2P2/8%20w%20-%20-%200%201&size=2"
+}

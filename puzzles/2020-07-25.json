@@ -1,0 +1,8 @@
+{
+	"title": "Messing with the KID",
+	"url": "https://www.chess.com/daily/2020-07-25",
+	"publish_time": 1595660400,
+	"fen": "2n3k1/6b1/1p1pR2p/1q1Pp3/2r1P3/6PB/8/5QK1 w - - 0 39",
+	"pgn": "[Event \"55th USSR Championship\"]\r\n[Site \"Moscow URS\"]\r\n[Date \"1988\"]\r\n[Round \"12\"]\r\n[White \"Garry Kasparov\"]\r\n[Black \"Ilya Yulyevich Smirin\"]\r\n[Result \"*\"]\r\n[ECO \"E97\"]\r\n[PlyCount \"81\"]\r\n[FEN \"2n3k1/6b1/1p1pR2p/1q1Pp3/2r1P3/6PB/8/5QK1 w - - 0 39\"]\r\n\r\n39.Rxh6 Bxh6 40.Be6+ Kh8 41.Qf6+ Kh7 42.Qf7+ Bg7 43.Bf5+ Kh8 44.Qh5+ Kg8 \r\n45.Be6+ Kf8 46.Qf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2n3k1/6b1/1p1pR2p/1q1Pp3/2r1P3/6PB/8/5QK1%20w%20-%20-%200%2039&size=2"
+}

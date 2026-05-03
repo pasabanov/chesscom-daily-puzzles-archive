@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Ian's Killer Combo",
+	"url": "https://www.chess.com/daily/2024-04-05",
+	"publish_time": 1712300400,
+	"fen": "5k1r/1bN2ppp/4Rn2/2q5/3nPQ2/8/1PP2PPP/rNKR4 w - - 0 20",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2018.06.01\"]\r\n[Round \"?\"]\r\n[White \"lachesisQ\"]\r\n[Black \"hansen\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2936\"]\r\n[BlackElo \"2793\"]\r\n[FEN \"5k1r/1bN2ppp/4Rn2/2q5/3nPQ2/8/1PP2PPP/rNKR4 w - - 0 20\"]\r\n\r\n20. Rxd4 Qxd4 21. Re8+ Nxe8 22. Ne6+ Ke7 23. Nxd4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5k1r/1bN2ppp/4Rn2/2q5/3nPQ2/8/1PP2PPP/rNKR4%20w%20-%20-%200%2020&size=2"
+}

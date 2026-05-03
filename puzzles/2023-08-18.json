@@ -1,0 +1,8 @@
+{
+	"title": "An Attacking Whisper",
+	"url": "https://www.chess.com/daily/2023-08-18",
+	"publish_time": 1692342000,
+	"fen": "1rb1k2r/3p2pp/p1nQp3/1p2p3/2q1P3/2N3P1/PPP2PBP/2KR3R w k - 0 17",
+	"pgn": "[Event \"Reykjavik op\"]\r\n[Site \"Reykjavik\"]\r\n[Date \"2023.06.19\"]\r\n[Round \"7\"]\r\n[White \"Shirov, Alexei\"]\r\n[Black \"Kleinman, Michael\"]\r\n[Result \"1-0\"]\r\n[ECO \"B48\"]\r\n[WhiteElo \"2693\"]\r\n[BlackElo \"2289\"]\r\n[FEN \"1rb1k2r/3p2pp/p1nQp3/1p2p3/2q1P3/2N3P1/PPP2PBP/2KR3R w k - 0 17\"]\r\n\r\n17. a3 b4 18. Bf1 bxc3 19. Bxc4 *",
+	"image": "https://www.chess.com/dynboard?fen=1rb1k2r/3p2pp/p1nQp3/1p2p3/2q1P3/2N3P1/PPP2PBP/2KR3R%20w%20k%20-%200%2017&size=2"
+}

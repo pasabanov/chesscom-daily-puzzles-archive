@@ -1,0 +1,8 @@
+{
+	"title": "Lighten Up",
+	"url": "https://www.chess.com/daily/2024-05-02",
+	"publish_time": 1714633200,
+	"fen": "r1b1kbr1/3n1p2/4pP1p/p7/1p1N1B1p/2q1Q3/P1P1B1PP/1R3K1R w q - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"r1b1kbr1/3n1p2/4pP1p/p7/1p1N1B1p/2q1Q3/P1P1B1PP/1R3K1R w q - 0 1\"]\r\n\r\n1. Qxe6+ fxe6 2. Bh5+ Kd8 3. Nxe6# *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1kbr1/3n1p2/4pP1p/p7/1p1N1B1p/2q1Q3/P1P1B1PP/1R3K1R%20w%20q%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Push and Pull",
+	"url": "https://www.chess.com/daily/2022-11-02",
+	"publish_time": 1667372400,
+	"fen": "5r1k/6pp/8/8/1P1q3P/1Q2p2P/6P1/3R3K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r1k/6pp/8/8/1P1q3P/1Q2p2P/6P1/3R3K b - - 0 1\"]\r\n\r\n1... e2 2. Rxd4 e1=Q+ 3. Kh2 Qe5+ 4. Qg3 Qxd4 *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/6pp/8/8/1P1q3P/1Q2p2P/6P1/3R3K%20b%20-%20-%200%201&size=2"
+}

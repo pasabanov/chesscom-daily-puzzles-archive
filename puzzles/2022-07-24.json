@@ -1,0 +1,8 @@
+{
+	"title": "Holmward Bound",
+	"url": "https://www.chess.com/daily/2022-07-24",
+	"publish_time": 1658646000,
+	"fen": "8/1r6/1N1Pp3/1P6/8/4k3/8/3K4 w - - 0 1",
+	"pgn": "[White \"Ernst Holm\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"8/1r6/1N1Pp3/1P6/8/4k3/8/3K4 w - - 0 1\"]\r\n\r\n1. d7 Rb8 2. Nc8 Rxb5 3. Nb6 Rb4 4. Nd5+ exd5 5. d8=Q *",
+	"image": "https://www.chess.com/dynboard?fen=8/1r6/1N1Pp3/1P6/8/4k3/8/3K4%20w%20-%20-%200%201&size=2"
+}

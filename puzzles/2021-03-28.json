@@ -1,0 +1,8 @@
+{
+	"title": "Easy Does It",
+	"url": "https://www.chess.com/daily/2021-03-28",
+	"publish_time": 1616914800,
+	"fen": "2q5/5kbp/p1n3p1/1pQ2b2/2p2N2/5P2/PPP1R1PP/4R1K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2q5/5kbp/p1n3p1/1pQ2b2/2p2N2/5P2/PPP1R1PP/4R1K1 b - - 0 1\"]\r\n\r\n1...Bd4+ 2.Qxd4 Nxd4 3.Re7+ Kf8 4.Re8+ Qxe8 5.Rxe8+ Kxe8 *",
+	"image": "https://www.chess.com/dynboard?fen=2q5/5kbp/p1n3p1/1pQ2b2/2p2N2/5P2/PPP1R1PP/4R1K1%20b%20-%20-%200%201&size=2"
+}

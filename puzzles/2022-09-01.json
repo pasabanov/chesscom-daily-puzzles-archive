@@ -1,0 +1,8 @@
+{
+	"title": "Endgame Grind",
+	"url": "https://www.chess.com/daily/2022-09-01",
+	"publish_time": 1662015600,
+	"fen": "4Q3/q5k1/3p3p/rR2p1p1/r1P1Pp2/5P2/6PP/6RK b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4Q3/q5k1/3p3p/rR2p1p1/r1P1Pp2/5P2/6PP/6RK b - - 0 1\"]\r\n\r\n1... Qxg1+ 2. Kxg1 Ra1+ 3. Kf2 R5a2+ 4. Rb2 Rxb2# *",
+	"image": "https://www.chess.com/dynboard?fen=4Q3/q5k1/3p3p/rR2p1p1/r1P1Pp2/5P2/6PP/6RK%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 8",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-02-06",
+	"publish_time": 1202284800,
+	"fen": "3Q4/1P3pk1/4r1p1/3p2Bp/5PnP/Q6K/6P1/1q6 b - - 0 53",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3Q4/1P3pk1/4r1p1/3p2Bp/5PnP/Q6K/6P1/1q6 b - - 0 53\"]\r\n\r\n53... Qh1+ 54. Kg3 Qe1+ 55. Kh3 Nf2+ 56. Kh2 Qh1+ 57. Kg3 Ne4+ 58. Kf3 Qf1+ (58... Qd1+) 59. Ke3 Qf2+ 60. Kd3 Qd2#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3Q4/1P3pk1/4r1p1/3p2Bp/5PnP/Q6K/6P1/1q6%20b%20-%20-%200%2053&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Sam Attains Daily Puzzle Nirvana",
+	"url": "https://www.chess.com/daily/2024-06-16",
+	"publish_time": 1718521200,
+	"fen": "r4rk1/5ppp/4p3/1P1q4/p3b3/2QN2B1/1PP2P1P/2K3R1 w - - 0 25",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.04.19\"]\r\n[Round \"?\"]\r\n[White \"SamCopeland\"]\r\n[Black \"langlglangEST\"]\r\n[Result \"1-0\"]\r\n[ECO \"B10\"]\r\n[WhiteElo \"2362\"]\r\n[BlackElo \"2262\"]\r\n[FEN \"r4rk1/5ppp/4p3/1P1q4/p3b3/2QN2B1/1PP2P1P/2K3R1 w - - 0 25\"]\r\n\r\n25. Qxg7+ Kxg7 26. Be5+ Kh6 27. Bg7+ Kh5 28. Nf4+ Kh4 29. Bf6+ Qg5 30. Bxg5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/5ppp/4p3/1P1q4/p3b3/2QN2B1/1PP2P1P/2K3R1%20w%20-%20-%200%2025&size=2"
+}

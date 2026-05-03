@@ -1,0 +1,8 @@
+{
+	"title": "Pop Quiz",
+	"url": "https://www.chess.com/daily/2020-06-28",
+	"publish_time": 1593327600,
+	"fen": "1r2k2r/1ppq1pp1/p3b2p/2b5/5N2/P1N2QPP/1PP2P2/R4RK1 w kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r2k2r/1ppq1pp1/p3b2p/2b5/5N2/P1N2QPP/1PP2P2/R4RK1 w kq - 0 1\"]\r\n\r\n1.Nxe6 fxe6 2.Qh5+ Qf7 3.Qxc5 *",
+	"image": "https://www.chess.com/dynboard?fen=1r2k2r/1ppq1pp1/p3b2p/2b5/5N2/P1N2QPP/1PP2P2/R4RK1%20w%20kq%20-%200%201&size=2"
+}

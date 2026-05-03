@@ -1,0 +1,8 @@
+{
+	"title": "All Zugzwang, No Hope",
+	"url": "https://www.chess.com/daily/2024-10-06",
+	"publish_time": 1728198000,
+	"fen": "8/8/1p6/p7/kq4p1/3Q4/K7/8 w - - 0 11",
+	"pgn": "[White \"Prokes\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/1p6/p7/kq4p1/3Q4/K7/8 w - - 0 11\"]\r\n\r\n11. Qd7+ Qb5 12. Qxg4+ Qb4 13. Qd7+ Qb5 14. Qd4+ Qb4 15. Qd3 Qc5 16. Qb3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/1p6/p7/kq4p1/3Q4/K7/8%20w%20-%20-%200%2011&size=2"
+}

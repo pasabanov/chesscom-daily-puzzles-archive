@@ -1,0 +1,8 @@
+{
+	"title": "Landing a Knockout",
+	"url": "https://www.chess.com/daily/2022-03-16",
+	"publish_time": 1647414000,
+	"fen": "8/1p1b4/7k/P2p4/3P2r1/2P2N1p/1P6/R3K3 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1p1b4/7k/P2p4/3P2r1/2P2N1p/1P6/R3K3 b - - 0 1\"]\r\n\r\n1...Rg1+ 2.Nxg1 h2 3.Kf2 h1=Q *",
+	"image": "https://www.chess.com/dynboard?fen=8/1p1b4/7k/P2p4/3P2r1/2P2N1p/1P6/R3K3%20b%20-%20-%200%201&size=2"
+}

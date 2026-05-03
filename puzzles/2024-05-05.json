@@ -1,0 +1,8 @@
+{
+	"title": "Is This The Pattern You Seek?",
+	"url": "https://www.chess.com/daily/2024-05-05",
+	"publish_time": 1714892400,
+	"fen": "3Q4/5pk1/p1r3p1/1pr4p/4q3/1P1R4/P1P4P/1K3R2 w - - 0 31",
+	"pgn": "[Event \"TUR-chT2\"]\r\n[Site \"Konya\"]\r\n[Date \"2018.07.14\"]\r\n[Round \"8.18\"]\r\n[White \"Mertoglu, Huseyin (Missed Opportunity)\"]\r\n[Black \"Turhan, Orhan Aytug\"]\r\n[Result \"1-0\"]\r\n[ECO \"B72\"]\r\n[WhiteElo \"1458\"]\r\n[BlackElo \"1396\"]\r\n[FEN \"3Q4/5pk1/p1r3p1/1pr4p/4q3/1P1R4/P1P4P/1K3R2 w - - 0 31\"]\r\n\r\n31. Rxf7+ Kxf7 32. Rd7+ Ke6 33. Qe8+ Kf5 34. Rf7+ Rf6 35. Rxf6+ Kxf6 36. Qxe4\r\n1-0",
+	"image": "https://www.chess.com/dynboard?fen=3Q4/5pk1/p1r3p1/1pr4p/4q3/1P1R4/P1P4P/1K3R2%20w%20-%20-%200%2031&size=2"
+}

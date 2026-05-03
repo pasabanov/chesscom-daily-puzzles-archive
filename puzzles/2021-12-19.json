@@ -1,0 +1,8 @@
+{
+	"title": "You Can't Have Chess Without Hess",
+	"url": "https://www.chess.com/daily/2021-12-19",
+	"publish_time": 1639900800,
+	"fen": "5bk1/4Q2p/2p1ppp1/2Pq4/1r6/5NP1/5PP1/R5K1 w - - 2 40",
+	"pgn": "[Event \"Groningen Chess Festival\"]\r\n[Site \"Groningen NED\"]\r\n[Date \"2011.12.29\"]\r\n[Round \"8.1\"]\r\n[White \"Robert Lee Hess\"]\r\n[Black \"Sergei Tiviakov\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2625\"]\r\n[BlackElo \"2650\"]\r\n[FEN \"5bk1/4Q2p/2p1ppp1/2Pq4/1r6/5NP1/5PP1/R5K1 w - - 2 40\"]\r\n\r\n40.Ra8 Rb1+ 41.Kh2 Qh5+ 42.Nh4 Qh6 43.Qxe6+ Kh8 44.Qf7 *",
+	"image": "https://www.chess.com/dynboard?fen=5bk1/4Q2p/2p1ppp1/2Pq4/1r6/5NP1/5PP1/R5K1%20w%20-%20-%202%2040&size=2"
+}

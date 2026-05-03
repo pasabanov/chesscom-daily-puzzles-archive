@@ -1,0 +1,8 @@
+{
+	"title": "Checkmatemaster7's Checkmate Puzzle",
+	"url": "https://www.chess.com/daily/2024-04-27",
+	"publish_time": 1714201200,
+	"fen": "6k1/ppp3p1/3bq1r1/4n3/2PBp3/1P6/P3BPPN/2RQ1RK1 b - - 0 24",
+	"pgn": "[White \"Checkmatemaster7\"]\r\n[Black \"Daily Puzzle\"]\r\n[Result \"0-1\"]\r\n[FEN \"6k1/ppp3p1/3bq1r1/4n3/2PBp3/1P6/P3BPPN/2RQ1RK1 b - - 0 24\"]\r\n\r\n24... Qh3 25. Bg4 Nf3+ 26. Nxf3 Rxg4 27. g3 Bxg3 28. fxg3 Qxg3+ 29. Kh1 Qg2#\r\n0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/ppp3p1/3bq1r1/4n3/2PBp3/1P6/P3BPPN/2RQ1RK1%20b%20-%20-%200%2024&size=2"
+}

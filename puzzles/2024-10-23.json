@@ -1,0 +1,8 @@
+{
+	"title": "Pinfiltration",
+	"url": "https://www.chess.com/daily/2024-10-23",
+	"publish_time": 1729666800,
+	"fen": "1r4k1/5ppp/r1p5/1nq1N3/1p2P1P1/1B4bP/PB1QK3/3R4 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r4k1/5ppp/r1p5/1nq1N3/1p2P1P1/1B4bP/PB1QK3/3R4 w - - 0 1\"]\r\n\r\n1. Bxf7+ Kh8 2. Ng6+ hxg6 3. Qh6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/5ppp/r1p5/1nq1N3/1p2P1P1/1B4bP/PB1QK3/3R4%20w%20-%20-%200%201&size=2"
+}

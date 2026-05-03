@@ -1,0 +1,8 @@
+{
+	"title": "Central Exposure, Flank Closure",
+	"url": "https://www.chess.com/daily/2023-02-04",
+	"publish_time": 1675497600,
+	"fen": "1rbqkb1r/p3n2p/2np2p1/3Np3/2ppP3/PP3Q1N/1BP3PP/2KR3R w k - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1rbqkb1r/p3n2p/2np2p1/3Np3/2ppP3/PP3Q1N/1BP3PP/2KR3R w k - 0 1\"]\r\n\r\n1. Nf6+ Kf7 2. Ng5+ Kg7 3. Nh5+ gxh5 4. Qf7+ Kh6 5. Qf6+ Ng6 6. Nf7# *",
+	"image": "https://www.chess.com/dynboard?fen=1rbqkb1r/p3n2p/2np2p1/3Np3/2ppP3/PP3Q1N/1BP3PP/2KR3R%20w%20k%20-%200%201&size=2"
+}

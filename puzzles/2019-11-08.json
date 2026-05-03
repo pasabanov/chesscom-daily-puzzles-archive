@@ -1,0 +1,8 @@
+{
+	"title": "Lock and Key",
+	"url": "https://www.chess.com/daily/2019-11-08",
+	"publish_time": 1573200000,
+	"fen": "6k1/5pp1/p1Pq1b1p/1p3B2/1P1p4/1Q3P1P/5P2/6K1 w - - 0 2",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"6k1/5pp1/p1Pq1b1p/1p3B2/1P1p4/1Q3P1P/5P2/6K1 w - - 0 2\"]\r\n\r\n2. Bg6 Qc7 3. Qxf7+ Qxf7 4. Bxf7+ Kxf7 5. c7 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5pp1/p1Pq1b1p/1p3B2/1P1p4/1Q3P1P/5P2/6K1%20w%20-%20-%200%202&size=2"
+}

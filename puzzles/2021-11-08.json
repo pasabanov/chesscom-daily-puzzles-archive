@@ -1,0 +1,8 @@
+{
+	"title": "Should I Stay or Should I Go?",
+	"url": "https://www.chess.com/daily/2021-11-08",
+	"publish_time": 1636358400,
+	"fen": "r2qkb1r/pppn1ppp/4pn2/3p4/3P1BbP/2P1P3/PP1N1PP1/R2QKBNR w KQkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2qkb1r/pppn1ppp/4pn2/3p4/3P1BbP/2P1P3/PP1N1PP1/R2QKBNR w KQkq - 0 1\"]\r\n\r\n1.f3 Bf5 2.g4 Bg6 3.h5 h6 4.hxg6 *",
+	"image": "https://www.chess.com/dynboard?fen=r2qkb1r/pppn1ppp/4pn2/3p4/3P1BbP/2P1P3/PP1N1PP1/R2QKBNR%20w%20KQkq%20-%200%201&size=2"
+}

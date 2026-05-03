@@ -1,0 +1,8 @@
+{
+	"title": "The Mysterious Case of the F-Pawn",
+	"url": "https://www.chess.com/daily/2020-02-10",
+	"publish_time": 1581321600,
+	"fen": "r1b1kb1r/ppppq1pp/2n2n2/4p1N1/2B1P3/8/PPP2PPP/RNBQK2R w KQkq - 3 7",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1kb1r/ppppq1pp/2n2n2/4p1N1/2B1P3/8/PPP2PPP/RNBQK2R w KQkq - 3 7\"]\r\n\r\n7.Bf7+ Kd8 8.Ne6+ Qxe6 9.Bxe6 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1kb1r/ppppq1pp/2n2n2/4p1N1/2B1P3/8/PPP2PPP/RNBQK2R%20w%20KQkq%20-%203%207&size=2"
+}

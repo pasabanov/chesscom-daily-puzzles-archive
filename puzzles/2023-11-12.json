@@ -1,0 +1,8 @@
+{
+	"title": "O Smother, Where Art Thou?",
+	"url": "https://www.chess.com/daily/2023-11-12",
+	"publish_time": 1699776000,
+	"fen": "5q1k/6pp/3N1p2/8/1R2R3/K1p5/Q7/4r2r w - - 0 1",
+	"pgn": "[White \"Stavrietsky, A\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"5q1k/6pp/3N1p2/8/1R2R3/K1p5/Q7/4r2r w - - 0 1\"]\r\n\r\n1. Rb8 Qxb8 2. Nf7+ Kg8 3. Nd8+ Kh8 4. Re8+ Rxe8 5. Nf7+ Kg8 6. Nh6+ Kh8 7. Qg8+\r\nRxg8 8. Nf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5q1k/6pp/3N1p2/8/1R2R3/K1p5/Q7/4r2r%20w%20-%20-%200%201&size=2"
+}

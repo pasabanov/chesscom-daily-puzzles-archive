@@ -1,0 +1,8 @@
+{
+	"title": "Pressure Cooker",
+	"url": "https://www.chess.com/daily/2020-08-22",
+	"publish_time": 1598079600,
+	"fen": "br4kb/2q2p1p/p2p1npB/3PnN2/B1p5/2N4P/1r1QRPP1/4R1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"br4kb/2q2p1p/p2p1npB/3PnN2/B1p5/2N4P/1r1QRPP1/4R1K1 w - - 0 1\"]\r\n\r\n1.Qxb2 Rxb2 2.Rxe5 dxe5 3.d6 Qxd6 4.Nxd6 *",
+	"image": "https://www.chess.com/dynboard?fen=br4kb/2q2p1p/p2p1npB/3PnN2/B1p5/2N4P/1r1QRPP1/4R1K1%20w%20-%20-%200%201&size=2"
+}

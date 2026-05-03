@@ -1,0 +1,8 @@
+{
+	"title": "Light Duty",
+	"url": "https://www.chess.com/daily/2020-07-07",
+	"publish_time": 1594105200,
+	"fen": "3B3k/pb4qp/1p1PQ1p1/1P6/P4p2/1N6/3r2PP/6RK b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3B3k/pb4qp/1p1PQ1p1/1P6/P4p2/1N6/3r2PP/6RK b - - 0 1\"]\r\n\r\n1...Bxg2+ 2.Rxg2 Rd1+ 3.Rg1 Qb7+ *",
+	"image": "https://www.chess.com/dynboard?fen=3B3k/pb4qp/1p1PQ1p1/1P6/P4p2/1N6/3r2PP/6RK%20b%20-%20-%200%201&size=2"
+}

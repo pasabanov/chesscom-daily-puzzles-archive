@@ -1,0 +1,8 @@
+{
+	"title": "Double Espresso",
+	"url": "https://www.chess.com/daily/2021-02-09",
+	"publish_time": 1612857600,
+	"fen": "6r1/7p/b1p1kP2/2P5/p3P3/P1B5/2r4P/2R1R2K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6r1/7p/b1p1kP2/2P5/p3P3/P1B5/2r4P/2R1R2K b - - 0 1\"]\r\n\r\n1...Be2 2.Rxc2 Bf3+ 3.Rg2 Rxg2 4.h4 Rc2+ 5.Kg1 Rxc3 *",
+	"image": "https://www.chess.com/dynboard?fen=6r1/7p/b1p1kP2/2P5/p3P3/P1B5/2r4P/2R1R2K%20b%20-%20-%200%201&size=2"
+}

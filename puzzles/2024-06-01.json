@@ -1,0 +1,8 @@
+{
+	"title": "Pushing the Limits",
+	"url": "https://www.chess.com/daily/2024-06-01",
+	"publish_time": 1717225200,
+	"fen": "3r3r/8/4p3/6pp/4P2k/1P1q1Q1P/P4PP1/R5K1 w - - 0 1",
+	"pgn": "[Event \"U2000 A46: London System - Round 1\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2013.07.07\"]\r\n[White \"321\"]\r\n[Black \"chessmaster102\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r3r/8/4p3/6pp/4P2k/1P1q1Q1P/P4PP1/R5K1 w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Kh2 Qxf3 2. g3+ Qxg3+ 3. fxg3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r3r/8/4p3/6pp/4P2k/1P1q1Q1P/P4PP1/R5K1%20w%20-%20-%200%201&size=2"
+}

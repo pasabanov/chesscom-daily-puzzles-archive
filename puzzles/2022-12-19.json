@@ -1,0 +1,8 @@
+{
+	"title": "Robert's Birthday Checkmate Bash",
+	"url": "https://www.chess.com/daily/2022-12-19",
+	"publish_time": 1671436800,
+	"fen": "8/p1pn1Q1p/2q2b1k/5P2/2p5/1P1P3P/P1P5/2K3R1 w - - 0 28",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2022.08.17\"]\r\n[Round \"?\"]\r\n[White \"GMHess\"]\r\n[Black \"auchalik\"]\r\n[Result \"1-0\"]\r\n[ECO \"A01\"]\r\n[WhiteElo \"2799\"]\r\n[BlackElo \"2259\"]\r\n[SetUp \"1\"]\r\n[FEN \"8/p1pn1Q1p/2q2b1k/5P2/2p5/1P1P3P/P1P5/2K3R1 w - - 0 28\"]\r\n\r\n28. Rg6+ hxg6 29. Qxg6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/p1pn1Q1p/2q2b1k/5P2/2p5/1P1P3P/P1P5/2K3R1%20w%20-%20-%200%2028&size=2"
+}

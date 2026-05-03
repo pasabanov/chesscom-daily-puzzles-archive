@@ -1,0 +1,8 @@
+{
+	"title": "A Heavy Lifting Tactic",
+	"url": "https://www.chess.com/daily/2023-09-02",
+	"publish_time": 1693638000,
+	"fen": "r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1 w - - 0 17",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.03.12\"]\r\n[Round \"?\"]\r\n[White \"CoachJKane\"]\r\n[Black \"AndrewMaco\"]\r\n[Result \"1-0\"]\r\n[ECO \"A45\"]\r\n[WhiteElo \"2642\"]\r\n[BlackElo \"2656\"]\r\n[FEN \"r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1 w - - 0 17\"]\r\n\r\n17. Nxe4 dxe4 18. Rf3 Bg7 19. Rg3 Qf6 20. Qxf6 *",
+	"image": "https://www.chess.com/dynboard?fen=r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1%20w%20-%20-%200%2017&size=2"
+}

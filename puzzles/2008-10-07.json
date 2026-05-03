@@ -1,0 +1,9 @@
+{
+	"title": "Move Order Importance",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-10-07",
+	"publish_time": 1223362800,
+	"fen": "2rr2k1/1B2qpp1/4pn1p/p1b5/P7/1Q2P1P1/1P3P1P/R2R2K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2rr2k1/1B2qpp1/4pn1p/p1b5/P7/1Q2P1P1/1P3P1P/R2R2K1 b - - 0 1\"]\r\n\r\n1...Rxd1+ 2. Rxd1 Rb8 3. Qc4 Rxb7\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2rr2k1/1B2qpp1/4pn1p/p1b5/P7/1Q2P1P1/1P3P1P/R2R2K1%20b%20-%20-%200%201&size=2"
+}

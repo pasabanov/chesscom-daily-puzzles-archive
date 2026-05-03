@@ -1,0 +1,9 @@
+{
+	"title": "Pattern Recognition",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-06-10",
+	"publish_time": 1213081200,
+	"fen": "r4r2/1pp3qk/1nbp2R1/7p/1P1QPN2/3R2PP/2P3BK/8 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4r2/1pp3qk/1nbp2R1/7p/1P1QPN2/3R2PP/2P3BK/8 b - - 0 1\"]\r\n\r\n1...Qxd4 2. Rxd4 Rxf4 3. gxf4 Kxg6\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4r2/1pp3qk/1nbp2R1/7p/1P1QPN2/3R2PP/2P3BK/8%20b%20-%20-%200%201&size=2"
+}

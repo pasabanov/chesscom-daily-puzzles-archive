@@ -1,0 +1,8 @@
+{
+	"title": "Center of Attention",
+	"url": "https://www.chess.com/daily/2026-03-14",
+	"publish_time": 1773471600,
+	"fen": "6kb/pbr2p1p/1q4pB/4p1N1/4n3/1B1p2PQ/PP3P1P/3R2K1 w - - 0 29",
+	"pgn": "[Event \"chess.com Speed Poland\"]\r\n[Site \"chess.com INT\"]\r\n[Date \"2024.01.24\"]\r\n[Round \"1.6\"]\r\n[White \"Aleksandra Maltsevskaya\"]\r\n[Black \"Jan-Krzysztof Duda\"]\r\n[Result \"1-0\"]\r\n[FEN \"6kb/pbr2p1p/1q4pB/4p1N1/4n3/1B1p2PQ/PP3P1P/3R2K1 w - - 0 29\"]\r\n[WhiteElo \"2378\"]\r\n[BlackElo \"2732\"]\r\n\r\n29. Nxe4 Bxe4 30. Qh4 Qd4 31. Be3 Qd6 32. Qxe4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6kb/pbr2p1p/1q4pB/4p1N1/4n3/1B1p2PQ/PP3P1P/3R2K1%20w%20-%20-%200%2029&size=2"
+}

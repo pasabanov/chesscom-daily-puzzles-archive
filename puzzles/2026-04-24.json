@@ -1,0 +1,8 @@
+{
+	"title": "Knights Out",
+	"url": "https://www.chess.com/daily/2026-04-24",
+	"publish_time": 1777014000,
+	"fen": "2Q5/3n1p2/1b1p2pk/1b1Pp3/1P2P3/6NP/3N3K/q7 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"2Q5/3n1p2/1b1p2pk/1b1Pp3/1P2P3/6NP/3N3K/q7 w - - 0 1\"]\r\n\r\n1. Qh8+ Kg5 2. Qh4+ Kxh4 3. Nf3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2Q5/3n1p2/1b1p2pk/1b1Pp3/1P2P3/6NP/3N3K/q7%20w%20-%20-%200%201&size=2"
+}

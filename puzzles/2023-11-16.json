@@ -1,0 +1,8 @@
+{
+	"title": "Up, Down, Right, Left, Win!",
+	"url": "https://www.chess.com/daily/2023-11-16",
+	"publish_time": 1700121600,
+	"fen": "5r2/1pp3bk/p3Qqpp/P7/1P1P4/1BN3P1/2P4P/R3R1K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r2/1pp3bk/p3Qqpp/P7/1P1P4/1BN3P1/2P4P/R3R1K1 b - - 0 1\"]\r\n\r\n1... Qf2+ 2. Kh1 Qf3+ 3. Kg1 Bxd4+ 4. Re3 Bxe3+ *",
+	"image": "https://www.chess.com/dynboard?fen=5r2/1pp3bk/p3Qqpp/P7/1P1P4/1BN3P1/2P4P/R3R1K1%20b%20-%20-%200%201&size=2"
+}

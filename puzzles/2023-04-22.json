@@ -1,0 +1,8 @@
+{
+	"title": "WCC Rest Day: Rook and Roll",
+	"url": "https://www.chess.com/daily/2023-04-22",
+	"publish_time": 1682146800,
+	"fen": "7k/p1p4p/8/3bp3/2B2P2/N1P4K/Pr4r1/R4R2 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7k/p1p4p/8/3bp3/2B2P2/N1P4K/Pr4r1/R4R2 b - - 0 1\"]\r\n\r\n1... Rb6 2. Bxd5 Rg7 3. Bf7 Rh6+ 4. Bh5 Rxh5# *",
+	"image": "https://www.chess.com/dynboard?fen=7k/p1p4p/8/3bp3/2B2P2/N1P4K/Pr4r1/R4R2%20b%20-%20-%200%201&size=2"
+}

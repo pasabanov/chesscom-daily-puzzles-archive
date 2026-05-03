@@ -1,0 +1,8 @@
+{
+	"title": "Bik Chain Reaction",
+	"url": "https://www.chess.com/daily/2025-02-08",
+	"publish_time": 1739001600,
+	"fen": "4r1k1/pR5p/3p2pB/2pP4/2P1nnB1/6qP/8/5Q1K w - - 0 32",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2025.01.14\"]\r\n[Round \"?\"]\r\n[White \"Bikfoot\"]\r\n[Black \"kirillju\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"4r1k1/pR5p/3p2pB/2pP4/2P1nnB1/6qP/8/5Q1K w - - 0 32\"]\r\n[ECO \"A45\"]\r\n[WhiteElo \"2230\"]\r\n[BlackElo \"2217\"]\r\n\r\n32. Be6+ Rxe6 33. Rb8+ Kf7 34. Qxf4+ Qxf4 35. dxe6+ Kxe6 36. Bxf4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/pR5p/3p2pB/2pP4/2P1nnB1/6qP/8/5Q1K%20w%20-%20-%200%2032&size=2"
+}

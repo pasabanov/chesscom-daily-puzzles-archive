@@ -1,0 +1,8 @@
+{
+	"title": "Cracking The Shell",
+	"url": "https://www.chess.com/daily/2019-07-14",
+	"publish_time": 1563087600,
+	"fen": "2k4r/ppp5/2p1b1Q1/4q3/3bP3/3B2P1/PPP1N2P/5R1K b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k4r/ppp5/2p1b1Q1/4q3/3bP3/3B2P1/PPP1N2P/5R1K b - - 0 1\"]\r\n\r\n1...Rxh2+ 2. Kxh2 Qh8+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2k4r/ppp5/2p1b1Q1/4q3/3bP3/3B2P1/PPP1N2P/5R1K%20b%20-%20-%200%201&size=2"
+}

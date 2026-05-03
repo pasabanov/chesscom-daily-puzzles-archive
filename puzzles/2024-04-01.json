@@ -1,0 +1,8 @@
+{
+	"title": "Swipe Left, Swipe Right, Swipe Left...",
+	"url": "https://www.chess.com/daily/2024-04-01",
+	"publish_time": 1711954800,
+	"fen": "8/1nq5/bppp4/1p1k1K1N/1rrp3b/2pp2p1/8/n7 w - - 0 1",
+	"pgn": "[Date \"1922\"]\r\n[White \"Otto Blathy\"]\r\n[Black \"A Most Serious Study, Indeed\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/1nq5/bppp4/1p1k1K1N/1rrp3b/2pp2p1/8/n7 w - - 0 1\"]\r\n\r\n1. Nf4+ Kc5 2. Ne6+ Kd5 3. Nxc7+ Kc5 4. Nxa6+ Kd5 5. Nc7+ Kc5 6. Ne6+ Kd5 7.\r\nNf4+ Kc5 8. Ke4 d5+ 9. Ke5 Bf6+ 10. Ke6 Nd8+ 11. Kd7 d2 12. Nd3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/1nq5/bppp4/1p1k1K1N/1rrp3b/2pp2p1/8/n7%20w%20-%20-%200%201&size=2"
+}

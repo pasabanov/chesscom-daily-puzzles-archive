@@ -1,0 +1,8 @@
+{
+	"title": "Exploiting the Tension",
+	"url": "https://www.chess.com/daily/2023-06-10",
+	"publish_time": 1686380400,
+	"fen": "3r3k/3n1r1p/p2p1b2/2pPp2P/1pP1Pp1B/1P3P2/P4NR1/2K3R1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r3k/3n1r1p/p2p1b2/2pPp2P/1pP1Pp1B/1P3P2/P4NR1/2K3R1 w - - 0 1\"]\r\n\r\n1. Ng4 Bxh4 2. Nh6 Rff8 3. Rg8+ Rxg8 4. Nf7# *",
+	"image": "https://www.chess.com/dynboard?fen=3r3k/3n1r1p/p2p1b2/2pPp2P/1pP1Pp1B/1P3P2/P4NR1/2K3R1%20w%20-%20-%200%201&size=2"
+}

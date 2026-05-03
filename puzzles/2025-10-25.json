@@ -1,0 +1,8 @@
+{
+	"title": "Pendulum Dance",
+	"url": "https://www.chess.com/daily/2025-10-25",
+	"publish_time": 1761375600,
+	"fen": "rq3rb1/1pp2Np1/3pkn1p/7Q/1P6/p4p2/2PN1P1P/3R1K2 w - - 0 23",
+	"pgn": "[White \"checkmatemaster7\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"rq3rb1/1pp2Np1/3pkn1p/7Q/1P6/p4p2/2PN1P1P/3R1K2 w - - 0 23\"]\r\n\r\n23. Re1+ Kd7 24. Qb5+ c6 25. Qf5+ Kc7 26. Re7+ Kb6 27. Nc4+ Ka7 28. Qa5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rq3rb1/1pp2Np1/3pkn1p/7Q/1P6/p4p2/2PN1P1P/3R1K2%20w%20-%20-%200%2023&size=2"
+}

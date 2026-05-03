@@ -1,0 +1,8 @@
+{
+	"title": "Ambush",
+	"url": "https://www.chess.com/daily/2021-04-29",
+	"publish_time": 1619679600,
+	"fen": "rb3rk1/1p3ppp/p3p3/2R1N3/3qN3/2R4P/bP2QPP1/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rb3rk1/1p3ppp/p3p3/2R1N3/3qN3/2R4P/bP2QPP1/6K1 w - - 0 1\"]\r\n\r\n1.Nf6+ gxf6 2.Rg3+ Kh8 3.Nxf7+ Rxf7 4.Rc8+ Qd8 5.Rxd8+ Rf8 6.Rxf8# *",
+	"image": "https://www.chess.com/dynboard?fen=rb3rk1/1p3ppp/p3p3/2R1N3/3qN3/2R4P/bP2QPP1/6K1%20w%20-%20-%200%201&size=2"
+}

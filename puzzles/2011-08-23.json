@@ -1,0 +1,9 @@
+{
+	"title": "Check Check Mate",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-08-23",
+	"publish_time": 1314082800,
+	"fen": "4R2n/ppp1B1pk/4B1p1/n1p5/5P2/2P4P/P3r1P1/R5K1 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4R2n/ppp1B1pk/4B1p1/n1p5/5P2/2P4P/P3r1P1/R5K1 w KQkq - 0 1\"]\r\n\r\n1. Bg8+ Kh6 2. Bg5+ Kh5 3. g4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4R2n/ppp1B1pk/4B1p1/n1p5/5P2/2P4P/P3r1P1/R5K1%20w%20KQkq%20-%200%201&size=2"
+}

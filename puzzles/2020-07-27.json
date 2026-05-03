@@ -1,0 +1,8 @@
+{
+	"title": "Sudden Departure",
+	"url": "https://www.chess.com/daily/2020-07-27",
+	"publish_time": 1595833200,
+	"fen": "3q2k1/5pp1/3Ppn1p/4Q3/4P3/3B3P/R4PPK/1r6 b - - 0 37",
+	"pgn": "[Site \"Chess.com\"]\r\n[Date \"2020.06.18\"]\r\n[White \"Vanina1989\"]\r\n[Black \"Qnmeng\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2689\"]\r\n[BlackElo \"2792\"]\r\n[ECO \"D41\"]\r\n[FEN \"3q2k1/5pp1/3Ppn1p/4Q3/4P3/3B3P/R4PPK/1r6 b - - 0 37\"]\r\n\r\n37...Ng4+ 38.Kg3 Nxe5 *",
+	"image": "https://www.chess.com/dynboard?fen=3q2k1/5pp1/3Ppn1p/4Q3/4P3/3B3P/R4PPK/1r6%20b%20-%20-%200%2037&size=2"
+}

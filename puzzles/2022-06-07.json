@@ -1,0 +1,8 @@
+{
+	"title": "Euwe Revisited",
+	"url": "https://www.chess.com/daily/2022-06-07",
+	"publish_time": 1654585200,
+	"fen": "4rrk1/ppp2pbp/3q2pn/5bB1/2Bp4/1QPP1N2/PP4PP/4RRK1 w - - 6 17",
+	"pgn": "[Event \"It\"]\r\n[Site \"Amsterdam (Netherlands)\"]\r\n[Date \"1922.??.??\"]\r\n[Round \"?\"]\r\n[White \"Max Euwe\"]\r\n[Black \"Wiersma E Sr\"]\r\n[Result \"1-0\"]\r\n[FEN \"4rrk1/ppp2pbp/3q2pn/5bB1/2Bp4/1QPP1N2/PP4PP/4RRK1 w - - 6 17\"]\r\n\r\n17.Rxe8 Rxe8 18.Bxh6 Bxh6 19.Bxf7+ Kf8 20.Bxe8 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4rrk1/ppp2pbp/3q2pn/5bB1/2Bp4/1QPP1N2/PP4PP/4RRK1%20w%20-%20-%206%2017&size=2"
+}

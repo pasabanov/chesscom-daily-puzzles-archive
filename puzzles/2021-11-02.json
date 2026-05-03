@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Moves",
+	"url": "https://www.chess.com/daily/2021-11-02",
+	"publish_time": 1635836400,
+	"fen": "r2q1rk1/1b1n1ppp/p3pn2/2B5/B7/4PN2/PPQ2PPP/2R1K2R b K - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2q1rk1/1b1n1ppp/p3pn2/2B5/B7/4PN2/PPQ2PPP/2R1K2R b K - 0 1\"]\r\n\r\n1...Nxc5 2.Qxc5 Rc8 3.O-O Rxc5 *",
+	"image": "https://www.chess.com/dynboard?fen=r2q1rk1/1b1n1ppp/p3pn2/2B5/B7/4PN2/PPQ2PPP/2R1K2R%20b%20K%20-%200%201&size=2"
+}

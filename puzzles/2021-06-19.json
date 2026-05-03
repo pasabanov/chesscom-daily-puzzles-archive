@@ -1,0 +1,8 @@
+{
+	"title": "Two Major Pieces and a Pawn",
+	"url": "https://www.chess.com/daily/2021-06-19",
+	"publish_time": 1624086000,
+	"fen": "r3k3/p1p4p/8/p2P1R2/4r3/1P3Q1K/2q5/8 w q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3k3/p1p4p/8/p2P1R2/4r3/1P3Q1K/2q5/8 w q - 0 1\"]\r\n\r\n1.Rf8+ Kd7 2.Qf5+ Kd6 3.Rf6+ Kc5 4.Rc6+ Kb5 5.Rxc2 *",
+	"image": "https://www.chess.com/dynboard?fen=r3k3/p1p4p/8/p2P1R2/4r3/1P3Q1K/2q5/8%20w%20q%20-%200%201&size=2"
+}

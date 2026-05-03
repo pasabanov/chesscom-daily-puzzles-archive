@@ -1,0 +1,8 @@
+{
+	"title": "Early and Often",
+	"url": "https://www.chess.com/daily/2021-04-11",
+	"publish_time": 1618124400,
+	"fen": "rnb2rk1/pp3pp1/4pb1p/2q5/2B5/P1N1PN2/1P2QPPP/R3K2R b KQ - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rnb2rk1/pp3pp1/4pb1p/2q5/2B5/P1N1PN2/1P2QPPP/R3K2R b KQ - 0 1\"]\r\n\r\n1...Bxc3+ 2.bxc3 b5 3.Nd2 bxc4 *",
+	"image": "https://www.chess.com/dynboard?fen=rnb2rk1/pp3pp1/4pb1p/2q5/2B5/P1N1PN2/1P2QPPP/R3K2R%20b%20KQ%20-%200%201&size=2"
+}

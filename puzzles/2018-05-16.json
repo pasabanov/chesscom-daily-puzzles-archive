@@ -1,0 +1,8 @@
+{
+	"title": "Exposing  Improper Kingside Development",
+	"url": "https://www.chess.com/daily/2018-05-16",
+	"publish_time": 1526454000,
+	"fen": "r2qkb1r/1ppb2pp/p1np1p1n/4p3/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2qkb1r/1ppb2pp/p1np1p1n/4p3/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R w KQkq - 0 1\"]\r\n\r\n1. Bxh6 gxh6 2. Ng5 hxg5 3. Qh5+ Ke7 4. Qf7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2qkb1r/1ppb2pp/p1np1p1n/4p3/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R%20w%20KQkq%20-%200%201&size=2"
+}

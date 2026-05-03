@@ -1,0 +1,8 @@
+{
+	"title": "A Steady Hand",
+	"url": "https://www.chess.com/daily/2020-06-27",
+	"publish_time": 1593241200,
+	"fen": "8/5k2/P1Np4/2pPp3/2P2q2/3K1n2/6Q1/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/5k2/P1Np4/2pPp3/2P2q2/3K1n2/6Q1/8 w - - 0 1\"]\r\n\r\n1.Nd8+ Ke7 2.Ne6 e4+ 3.Kc2 Ne1+ 4.Kb1 Nxg2 5.Nxf4 *",
+	"image": "https://www.chess.com/dynboard?fen=8/5k2/P1Np4/2pPp3/2P2q2/3K1n2/6Q1/8%20w%20-%20-%200%201&size=2"
+}

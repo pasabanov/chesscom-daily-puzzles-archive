@@ -1,0 +1,9 @@
+{
+	"title": "End to End",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2014-09-21",
+	"publish_time": 1411282800,
+	"fen": "r5k1/pp3p1p/b7/3B4/1P6/P2nN1P1/5P1P/Q5K1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5k1/pp3p1p/b7/3B4/1P6/P2nN1P1/5P1P/Q5K1 w - - 0 1\"]\r\n\r\n1. Nf5 Ne5 2. Qxe5 Kf8 3. Qh8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/pp3p1p/b7/3B4/1P6/P2nN1P1/5P1P/Q5K1%20w%20-%20-%200%201&size=2"
+}

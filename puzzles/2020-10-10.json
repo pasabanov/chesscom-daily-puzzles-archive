@@ -1,0 +1,8 @@
+{
+	"title": "Vitaly's Adventure",
+	"url": "https://www.chess.com/daily/2020-10-10",
+	"publish_time": 1602313200,
+	"fen": "8/1p6/4pN1q/K1k5/8/8/8/5Q2 w - - 0 1",
+	"pgn": "[Date \"1925\"]\r\n[White \"Halberstadt, Vitaly\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[SetUp \"1\"]\r\n[FEN \"8/1p6/4pN1q/K1k5/8/8/8/5Q2 w - - 0 1\"]\r\n\r\n1.Qf2+ Kc4 2.Qc2+ Kd4 3.Kb4 Qf8+ 4.Kb3 Ke3 5.Ng4+ Kf3 6.Qf2+ Kxg4 7.Qxf8 *",
+	"image": "https://www.chess.com/dynboard?fen=8/1p6/4pN1q/K1k5/8/8/8/5Q2%20w%20-%20-%200%201&size=2"
+}

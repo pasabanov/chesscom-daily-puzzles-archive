@@ -1,0 +1,8 @@
+{
+	"title": "Discovering the Winning Move Order",
+	"url": "https://www.chess.com/daily/2025-04-04",
+	"publish_time": 1743750000,
+	"fen": "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4 w - - 0 32",
+	"pgn": "[Event \"Oslo Schakselskaps Jubilee\"]\r\n[Date \"1984\"]\r\n[White \"Anatoly Karpov (h2 pawn removed)\"]\r\n[Black \"Simen Agdestein\"]\r\n[Result \"1-0\"]\r\n[FEN \"5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4 w - - 0 32\"]\r\n\r\n32. Qxd5 Qxd5 33. Bh6+ Ke7 34. Rxd5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4%20w%20-%20-%200%2032&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Tempo Precision",
+	"url": "https://www.chess.com/daily/2025-05-09",
+	"publish_time": 1746774000,
+	"fen": "1r4k1/5p1p/p2b2p1/1p2n1q1/P2pP2r/1Q3N2/1PP2PPP/R1B2RK1 b - - 9 26",
+	"pgn": "[White \"sethwmd\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"1r4k1/5p1p/p2b2p1/1p2n1q1/P2pP2r/1Q3N2/1PP2PPP/R1B2RK1 b - - 9 26\"]\r\n\r\n26... Nxf3+ 27. Qxf3 Bxh2+ 28. Kh1 Bg3+ 29. Kg1 Rh1+ 30. Kxh1 Qh4+ 31. Kg1 Qh2#\r\n0-1",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/5p1p/p2b2p1/1p2n1q1/P2pP2r/1Q3N2/1PP2PPP/R1B2RK1%20b%20-%20-%209%2026&size=2"
+}

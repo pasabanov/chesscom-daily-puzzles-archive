@@ -1,0 +1,8 @@
+{
+	"title": "The Best Defense",
+	"url": "https://www.chess.com/daily/2020-02-02",
+	"publish_time": 1580630400,
+	"fen": "3q3k/2p2p2/1p3p1p/4nQ1P/p3B3/P1P3P1/1P1r1P1K/4R3 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3q3k/2p2p2/1p3p1p/4nQ1P/p3B3/P1P3P1/1P1r1P1K/4R3 b - - 1 1\"]\r\n\r\n1...Rxf2+ 2.Qxf2 Ng4+ 3.Kg2 Nxf2 *",
+	"image": "https://www.chess.com/dynboard?fen=3q3k/2p2p2/1p3p1p/4nQ1P/p3B3/P1P3P1/1P1r1P1K/4R3%20b%20-%20-%201%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Marshmellow Experiment",
+	"url": "https://www.chess.com/daily/2026-04-14",
+	"publish_time": 1776150000,
+	"fen": "r5k1/1p3pp1/2p4p/q4N1R/2P1P1P1/1P6/2P4Q/R1K5 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"r5k1/1p3pp1/2p4p/q4N1R/2P1P1P1/1P6/2P4Q/R1K5 b - - 0 1\"]\r\n\r\n1... Qe1+ 2. Kb2 Qxa1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/1p3pp1/2p4p/q4N1R/2P1P1P1/1P6/2P4Q/R1K5%20b%20-%20-%200%201&size=2"
+}

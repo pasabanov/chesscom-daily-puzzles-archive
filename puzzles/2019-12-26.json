@@ -1,0 +1,8 @@
+{
+	"title": "Petrosian and Simagin Visit Again",
+	"url": "https://www.chess.com/daily/2019-12-26",
+	"publish_time": 1577347200,
+	"fen": "Q7/p4rkp/3q4/2p1p1N1/P1P5/8/7B/7K w - - 0 45",
+	"pgn": "[Event \"Moscow-ch playoff\"]\r\n[Site \"Moscow URS\"]\r\n[Date \"1956\"]\r\n[Round \"5\"]\r\n[White \"Tigran Vartanovich Petrosian\"]\r\n[Black \"Vladimir Simagin\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"Q7/p4rkp/3q4/2p1p1N1/P1P5/8/7B/7K w - - 0 45\"]\r\n[PlyCount \"7\"]\r\n\r\n45. Bxe5+ Qxe5 46. Qh8+ Kxh8 47. Nxf7+ Kg7 48. Nxe5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=Q7/p4rkp/3q4/2p1p1N1/P1P5/8/7B/7K%20w%20-%20-%200%2045&size=2"
+}

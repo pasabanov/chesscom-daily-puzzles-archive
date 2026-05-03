@@ -1,0 +1,8 @@
+{
+	"title": "Pushing Your Luck",
+	"url": "https://www.chess.com/daily/2020-10-05",
+	"publish_time": 1601881200,
+	"fen": "5k2/4qp1p/8/3P4/6P1/Q7/K7/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5k2/4qp1p/8/3P4/6P1/Q7/K7/8 b - - 0 1\"]\r\n\r\n1...Qxa3+ 2.Kxa3 f5 3.gxf5 h5 4.Kb4 h4 5.Kc5 h3 *",
+	"image": "https://www.chess.com/dynboard?fen=5k2/4qp1p/8/3P4/6P1/Q7/K7/8%20b%20-%20-%200%201&size=2"
+}

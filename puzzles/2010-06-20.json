@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 4",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-06-20",
+	"publish_time": 1277017200,
+	"fen": "r4rk1/5p1p/pp3PpQ/2p1P3/8/P2qPb2/1P4PP/R1B3K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/5p1p/pp3PpQ/2p1P3/8/P2qPb2/1P4PP/R1B3K1 b - - 0 1\"]\r\n\r\n1...Qd1+ 2. Kf2 Qe2+ 3. Kg3 Qxg2+ 4. Kf4 Qg4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/5p1p/pp3PpQ/2p1P3/8/P2qPb2/1P4PP/R1B3K1%20b%20-%20-%200%201&size=2"
+}

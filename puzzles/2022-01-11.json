@@ -1,0 +1,8 @@
+{
+	"title": "Lukasz Cashes In",
+	"url": "https://www.chess.com/daily/2022-01-11",
+	"publish_time": 1641888000,
+	"fen": "5r1k/4NBbp/3pQ1p1/8/4Pp2/4qP2/1r4PP/3R1b1K w - - 0 31",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2021.10.21\"]\r\n[White \"Lukasz\"]\r\n[Black \"DanielRensch\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"1268\"]\r\n[BlackElo \"2518\"]\r\n[FEN \"5r1k/4NBbp/3pQ1p1/8/4Pp2/4qP2/1r4PP/3R1b1K w - - 0 31\"]\r\n\r\n31.Nxg6+ hxg6 32.Qh3+ Bh6 33.Qxh6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/4NBbp/3pQ1p1/8/4Pp2/4qP2/1r4PP/3R1b1K%20w%20-%20-%200%2031&size=2"
+}

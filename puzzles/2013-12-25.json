@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 5",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2013-12-25",
+	"publish_time": 1387958400,
+	"fen": "r4rk1/5pp1/2p4P/p6Q/3P1P2/Pbp1P3/qP6/2K3RR w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/5pp1/2p4P/p6Q/3P1P2/Pbp1P3/qP6/2K3RR w - - 0 1\"]\r\n\r\n1. Rxg7+ Kh8 2. Rh7+ Kxh7 3. Qf5+ Kh8 4. Qf6+ Kg8 5. Qg7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/5pp1/2p4P/p6Q/3P1P2/Pbp1P3/qP6/2K3RR%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "The Wrath of Kan",
+	"url": "https://www.chess.com/daily/2020-01-08",
+	"publish_time": 1578470400,
+	"fen": "rnbqkb1r/1p1p1ppp/p3pn2/6B1/2BNP3/8/PPP2PPP/RN1QK2R b KQkq - 3 6",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rnbqkb1r/1p1p1ppp/p3pn2/6B1/2BNP3/8/PPP2PPP/RN1QK2R b KQkq - 3 6\"]\r\n\r\n6...Qa5+ 7.Qd2 Bb4 8.c3 Nxe4 9.cxb4 Nxd2 10.bxa5 Nxc4 *",
+	"image": "https://www.chess.com/dynboard?fen=rnbqkb1r/1p1p1ppp/p3pn2/6B1/2BNP3/8/PPP2PPP/RN1QK2R%20b%20KQkq%20-%203%206&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Moving Target",
+	"url": "https://www.chess.com/daily/2025-11-13",
+	"publish_time": 1763020800,
+	"fen": "1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8 b - - 0 44",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8 b - - 0 44\"]\r\n\r\n44... Rh2+ 45. Kxg4 f5+ 46. Kf3 Qxd3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8%20b%20-%20-%200%2044&size=2"
+}

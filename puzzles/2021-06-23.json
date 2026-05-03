@@ -1,0 +1,8 @@
+{
+	"title": "Wolfgang Wednesday",
+	"url": "https://www.chess.com/daily/2021-06-23",
+	"publish_time": 1624431600,
+	"fen": "2r3k1/pb3ppp/8/5Q2/8/1P1nqNP1/P3P2P/4RB1K w - - 4 26",
+	"pgn": "[Event \"Halle DSV 07th\"]\r\n[Site \"Halle GDR\"]\r\n[Date \"1984.06.22\"]\r\n[Round \"11\"]\r\n[White \"Wolfgang Uhlmann\"]\r\n[Black \"Thomas Paehtz Sr\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2505\"]\r\n[BlackElo \"2360\"]\r\n[FEN \"2r3k1/pb3ppp/8/5Q2/8/1P1nqNP1/P3P2P/4RB1K w - - 4 26\"]\r\n\r\n26.Qxc8+ Bxc8 27.exd3 Qxf3+ 28.Bg2 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/pb3ppp/8/5Q2/8/1P1nqNP1/P3P2P/4RB1K%20w%20-%20-%204%2026&size=2"
+}

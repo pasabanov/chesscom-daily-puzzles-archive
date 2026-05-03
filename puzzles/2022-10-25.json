@@ -1,0 +1,8 @@
+{
+	"title": "When Long Castling Fell Short",
+	"url": "https://www.chess.com/daily/2022-10-25",
+	"publish_time": 1666681200,
+	"fen": "5qk1/1Q4p1/p3p2p/2R5/6P1/8/PPP2r1P/2K3R1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5qk1/1Q4p1/p3p2p/2R5/6P1/8/PPP2r1P/2K3R1 b - - 0 1\"]\r\n\r\n1... Qf4+ 2. Kb1 Rf1+ 3. Rxf1 Qxf1# *",
+	"image": "https://www.chess.com/dynboard?fen=5qk1/1Q4p1/p3p2p/2R5/6P1/8/PPP2r1P/2K3R1%20b%20-%20-%200%201&size=2"
+}

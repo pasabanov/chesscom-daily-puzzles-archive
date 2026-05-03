@@ -1,0 +1,8 @@
+{
+	"title": "Clearing the Passing Lane",
+	"url": "https://www.chess.com/daily/2023-06-30",
+	"publish_time": 1688108400,
+	"fen": "5k2/5p2/6p1/2P3P1/3Q2K1/6P1/8/5q2 b - - 0 59",
+	"pgn": "[Event \"URS-ch22 Final\"]\r\n[Site \"Moscow\"]\r\n[Date \"1955.03.14\"]\r\n[Round \"19\"]\r\n[White \"Borisenko, Georgy Konstantinov\"]\r\n[Black \"Simagin, Vladimir Pavlovich\"]\r\n[Result \"0-1\"]\r\n[FEN \"5k2/5p2/6p1/2P3P1/3Q2K1/6P1/8/5q2 b - - 0 59\"]\r\n\r\n59... f5+ 60. gxf6 Qf5+ 61. Kh4 Qh5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5k2/5p2/6p1/2P3P1/3Q2K1/6P1/8/5q2%20b%20-%20-%200%2059&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Check, Check, Mate",
+	"url": "https://www.chess.com/daily/2014-08-16",
+	"publish_time": 1408172400,
+	"fen": "2q1k3/7Q/4p3/pb4p1/1B1K1P2/8/PPP3PP/RN6 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2q1k3/7Q/4p3/pb4p1/1B1K1P2/8/PPP3PP/RN6 b - - 0 1\"]\r\n\r\n1... Qc4+ 2. Ke5 Qxf4+ 3. Kxe6 Bc4# *",
+	"image": "https://www.chess.com/dynboard?fen=2q1k3/7Q/4p3/pb4p1/1B1K1P2/8/PPP3PP/RN6%20b%20-%20-%200%201&size=2"
+}

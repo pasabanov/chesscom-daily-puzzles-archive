@@ -1,0 +1,8 @@
+{
+	"title": "Square Dancing in a Mating Net",
+	"url": "https://www.chess.com/daily/2023-11-25",
+	"publish_time": 1700899200,
+	"fen": "b3Q3/6pk/p2p4/P3pK2/1P2P2r/1q6/3N4/5RR1 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"b3Q3/6pk/p2p4/P3pK2/1P2P2r/1q6/3N4/5RR1 b - - 0 1\"]\r\n\r\n1... Qh3+ 2. Kg5 Rg4+ 3. Rxg4 Qh6+ 4. Kf5 Qf6# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=b3Q3/6pk/p2p4/P3pK2/1P2P2r/1q6/3N4/5RR1%20b%20-%20-%200%201&size=2"
+}

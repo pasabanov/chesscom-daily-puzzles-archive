@@ -1,0 +1,8 @@
+{
+	"title": "Attacking Forecast",
+	"url": "https://www.chess.com/daily/2022-10-07",
+	"publish_time": 1665126000,
+	"fen": "br6/4n2p/1q2pNpk/p1b5/1p2N3/1P4P1/P3B1K1/5Q2 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"br6/4n2p/1q2pNpk/p1b5/1p2N3/1P4P1/P3B1K1/5Q2 w - - 0 1\"]\r\n\r\n1. Ng4+ Kg7 2. Qf6+ Kg8 3. Nh6# *",
+	"image": "https://www.chess.com/dynboard?fen=br6/4n2p/1q2pNpk/p1b5/1p2N3/1P4P1/P3B1K1/5Q2%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Kaidanov's Lightning in a Bottle",
+	"url": "https://www.chess.com/daily/2022-01-14",
+	"publish_time": 1642147200,
+	"fen": "3qrk2/p1r2pp1/1p2pb2/nP1bN2Q/3PN3/P6R/5PPP/R5K1 w - - 6 25",
+	"pgn": "[Event \"Moscow-B\"]\r\n[Site \"Moscow URS\"]\r\n[Date \"1987.06.??\"]\r\n[White \"Gregory Zinovyevich Kaidanov\"]\r\n[Black \"Viswanathan Anand\"]\r\n[Result \"1-0\"]\r\n[FEN \"3qrk2/p1r2pp1/1p2pb2/nP1bN2Q/3PN3/P6R/5PPP/R5K1 w - - 6 25\"]\r\n\r\n25.Qxf7+ Rxf7 26.Ng6+ Kg8 27.Rh8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3qrk2/p1r2pp1/1p2pb2/nP1bN2Q/3PN3/P6R/5PPP/R5K1%20w%20-%20-%206%2025&size=2"
+}

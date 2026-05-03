@@ -1,0 +1,8 @@
+{
+	"title": "Central Tension",
+	"url": "https://www.chess.com/daily/2020-06-04",
+	"publish_time": 1591254000,
+	"fen": "4rqk1/pp4bp/3pr1p1/8/3n1B1P/2N5/PPPQBR2/R3K3 b Q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4rqk1/pp4bp/3pr1p1/8/3n1B1P/2N5/PPPQBR2/R3K3 b Q - 0 1\"]\r\n\r\n1...Rxe2+ 2.Nxe2 Rxe2+ 3.Rxe2 Nf3+ 4.Kd1 Nxd2 *",
+	"image": "https://www.chess.com/dynboard?fen=4rqk1/pp4bp/3pr1p1/8/3n1B1P/2N5/PPPQBR2/R3K3%20b%20Q%20-%200%201&size=2"
+}

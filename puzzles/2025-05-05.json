@@ -1,0 +1,8 @@
+{
+	"title": "A Fork In Passing",
+	"url": "https://www.chess.com/daily/2025-05-05",
+	"publish_time": 1746428400,
+	"fen": "8/r7/5R2/3k1p2/Pp1P2p1/4n1Qb/2PK4/8 b - - 1 49",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/r7/5R2/3k1p2/Pp1P2p1/4n1Qb/2PK4/8 b - - 1 49\"]\r\n\r\n49... Nf1+ 50. Kd3 Nxg3 51. c4+ bxc3 *",
+	"image": "https://www.chess.com/dynboard?fen=8/r7/5R2/3k1p2/Pp1P2p1/4n1Qb/2PK4/8%20b%20-%20-%201%2049&size=2"
+}

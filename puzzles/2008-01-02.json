@@ -1,0 +1,9 @@
+{
+	"title": "Lonely Black Queen",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-01-02",
+	"publish_time": 1199260800,
+	"fen": "2r2rk1/2b2pp1/2bpp3/p1p4p/4PPN1/p1qB1RQ1/P1P3PP/3R3K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r2rk1/2b2pp1/2bpp3/p1p4p/4PPN1/p1qB1RQ1/P1P3PP/3R3K w - - 0 1\"]\r\n\r\n1. e5 f5 (1... hxg4 2. Bh7+) 2. exf6 hxg4 3. Bh7+ Kxh7 4. Rxc3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r2rk1/2b2pp1/2bpp3/p1p4p/4PPN1/p1qB1RQ1/P1P3PP/3R3K%20w%20-%20-%200%201&size=2"
+}

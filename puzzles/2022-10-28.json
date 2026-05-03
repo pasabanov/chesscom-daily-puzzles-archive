@@ -1,0 +1,8 @@
+{
+	"title": "The Most Dangerous Pawn",
+	"url": "https://www.chess.com/daily/2022-10-28",
+	"publish_time": 1666940400,
+	"fen": "6r1/r5PR/2p3R1/2Pk1n2/3p4/1P1NP3/p3K3/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6r1/r5PR/2p3R1/2Pk1n2/3p4/1P1NP3/p3K3/8 w - - 0 1\"]\r\n\r\n1. e4+ Kxe4 2. Re6+ Kd5 3. Re5# *",
+	"image": "https://www.chess.com/dynboard?fen=6r1/r5PR/2p3R1/2Pk1n2/3p4/1P1NP3/p3K3/8%20w%20-%20-%200%201&size=2"
+}

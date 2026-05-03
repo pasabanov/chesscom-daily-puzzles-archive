@@ -1,0 +1,8 @@
+{
+	"title": "Bulldozer",
+	"url": "https://www.chess.com/daily/2021-06-25",
+	"publish_time": 1624604400,
+	"fen": "5r2/RP3P2/8/3Br3/P1P2kP1/3P3P/8/7K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r2/RP3P2/8/3Br3/P1P2kP1/3P3P/8/7K b - - 0 1\"]\r\n\r\n1...Kg3 2.Be4 Rxe4 3.dxe4 Rd8 4.b8=Q+ Rxb8 5.f8=Q Rb1+ 6.Qf1 Rxf1# *",
+	"image": "https://www.chess.com/dynboard?fen=5r2/RP3P2/8/3Br3/P1P2kP1/3P3P/8/7K%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Hikaru Forces Mate",
+	"url": "https://www.chess.com/daily/2022-06-25",
+	"publish_time": 1656140400,
+	"fen": "r1bQ3r/pp2RN1p/3p2q1/3P3k/1nP5/5N2/PP3PP1/2K2B2 w - - 0 23",
+	"pgn": "[Event \"PWC Toronto Open\"]\r\n[Site \"Toronto CAN\"]\r\n[Date \"2009.04.19\"]\r\n[Round \"5\"]\r\n[White \"Hikaru Nakamura\"]\r\n[Black \"Michael Barron\"]\r\n[Result \"1-0\"]\r\n[ECO \"A85\"]\r\n[WhiteElo \"2701\"]\r\n[BlackElo \"2252\"]\r\n[SetUp \"1\"]\r\n[FEN \"r1bQ3r/pp2RN1p/3p2q1/3P3k/1nP5/5N2/PP3PP1/2K2B2 w - - 0 23\"]\r\n[PlyCount \"3\"]\r\n[EventDate \"2009.04.17\"]\r\n\r\n23. Re5+ dxe5 24. Qh4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1bQ3r/pp2RN1p/3p2q1/3P3k/1nP5/5N2/PP3PP1/2K2B2%20w%20-%20-%200%2023&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Grandmaster Hess' Double Take",
+	"url": "https://www.chess.com/daily/2022-12-27",
+	"publish_time": 1672128000,
+	"fen": "5kn1/pp6/4b1p1/3p1q2/5Q2/1B6/PPP1N3/6K1 w - - 0 35",
+	"pgn": "[Event \"It (open)\"]\r\n[Site \"Stratton Mt (USA)\"]\r\n[Date \"2004.06.10\"]\r\n[Round \"4\"]\r\n[White \"Hess Robert L (USA)\"]\r\n[Black \"Castaneda Nelson (USA)\"]\r\n[Result \"1-0\"]\r\n[ECO \"C24\"]\r\n[WhiteElo \"2214\"]\r\n[BlackElo \"2285\"]\r\n[SetUp \"1\"]\r\n[FEN \"5kn1/pp6/4b1p1/3p1q2/5Q2/1B6/PPP1N3/6K1 w - - 0 35\"]\r\n[PlyCount \"5\"]\r\n[EventDate \"2004.??.??\"]\r\n\r\n35. Nd4 Qxf4 36. Nxe6+ Ke7 37. Nxf4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5kn1/pp6/4b1p1/3p1q2/5Q2/1B6/PPP1N3/6K1%20w%20-%20-%200%2035&size=2"
+}

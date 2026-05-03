@@ -1,0 +1,8 @@
+{
+	"title": "Pattern Precision",
+	"url": "https://www.chess.com/daily/2024-05-30",
+	"publish_time": 1717052400,
+	"fen": "4rrk1/1p3pp1/4p3/pPPpP1q1/3Pn2p/2NQPR1P/6PK/6R1 b - - 0 30",
+	"pgn": "[Event \"It FRG-ch\"]\r\n[Site \"Munich GER\"]\r\n[Date \"1979.02.??\"]\r\n[Round \"14\"]\r\n[White \"Unzicker, Wolfgang\"]\r\n[Black \"Dankert, Peter\"]\r\n[Result \"0-1\"]\r\n[ECO \"B05\"]\r\n[WhiteElo \"2530\"]\r\n[BlackElo \"2360\"]\r\n[FEN \"4rrk1/1p3pp1/4p3/pPPpP1q1/3Pn2p/2NQPR1P/6PK/6R1 b - - 0 30\"]\r\n\r\n30... Qg3+ 31. Kh1 Qxf3 32. gxf3 Nf2+ 33. Kh2 Nxd3 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4rrk1/1p3pp1/4p3/pPPpP1q1/3Pn2p/2NQPR1P/6PK/6R1%20b%20-%20-%200%2030&size=2"
+}

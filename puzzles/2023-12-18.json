@@ -1,0 +1,8 @@
+{
+	"title": "A Backward Greeting",
+	"url": "https://www.chess.com/daily/2023-12-18",
+	"publish_time": 1702886400,
+	"fen": "1b2rr1k/1p1b2pp/6n1/BP6/2BNnp2/4PNqP/4R1P1/2RQ2K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1b2rr1k/1p1b2pp/6n1/BP6/2BNnp2/4PNqP/4R1P1/2RQ2K1 w - - 0 1\"]\r\n\r\n1. Be1 fxe3 2. Bxg3 *",
+	"image": "https://www.chess.com/dynboard?fen=1b2rr1k/1p1b2pp/6n1/BP6/2BNnp2/4PNqP/4R1P1/2RQ2K1%20w%20-%20-%200%201&size=2"
+}

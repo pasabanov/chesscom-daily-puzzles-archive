@@ -1,0 +1,8 @@
+{
+	"title": "One Diagonal Leads to Another",
+	"url": "https://www.chess.com/daily/2025-04-17",
+	"publish_time": 1744873200,
+	"fen": "Qn2k2r/p2b1ppp/4n3/3N4/1b1pqB2/6P1/PP2NP1P/R2K1B1R b k - 3 15",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"Qn2k2r/p2b1ppp/4n3/3N4/1b1pqB2/6P1/PP2NP1P/R2K1B1R b k - 3 15\"]\r\n\r\n15... Ba4+ 16. b3 Qd3+ 17. Kc1 Ba3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=Qn2k2r/p2b1ppp/4n3/3N4/1b1pqB2/6P1/PP2NP1P/R2K1B1R%20b%20k%20-%203%2015&size=2"
+}

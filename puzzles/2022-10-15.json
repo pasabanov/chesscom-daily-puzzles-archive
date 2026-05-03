@@ -1,0 +1,8 @@
+{
+	"title": "A Vulnerable Rank",
+	"url": "https://www.chess.com/daily/2022-10-15",
+	"publish_time": 1665817200,
+	"fen": "6k1/Q1R4p/p2b1pp1/3br3/6N1/4P2P/P5PK/3q4 w - - 0 43",
+	"pgn": "[Event \"Acasusso Valle op\"]\r\n[Site \"Acasusso\"]\r\n[Date \"1991.??.??\"]\r\n[Round \"5\"]\r\n[White \"Justo, Damian\"]\r\n[Black \"Filgueira, Hernan\"]\r\n[Result \"1-0\"]\r\n[ECO \"E61\"]\r\n[WhiteElo \"2310\"]\r\n[BlackElo \"2290\"]\r\n[FEN \"6k1/Q1R4p/p2b1pp1/3br3/6N1/4P2P/P5PK/3q4 w - - 0 43\"]\r\n\r\n43. Nh6+ Kf8 44. Rf7+ Bxf7 45. Qxf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6k1/Q1R4p/p2b1pp1/3br3/6N1/4P2P/P5PK/3q4%20w%20-%20-%200%2043&size=2"
+}

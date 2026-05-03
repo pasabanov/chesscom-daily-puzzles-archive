@@ -1,0 +1,8 @@
+{
+	"title": "Capture Your Attention",
+	"url": "https://www.chess.com/daily/2021-06-17",
+	"publish_time": 1623913200,
+	"fen": "1rqr2k1/3b1p1p/2p3p1/3Pp3/1b6/2NQ2PP/2P2PBK/1R1R4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1rqr2k1/3b1p1p/2p3p1/3Pp3/1b6/2NQ2PP/2P2PBK/1R1R4 w - - 0 1\"]\r\n\r\n1.dxc6 Bxc6 2.Qxd8+ Qxd8 3.Rxd8+ Rxd8 4.Rxb4 *",
+	"image": "https://www.chess.com/dynboard?fen=1rqr2k1/3b1p1p/2p3p1/3Pp3/1b6/2NQ2PP/2P2PBK/1R1R4%20w%20-%20-%200%201&size=2"
+}

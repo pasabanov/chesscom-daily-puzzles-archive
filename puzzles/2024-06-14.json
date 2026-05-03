@@ -1,0 +1,8 @@
+{
+	"title": "A Fanciful Fork",
+	"url": "https://www.chess.com/daily/2024-06-14",
+	"publish_time": 1718348400,
+	"fen": "2k3b1/2p3p1/5p1p/q7/3N4/1P5P/PB3PP1/4R1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2k3b1/2p3p1/5p1p/q7/3N4/1P5P/PB3PP1/4R1K1 w - - 0 1\"]\r\n\r\n1. Re8+ Kd7 2. Rd8+ Kxd8 3. Nc6+ Kd7 4. Nxa5 *",
+	"image": "https://www.chess.com/dynboard?fen=2k3b1/2p3p1/5p1p/q7/3N4/1P5P/PB3PP1/4R1K1%20w%20-%20-%200%201&size=2"
+}

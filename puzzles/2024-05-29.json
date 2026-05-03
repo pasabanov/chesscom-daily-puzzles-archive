@@ -1,0 +1,8 @@
+{
+	"title": "A Guided Checkmate Tour",
+	"url": "https://www.chess.com/daily/2024-05-29",
+	"publish_time": 1716966000,
+	"fen": "1r2r2k/5p1p/ppbp1P1B/2n2P2/2P3Rp/1N6/Pb4RP/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r2r2k/5p1p/ppbp1P1B/2n2P2/2P3Rp/1N6/Pb4RP/6K1 w - - 0 1\"]\r\n\r\n1. Bg7+ Kg8 2. Bf8+ Kxf8 3. Rg8# *",
+	"image": "https://www.chess.com/dynboard?fen=1r2r2k/5p1p/ppbp1P1B/2n2P2/2P3Rp/1N6/Pb4RP/6K1%20w%20-%20-%200%201&size=2"
+}

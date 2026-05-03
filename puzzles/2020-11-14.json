@@ -1,0 +1,8 @@
+{
+	"title": "Cliffhanger",
+	"url": "https://www.chess.com/daily/2020-11-14",
+	"publish_time": 1605340800,
+	"fen": "7r/1QR5/p4ppk/1p2p1b1/1P4K1/q2P4/1P6/3R4 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7r/1QR5/p4ppk/1p2p1b1/1P4K1/q2P4/1P6/3R4 b - - 0 1\"]\r\n\r\n1...Qxb4+ 2.Rc4 f5+ 3.Kg3 Bf4+ 4.Kf3 e4+ 5.dxe4 Qb3+ 6.Kxf4 Qxd1 *",
+	"image": "https://www.chess.com/dynboard?fen=7r/1QR5/p4ppk/1p2p1b1/1P4K1/q2P4/1P6/3R4%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Squaring Off Against a Passed Pawn",
+	"url": "https://www.chess.com/daily/2024-10-13",
+	"publish_time": 1728802800,
+	"fen": "8/8/8/3K4/2B5/6p1/7k/5R2 w - - 0 1",
+	"pgn": "[Event \"Bohemia\"]\r\n[Date \"1923.??.??\"]\r\n[White \"Reti, Richard\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/8/3K4/2B5/6p1/7k/5R2 w - - 0 1\"]\r\n\r\n1. Rf3 g2 2. Bf1 g1=Q 3. Rh3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/3K4/2B5/6p1/7k/5R2%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Duda's Party",
+	"url": "https://www.chess.com/daily/2022-04-26",
+	"publish_time": 1650956400,
+	"fen": "2r4r/1b1nqpk1/p5p1/1p1pP2R/3N4/P1NPQ3/1P4PP/5R1K w - - 1 26",
+	"pgn": "[Event \"WYCC U14 Open\"]\r\n[Site \"Caldas Novas BRA\"]\r\n[Date \"2011.11.18\"]\r\n[Round \"?\"]\r\n[White \"Jan-Krzysztof Duda\"]\r\n[Black \"Caique Melo Reda\"]\r\n[Result \"1-0\"]\r\n[FEN \"2r4r/1b1nqpk1/p5p1/1p1pP2R/3N4/P1NPQ3/1P4PP/5R1K w - - 1 26\"]\r\n\r\n26.Nf5+ gxf5 27.Qg3+ Kf8 28.Rxh8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r4r/1b1nqpk1/p5p1/1p1pP2R/3N4/P1NPQ3/1P4PP/5R1K%20w%20-%20-%201%2026&size=2"
+}

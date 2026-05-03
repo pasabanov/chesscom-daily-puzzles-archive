@@ -1,0 +1,8 @@
+{
+	"title": "Kasparov's Immortal Anniversary",
+	"url": "https://www.chess.com/daily/2022-01-20",
+	"publish_time": 1642665600,
+	"fen": "3r3r/1R3p1p/6p1/1p6/2q5/5PPB/1Q5P/1K1k4 w - - 4 36",
+	"pgn": "[Event \"Hoogovens Group A\"]\r\n[Site \"Wijk aan Zee NED\"]\r\n[Date \"1999.01.20\"]\r\n[Round \"4\"]\r\n[White \"Garry Kasparov\"]\r\n[Black \"Veselin Topalov\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2812\"]\r\n[BlackElo \"2700\"]\r\n[ECO \"B07\"]\r\n[EventDate \"1999.01.16\"]\r\n[PlyCount \"87\"]\r\n[FEN \"3r3r/1R3p1p/6p1/1p6/2q5/5PPB/1Q5P/1K1k4 w - - 4 36\"]\r\n\r\n36.Bf1 Rd2 37.Rd7 Rxd7 38.Bxc4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3r3r/1R3p1p/6p1/1p6/2q5/5PPB/1Q5P/1K1k4%20w%20-%20-%204%2036&size=2"
+}

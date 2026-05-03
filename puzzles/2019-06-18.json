@@ -1,0 +1,8 @@
+{
+	"title": "Seeing Into The Future",
+	"url": "https://www.chess.com/daily/2019-06-18",
+	"publish_time": 1560841200,
+	"fen": "1k1r2r1/ppp2p2/7q/5n2/2B1n3/PP1RP3/1B4PP/3RQ2K b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1k1r2r1/ppp2p2/7q/5n2/2B1n3/PP1RP3/1B4PP/3RQ2K b - - 0 1\"]\r\n\r\n1...Nfg3+ 2. Kg1 Qxh2+ 3. Kxh2 Rh8+ 4. Bxh8 Rxh8+ 5. Kg1 Rh1#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1k1r2r1/ppp2p2/7q/5n2/2B1n3/PP1RP3/1B4PP/3RQ2K%20b%20-%20-%200%201&size=2"
+}

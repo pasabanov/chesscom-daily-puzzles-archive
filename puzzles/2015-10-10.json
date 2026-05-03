@@ -1,0 +1,9 @@
+{
+	"title": "Sometimes It Works",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-10-10",
+	"publish_time": 1444460400,
+	"fen": "1r1qk2r/p3nppp/Q4n2/1bb1p3/3pN3/5NP1/PP2PPBP/R1B2RK1 w k - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r1qk2r/p3nppp/Q4n2/1bb1p3/3pN3/5NP1/PP2PPBP/R1B2RK1 w k - 0 1\"]\r\n\r\n1. Qxf6 gxf6 2. Nxf6+ Kf8 3. Bh6#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1r1qk2r/p3nppp/Q4n2/1bb1p3/3pN3/5NP1/PP2PPBP/R1B2RK1%20w%20k%20-%200%201&size=2"
+}

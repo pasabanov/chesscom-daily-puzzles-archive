@@ -1,0 +1,8 @@
+{
+	"title": "Icebreaker",
+	"url": "https://www.chess.com/daily/2021-01-08",
+	"publish_time": 1610092800,
+	"fen": "8/8/6kp/ppp2q2/5P2/P1P1K2Q/2P4P/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/6kp/ppp2q2/5P2/P1P1K2Q/2P4P/8 w - - 0 1\"]\r\n\r\n1.Qxf5+ Kxf5 2.c4 b4 3.a4 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/6kp/ppp2q2/5P2/P1P1K2Q/2P4P/8%20w%20-%20-%200%201&size=2"
+}

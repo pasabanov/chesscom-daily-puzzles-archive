@@ -1,0 +1,8 @@
+{
+	"title": "Loose Piece Pinball",
+	"url": "https://www.chess.com/daily/2025-07-18",
+	"publish_time": 1752822000,
+	"fen": "5qk1/2n2ppp/5b2/pp1r4/5Q2/PB2R3/3B1PPP/6K1 w - - 0 1",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5qk1/2n2ppp/5b2/pp1r4/5Q2/PB2R3/3B1PPP/6K1 w - - 0 1\"]\r\n\r\n1. Qxc7 Rxd2 2. Qxf7+ Qxf7 3. Re8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5qk1/2n2ppp/5b2/pp1r4/5Q2/PB2R3/3B1PPP/6K1%20w%20-%20-%200%201&size=2"
+}

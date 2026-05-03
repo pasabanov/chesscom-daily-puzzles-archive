@@ -1,0 +1,8 @@
+{
+	"title": "Dark to Light Squared Attack",
+	"url": "https://www.chess.com/daily/2025-02-11",
+	"publish_time": 1739260800,
+	"fen": "2r5/p4p1k/1p3qpp/1P1B4/Q3p3/7P/P3RPP1/6K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r5/p4p1k/1p3qpp/1P1B4/Q3p3/7P/P3RPP1/6K1 b - - 0 1\"]\r\n\r\n1... Rc1+ 2. Kh2 Qf4+ 3. g3 Qf3 4. Qxe4 Rh1# *",
+	"image": "https://www.chess.com/dynboard?fen=2r5/p4p1k/1p3qpp/1P1B4/Q3p3/7P/P3RPP1/6K1%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Averbakh Revisited",
+	"url": "https://www.chess.com/daily/2022-02-13",
+	"publish_time": 1644739200,
+	"fen": "r3r1k1/3qbp2/p3b1pB/1p1pP3/2np4/2P3Q1/P1B3PP/R4RK1 w - - 0 22",
+	"pgn": "[Event \"Match for Masters Title\"]\r\n[Site \"Moscow\"]\r\n[Date \"1947\"]\r\n[White \"Yuri Averbakh\"]\r\n[Black \"Vladimir Zak\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3r1k1/3qbp2/p3b1pB/1p1pP3/2np4/2P3Q1/P1B3PP/R4RK1 w - - 0 22\"]\r\n\r\n22.Bxg6 Kh8 23.Bg7+ Kxg7 24.Bxf7+ Kh8 25.Qg6 Bf8 26.Qg8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/3qbp2/p3b1pB/1p1pP3/2np4/2P3Q1/P1B3PP/R4RK1%20w%20-%20-%200%2022&size=2"
+}

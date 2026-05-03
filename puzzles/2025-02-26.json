@@ -1,0 +1,8 @@
+{
+	"title": "Piecing It Together",
+	"url": "https://www.chess.com/daily/2025-02-26",
+	"publish_time": 1740556800,
+	"fen": "4r2k/pRQ5/6pp/3p1p1b/2n2P2/B5P1/2P2P1P/b2n1KR1 b - - 0 1",
+	"pgn": "[White \"King_Red_A\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"4r2k/pRQ5/6pp/3p1p1b/2n2P2/B5P1/2P2P1P/b2n1KR1 b - - 0 1\"]\r\n\r\n1... Nd2+ 2. Kg2 Bf3+ 3. Kh3 Nxf2+ 4. Kh4 Bf6# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4r2k/pRQ5/6pp/3p1p1b/2n2P2/B5P1/2P2P1P/b2n1KR1%20b%20-%20-%200%201&size=2"
+}

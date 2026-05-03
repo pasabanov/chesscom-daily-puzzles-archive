@@ -1,0 +1,8 @@
+{
+	"title": "The Queen and Knight Take Flight",
+	"url": "https://www.chess.com/daily/2024-04-15",
+	"publish_time": 1713164400,
+	"fen": "r3k2r/2Q2pb1/p3pnp1/np4N1/3P1P2/1B4Pp/P2q3P/R5K1 w kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3k2r/2Q2pb1/p3pnp1/np4N1/3P1P2/1B4Pp/P2q3P/R5K1 w kq - 0 1\"]\r\n\r\n1. Qxf7+ Kd8 2. Nxe6+ Kc8 3. Qc7# *",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/2Q2pb1/p3pnp1/np4N1/3P1P2/1B4Pp/P2q3P/R5K1%20w%20kq%20-%200%201&size=2"
+}

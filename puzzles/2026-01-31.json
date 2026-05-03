@@ -1,0 +1,8 @@
+{
+	"title": "Back to the Start",
+	"url": "https://www.chess.com/daily/2026-01-31",
+	"publish_time": 1769846400,
+	"fen": "8/P2k1pp1/2p4p/3p1K1P/R2P4/2P3P1/1P3n2/7r b - - 3 40",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"chesstiger787\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/P2k1pp1/2p4p/3p1K1P/R2P4/2P3P1/1P3n2/7r b - - 3 40\"]\r\n\r\n40... Rf1 41. a8=Q Nd1+ 42. Kg4 Ne3+ 43. Kh3 Rh1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/P2k1pp1/2p4p/3p1K1P/R2P4/2P3P1/1P3n2/7r%20b%20-%20-%203%2040&size=2"
+}

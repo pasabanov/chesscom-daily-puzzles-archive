@@ -1,0 +1,8 @@
+{
+	"title": "Foot Race",
+	"url": "https://www.chess.com/daily/2022-04-09",
+	"publish_time": 1649487600,
+	"fen": "8/6p1/8/K6P/7P/kr5R/8/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/6p1/8/K6P/7P/kr5R/8/8 w - - 0 1\"]\r\n\r\n1.Rxb3+ Kxb3 2.Kb5 Kc3 3.Kc5 Kd3 4.Kd5 Ke3 5.Ke5 Kf3 6.Kf5 Kg3 7.h6 gxh6 \r\n8.h5 Kh4 9.Kg6 *",
+	"image": "https://www.chess.com/dynboard?fen=8/6p1/8/K6P/7P/kr5R/8/8%20w%20-%20-%200%201&size=2"
+}

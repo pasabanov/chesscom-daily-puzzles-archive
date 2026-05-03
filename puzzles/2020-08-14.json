@@ -1,0 +1,8 @@
+{
+	"title": "Resourceful Reverberations",
+	"url": "https://www.chess.com/daily/2020-08-14",
+	"publish_time": 1597388400,
+	"fen": "r1b1k1nr/1R1n2bp/p1pQ2p1/2q1p1N1/4PB2/8/2P2PPP/3R2K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1k1nr/1R1n2bp/p1pQ2p1/2q1p1N1/4PB2/8/2P2PPP/3R2K1 w - - 0 1\"]\r\n\r\n1.Qxc5 Nxc5 2.Rd8+ Kxd8 3.Nf7+ Ke8 4.Nd6+ Kd8 5.Nf7+ *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k1nr/1R1n2bp/p1pQ2p1/2q1p1N1/4PB2/8/2P2PPP/3R2K1%20w%20-%20-%200%201&size=2"
+}

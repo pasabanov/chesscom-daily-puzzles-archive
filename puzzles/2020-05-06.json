@@ -1,0 +1,8 @@
+{
+	"title": "Close Encounter",
+	"url": "https://www.chess.com/daily/2020-05-06",
+	"publish_time": 1588748400,
+	"fen": "2r2rk1/2q2ppp/3n4/p3N3/bpn2PN1/3R2Q1/PPP1R1P1/2K5 w q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r2rk1/2q2ppp/3n4/p3N3/bpn2PN1/3R2Q1/PPP1R1P1/2K5 w q - 0 1\"]\r\n\r\n1.Nf6+ Kh8 2.Qg6 fxg6 3.Nxg6+ hxg6 4.Rh3# *",
+	"image": "https://www.chess.com/dynboard?fen=2r2rk1/2q2ppp/3n4/p3N3/bpn2PN1/3R2Q1/PPP1R1P1/2K5%20w%20q%20-%200%201&size=2"
+}

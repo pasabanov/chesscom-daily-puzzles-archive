@@ -1,0 +1,8 @@
+{
+	"title": "Troitsky Jazz",
+	"url": "https://www.chess.com/daily/2020-01-25",
+	"publish_time": 1579939200,
+	"fen": "8/1p6/8/P2B4/7p/1P2p1kP/4P1r1/4K3 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"8/1p6/8/P2B4/7p/1P2p1kP/4P1r1/4K3 w - - 0 1\"]\r\n\r\n1.Bxg2 Kxg2 2.b4 Kxh3 3.Kf1 Kh2 4.b5 h3 5.a6 Kh1 6.a7 h2 7.a8=R b6 8.Ra5 \r\nbxa5 9.b6 a4 10.b7 a3 11.b8=Q 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/1p6/8/P2B4/7p/1P2p1kP/4P1r1/4K3%20w%20-%20-%200%201&size=2"
+}

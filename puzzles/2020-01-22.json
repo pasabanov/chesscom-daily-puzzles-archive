@@ -1,0 +1,8 @@
+{
+	"title": "The Part You Throw Away",
+	"url": "https://www.chess.com/daily/2020-01-22",
+	"publish_time": 1579680000,
+	"fen": "1k1r4/1b1r1p2/2p1pP1P/pp6/2pb4/P1N3P1/1P1R1PB1/3R2K1 w - - 0 28",
+	"pgn": "[Event \"1st Campomanes Memorial Cup Open\"]\r\n[Site \"Manila PHI\"]\r\n[Date \"2010.08.31\"]\r\n[Round \"5\"]\r\n[White \"Ding, Liren\"]\r\n[Black \"Filippov, Anton\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2574\"]\r\n[BlackElo \"2609\"]\r\n[FEN \"1k1r4/1b1r1p2/2p1pP1P/pp6/2pb4/P1N3P1/1P1R1PB1/3R2K1 w - - 0 28\"]\r\n\r\n28.Rxd4 Rxd4 29.Rxd4 Rxd4 30.Nd5 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1k1r4/1b1r1p2/2p1pP1P/pp6/2pb4/P1N3P1/1P1R1PB1/3R2K1%20w%20-%20-%200%2028&size=2"
+}

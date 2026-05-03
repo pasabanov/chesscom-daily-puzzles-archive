@@ -1,0 +1,8 @@
+{
+	"title": "What Stands In Your Way?",
+	"url": "https://www.chess.com/daily/2025-04-19",
+	"publish_time": 1745046000,
+	"fen": "5r1k/6p1/pN4P1/n5Qp/Pp1r1p1P/1B3q1b/1KP1p3/6R1 w - - 0 1",
+	"pgn": "[White \"tagir\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5r1k/6p1/pN4P1/n5Qp/Pp1r1p1P/1B3q1b/1KP1p3/6R1 w - - 0 1\"]\r\n\r\n1. Qh6+ gxh6 2. g7+ Kh7 3. gxf8=N+ Kh8 4. Rg8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/6p1/pN4P1/n5Qp/Pp1r1p1P/1B3q1b/1KP1p3/6R1%20w%20-%20-%200%201&size=2"
+}

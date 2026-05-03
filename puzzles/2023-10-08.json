@@ -1,0 +1,8 @@
+{
+	"title": "Open Concept",
+	"url": "https://www.chess.com/daily/2023-10-08",
+	"publish_time": 1696748400,
+	"fen": "1k4q1/1pr2p2/3p3r/pN1P1nn1/P1P4p/1R3P2/2Q3PP/B1R2BK1 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"1k4q1/1pr2p2/3p3r/pN1P1nn1/P1P4p/1R3P2/2Q3PP/B1R2BK1 b - - 0 1\"]\r\n\r\n1... Nh3+ 2. Kh1 Ng3+ 3. hxg3 Nf2+ 4. Qxf2 hxg3+ 5. Kg1 Rh1+ 6. Kxh1 Qh7+ 7.\r\nKg1 Qh2# *",
+	"image": "https://www.chess.com/dynboard?fen=1k4q1/1pr2p2/3p3r/pN1P1nn1/P1P4p/1R3P2/2Q3PP/B1R2BK1%20b%20-%20-%200%201&size=2"
+}

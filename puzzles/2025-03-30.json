@@ -1,0 +1,8 @@
+{
+	"title": "Discovering Torre vs. Lasker",
+	"url": "https://www.chess.com/daily/2025-03-30",
+	"publish_time": 1743318000,
+	"fen": "r1b2rk1/ppp3pp/2n5/3q2BQ/3P4/2P2pR1/P4P1P/2K1R3 w - - 0 21",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2025.02.18\"]\r\n[Round \"?\"]\r\n[White \"PracticeMakesOK\"]\r\n[Black \"Myst2500\"]\r\n[Result \"1-0\"]\r\n[ECO \"A13\"]\r\n[WhiteElo \"2805\"]\r\n[BlackElo \"2701\"]\r\n[FEN \"r1b2rk1/ppp3pp/2n5/3q2BQ/3P4/2P2pR1/P4P1P/2K1R3 w - - 0 21\"]\r\n\r\n21. Bf6 Qxh5 22. Rxg7+ Kh8 23. Rg6+ Rxf6 24. Re8+ Rf8 25. Rxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1b2rk1/ppp3pp/2n5/3q2BQ/3P4/2P2pR1/P4P1P/2K1R3%20w%20-%20-%200%2021&size=2"
+}

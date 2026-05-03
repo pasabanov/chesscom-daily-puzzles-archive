@@ -1,0 +1,8 @@
+{
+	"title": "Manual Input",
+	"url": "https://www.chess.com/daily/2020-07-20",
+	"publish_time": 1595228400,
+	"fen": "r2q1rk1/2p3pp/bp1b4/p2N1p2/2B5/P3PPn1/1P3P1P/2RQK2R w K - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2q1rk1/2p3pp/bp1b4/p2N1p2/2B5/P3PPn1/1P3P1P/2RQK2R w K - 0 1\"]\r\n\r\n1.Ne7+ Kh8 2.Ng6+ hxg6 3.hxg3+ *",
+	"image": "https://www.chess.com/dynboard?fen=r2q1rk1/2p3pp/bp1b4/p2N1p2/2B5/P3PPn1/1P3P1P/2RQK2R%20w%20K%20-%200%201&size=2"
+}

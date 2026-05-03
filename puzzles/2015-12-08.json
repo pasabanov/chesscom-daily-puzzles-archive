@@ -1,0 +1,8 @@
+{
+	"title": "Forced Mate",
+	"url": "https://www.chess.com/daily/2015-12-08",
+	"publish_time": 1449561600,
+	"fen": "r3k2r/1b4pp/n2Q1p2/2B1p3/2Pn1q2/1PN2N2/P1B2PPP/R4RK1 b kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3k2r/1b4pp/n2Q1p2/2B1p3/2Pn1q2/1PN2N2/P1B2PPP/R4RK1 b kq - 0 1\"]\r\n\r\n1... Nxf3+ 2. gxf3 Qg5+ 3. Kh1 Bxf3# *",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/1b4pp/n2Q1p2/2B1p3/2Pn1q2/1PN2N2/P1B2PPP/R4RK1%20b%20kq%20-%200%201&size=2"
+}

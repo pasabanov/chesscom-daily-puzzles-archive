@@ -1,0 +1,8 @@
+{
+	"title": "Averbakh's 100 Candles",
+	"url": "https://www.chess.com/daily/2022-02-08",
+	"publish_time": 1644307200,
+	"fen": "r3r3/3qbpk1/p3b1B1/1p1pP3/2np4/2P3Q1/P5PP/R4RK1 w - - 0 24",
+	"pgn": "[Event \"Match for Masters Title\"]\r\n[Site \"Moscow\"]\r\n[Date \"1947.??.??\"]\r\n[Round \"?\"]\r\n[White \"Yuri Averbakh\"]\r\n[Black \"Vladimir Zak\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3r3/3qbpk1/p3b1B1/1p1pP3/2np4/2P3Q1/P5PP/R4RK1 w - - 0 24\"]\r\n\r\n24.Bxf7+ Kh8 25.Qg6 Bf8 26.Qg8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3r3/3qbpk1/p3b1B1/1p1pP3/2np4/2P3Q1/P5PP/R4RK1%20w%20-%20-%200%2024&size=2"
+}

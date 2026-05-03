@@ -1,0 +1,8 @@
+{
+	"title": "Tal Tales",
+	"url": "https://www.chess.com/daily/2020-01-14",
+	"publish_time": 1578988800,
+	"fen": "1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 27",
+	"pgn": "[Event \"Keres Memorial\"]\r\n[Site \"Tallinn URS\"]\r\n[Date \"1979.03.14\"]\r\n[Round \"16\"]\r\n[White \"Mikhail Tal\"]\r\n[Black \"Yrjo A Rantanen\"]\r\n[Result \"1-0\"]\r\n[ECO \"B30\"]\r\n[FEN \"1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 27\"]\r\n\r\n27.Bxg7+ Kg8 28.Bh8 Kxf7 29.Qxf6+ Kg8 30.Qg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1%20w%20-%20-%200%2027&size=2"
+}

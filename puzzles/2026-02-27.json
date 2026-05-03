@@ -1,0 +1,8 @@
+{
+	"title": "GOAT Spots His Own Blunder",
+	"url": "https://www.chess.com/daily/2026-02-27",
+	"publish_time": 1772179200,
+	"fen": "6r1/1R3pk1/p2p3r/2ppn3/P5p1/2PB2q1/1P2Q1P1/3K1R2 w - - 0 34",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2026.01.13\"]\r\n[White \"tptagain Missed Opportunity\"]\r\n[Black \"MagnusCarlsen\"]\r\n[Result \"*\"]\r\n[FEN \"6r1/1R3pk1/p2p3r/2ppn3/P5p1/2PB2q1/1P2Q1P1/3K1R2 w - - 0 34\"]\r\n[WhiteElo \"3101\"]\r\n[BlackElo \"3356\"]\r\n\r\n34. Qxe5+ Qxe5 35. Rfxf7+ Kh8 36. Rh7+ Rxh7 37. Rxh7# *",
+	"image": "https://www.chess.com/dynboard?fen=6r1/1R3pk1/p2p3r/2ppn3/P5p1/2PB2q1/1P2Q1P1/3K1R2%20w%20-%20-%200%2034&size=2"
+}

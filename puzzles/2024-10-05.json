@@ -1,0 +1,8 @@
+{
+	"title": "Chess Boxing with the King",
+	"url": "https://www.chess.com/daily/2024-10-05",
+	"publish_time": 1728111600,
+	"fen": "1q1r4/2p1R2R/p5p1/1b4k1/1p6/3p4/PP3PPP/6K1 w - - 0 39",
+	"pgn": "[White \"Checkmatemaster7\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1q1r4/2p1R2R/p5p1/1b4k1/1p6/3p4/PP3PPP/6K1 w - - 0 39\"]\r\n\r\n39. h4+ Kg4 40. Re4+ Kf5 41. Rhe7 Qb6 42. g4+ Kf6 43. g5+ Kf5 44. R7e5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1q1r4/2p1R2R/p5p1/1b4k1/1p6/3p4/PP3PPP/6K1%20w%20-%20-%200%2039&size=2"
+}

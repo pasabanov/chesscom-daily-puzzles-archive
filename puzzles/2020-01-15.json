@@ -1,0 +1,8 @@
+{
+	"title": "Hello, Goodbye",
+	"url": "https://www.chess.com/daily/2020-01-15",
+	"publish_time": 1579075200,
+	"fen": "6rk/3R2rp/2p1bQ2/1p2N3/1P2Pn2/P3q1b1/1BR3B1/7K w - - 3 39",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"6rk/3R2rp/2p1bQ2/1p2N3/1P2Pn2/P3q1b1/1BR3B1/7K w - - 3 39\"]\r\n\r\n39. Qxg7+ Rxg7 40. Rd8+ Bg8 41. Nf7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6rk/3R2rp/2p1bQ2/1p2N3/1P2Pn2/P3q1b1/1BR3B1/7K%20w%20-%20-%203%2039&size=2"
+}

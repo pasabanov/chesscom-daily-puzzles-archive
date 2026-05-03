@@ -1,0 +1,8 @@
+{
+	"title": "Boleslavsky's Piece Harmony",
+	"url": "https://www.chess.com/daily/2022-06-09",
+	"publish_time": 1654758000,
+	"fen": "7r/1qr1nNp1/p1k4p/1pB5/4P1Q1/8/PP3PPP/6K1 w - - 3 25",
+	"pgn": "[Site \"URS\"]\r\n[Date \"1967.??.??\"]\r\n[Round \"?\"]\r\n[White \"Boleslavsky Isaac (RUS)\"]\r\n[Black \"Dzindzichashvili Roman (USA)\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2560\"]\r\n[BlackElo \"2542\"]\r\n[ECO \"D29\"]\r\n[FEN \"7r/1qr1nNp1/p1k4p/1pB5/4P1Q1/8/PP3PPP/6K1 w - - 3 25\"]\r\n\r\n25.Qe6+ Kxc5 26.Qd6+ Kc4 27.Ne5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=7r/1qr1nNp1/p1k4p/1pB5/4P1Q1/8/PP3PPP/6K1%20w%20-%20-%203%2025&size=2"
+}

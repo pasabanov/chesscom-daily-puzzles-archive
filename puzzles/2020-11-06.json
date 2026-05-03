@@ -1,0 +1,8 @@
+{
+	"title": "Riding the Wave",
+	"url": "https://www.chess.com/daily/2020-11-06",
+	"publish_time": 1604649600,
+	"fen": "8/p6k/1p4b1/2p1PB2/3pK2P/2P5/PP6/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/p6k/1p4b1/2p1PB2/3pK2P/2P5/PP6/8 b - - 0 1\"]\r\n\r\n1...Bxf5+ 2.Kxf5 d3 3.e6 Kg8 4.Kf6 Kf8 5.e7+ Ke8 6.h5 d2 7.h6 d1=Q *",
+	"image": "https://www.chess.com/dynboard?fen=8/p6k/1p4b1/2p1PB2/3pK2P/2P5/PP6/8%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "A Pawn",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-08-20",
+	"publish_time": 1187593200,
+	"fen": "2b1r1k1/1p1nqp2/2p3pp/1P1p4/3P2n1/2NBP1P1/1Q1N1PP1/R5K1 b - - 0 1",
+	"pgn": "[FEN \"2b1r1k1/1p1nqp2/2p3pp/1P1p4/3P2n1/2NBP1P1/1Q1N1PP1/R5K1 b - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1... Nxf2 2. Kxf2 Qxe3+ 3. Kf1 Qxd3+",
+	"image": "https://www.chess.com/dynboard?fen=2b1r1k1/1p1nqp2/2p3pp/1P1p4/3P2n1/2NBP1P1/1Q1N1PP1/R5K1%20b%20-%20-%200%201&size=2"
+}

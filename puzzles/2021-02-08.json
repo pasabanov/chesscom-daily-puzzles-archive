@@ -1,0 +1,8 @@
+{
+	"title": "A Timely Refutation",
+	"url": "https://www.chess.com/daily/2021-02-08",
+	"publish_time": 1612771200,
+	"fen": "6k1/p4pp1/P5rp/1p1r4/2pN1n1N/7q/5PP1/QR2R1K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/p4pp1/P5rp/1p1r4/2pN1n1N/7q/5PP1/QR2R1K1 w - - 0 1\"]\r\n\r\n1.Re8+ Kh7 2.Rh8+ Kxh8 3.Nxg6+ fxg6 4.gxh3 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p4pp1/P5rp/1p1r4/2pN1n1N/7q/5PP1/QR2R1K1%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Let's Dance",
+	"url": "https://www.chess.com/daily/2026-03-11",
+	"publish_time": 1773212400,
+	"fen": "6Q1/p5p1/1p1k1p1p/2p4P/P3qP2/KP4P1/8/8 w - - 0 58",
+	"pgn": "[Event \"SVK-chT 0708\"]\r\n[Site \"Slovakia\"]\r\n[Date \"2008.02.17\"]\r\n[Round \"9\"]\r\n[White \"Balogh, Tomas\"]\r\n[Black \"Briestensky, Rastislav\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"6Q1/p5p1/1p1k1p1p/2p4P/P3qP2/KP4P1/8/8 w - - 0 58\"]\r\n[WhiteElo \"2362\"]\r\n[WhiteTeam \"Komarno\"]\r\n[BlackElo \"2340\"]\r\n[BlackTeam \"Cadca\"]\r\n\r\n58. Qd8+ Ke6 59. Qe8+ Kd5 60. Qd7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6Q1/p5p1/1p1k1p1p/2p4P/P3qP2/KP4P1/8/8%20w%20-%20-%200%2058&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Hop To It!",
+	"url": "https://www.chess.com/daily/2023-03-21",
+	"publish_time": 1679382000,
+	"fen": "8/6b1/b1pnn3/k2p2p1/3P1P1p/q3rN1P/3N2P1/1R2BBK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/6b1/b1pnn3/k2p2p1/3P1P1p/q3rN1P/3N2P1/1R2BBK1 w - - 0 1\"]\r\n\r\n1. Nc4+ Ka4 2. Nb6# *",
+	"image": "https://www.chess.com/dynboard?fen=8/6b1/b1pnn3/k2p2p1/3P1P1p/q3rN1P/3N2P1/1R2BBK1%20w%20-%20-%200%201&size=2"
+}

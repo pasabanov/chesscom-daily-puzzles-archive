@@ -1,0 +1,8 @@
+{
+	"title": "Eyes on the Prize",
+	"url": "https://www.chess.com/daily/2019-12-01",
+	"publish_time": 1575187200,
+	"fen": "3k2r1/RR2n1p1/3Np2p/3pP2P/4bPPK/2r5/8/8 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"3k2r1/RR2n1p1/3Np2p/3pP2P/4bPPK/2r5/8/8 b - - 0 1\"]\r\n\r\n1...g5+ 2.hxg6 Nxg6+ 3.Kh5 Rh3# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3k2r1/RR2n1p1/3Np2p/3pP2P/4bPPK/2r5/8/8%20b%20-%20-%200%201&size=2"
+}

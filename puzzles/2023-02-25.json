@@ -1,0 +1,8 @@
+{
+	"title": "Decisive Counterplay",
+	"url": "https://www.chess.com/daily/2023-02-25",
+	"publish_time": 1677312000,
+	"fen": "8/p2Q2p1/k1p1P3/3b1rB1/P2p4/2P5/1q4PP/1R4RK b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/p2Q2p1/k1p1P3/3b1rB1/P2p4/2P5/1q4PP/1R4RK b - - 0 1\"]\r\n\r\n1... Bxg2+ 2. Rxg2 Qxb1+ 3. Bc1 Rf1+ 4. Rg1 Qe4# *",
+	"image": "https://www.chess.com/dynboard?fen=8/p2Q2p1/k1p1P3/3b1rB1/P2p4/2P5/1q4PP/1R4RK%20b%20-%20-%200%201&size=2"
+}

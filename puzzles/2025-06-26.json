@@ -1,0 +1,8 @@
+{
+	"title": "Checking Around the Bend",
+	"url": "https://www.chess.com/daily/2025-06-26",
+	"publish_time": 1750921200,
+	"fen": "2r3k1/6p1/2q1n2p/P2pPp2/3P1P1P/1N4PK/1Pr5/2RQR3 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/6p1/2q1n2p/P2pPp2/3P1P1P/1N4PK/1Pr5/2RQR3 b - - 0 1\"]\r\n\r\n1... Nxf4+ 2. gxf4 Qc3+ 3. bxc3 R8xc3+ 4. Qf3 Rxf3# *",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/6p1/2q1n2p/P2pPp2/3P1P1P/1N4PK/1Pr5/2RQR3%20b%20-%20-%200%201&size=2"
+}

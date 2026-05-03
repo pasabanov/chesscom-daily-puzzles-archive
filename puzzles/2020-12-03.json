@@ -1,0 +1,8 @@
+{
+	"title": "Ascension",
+	"url": "https://www.chess.com/daily/2020-12-03",
+	"publish_time": 1606982400,
+	"fen": "r1b2rk1/1p4b1/pB1p4/3Pp1qp/PP2pn2/2N1N3/4B1P1/R2Q1RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b2rk1/1p4b1/pB1p4/3Pp1qp/PP2pn2/2N1N3/4B1P1/R2Q1RK1 b - - 0 1\"]\r\n\r\n1...Nh3+ 2.Kh2 Nf2 3.Rxf2 Qh4+ 4.Kg1 Qxf2+ 5.Kh1 Rf4 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2rk1/1p4b1/pB1p4/3Pp1qp/PP2pn2/2N1N3/4B1P1/R2Q1RK1%20b%20-%20-%200%201&size=2"
+}

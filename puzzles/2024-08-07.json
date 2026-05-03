@@ -1,0 +1,8 @@
+{
+	"title": "Tempt the Queen, Checkmate the King",
+	"url": "https://www.chess.com/daily/2024-08-07",
+	"publish_time": 1723014000,
+	"fen": "2q3k1/5p1p/4b1pB/p6r/1p1R4/7P/PQ4PK/2r5 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"2q3k1/5p1p/4b1pB/p6r/1p1R4/7P/PQ4PK/2r5 w - - 0 1\"]\r\n\r\n1. Rd8+ Qxd8 2. Qg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2q3k1/5p1p/4b1pB/p6r/1p1R4/7P/PQ4PK/2r5%20w%20-%20-%200%201&size=2"
+}

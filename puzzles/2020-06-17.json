@@ -1,0 +1,8 @@
+{
+	"title": "When Dubov Strikes",
+	"url": "https://www.chess.com/daily/2020-06-17",
+	"publish_time": 1592377200,
+	"fen": "r1q2k1r/pp2pp2/2P3p1/4B1n1/P7/5BPb/2QPPP2/R2R2K1 b - - 0 20",
+	"pgn": "[Event \"Lindores Abbey Rapid Challenge\"]\r\n[Date \"2020.05.29\"]\r\n[Round \"SF2.1\"]\r\n[White \"Ding, Liren\"]\r\n[Black \"Dubov, Daniil\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2836\"]\r\n[BlackElo \"2770\"]\r\n[FEN \"r1q2k1r/pp2pp2/2P3p1/4B1n1/P7/5BPb/2QPPP2/R2R2K1 b - - 0 20\"]\r\n\r\n20...Nxf3+ 21.exf3 Bg2 22.g4 Bxf3 23.Bxh8 Qxg4+ 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1q2k1r/pp2pp2/2P3p1/4B1n1/P7/5BPb/2QPPP2/R2R2K1%20b%20-%20-%200%2020&size=2"
+}

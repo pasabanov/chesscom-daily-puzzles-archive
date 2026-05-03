@@ -1,0 +1,8 @@
+{
+	"title": "Bareev Blinks",
+	"url": "https://www.chess.com/daily/2022-01-31",
+	"publish_time": 1643616000,
+	"fen": "5k1r/4npp1/p3p2p/3nP2P/3P3Q/3N4/qB2KPP1/2R5 w - - 5 28",
+	"pgn": "[Event \"Kremlin Stars Rapid\"]\r\n[Site \"Moscow RUS\"]\r\n[Date \"1996.04.27\"]\r\n[Round \"1.1\"]\r\n[White \"Judit Polgar\"]\r\n[Black \"Evgeny Ilgizovich Bareev\"]\r\n[Result \"1-0\"]\r\n[ECO \"C18\"]\r\n[PlyCount \"55\"]\r\n[FEN \"5k1r/4npp1/p3p2p/3nP2P/3P3Q/3N4/qB2KPP1/2R5 w - - 5 28\"]\r\n\r\n28.Rc8+ Nxc8 29.Qd8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5k1r/4npp1/p3p2p/3nP2P/3P3Q/3N4/qB2KPP1/2R5%20w%20-%20-%205%2028&size=2"
+}

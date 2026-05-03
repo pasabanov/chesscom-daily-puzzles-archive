@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-04-07",
+	"publish_time": 1428390000,
+	"fen": "r1bq1k1r/1p2b1Rp/p7/3Np2B/1P1pP3/8/2PK3P/3R4 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1bq1k1r/1p2b1Rp/p7/3Np2B/1P1pP3/8/2PK3P/3R4 w - - 0 1\"]\r\n\r\n1. Rf7+ Ke8 2. Rxe7+ Kf8 3. Rf1+ Bf5 4. Rxf5+ Kg8 5. Nf6+ Kf8 6. Rf7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1bq1k1r/1p2b1Rp/p7/3Np2B/1P1pP3/8/2PK3P/3R4%20w%20-%20-%200%201&size=2"
+}

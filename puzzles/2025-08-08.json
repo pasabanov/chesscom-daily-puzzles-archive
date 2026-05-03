@@ -1,0 +1,8 @@
+{
+	"title": "Tempting Temptations",
+	"url": "https://www.chess.com/daily/2025-08-08",
+	"publish_time": 1754636400,
+	"fen": "8/NPk5/p7/1p6/5pp1/Pp2P2P/1K3PP1/8 b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"EnPassantFork\"]\r\n[Result \"*\"]\r\n[FEN \"8/NPk5/p7/1p6/5pp1/Pp2P2P/1K3PP1/8 b - - 0 1\"]\r\n\r\n1... f3 2. gxf3 gxh3 3. Nc6 Kxb7 4. Ne5 h2 5. Ng4 h1=Q *",
+	"image": "https://www.chess.com/dynboard?fen=8/NPk5/p7/1p6/5pp1/Pp2P2P/1K3PP1/8%20b%20-%20-%200%201&size=2"
+}

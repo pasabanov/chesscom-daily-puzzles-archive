@@ -1,0 +1,8 @@
+{
+	"title": "Trick and Treat",
+	"url": "https://www.chess.com/daily/2024-10-30",
+	"publish_time": 1730271600,
+	"fen": "2rqk2r/1p3p2/p1n1pn1p/3pN3/2pP4/P4QR1/1P1NKP1P/6R1 w k - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2rqk2r/1p3p2/p1n1pn1p/3pN3/2pP4/P4QR1/1P1NKP1P/6R1 w k - 0 1\"]\r\n\r\n1. Rg8+ Rxg8 2. Rxg8+ Ke7 3. Nxc6+ bxc6 4. Rxd8 *",
+	"image": "https://www.chess.com/dynboard?fen=2rqk2r/1p3p2/p1n1pn1p/3pN3/2pP4/P4QR1/1P1NKP1P/6R1%20w%20k%20-%200%201&size=2"
+}

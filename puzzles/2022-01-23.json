@@ -1,0 +1,8 @@
+{
+	"title": "Mequinho Style",
+	"url": "https://www.chess.com/daily/2022-01-23",
+	"publish_time": 1642924800,
+	"fen": "rk3r2/2p3p1/p1p3bp/4N1n1/4Pp2/2q2B1P/P4PP1/R2Q2K1 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"rk3r2/2p3p1/p1p3bp/4N1n1/4Pp2/2q2B1P/P4PP1/R2Q2K1 w - - 0 1\"]\r\n\r\n1.Rb1+ Ka7 2.Qd4+ Qxd4 3.Nxc6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rk3r2/2p3p1/p1p3bp/4N1n1/4Pp2/2q2B1P/P4PP1/R2Q2K1%20w%20-%20-%200%201&size=2"
+}

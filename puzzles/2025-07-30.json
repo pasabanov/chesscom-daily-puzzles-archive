@@ -1,0 +1,8 @@
+{
+	"title": "Fabi's Birthday Bullet Mate 🥳",
+	"url": "https://www.chess.com/daily/2025-07-30",
+	"publish_time": 1753858800,
+	"fen": "r1b1k2r/pp3p2/2P3p1/4b3/4p3/4N1q1/PP1QPRB1/R2N2K1 b kq - 0 20",
+	"pgn": "[Event \"chess.com Speed 1m+1spm 2017\"]\r\n[Site \"Chess.com INT\"]\r\n[Date \"2017.08.24\"]\r\n[Round \"1.22\"]\r\n[White \"Hou, Yifan\"]\r\n[Black \"Caruana, Fabiano\"]\r\n[Result \"0-1\"]\r\n[ECO \"A07\"]\r\n[WhiteElo \"2652\"]\r\n[BlackElo \"2802\"]\r\n[FEN \"r1b1k2r/pp3p2/2P3p1/4b3/4p3/4N1q1/PP1QPRB1/R2N2K1 b kq - 0 20\"]\r\n\r\n20... Rh1+ 21. Kxh1 Qh2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1b1k2r/pp3p2/2P3p1/4b3/4p3/4N1q1/PP1QPRB1/R2N2K1%20b%20kq%20-%200%2020&size=2"
+}

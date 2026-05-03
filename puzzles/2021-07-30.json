@@ -1,0 +1,8 @@
+{
+	"title": "Light Square Shuffle",
+	"url": "https://www.chess.com/daily/2021-07-30",
+	"publish_time": 1627628400,
+	"fen": "6k1/1b4p1/p5q1/1pp1p3/3p3p/1P1P1r1P/1PP3RB/4QR1K b - - 1 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"6k1/1b4p1/p5q1/1pp1p3/3p3p/1P1P1r1P/1PP3RB/4QR1K b - - 1 1\"]\r\n\r\n1...Qxg2+ 2.Kxg2 Rg3+ 3.Kf2 Rg2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1b4p1/p5q1/1pp1p3/3p3p/1P1P1r1P/1PP3RB/4QR1K%20b%20-%20-%201%201&size=2"
+}

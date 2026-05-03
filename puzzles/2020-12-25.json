@@ -1,0 +1,8 @@
+{
+	"title": "A Gift From Tal",
+	"url": "https://www.chess.com/daily/2020-12-25",
+	"publish_time": 1608883200,
+	"fen": "4kr2/ppp3pp/4P3/1N1pq1B1/8/8/PPn1Q1PP/R3b2K w - - 3 21",
+	"pgn": "[Event \"Simul\"]\r\n[Site \"Chicago, IL USA\"]\r\n[Date \"1988\"]\r\n[White \"Mikhail Tal\"]\r\n[Black \"Jack Miller\"]\r\n[Result \"*\"]\r\n[FEN \"4kr2/ppp3pp/4P3/1N1pq1B1/8/8/PPn1Q1PP/R3b2K w - - 3 21\"]\r\n\r\n21.h4 Qg3 22.Rd1 Rf2 23.Qxf2 Bxf2 24.Rxd5 *",
+	"image": "https://www.chess.com/dynboard?fen=4kr2/ppp3pp/4P3/1N1pq1B1/8/8/PPn1Q1PP/R3b2K%20w%20-%20-%203%2021&size=2"
+}

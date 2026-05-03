@@ -1,0 +1,8 @@
+{
+	"title": "A Loose Knight",
+	"url": "https://www.chess.com/daily/2024-06-25",
+	"publish_time": 1719298800,
+	"fen": "2R1b1k1/N4p1p/5np1/8/8/P1N4P/1r3PP1/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2R1b1k1/N4p1p/5np1/8/8/P1N4P/1r3PP1/6K1 w - - 0 1\"]\r\n\r\n1. Ne4 Nxe4 2. Rxe8+ Kg7 3. Rxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=2R1b1k1/N4p1p/5np1/8/8/P1N4P/1r3PP1/6K1%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Delayed Gratification",
+	"url": "https://www.chess.com/daily/2023-02-17",
+	"publish_time": 1676620800,
+	"fen": "r1b2B1k/1p1rN2p/p4R2/8/2Pp2P1/P6P/3n2K1/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b2B1k/1p1rN2p/p4R2/8/2Pp2P1/P6P/3n2K1/8 w - - 0 1\"]\r\n\r\n1. Bh6 Rd8 2. Rf7 Rg8 3. Bg7+ Rxg7 4. Rf8+ Rg8 5. Rxg8# *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2B1k/1p1rN2p/p4R2/8/2Pp2P1/P6P/3n2K1/8%20w%20-%20-%200%201&size=2"
+}

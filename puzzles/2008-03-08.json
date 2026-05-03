@@ -1,0 +1,9 @@
+{
+	"title": "Tricky Ending",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-03-08",
+	"publish_time": 1204963200,
+	"fen": "8/8/8/8/2N5/4K2p/6k1/7R w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/8/2N5/4K2p/6k1/7R w - - 0 1\"]\r\n\r\n1. Rc1 h2 2. Kf4 h1=Q 3. Ne3+ Kh2 4. Ng4+ Kg2 5. Rc2+ Kf1 6. Nh2+ Kg1 7. Kg3 Qd5 8. Rc1+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/8/2N5/4K2p/6k1/7R%20w%20-%20-%200%201&size=2"
+}

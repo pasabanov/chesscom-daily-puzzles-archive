@@ -1,0 +1,8 @@
+{
+	"title": "Can You Checkmate a Grandmaster?",
+	"url": "https://www.chess.com/daily/2024-03-19",
+	"publish_time": 1710831600,
+	"fen": "2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 35",
+	"pgn": "[Event \"Astana\"]\r\n[Site \"Astana\"]\r\n[Date \"2001.05.26\"]\r\n[Round \"6\"]\r\n[White \"Kasparov, Garry\"]\r\n[Black \"Shirov, Alexei\"]\r\n[Result \"1-0\"]\r\n[ECO \"C11\"]\r\n[WhiteElo \"2827\"]\r\n[BlackElo \"2722\"]\r\n[FEN \"2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 35\"]\r\n\r\n35. Rd4 Rc4 36. Rg5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1%20w%20-%20-%200%2035&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Ian Finds a Way",
+	"url": "https://www.chess.com/daily/2023-04-10",
+	"publish_time": 1681110000,
+	"fen": "5rk1/3R1p2/pq2p2Q/1p6/4p3/bP2P1P1/5P1P/6K1 w - - 0 30",
+	"pgn": "[Event \"Paris Rapid & Blitz (Game Variation)\"]\r\n[Site \"Paris\"]\r\n[Date \"2023.03.14\"]\r\n[Round \"5.5\"]\r\n[White \"Nepomniachtchi, Ian\"]\r\n[Black \"Aronian, Levon\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2792\"]\r\n[BlackElo \"2781\"]\r\n[FEN \"5rk1/3R1p2/pq2p2Q/1p6/4p3/bP2P1P1/5P1P/6K1 w - - 0 30\"]\r\n\r\n30. Rd5 exd5 31. Qxb6 *",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/3R1p2/pq2p2Q/1p6/4p3/bP2P1P1/5P1P/6K1%20w%20-%20-%200%2030&size=2"
+}

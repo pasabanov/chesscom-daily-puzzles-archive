@@ -1,0 +1,8 @@
+{
+	"title": "Diagonal Escort",
+	"url": "https://www.chess.com/daily/2023-02-07",
+	"publish_time": 1675756800,
+	"fen": "r7/3n3P/p7/p2kp1p1/P7/4P3/1P1B1K2/3B4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r7/3n3P/p7/p2kp1p1/P7/4P3/1P1B1K2/3B4 w - - 0 1\"]\r\n1. Bb3+ Ke4 2. Bg8 Nf6 3. h8=Q *",
+	"image": "https://www.chess.com/dynboard?fen=r7/3n3P/p7/p2kp1p1/P7/4P3/1P1B1K2/3B4%20w%20-%20-%200%201&size=2"
+}

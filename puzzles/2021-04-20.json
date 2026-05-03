@@ -1,0 +1,8 @@
+{
+	"title": "No Particular Place to Go",
+	"url": "https://www.chess.com/daily/2021-04-20",
+	"publish_time": 1618902000,
+	"fen": "r1bqk1nr/2ppb1pp/p7/3Np1B1/1p1n4/1B3Q2/PPP2PPP/R3K2R w KQkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1bqk1nr/2ppb1pp/p7/3Np1B1/1p1n4/1B3Q2/PPP2PPP/R3K2R w KQkq - 0 1\"]\r\n\r\n1.Nxc7+ Qxc7 2.Qf7+ Kd8 3.Qf8# *",
+	"image": "https://www.chess.com/dynboard?fen=r1bqk1nr/2ppb1pp/p7/3Np1B1/1p1n4/1B3Q2/PPP2PPP/R3K2R%20w%20KQkq%20-%200%201&size=2"
+}

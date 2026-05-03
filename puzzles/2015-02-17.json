@@ -1,0 +1,9 @@
+{
+	"title": "Persistent Pressure",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-02-17",
+	"publish_time": 1424160000,
+	"fen": "r2qk3/p4p1r/bp2pQp1/1n2P1Bp/7P/3P2N1/P1R2PP1/2R3K1 w q - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2qk3/p4p1r/bp2pQp1/1n2P1Bp/7P/3P2N1/P1R2PP1/2R3K1 w q - 0 1\"]\r\n\r\n1. Rc8 Rxc8 2. Rxc8 Bxc8 3. Qxd8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2qk3/p4p1r/bp2pQp1/1n2P1Bp/7P/3P2N1/P1R2PP1/2R3K1%20w%20q%20-%200%201&size=2"
+}

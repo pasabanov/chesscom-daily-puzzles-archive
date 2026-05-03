@@ -1,0 +1,8 @@
+{
+	"title": "Grandmaster Overlooks King Safety",
+	"url": "https://www.chess.com/daily/2023-02-23",
+	"publish_time": 1677139200,
+	"fen": "r4rk1/1bq1bp1p/p1n1p1p1/3n2N1/2N4R/2BBP3/1P2QPPP/5RK1 w - - 0 18",
+	"pgn": "[Event \"FIDE World Rapid Chess Championship 2022\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2022.12.27\"]\r\n[Round \"7\"]\r\n[White \"Dubov, Daniil\"]\r\n[Black \"Nihal, Sarin\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2708\"]\r\n[BlackElo \"2670\"]\r\n[SetUp \"1\"]\r\n[FEN \"r4rk1/1bq1bp1p/p1n1p1p1/3n2N1/2N4R/2BBP3/1P2QPPP/5RK1 w - - 0 18\"]\r\n[PlyCount \"3\"]\r\n[EventDate \"2022.??.??\"]\r\n[EventType \"rapid\"]\r\n\r\n18. Qh5 gxh5 19. Bxh7# *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1bq1bp1p/p1n1p1p1/3n2N1/2N4R/2BBP3/1P2QPPP/5RK1%20w%20-%20-%200%2018&size=2"
+}

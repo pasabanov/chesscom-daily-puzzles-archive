@@ -1,0 +1,9 @@
+{
+	"title": "Execution Of The Attack",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-07-07",
+	"publish_time": 1436252400,
+	"fen": "5rk1/1p3ppp/p3P3/3pN3/1q1P1Q2/r2RKP2/2P4P/6R1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/1p3ppp/p3P3/3pN3/1q1P1Q2/r2RKP2/2P4P/6R1 w - - 0 1\"]\r\n\r\n1. exf7+ Kh8 2. Ng6+ hxg6 3. Qh4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/1p3ppp/p3P3/3pN3/1q1P1Q2/r2RKP2/2P4P/6R1%20w%20-%20-%200%201&size=2"
+}

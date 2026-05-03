@@ -1,0 +1,8 @@
+{
+	"title": "Light Lunch",
+	"url": "https://www.chess.com/daily/2021-09-02",
+	"publish_time": 1630566000,
+	"fen": "1rb2r1k/6p1/1p1N1pqp/p7/2R1P3/P7/PR1B1P1P/3QK3 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1rb2r1k/6p1/1p1N1pqp/p7/2R1P3/P7/PR1B1P1P/3QK3 b - - 0 1\"]\r\n\r\n1...Qg1+ 2.Ke2 Bg4+ 3.f3 Bxf3+ 4.Kxf3 Qxd1+ *",
+	"image": "https://www.chess.com/dynboard?fen=1rb2r1k/6p1/1p1N1pqp/p7/2R1P3/P7/PR1B1P1P/3QK3%20b%20-%20-%200%201&size=2"
+}

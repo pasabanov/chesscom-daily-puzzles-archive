@@ -1,0 +1,8 @@
+{
+	"title": "Perspective Expansion",
+	"url": "https://www.chess.com/daily/2021-01-14",
+	"publish_time": 1610611200,
+	"fen": "3q4/p1p5/2p3k1/2b2pP1/P1N4K/6PP/1QP2r2/2BR4 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3q4/p1p5/2p3k1/2b2pP1/P1N4K/6PP/1QP2r2/2BR4 b - - 0 1\"]\r\n\r\n1...Qxg5+ 2.Bxg5 Rf4+ 3.Bxf4 Be7+ 4.Bg5 Bxg5# *",
+	"image": "https://www.chess.com/dynboard?fen=3q4/p1p5/2p3k1/2b2pP1/P1N4K/6PP/1QP2r2/2BR4%20b%20-%20-%200%201&size=2"
+}

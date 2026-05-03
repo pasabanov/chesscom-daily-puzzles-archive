@@ -1,0 +1,8 @@
+{
+	"title": "Haunted by a Tactical Shadow",
+	"url": "https://www.chess.com/daily/2023-10-29",
+	"publish_time": 1698562800,
+	"fen": "8/8/1p6/3R2N1/3p1P2/K1k5/3p4/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/1p6/3R2N1/3p1P2/K1k5/3p4/8 w - - 0 1\"]\r\n\r\n1. Ne4+ Kc4 2. Rd8 d1=Q 3. Rc8+ Kd5 4. Nc3+ dxc3 5. Rd8+ Ke4 6. Rxd1 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/1p6/3R2N1/3p1P2/K1k5/3p4/8%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Off to the Races",
+	"url": "https://www.chess.com/daily/2021-11-30",
+	"publish_time": 1638259200,
+	"fen": "8/8/4pK2/Rr1k3p/1P6/8/8/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/4pK2/Rr1k3p/1P6/8/8/8 b - - 0 1\"]\r\n\r\n1...Rxa5 2.bxa5 h4 3.a6 Kc6 4.Kg5 h3 5.Kg4 h2 6.a7 Kb7 7.a8=Q+ Kxa8 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/4pK2/Rr1k3p/1P6/8/8/8%20b%20-%20-%200%201&size=2"
+}

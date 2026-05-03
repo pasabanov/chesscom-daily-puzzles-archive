@@ -1,0 +1,8 @@
+{
+	"title": "Red Light, Green Light",
+	"url": "https://www.chess.com/daily/2025-08-31",
+	"publish_time": 1756623600,
+	"fen": "8/3R4/4B2B/4r2k/8/3p3K/8/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/3R4/4B2B/4r2k/8/3p3K/8/8 w - - 0 1\"]\r\n\r\n1. Rd5 Rxd5 2. Be3 Rg5 3. Bf7+ Kh6 4. Be8 d2 5. Bxd2 Kg7 6. Bxg5 *",
+	"image": "https://www.chess.com/dynboard?fen=8/3R4/4B2B/4r2k/8/3p3K/8/8%20w%20-%20-%200%201&size=2"
+}

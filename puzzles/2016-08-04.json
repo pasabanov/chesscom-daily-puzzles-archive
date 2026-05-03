@@ -1,0 +1,9 @@
+{
+	"title": "Walk With Me",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2016-08-04",
+	"publish_time": 1470294000,
+	"fen": "8/8/8/8/8/5R2/5K2/3k4 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/8/8/5R2/5K2/3k4 w - - 0 1\"]\r\n\r\n1. Ke3 Kc2 2. Ke2 Kc1 3. Kd3 Kb2 4. Kd2 Kb1 5. Kc3 Ka1 6. Kb3 Kb1 7. Rf1#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/8/8/5R2/5K2/3k4%20w%20-%20-%200%201&size=2"
+}

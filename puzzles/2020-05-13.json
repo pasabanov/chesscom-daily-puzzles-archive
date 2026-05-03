@@ -1,0 +1,8 @@
+{
+	"title": "Intermediate Reflection",
+	"url": "https://www.chess.com/daily/2020-05-13",
+	"publish_time": 1589353200,
+	"fen": "5rk1/ppp2q1p/5PpQ/4r3/7R/2P5/PP3P1P/RN4K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5rk1/ppp2q1p/5PpQ/4r3/7R/2P5/PP3P1P/RN4K1 b - - 0 1\"]\r\n\r\n1...Re1+ 2.Kg2 Qd5+ 3.f3 Re2+ 4.Kg3 Qd6+ 5.Qf4 g5 6.Qxd6 gxh4+ 7.Kxh4 cxd6\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/ppp2q1p/5PpQ/4r3/7R/2P5/PP3P1P/RN4K1%20b%20-%20-%200%201&size=2"
+}

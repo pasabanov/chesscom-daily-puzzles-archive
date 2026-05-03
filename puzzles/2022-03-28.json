@@ -1,0 +1,8 @@
+{
+	"title": "Trust Your Gut",
+	"url": "https://www.chess.com/daily/2022-03-28",
+	"publish_time": 1648450800,
+	"fen": "8/1p3Qb1/p5pk/P1p1p1p1/1P2P1P1/2P1N2n/5P1P/4qB1K w - - 0 34",
+	"pgn": "[Event \"It (a)\"]\r\n[Site \"Wijk aan Zee (Netherlands)\"]\r\n[Date \"1987.??.??\"]\r\n[Round \"?\"]\r\n[White \"Viktor Korchnoi\"]\r\n[Black \"Lev Gutman\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/1p3Qb1/p5pk/P1p1p1p1/1P2P1P1/2P1N2n/5P1P/4qB1K w - - 0 34\"]\r\n\r\n34.Nf5+ gxf5 35.Qh5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/1p3Qb1/p5pk/P1p1p1p1/1P2P1P1/2P1N2n/5P1P/4qB1K%20w%20-%20-%200%2034&size=2"
+}

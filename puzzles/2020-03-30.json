@@ -1,0 +1,8 @@
+{
+	"title": "The Bishop's Intentions",
+	"url": "https://www.chess.com/daily/2020-03-30",
+	"publish_time": 1585551600,
+	"fen": "4r3/pp1n1pk1/1b3npp/3p2B1/1q6/1PN2QP1/P4P1P/3R1BK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r3/pp1n1pk1/1b3npp/3p2B1/1q6/1PN2QP1/P4P1P/3R1BK1 w - - 0 1\"]\r\n\r\n1.Bxf6+ Nxf6 2.Qxf6+ Kxf6 3.Nxd5+ Kg7 4.Nxb4 *",
+	"image": "https://www.chess.com/dynboard?fen=4r3/pp1n1pk1/1b3npp/3p2B1/1q6/1PN2QP1/P4P1P/3R1BK1%20w%20-%20-%200%201&size=2"
+}

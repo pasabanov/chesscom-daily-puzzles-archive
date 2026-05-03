@@ -1,0 +1,8 @@
+{
+	"title": "Squaring Off Against an Isolated King",
+	"url": "https://www.chess.com/daily/2024-02-21",
+	"publish_time": 1708502400,
+	"fen": "8/P4k2/8/4np2/3b4/2NP2P1/1P5K/R1B3r1 b - - 0 1",
+	"pgn": "[Date \"1996\"]\r\n[White \"Nick de Firmian\"]\r\n[Black \"Tiger Hillarp Persson (remove h7 pawn)\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/P4k2/8/4np2/3b4/2NP2P1/1P5K/R1B3r1 b - - 0 1\"]\r\n\r\n1... Nf3+ 2. Kh3 Rh1+ 3. Kg2 Rh2+ 4. Kxf3 Rf2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/P4k2/8/4np2/3b4/2NP2P1/1P5K/R1B3r1%20b%20-%20-%200%201&size=2"
+}

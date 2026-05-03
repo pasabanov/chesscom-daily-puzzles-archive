@@ -1,0 +1,8 @@
+{
+	"title": "Easy Does It",
+	"url": "https://www.chess.com/daily/2023-01-31",
+	"publish_time": 1675152000,
+	"fen": "3rk2r/pR3ppp/8/Q3p3/4P3/3P4/4Nq1P/3K1B1b w k - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3rk2r/pR3ppp/8/Q3p3/4P3/3P4/4Nq1P/3K1B1b w k - 0 1\"]\r\n\r\n1. Qxe5+ Kf8 2. Qe7+ Kg8 3. Qxd8# *",
+	"image": "https://www.chess.com/dynboard?fen=3rk2r/pR3ppp/8/Q3p3/4P3/3P4/4Nq1P/3K1B1b%20w%20k%20-%200%201&size=2"
+}

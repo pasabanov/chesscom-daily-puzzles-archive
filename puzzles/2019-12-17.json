@@ -1,0 +1,8 @@
+{
+	"title": "Batteries Not Included",
+	"url": "https://www.chess.com/daily/2019-12-17",
+	"publish_time": 1576569600,
+	"fen": "b3r1k1/3r1ppp/8/ppBqPR2/2pP4/2P5/5QPP/5RK1 w - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"b3r1k1/3r1ppp/8/ppBqPR2/2pP4/2P5/5QPP/5RK1 w - - 1 1\"]\r\n\r\n1.e6 Qxe6 2.Re5 Qxe5 3.dxe5 *",
+	"image": "https://www.chess.com/dynboard?fen=b3r1k1/3r1ppp/8/ppBqPR2/2pP4/2P5/5QPP/5RK1%20w%20-%20-%201%201&size=2"
+}

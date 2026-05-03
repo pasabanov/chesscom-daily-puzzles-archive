@@ -1,0 +1,8 @@
+{
+	"title": "Showtime",
+	"url": "https://www.chess.com/daily/2020-08-13",
+	"publish_time": 1597302000,
+	"fen": "8/p1Rb2kp/6p1/2b2r2/5BK1/5P2/PP4PP/2R5 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/p1Rb2kp/6p1/2b2r2/5BK1/5P2/PP4PP/2R5 b - - 1 1\"]\r\n\r\n1...Rg5+ 2.Kh4 Bf2+ 3.Kxg5 h6# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/p1Rb2kp/6p1/2b2r2/5BK1/5P2/PP4PP/2R5%20b%20-%20-%201%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Cleared for Landing",
+	"url": "https://www.chess.com/daily/2022-12-21",
+	"publish_time": 1671609600,
+	"fen": "3r1r2/ppp2pk1/5Np1/4Q2b/1P5P/2PPb3/1P2qN2/3R2KR w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r1r2/ppp2pk1/5Np1/4Q2b/1P5P/2PPb3/1P2qN2/3R2KR w - - 0 1\"]\r\n\r\n1. Ne8+ Kh6 2. Qg7# *",
+	"image": "https://www.chess.com/dynboard?fen=3r1r2/ppp2pk1/5Np1/4Q2b/1P5P/2PPb3/1P2qN2/3R2KR%20w%20-%20-%200%201&size=2"
+}

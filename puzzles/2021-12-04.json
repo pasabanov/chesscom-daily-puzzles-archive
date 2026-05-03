@@ -1,0 +1,8 @@
+{
+	"title": "Attractive Obstruction",
+	"url": "https://www.chess.com/daily/2021-12-04",
+	"publish_time": 1638604800,
+	"fen": "4Qbk1/5p2/5Pp1/ppqn1rPp/7P/P1P5/1P2R3/1K1R4 w - - 3 45",
+	"pgn": "[Event \"ch-FRA\"]\r\n[Site \"Aix les Bains FRA\"]\r\n[Date \"2003.08.21\"]\r\n[Round \"4\"]\r\n[White \"Apicella, Manuel\"]\r\n[Black \"Guidarelli, Laurent\"]\r\n[Result \"1-0\"]\r\n[FEN \"4Qbk1/5p2/5Pp1/ppqn1rPp/7P/P1P5/1P2R3/1K1R4 w - - 3 45\"]\r\n\r\n45.Re7 Nxe7 46.Qxf8+ Kxf8 47.Rd8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4Qbk1/5p2/5Pp1/ppqn1rPp/7P/P1P5/1P2R3/1K1R4%20w%20-%20-%203%2045&size=2"
+}

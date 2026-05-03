@@ -1,0 +1,8 @@
+{
+	"title": "Capture, Capture, Mate",
+	"url": "https://www.chess.com/daily/2017-01-11",
+	"publish_time": 1484121600,
+	"fen": "r1bq1rk1/ppp3p1/8/4bpP1/5Qn1/2P5/PP2PPP1/R3KB1R w KQ - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1bq1rk1/ppp3p1/8/4bpP1/5Qn1/2P5/PP2PPP1/R3KB1R w KQ - 0 1\"]\r\n\r\n1. Qc4+ Rf7 2. g6 Nh6 3. Rxh6 gxh6 4. Qxf7+ Kh8 5. Qh7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r1bq1rk1/ppp3p1/8/4bpP1/5Qn1/2P5/PP2PPP1/R3KB1R%20w%20KQ%20-%200%201&size=2"
+}

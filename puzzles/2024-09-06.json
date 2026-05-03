@@ -1,0 +1,8 @@
+{
+	"title": "Pinderella Story",
+	"url": "https://www.chess.com/daily/2024-09-06",
+	"publish_time": 1725606000,
+	"fen": "2krB3/pbp2r2/1p1b2q1/6Bp/2pp4/4Q3/PP3PPP/R3R1K1 w - - 0 25",
+	"pgn": "[Event \"Spain\"]\r\n[Site \"Spain\"]\r\n[Date \"1986.??.??\"]\r\n[Round \"?\"]\r\n[White \"Gallego Eraso Patxi (ESP)\"]\r\n[Black \"Eslon Jaan (SWE)\"]\r\n[Result \"1-0\"]\r\n[ECO \"C10\"]\r\n[WhiteElo \"2383\"]\r\n[BlackElo \"2415\"]\r\n[FEN \"2krB3/pbp2r2/1p1b2q1/6Bp/2pp4/4Q3/PP3PPP/R3R1K1 w - - 0 25\"]\r\n\r\n25. Qh3+ Rdd7 26. Qxd7+ Rxd7 27. Bxg6 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2krB3/pbp2r2/1p1b2q1/6Bp/2pp4/4Q3/PP3PPP/R3R1K1%20w%20-%20-%200%2025&size=2"
+}

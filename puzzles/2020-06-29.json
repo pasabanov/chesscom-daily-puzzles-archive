@@ -1,0 +1,8 @@
+{
+	"title": "Don't Blink",
+	"url": "https://www.chess.com/daily/2020-06-29",
+	"publish_time": 1593414000,
+	"fen": "1r1q1rk1/1bp3pp/pp6/2bNp3/2P5/3Q1BP1/PP4PP/R4R1K b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r1q1rk1/1bp3pp/pp6/2bNp3/2P5/3Q1BP1/PP4PP/R4R1K b - - 1 1\"]\r\n\r\n1...c6 2.b4 cxd5 3.bxc5 e4 *",
+	"image": "https://www.chess.com/dynboard?fen=1r1q1rk1/1bp3pp/pp6/2bNp3/2P5/3Q1BP1/PP4PP/R4R1K%20b%20-%20-%201%201&size=2"
+}

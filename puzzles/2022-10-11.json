@@ -1,0 +1,8 @@
+{
+	"title": "Jump Right In",
+	"url": "https://www.chess.com/daily/2022-10-11",
+	"publish_time": 1665471600,
+	"fen": "2br2k1/1p3p2/1qp3p1/p1n5/P1P3P1/1PQ1RP2/4NKB1/8 b - - 0 36",
+	"pgn": "[Event \"UKR-chT 8th\"]\r\n[Site \"Alushta\"]\r\n[Date \"2000.04.14\"]\r\n[Round \"5\"]\r\n[White \"Stoockalov, Vladimir L\"]\r\n[Black \"Ponomariov, Ruslan\"]\r\n[Result \"0-1\"]\r\n[ECO \"B07\"]\r\n[WhiteElo \"2398\"]\r\n[BlackElo \"2627\"]\r\n[FEN \"2br2k1/1p3p2/1qp3p1/p1n5/P1P3P1/1PQ1RP2/4NKB1/8 b - - 0 36\"]\r\n\r\n36... Nd3+ 37. Kg3 Qxe3 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2br2k1/1p3p2/1qp3p1/p1n5/P1P3P1/1PQ1RP2/4NKB1/8%20b%20-%20-%200%2036&size=2"
+}

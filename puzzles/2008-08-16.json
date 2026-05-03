@@ -1,0 +1,9 @@
+{
+	"title": "Find the Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-08-16",
+	"publish_time": 1218870000,
+	"fen": "5rk1/1p2pp1p/p2p2p1/2q1b2n/P2N3P/NPr2Pn1/1BP3PK/R2QR3 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/1p2pp1p/p2p2p1/2q1b2n/P2N3P/NPr2Pn1/1BP3PK/R2QR3 b - - 0 1\"]\r\n\r\n1...Nf1+ 2. Kg1 Bxd4+ 3. Re3 Bxe3+ 4. Kxf1 Ng3+ 5. Ke1 Bf2+ 6. Kd2 Qe3#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/1p2pp1p/p2p2p1/2q1b2n/P2N3P/NPr2Pn1/1BP3PK/R2QR3%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Endgame Zugzwang",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-04-18",
+	"publish_time": 1208502000,
+	"fen": "8/8/1p1K4/1p1Q4/1k6/8/1P6/4q3 w - - 0 5",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/1p1K4/1p1Q4/1k6/8/1P6/4q3 w - - 0 5\"]\r\n\r\n5. Qd3 Qc1 6. Qa3+ Kc4 7. b3+ Kd3 8. Qxc1\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/8/1p1K4/1p1Q4/1k6/8/1P6/4q3%20w%20-%20-%200%205&size=2"
+}

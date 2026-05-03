@@ -1,0 +1,8 @@
+{
+	"title": "Navigating the Precipice",
+	"url": "https://www.chess.com/daily/2020-12-10",
+	"publish_time": 1607587200,
+	"fen": "r2q3r/4R2p/5p1k/6pP/2nN2n1/1p4Q1/1P3P2/1K2R3 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2q3r/4R2p/5p1k/6pP/2nN2n1/1p4Q1/1P3P2/1K2R3 w - - 0 1\"]\r\n\r\n1.Nf5+ Kxh5 2.Qh3+ Kg6 3.Rg7+ Kxf5 4.Qf3# *",
+	"image": "https://www.chess.com/dynboard?fen=r2q3r/4R2p/5p1k/6pP/2nN2n1/1p4Q1/1P3P2/1K2R3%20w%20-%20-%200%201&size=2"
+}

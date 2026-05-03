@@ -1,0 +1,8 @@
+{
+	"title": "Tactical Mic Drop",
+	"url": "https://www.chess.com/daily/2024-05-16",
+	"publish_time": 1715842800,
+	"fen": "rnbr2k1/pp2nppp/2p5/q3P3/N3P3/2P1B3/PP4PP/R2QKBR1 w Q - 0 11",
+	"pgn": "[Event \"Groningen Chess Festival\"]\r\n[Site \"Groningen NED\"]\r\n[Date \"2013.12.23\"]\r\n[Round \"3.25\"]\r\n[White \"Thomas Beerdsen\"]\r\n[Black \"Mark A Berkovich\"]\r\n[Result \"1-0\"]\r\n[ECO \"B12\"]\r\n[WhiteElo \"2154\"]\r\n[BlackElo \"2366\"]\r\n[FEN \"rnbr2k1/pp2nppp/2p5/q3P3/N3P3/2P1B3/PP4PP/R2QKBR1 w Q - 0 11\"]\r\n\r\n11. Bb6 Rxd1+ 12. Rxd1 Qxa4 13. Rd8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=rnbr2k1/pp2nppp/2p5/q3P3/N3P3/2P1B3/PP4PP/R2QKBR1%20w%20Q%20-%200%2011&size=2"
+}

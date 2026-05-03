@@ -1,0 +1,8 @@
+{
+	"title": "Which Rook?",
+	"url": "https://www.chess.com/daily/2023-05-01",
+	"publish_time": 1682924400,
+	"fen": "8/R2R2pk/5r1p/3P4/8/6PP/3r1PK1/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/R2R2pk/5r1p/3P4/8/6PP/3r1PK1/8 b - - 0 1\"]\r\n\r\n1... Rdxf2+ 2. Kg1 Rf1+ 3. Kg2 R6f2# *",
+	"image": "https://www.chess.com/dynboard?fen=8/R2R2pk/5r1p/3P4/8/6PP/3r1PK1/8%20b%20-%20-%200%201&size=2"
+}

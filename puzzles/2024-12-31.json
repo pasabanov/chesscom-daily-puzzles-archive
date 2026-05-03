@@ -1,0 +1,8 @@
+{
+	"title": "2024's Final King Hunt",
+	"url": "https://www.chess.com/daily/2024-12-31",
+	"publish_time": 1735632000,
+	"fen": "r2k1b1r/3np3/p6p/2pp2NQ/2p1P2P/2n5/P4PP1/q2B1K1R w - - 0 1",
+	"pgn": "[White \"Gunnar247\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2k1b1r/3np3/p6p/2pp2NQ/2p1P2P/2n5/P4PP1/q2B1K1R w - - 0 1\"]\r\n\r\n1. Ne6+ Kc8 2. Qe8+ Kb7 3. Qxd7+ Kb6 4. Qc7+ Kb5 5. Qxc5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2k1b1r/3np3/p6p/2pp2NQ/2p1P2P/2n5/P4PP1/q2B1K1R%20w%20-%20-%200%201&size=2"
+}

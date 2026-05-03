@@ -1,0 +1,8 @@
+{
+	"title": "Bishops Illuminate the Path",
+	"url": "https://www.chess.com/daily/2024-03-09",
+	"publish_time": 1709971200,
+	"fen": "2kr3r/1p1n2p1/pbp3np/5N2/q3PB1P/2Q2PPB/P1R5/7K w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"2kr3r/1p1n2p1/pbp3np/5N2/q3PB1P/2Q2PPB/P1R5/7K w - - 0 1\"]\r\n\r\n1. Ne7+ Nxe7 2. Qe5 Nf5 3. Bxf5 Qxc2 4. Qb8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2kr3r/1p1n2p1/pbp3np/5N2/q3PB1P/2Q2PPB/P1R5/7K%20w%20-%20-%200%201&size=2"
+}

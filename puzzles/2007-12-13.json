@@ -1,0 +1,9 @@
+{
+	"title": "Endgame Zugzwang",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-12-13",
+	"publish_time": 1197532800,
+	"fen": "8/7B/8/1p6/3Q4/1p3K2/q7/2k5 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/7B/8/1p6/3Q4/1p3K2/q7/2k5 w - - 0 1\"]\r\n\r\n1. Ke3 Qa5 (1... b4 2. Be4 Qb2 3. Qxb4 Kd1 4. Qd6+ Kc1 (4... Ke1 5. Qg3+) 5. Qc5+ Kd1 6. Qh5+) 2. Ke2 Qa2+ 3. Ke1 Qa5+ 4. Kf1 b4 5. Ke1 Qa2 6. Be4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/7B/8/1p6/3Q4/1p3K2/q7/2k5%20w%20-%20-%200%201&size=2"
+}

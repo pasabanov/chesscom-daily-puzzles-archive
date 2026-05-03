@@ -1,0 +1,8 @@
+{
+	"title": "Roll Call",
+	"url": "https://www.chess.com/daily/2021-08-01",
+	"publish_time": 1627801200,
+	"fen": "3rr1k1/ppp3p1/b6B/4N3/8/1P6/P1P4P/R3K1R1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3rr1k1/ppp3p1/b6B/4N3/8/1P6/P1P4P/R3K1R1 b - - 0 1\"]\r\n\r\n1...Rxe5+ 2.Kf2 Rf8+ 3.Kg3 gxh6 *",
+	"image": "https://www.chess.com/dynboard?fen=3rr1k1/ppp3p1/b6B/4N3/8/1P6/P1P4P/R3K1R1%20b%20-%20-%200%201&size=2"
+}

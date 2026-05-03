@@ -1,0 +1,8 @@
+{
+	"title": "A Relative Pin",
+	"url": "https://www.chess.com/daily/2021-08-16",
+	"publish_time": 1629097200,
+	"fen": "7k/p5q1/PpPQ1r1p/2n5/3B4/5pP1/5P2/2R3K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"7k/p5q1/PpPQ1r1p/2n5/3B4/5pP1/5P2/2R3K1 b - - 0 1\"]\r\n\r\n1...Rxd6 2.Bxg7+ Kxg7 3.c7 Rc6 4.c8=Q Rxc8 *",
+	"image": "https://www.chess.com/dynboard?fen=7k/p5q1/PpPQ1r1p/2n5/3B4/5pP1/5P2/2R3K1%20b%20-%20-%200%201&size=2"
+}

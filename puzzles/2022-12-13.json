@@ -1,0 +1,8 @@
+{
+	"title": "Wrong-footed Rook",
+	"url": "https://www.chess.com/daily/2022-12-13",
+	"publish_time": 1670918400,
+	"fen": "r5k1/5p2/rp4p1/3P1p1p/R1R4P/P5P1/5P2/6K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r5k1/5p2/rp4p1/3P1p1p/R1R4P/P5P1/5P2/6K1 w - - 0 1\"]\r\n\r\n1. Rxa6 Rxa6 2. d6 Ra7 3. Rc7 Ra8 4. d7 Rd8 5. Rc8 *",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/5p2/rp4p1/3P1p1p/R1R4P/P5P1/5P2/6K1%20w%20-%20-%200%201&size=2"
+}

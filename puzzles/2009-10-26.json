@@ -1,0 +1,9 @@
+{
+	"title": "Simple Simplification",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-10-26",
+	"publish_time": 1256540400,
+	"fen": "8/p5k1/8/2p3P1/3prN2/P3nR2/4P3/4K3 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/p5k1/8/2p3P1/3prN2/P3nR2/4P3/4K3 b - - 0 1\"]\r\n\r\n1...Rxf4 2. Rxf4 Ng2+ 3. Kd2 Nxf4\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/p5k1/8/2p3P1/3prN2/P3nR2/4P3/4K3%20b%20-%20-%200%201&size=2"
+}

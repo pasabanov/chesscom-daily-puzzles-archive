@@ -1,0 +1,8 @@
+{
+	"title": "Forcing Candidate Moves",
+	"url": "https://www.chess.com/daily/2022-11-03",
+	"publish_time": 1667458800,
+	"fen": "3q2k1/p2b2p1/2p4p/2b1B3/5Pr1/1P3N2/P1PQ2P1/3R3K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3q2k1/p2b2p1/2p4p/2b1B3/5Pr1/1P3N2/P1PQ2P1/3R3K b - - 0 1\"]\r\n\r\n1... Rh4+ 2. Nh2 Rxh2+ 3. Kxh2 Qh4# *",
+	"image": "https://www.chess.com/dynboard?fen=3q2k1/p2b2p1/2p4p/2b1B3/5Pr1/1P3N2/P1PQ2P1/3R3K%20b%20-%20-%200%201&size=2"
+}

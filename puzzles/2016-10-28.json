@@ -1,0 +1,8 @@
+{
+	"title": "Four Way Street",
+	"url": "https://www.chess.com/daily/2016-10-28",
+	"publish_time": 1477638000,
+	"fen": "r3k2r/p2n3p/1pR3P1/3P3b/3P2pP/BP2P3/3KB3/R7 w kq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3k2r/p2n3p/1pR3P1/3P3b/3P2pP/BP2P3/3KB3/R7 w kq - 0 1\"]\r\n\r\n1. Re6+ Kd8 2. Be7+ Ke8 3. Rf1 Nf8 4. Bb5+ Nd7 5. Bg5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3k2r/p2n3p/1pR3P1/3P3b/3P2pP/BP2P3/3KB3/R7%20w%20kq%20-%200%201&size=2"
+}

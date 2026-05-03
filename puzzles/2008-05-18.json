@@ -1,0 +1,9 @@
+{
+	"title": "Bad King Position",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-05-18",
+	"publish_time": 1211094000,
+	"fen": "3r2k1/p6p/5p2/2q3pK/8/P4Q1P/6P1/5R2 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r2k1/p6p/5p2/2q3pK/8/P4Q1P/6P1/5R2 b - - 0 1\"]\r\n\r\n1...g4+ 2. Qf5+ Rd5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/p6p/5p2/2q3pK/8/P4Q1P/6P1/5R2%20b%20-%20-%200%201&size=2"
+}

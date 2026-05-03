@@ -1,0 +1,8 @@
+{
+	"title": "Happy Birthday, Hikaru!",
+	"url": "https://www.chess.com/daily/2022-12-09",
+	"publish_time": 1670572800,
+	"fen": "1r4k1/1r3ppn/4p3/4P1pP/2pP2P1/3Q1P2/P3R3/K1BBq3 w - - 0 38",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2021.02.25\"]\r\n[Round \"?\"]\r\n[White \"Hikaru\"]\r\n[Black \"wonderfultime\"]\r\n[Result \"1-0\"]\r\n[ECO \"A06\"]\r\n[WhiteElo \"3240\"]\r\n[BlackElo \"2933\"]\r\n[FEN \"1r4k1/1r3ppn/4p3/4P1pP/2pP2P1/3Q1P2/P3R3/K1BBq3 w - - 0 38\"]\r\n\r\n38. Qxh7+ Kxh7 39. Bc2+ Kg8 40. Rxe1 *",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/1r3ppn/4p3/4P1pP/2pP2P1/3Q1P2/P3R3/K1BBq3%20w%20-%20-%200%2038&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Breakthrough",
+	"url": "https://www.chess.com/daily/2022-02-03",
+	"publish_time": 1643875200,
+	"fen": "6k1/5p1p/p5p1/1n1p2P1/5P1P/1pB5/1Kb5/R7 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/5p1p/p5p1/1n1p2P1/5P1P/1pB5/1Kb5/R7 b - - 0 1\"]\r\n\r\n1...Nxc3 2.Kxc3 d4+ 3.Kb2 d3 4.Kc1 d2+ 5.Kxd2 b2 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5p1p/p5p1/1n1p2P1/5P1P/1pB5/1Kb5/R7%20b%20-%20-%200%201&size=2"
+}

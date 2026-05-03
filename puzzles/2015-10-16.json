@@ -1,0 +1,9 @@
+{
+	"title": "The Chase",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-10-16",
+	"publish_time": 1444978800,
+	"fen": "r4b2/2q4p/p3kp2/1pp5/8/1PN1P3/P2P2KP/R1B2R2 w Qq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4b2/2q4p/p3kp2/1pp5/8/1PN1P3/P2P2KP/R1B2R2 w Qq - 0 1\"]\r\n\r\n1. Rxf6+ Ke5 2. d4+ cxd4 3. exd4+ Kxd4 4. Be3+ Kd3 5. Rd1+ Kc2 6. Rf2+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r4b2/2q4p/p3kp2/1pp5/8/1PN1P3/P2P2KP/R1B2R2%20w%20Qq%20-%200%201&size=2"
+}

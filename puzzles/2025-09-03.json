@@ -1,0 +1,8 @@
+{
+	"title": "What's in the Box?",
+	"url": "https://www.chess.com/daily/2025-09-03",
+	"publish_time": 1756882800,
+	"fen": "1R2Q3/p1kn1P1p/8/b2r4/8/4KP1N/6r1/8 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"1R2Q3/p1kn1P1p/8/b2r4/8/4KP1N/6r1/8 b - - 0 1\"]\r\n\r\n1... Bd2+ 2. Ke4 Nf6# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=1R2Q3/p1kn1P1p/8/b2r4/8/4KP1N/6r1/8%20b%20-%20-%200%201&size=2"
+}

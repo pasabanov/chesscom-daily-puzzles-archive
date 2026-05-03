@@ -1,0 +1,8 @@
+{
+	"title": "Misha's Magic",
+	"url": "https://www.chess.com/daily/2020-05-01",
+	"publish_time": 1588316400,
+	"fen": "5r1k/1p1b1p1p/p2ppb2/5P1B/1q6/1Pr3R1/2PQ2PP/5R1K w - - 2 23",
+	"pgn": "[Event \"Dubna\"]\r\n[Site \"Dubna URS\"]\r\n[Date \"1973.12.10\"]\r\n[Round \"5\"]\r\n[White \"Mikhail Tal\"]\r\n[Black \"Igor V Platonov\"]\r\n[Result \"1-0\"]\r\n[FEN \"5r1k/1p1b1p1p/p2ppb2/5P1B/1q6/1Pr3R1/2PQ2PP/5R1K w - - 2 23\"]\r\n\r\n23.Qh6 Rxg3 24.Bg6 Rxg6 25.fxg6 fxg6 26.Qxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/1p1b1p1p/p2ppb2/5P1B/1q6/1Pr3R1/2PQ2PP/5R1K%20w%20-%20-%202%2023&size=2"
+}

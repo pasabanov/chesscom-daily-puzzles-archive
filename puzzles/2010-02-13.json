@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 6",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-02-13",
+	"publish_time": 1266048000,
+	"fen": "r3nrk1/pp2pn1p/3pBppQ/3R4/2P5/1Pq1N1P1/P3PP1P/R5K1 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3nrk1/pp2pn1p/3pBppQ/3R4/2P5/1Pq1N1P1/P3PP1P/R5K1 w KQkq - 0 1\"]\r\n\r\n1. Rh5 Qxa1+ 2. Kg2 Qh1+ 3. Kxh1 gxh5 4. Nf5 Rd8 5. Nxe7+ Kh8 6. Qxf8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3nrk1/pp2pn1p/3pBppQ/3R4/2P5/1Pq1N1P1/P3PP1P/R5K1%20w%20KQkq%20-%200%201&size=2"
+}

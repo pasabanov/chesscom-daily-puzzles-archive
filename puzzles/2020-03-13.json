@@ -1,0 +1,8 @@
+{
+	"title": "Boiling Point",
+	"url": "https://www.chess.com/daily/2020-03-13",
+	"publish_time": 1584082800,
+	"fen": "1r4k1/1b1R1ppp/rN2p3/p1p5/2P2b2/5B2/PP3PPP/R5K1 w - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r4k1/1b1R1ppp/rN2p3/p1p5/2P2b2/5B2/PP3PPP/R5K1 w - - 1 1\"]\r\n\r\n1.Nc8 Rxc8 2.Bxb7 *",
+	"image": "https://www.chess.com/dynboard?fen=1r4k1/1b1R1ppp/rN2p3/p1p5/2P2b2/5B2/PP3PPP/R5K1%20w%20-%20-%201%201&size=2"
+}

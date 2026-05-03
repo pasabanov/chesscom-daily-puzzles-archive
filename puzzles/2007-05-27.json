@@ -1,0 +1,9 @@
+{
+	"title": "Unprotected Queen!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-05-27",
+	"publish_time": 1180249200,
+	"fen": "rnb1k2r/pp2b1pp/2p2pn1/q3P2Q/5p2/PB6/1BPP2PP/RN2K1NR w KQkq - 0 1",
+	"pgn": "[FEN \"rnb1k2r/pp2b1pp/2p2pn1/q3P2Q/5p2/PB6/1BPP2PP/RN2K1NR w KQkq - 0 1\"]\r\n\r\n1. Bf7+ $1 1... Kxf7 (1... Kf8 2. Bxg6 {now white wins the knight } hxg6 3. Qxh8+)2. e6+ Ke8 3. Qxa5 *",
+	"image": "https://www.chess.com/dynboard?fen=rnb1k2r/pp2b1pp/2p2pn1/q3P2Q/5p2/PB6/1BPP2PP/RN2K1NR%20w%20KQkq%20-%200%201&size=2"
+}

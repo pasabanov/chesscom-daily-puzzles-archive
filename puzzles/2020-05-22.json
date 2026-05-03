@@ -1,0 +1,8 @@
+{
+	"title": "Lingering Liquidation",
+	"url": "https://www.chess.com/daily/2020-05-22",
+	"publish_time": 1590130800,
+	"fen": "8/8/8/q1pp1p2/4k2P/1PQ3P1/1K6/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/8/8/q1pp1p2/4k2P/1PQ3P1/1K6/8 b - - 0 1\"]\r\n\r\n1...Qxc3+ 2.Kxc3 Ke3 3.h5 d4+ 4.Kc4 d3 5.h6 d2 6.h7 d1=Q 7.h8=Q Qd4+ 8.\r\nQxd4+ cxd4 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/8/q1pp1p2/4k2P/1PQ3P1/1K6/8%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Foggy Investment",
+	"url": "https://www.chess.com/daily/2020-07-11",
+	"publish_time": 1594450800,
+	"fen": "2b2r1k/Pp5p/4p1p1/2Np4/B6q/P3Qn2/4nP1P/2R1R2K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2b2r1k/Pp5p/4p1p1/2Np4/B6q/P3Qn2/4nP1P/2R1R2K w - - 0 1\"]\r\n\r\n1.Qxf3 Rxf3 2.a8=Q Rxf2 3.Qxc8+ Kg7 4.Qc7+ Kh6 5.Rxe2 *",
+	"image": "https://www.chess.com/dynboard?fen=2b2r1k/Pp5p/4p1p1/2Np4/B6q/P3Qn2/4nP1P/2R1R2K%20w%20-%20-%200%201&size=2"
+}

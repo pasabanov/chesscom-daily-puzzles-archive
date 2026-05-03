@@ -1,0 +1,8 @@
+{
+	"title": "Taming Counterplay",
+	"url": "https://www.chess.com/daily/2024-02-11",
+	"publish_time": 1707638400,
+	"fen": "6k1/p4pp1/8/4n3/4R1B1/6P1/Prq2P1P/4Q1K1 w - - 0 38",
+	"pgn": "[Event \"RUS-Cup 300 years\"]\r\n[Site \"St Petersburg\"]\r\n[Date \"2003.10.24\"]\r\n[Round \"7\"]\r\n[White \"Burmakin, Vladimir\"]\r\n[Black \"Sambuev, Bator\"]\r\n[Result \"1-0\"]\r\n[ECO \"D12\"]\r\n[WhiteElo \"2590\"]\r\n[BlackElo \"2507\"]\r\n[FEN \"6k1/p4pp1/8/4n3/4R1B1/6P1/Prq2P1P/4Q1K1 w - - 0 38\"]\r\n\r\n38. Bd1 Nf3+ 39. Bxf3 Rb1 40. Re8+ Kh7 41. Be4+ Qxe4 42. Rxe4 Rxe1+ 43. Rxe1 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p4pp1/8/4n3/4R1B1/6P1/Prq2P1P/4Q1K1%20w%20-%20-%200%2038&size=2"
+}

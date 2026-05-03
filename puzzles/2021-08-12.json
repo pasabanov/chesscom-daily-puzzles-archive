@@ -1,0 +1,8 @@
+{
+	"title": "Major Tension",
+	"url": "https://www.chess.com/daily/2021-08-12",
+	"publish_time": 1628751600,
+	"fen": "8/5pk1/1p1R1qpp/8/1Q6/P7/1Pr1rPPP/5RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/5pk1/1p1R1qpp/8/1Q6/P7/1Pr1rPPP/5RK1 b - - 0 1\"]\r\n\r\n1...Rxf2 2.Rxf6 Rxg2+ 3.Kh1 Rxh2+ 4.Kg1 Rcg2# *",
+	"image": "https://www.chess.com/dynboard?fen=8/5pk1/1p1R1qpp/8/1Q6/P7/1Pr1rPPP/5RK1%20b%20-%20-%200%201&size=2"
+}

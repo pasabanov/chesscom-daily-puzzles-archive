@@ -1,0 +1,8 @@
+{
+	"title": "Between a Fork and a Forcing Move",
+	"url": "https://www.chess.com/daily/2024-01-03",
+	"publish_time": 1704268800,
+	"fen": "r3rb1k/1b4pp/q7/p1N4Q/PpP1P3/5PB1/6PP/R3R1K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3rb1k/1b4pp/q7/p1N4Q/PpP1P3/5PB1/6PP/R3R1K1 b - - 0 1\"]\r\n\r\n1... Qg6 2. Qxg6 Bxc5+ 3. Bf2 Bxf2+ 4. Kxf2 hxg6 *",
+	"image": "https://www.chess.com/dynboard?fen=r3rb1k/1b4pp/q7/p1N4Q/PpP1P3/5PB1/6PP/R3R1K1%20b%20-%20-%200%201&size=2"
+}

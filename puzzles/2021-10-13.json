@@ -1,0 +1,8 @@
+{
+	"title": "When the Marshall Attacks",
+	"url": "https://www.chess.com/daily/2021-10-13",
+	"publish_time": 1634108400,
+	"fen": "5rk1/6pp/p2br3/3p1p1q/R2P1Pb1/2P1B1P1/1P1N3P/4RQK1 b - - 0 22",
+	"pgn": "[Event \"Budapest\"]\r\n[Site \"Budapest\"]\r\n[Date \"1987\"]\r\n[Round \"5\"]\r\n[White \"Kindermann, Stefan\"]\r\n[Black \"Lukacs, Peter\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2520\"]\r\n[BlackElo \"2500\"]\r\n[FEN \"5rk1/6pp/p2br3/3p1p1q/R2P1Pb1/2P1B1P1/1P1N3P/4RQK1 b - - 0 22\"]\r\n\r\n22...Qe8 23.Bf2 Rxe1 24.Qxe1 Qxa4 *",
+	"image": "https://www.chess.com/dynboard?fen=5rk1/6pp/p2br3/3p1p1q/R2P1Pb1/2P1B1P1/1P1N3P/4RQK1%20b%20-%20-%200%2022&size=2"
+}

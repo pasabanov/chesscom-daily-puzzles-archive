@@ -1,0 +1,8 @@
+{
+	"title": "Lights Out",
+	"url": "https://www.chess.com/daily/2020-04-26",
+	"publish_time": 1587884400,
+	"fen": "6k1/2p2ppp/p7/1p1p1b2/1P1P1B1P/PK2P1P1/2r5/4R3 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/2p2ppp/p7/1p1p1b2/1P1P1B1P/PK2P1P1/2r5/4R3 w - - 0 1\"]\r\n\r\n1.e4 Bxe4 2.Rxe4 dxe4 3.Kxc2 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/2p2ppp/p7/1p1p1b2/1P1P1B1P/PK2P1P1/2r5/4R3%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 7",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-09-10",
+	"publish_time": 1315638000,
+	"fen": "3r1r1k/1q2Bppp/p1bpp3/1p3P2/3Q4/2n4R/PPP1B1PP/7K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r1r1k/1q2Bppp/p1bpp3/1p3P2/3Q4/2n4R/PPP1B1PP/7K w - - 0 1\"]\r\n\r\n1. Qxg7+ Kxg7 2. Rg3+ Kh6 3. Bg5+ Kg7 4. Bxd8+ Kh6 5. Bg5+ Kg7 6. Be7+ Kh6 7. Bxf8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3r1r1k/1q2Bppp/p1bpp3/1p3P2/3Q4/2n4R/PPP1B1PP/7K%20w%20-%20-%200%201&size=2"
+}

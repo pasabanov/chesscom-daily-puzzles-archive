@@ -1,0 +1,8 @@
+{
+	"title": "Over the Top",
+	"url": "https://www.chess.com/daily/2021-11-17",
+	"publish_time": 1637136000,
+	"fen": "1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 5 27",
+	"pgn": "[Event \"It\"]\r\n[Site \"Dortmund GER\"]\r\n[Date \"2005.07.09\"]\r\n[Round \"2\"]\r\n[White \"Topalov, Veselin\"]\r\n[Black \"Naiditsch, Arkadij\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2788\"]\r\n[BlackElo \"2612\"]\r\n[FEN \"1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 5 27\"]\r\n\r\n27.Qf6+ Qxf6 28.Re8+ Qf8 29.Rxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1%20w%20-%20-%205%2027&size=2"
+}

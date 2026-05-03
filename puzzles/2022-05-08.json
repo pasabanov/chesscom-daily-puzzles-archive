@@ -1,0 +1,8 @@
+{
+	"title": "Finding a Weak Point in the Defense",
+	"url": "https://www.chess.com/daily/2022-05-08",
+	"publish_time": 1651993200,
+	"fen": "R7/1rrq1pbk/5p1p/3N1P1Q/2BpP3/2p3P1/6KP/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"R7/1rrq1pbk/5p1p/3N1P1Q/2BpP3/2p3P1/6KP/8 w - - 0 1\"]\r\n\r\n1.Qg6+ fxg6 2.fxg6+ Kxg6 3.Nf4+ Kg5 4.h4+ Kg4 5.Be2# *",
+	"image": "https://www.chess.com/dynboard?fen=R7/1rrq1pbk/5p1p/3N1P1Q/2BpP3/2p3P1/6KP/8%20w%20-%20-%200%201&size=2"
+}

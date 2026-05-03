@@ -1,0 +1,8 @@
+{
+	"title": "Friday Finesse",
+	"url": "https://www.chess.com/daily/2020-09-04",
+	"publish_time": 1599202800,
+	"fen": "5Q2/6p1/p3pk2/2Pb1p2/3P4/4PqP1/5P1K/R7 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5Q2/6p1/p3pk2/2Pb1p2/3P4/4PqP1/5P1K/R7 b - - 0 1\"]\r\n\r\n1...Kg6 2.Qe8+ Kh7 3.Rg1 Bc6 4.Qf7 Qxf2+ 5.Kh3 Qxg1 6.Qh5+ Kg8 *",
+	"image": "https://www.chess.com/dynboard?fen=5Q2/6p1/p3pk2/2Pb1p2/3P4/4PqP1/5P1K/R7%20b%20-%20-%200%201&size=2"
+}

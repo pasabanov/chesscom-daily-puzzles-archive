@@ -1,0 +1,8 @@
+{
+	"title": "Endgame Calculation",
+	"url": "https://www.chess.com/daily/2021-07-23",
+	"publish_time": 1627023600,
+	"fen": "8/2P1n3/8/8/ppK5/5pB1/P3k3/8 b - - 1 101",
+	"pgn": "[Event \"4th Stage Russian Cup\"]\r\n[Site \"Samara RUS\"]\r\n[Date \"2002.07.28\"]\r\n[Round \"3\"]\r\n[White \"Kosintseva, Nadezhda\"]\r\n[Black \"Pisakov, Ilia\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2394\"]\r\n[BlackElo \"2260\"]\r\n[FEN \"8/2P1n3/8/8/ppK5/5pB1/P3k3/8 b - - 1 101\"]\r\n\r\n101...b3 102.axb3 a3 103.Kc3 Nd5+ 104.Kc2 Nxc7 *",
+	"image": "https://www.chess.com/dynboard?fen=8/2P1n3/8/8/ppK5/5pB1/P3k3/8%20b%20-%20-%201%20101&size=2"
+}

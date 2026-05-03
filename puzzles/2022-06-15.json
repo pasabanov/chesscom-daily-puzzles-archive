@@ -1,0 +1,8 @@
+{
+	"title": "It's Lonely at the Top",
+	"url": "https://www.chess.com/daily/2022-06-15",
+	"publish_time": 1655276400,
+	"fen": "2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3 b - - 2 38",
+	"pgn": "[Event \"Belgrade Invest\"]\r\n[Site \"Belgrade\"]\r\n[Date \"1995.??.??\"]\r\n[Round \"6\"]\r\n[White \"Topalov, Veselin\"]\r\n[Black \"Kramnik, Vladimir\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2630\"]\r\n[BlackElo \"2715\"]\r\n[FEN \"2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3 b - - 2 38\"]\r\n\r\n38...Bc3+ 39.Qxc3 a5+ 40.Kxb5 Qxc3 *",
+	"image": "https://www.chess.com/dynboard?fen=2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3%20b%20-%20-%202%2038&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Anderssen's Romanticism",
+	"url": "https://www.chess.com/daily/2022-07-06",
+	"publish_time": 1657090800,
+	"fen": "1r2k1r1/pbppnp1p/1b3P2/8/Q7/B1PB1q2/P4PPP/3R2K1 w - - 0 21",
+	"pgn": "[Event \"Berlin 'Evergreen'\"]\r\n[Site \"Berlin\"]\r\n[Date \"1852.??.??\"]\r\n[Round \"?\"]\r\n[White \"Anderssen, Adolf\"]\r\n[Black \"Dufresne, Jean\"]\r\n[Result \"1-0\"]\r\n[ECO \"C52\"]\r\n[FEN \"1r2k1r1/pbppnp1p/1b3P2/8/Q7/B1PB1q2/P4PPP/3R2K1 w - - 0 21\"]\r\n\r\n21. Qxd7+ Kxd7 22. Bf5+ Ke8 23. Bd7+ Kf8 24. Bxe7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r2k1r1/pbppnp1p/1b3P2/8/Q7/B1PB1q2/P4PPP/3R2K1%20w%20-%20-%200%2021&size=2"
+}

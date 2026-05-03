@@ -1,0 +1,8 @@
+{
+	"title": "Attaining Navara",
+	"url": "https://www.chess.com/daily/2020-08-06",
+	"publish_time": 1596697200,
+	"fen": "r4r1k/1RR3pb/4p3/3p2p1/3P1B2/P5Pq/5P2/2Q3K1 w - - 0 34",
+	"pgn": "[Event \"Tata Steel Challengers\"]\r\n[Site \"Wijk aan Zee NED\"]\r\n[Date \"2015.01.18\"]\r\n[Round \"8\"]\r\n[White \"David Navara\"]\r\n[Black \"Bart Michiels\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2729\"]\r\n[BlackElo \"2563\"]\r\n[FEN \"r4r1k/1RR3pb/4p3/3p2p1/3P1B2/P5Pq/5P2/2Q3K1 w - - 0 34\"]\r\n\r\n34.Rxg7 gxf4 35.Qc7 Be4 36.Rg8+ Rxg8 37.Qe5+ Rg7 38.Qxg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4r1k/1RR3pb/4p3/3p2p1/3P1B2/P5Pq/5P2/2Q3K1%20w%20-%20-%200%2034&size=2"
+}

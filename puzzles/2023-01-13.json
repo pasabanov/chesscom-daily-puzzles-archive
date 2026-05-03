@@ -1,0 +1,8 @@
+{
+	"title": "Hard Pass",
+	"url": "https://www.chess.com/daily/2023-01-13",
+	"publish_time": 1673596800,
+	"fen": "1r3r2/2b3np/p3bk2/1p3p1B/4p3/P3B2P/1PPR1P2/2K3R1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3r2/2b3np/p3bk2/1p3p1B/4p3/P3B2P/1PPR1P2/2K3R1 w - - 0 1\"]\r\n\r\n1. Bg5+ Ke5 2. f4+ exf3 3. Re1# *",
+	"image": "https://www.chess.com/dynboard?fen=1r3r2/2b3np/p3bk2/1p3p1B/4p3/P3B2P/1PPR1P2/2K3R1%20w%20-%20-%200%201&size=2"
+}

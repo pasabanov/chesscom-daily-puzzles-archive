@@ -1,0 +1,8 @@
+{
+	"title": "Clear the Board",
+	"url": "https://www.chess.com/daily/2020-08-27",
+	"publish_time": 1598511600,
+	"fen": "r3k1r1/1pRq2pp/p2bp3/3pQ3/8/8/PP1B1P1P/4K1R1 w q - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3k1r1/1pRq2pp/p2bp3/3pQ3/8/8/PP1B1P1P/4K1R1 w q - 0 1\"]\r\n\r\n1.Qh5+ g6 2.Rxd7 gxh5 3.Rxg8+ Kxd7 4.Rxa8 *",
+	"image": "https://www.chess.com/dynboard?fen=r3k1r1/1pRq2pp/p2bp3/3pQ3/8/8/PP1B1P1P/4K1R1%20w%20q%20-%200%201&size=2"
+}

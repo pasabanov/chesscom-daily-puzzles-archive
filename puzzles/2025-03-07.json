@@ -1,0 +1,8 @@
+{
+	"title": "Forward March, Backward Checkmate",
+	"url": "https://www.chess.com/daily/2025-03-07",
+	"publish_time": 1741334400,
+	"fen": "r3k3/pp2bp1p/8/3P2p1/2P1npQ1/1KN5/PP6/R1B1nB1R b q - 0 16",
+	"pgn": "[White \"checkmatemaster7\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"r3k3/pp2bp1p/8/3P2p1/2P1npQ1/1KN5/PP6/R1B1nB1R b q - 0 16\"]\r\n\r\n16... Nc5+ 17. Kb4 Nc2+ 18. Kb5 Nd4+ 19. Ka5 b6+ 20. Kb4 a5+ 21. Ka3 Nc2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r3k3/pp2bp1p/8/3P2p1/2P1npQ1/1KN5/PP6/R1B1nB1R%20b%20q%20-%200%2016&size=2"
+}

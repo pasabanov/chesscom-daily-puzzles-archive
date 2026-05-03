@@ -1,0 +1,9 @@
+{
+	"title": "In Your Face",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-08-22",
+	"publish_time": 1187766000,
+	"fen": "5r1k/p6p/1p3pp1/2nQ1N2/4Pq1P/5P2/P5P1/3R2K1 w - - 0 1",
+	"pgn": "[FEN \"5r1k/p6p/1p3pp1/2nQ1N2/4Pq1P/5P2/P5P1/3R2K1 w - - 0 1\"]\r\n[PlyCount \"9\"]\r\n\r\n1. Qf7 1... Ne6 (1... Qh6 2. Rd8 Rxd8 3. Qxf6+ Qg7 4. Qxg7#) 2. Rd8 2... Qc1+ 3. Kh2 Qc7+ 4. Qxc7 Nxc7\r\n5. Rxf8# *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/p6p/1p3pp1/2nQ1N2/4Pq1P/5P2/P5P1/3R2K1%20w%20-%20-%200%201&size=2"
+}

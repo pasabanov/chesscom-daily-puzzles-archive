@@ -1,0 +1,8 @@
+{
+	"title": "High Noon",
+	"url": "https://www.chess.com/daily/2020-11-17",
+	"publish_time": 1605600000,
+	"fen": "3rk2r/pp3ppp/nqpQp3/8/4B3/2PR4/1P3PPP/4R1K1 w k - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3rk2r/pp3ppp/nqpQp3/8/4B3/2PR4/1P3PPP/4R1K1 w k - 0 1\"]\r\n\r\n1.Bxc6+ bxc6 2.Rxe6+ fxe6 3.Qxe6+ Kf8 4.Rf3# *",
+	"image": "https://www.chess.com/dynboard?fen=3rk2r/pp3ppp/nqpQp3/8/4B3/2PR4/1P3PPP/4R1K1%20w%20k%20-%200%201&size=2"
+}

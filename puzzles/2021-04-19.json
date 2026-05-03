@@ -1,0 +1,8 @@
+{
+	"title": "Go Fish",
+	"url": "https://www.chess.com/daily/2021-04-19",
+	"publish_time": 1618815600,
+	"fen": "r7/P3k3/2p1p3/2NpP3/3PpK2/4P3/4b3/R7 b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r7/P3k3/2p1p3/2NpP3/3PpK2/4P3/4b3/R7 b - - 1 1\"]\r\n\r\n1...Rg8 2.Nxe6 Kxe6 3.Rg1 Rxg1 4.a8=Q Rg4# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r7/P3k3/2p1p3/2NpP3/3PpK2/4P3/4b3/R7%20b%20-%20-%201%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "When the Hedgehog Uncoils",
+	"url": "https://www.chess.com/daily/2022-02-26",
+	"publish_time": 1645862400,
+	"fen": "2r3k1/1b4p1/pp2p3/2brP2Q/P6P/1P4qP/1B4B1/R4R1K b - - 1 28",
+	"pgn": "[Event \"Chess Olympiad\"]\r\n[Site \"Lucerne SUI\"]\r\n[Date \"1982.11.04\"]\r\n[Round \"5\"]\r\n[White \"Lev Polugaevsky\"]\r\n[Black \"Lubomir Ftacnik\"]\r\n[Result \"0-1\"]\r\n[FEN \"2r3k1/1b4p1/pp2p3/2brP2Q/P6P/1P4qP/1B4B1/R4R1K b - - 1 28\"]\r\n\r\n28...Qxg2+ 29.Kxg2 Rd2+ 30.Kg3 Rg2+ 31.Kf4 Rf8+ 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2r3k1/1b4p1/pp2p3/2brP2Q/P6P/1P4qP/1B4B1/R4R1K%20b%20-%20-%201%2028&size=2"
+}

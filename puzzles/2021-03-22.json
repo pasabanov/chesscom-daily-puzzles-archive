@@ -1,0 +1,8 @@
+{
+	"title": "Savor the Moment",
+	"url": "https://www.chess.com/daily/2021-03-22",
+	"publish_time": 1616396400,
+	"fen": "Nnbk2nr/pp1p1ppp/5q2/2b1p3/8/3P4/PPP1PPPP/R1BQKBNR b KQ - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"Nnbk2nr/pp1p1ppp/5q2/2b1p3/8/3P4/PPP1PPPP/R1BQKBNR b KQ - 0 1\"]\r\n\r\n1...Qxf2+ 2.Kd2 Qf4+ 3.e3 Qxe3+ 4.Kc3 Qd4+ 5.Kd2 Qf4+ 6.Ke1 Qf2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=Nnbk2nr/pp1p1ppp/5q2/2b1p3/8/3P4/PPP1PPPP/R1BQKBNR%20b%20KQ%20-%200%201&size=2"
+}

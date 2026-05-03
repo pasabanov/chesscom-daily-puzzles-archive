@@ -1,0 +1,8 @@
+{
+	"title": "Kingside Tilt",
+	"url": "https://www.chess.com/daily/2024-08-27",
+	"publish_time": 1724742000,
+	"fen": "8/6k1/P5pp/2np4/3N4/4P3/R3NKP1/1r6 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/6k1/P5pp/2np4/3N4/4P3/R3NKP1/1r6 b - - 0 1\"]\r\n\r\n1... Ne4+ 2. Kf3 Rf1+ 3. Kg4 h5+ 4. Kh3 Rh1# *",
+	"image": "https://www.chess.com/dynboard?fen=8/6k1/P5pp/2np4/3N4/4P3/R3NKP1/1r6%20b%20-%20-%200%201&size=2"
+}

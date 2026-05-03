@@ -1,0 +1,8 @@
+{
+	"title": "A Grim Placement",
+	"url": "https://www.chess.com/daily/2023-03-22",
+	"publish_time": 1679468400,
+	"fen": "rnbqk2r/ppp1bpp1/3p3p/4P2n/3P4/2P2N2/PP2Q1PP/RNB1KB1R w KQkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"rnbqk2r/ppp1bpp1/3p3p/4P2n/3P4/2P2N2/PP2Q1PP/RNB1KB1R w KQkq - 0 1\"]\r\n\r\n1. exd6 Qxd6 2. Qb5+ Nc6 3. Qxh5 *",
+	"image": "https://www.chess.com/dynboard?fen=rnbqk2r/ppp1bpp1/3p3p/4P2n/3P4/2P2N2/PP2Q1PP/RNB1KB1R%20w%20KQkq%20-%200%201&size=2"
+}

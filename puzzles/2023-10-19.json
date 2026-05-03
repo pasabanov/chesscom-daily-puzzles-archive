@@ -1,0 +1,8 @@
+{
+	"title": "Removing the Guard",
+	"url": "https://www.chess.com/daily/2023-10-19",
+	"publish_time": 1697698800,
+	"fen": "6rk/2p4p/3r1b2/p1N3q1/1nP3Rn/1P3B1Q/1B2NP2/2R1K3 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6rk/2p4p/3r1b2/p1N3q1/1nP3Rn/1P3B1Q/1B2NP2/2R1K3 b - - 0 1\"]\r\n\r\n1... Qd2+ 2. Kf1 Qd1+ 3. Rxd1 Rxd1# *",
+	"image": "https://www.chess.com/dynboard?fen=6rk/2p4p/3r1b2/p1N3q1/1nP3Rn/1P3B1Q/1B2NP2/2R1K3%20b%20-%20-%200%201&size=2"
+}

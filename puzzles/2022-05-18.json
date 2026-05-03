@@ -1,0 +1,8 @@
+{
+	"title": "Bringing It All Together",
+	"url": "https://www.chess.com/daily/2022-05-18",
+	"publish_time": 1652857200,
+	"fen": "r2q3k/7p/1bpp1p2/pp2p3/4P3/PB2BP1b/1PP2P1P/R2Q1RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r2q3k/7p/1bpp1p2/pp2p3/4P3/PB2BP1b/1PP2P1P/R2Q1RK1 b - - 0 1\"]\r\n\r\n1...Qg8+ 2.Bxg8 Rxg8+ 3.Kh1 Bg2+ 4.Kg1 Bxf3+ 5.Bg5 Rxg5# *",
+	"image": "https://www.chess.com/dynboard?fen=r2q3k/7p/1bpp1p2/pp2p3/4P3/PB2BP1b/1PP2P1P/R2Q1RK1%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Checkmating a World Champion",
+	"url": "https://www.chess.com/daily/2026-03-18",
+	"publish_time": 1773817200,
+	"fen": "5r2/1R6/3p1qnk/2p3pp/3bP3/6PP/4QBB1/6K1 w - - 0 35",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2026.01.27\"]\r\n[Round \"?\"]\r\n[White \"PatrickStawr\"]\r\n[Black \"MagnusCarlsen\"]\r\n[Result \"1-0\"]\r\n[ECO \"B27\"]\r\n[WhiteElo \"2670\"]\r\n[BlackElo \"3297\"]\r\n[FEN \"5r2/1R6/3p1qnk/2p3pp/3bP3/6PP/4QBB1/6K1 w - - 0 35\"]\r\n\r\n35. Qxh5+ Kxh5 36. Rh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5r2/1R6/3p1qnk/2p3pp/3bP3/6PP/4QBB1/6K1%20w%20-%20-%200%2035&size=2"
+}

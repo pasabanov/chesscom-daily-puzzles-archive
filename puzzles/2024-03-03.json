@@ -1,0 +1,8 @@
+{
+	"title": "Minor Piece Magic",
+	"url": "https://www.chess.com/daily/2024-03-03",
+	"publish_time": 1709452800,
+	"fen": "8/N1Bp3q/8/p7/1k6/3P1B1p/1KP4P/8 w - - 0 1",
+	"pgn": "[Date \"2023\"]\r\n[White \"Bogusz Piliczewski\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/N1Bp3q/8/p7/1k6/3P1B1p/1KP4P/8 w - - 0 1\"]\r\n\r\n1. Bd6+ Ka4 2. Bd1 Qh5 3. Nb5 Qxb5+ 4. Ka1 Qc6 5. c4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/N1Bp3q/8/p7/1k6/3P1B1p/1KP4P/8%20w%20-%20-%200%201&size=2"
+}

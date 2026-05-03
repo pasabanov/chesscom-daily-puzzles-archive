@@ -1,0 +1,8 @@
+{
+	"title": "No Payen, No Gain",
+	"url": "https://www.chess.com/daily/2021-07-08",
+	"publish_time": 1625727600,
+	"fen": "8/pb2q1kn/3p1rpN/2pP4/1p2Bb2/6Q1/P6P/6RK w - - 0 32",
+	"pgn": "[Event \"21st Open\"]\r\n[Site \"Cappelle la Grande FRA\"]\r\n[Date \"2005.02.18\"]\r\n[Round \"8\"]\r\n[White \"Payen, Arnaud\"]\r\n[Black \"Fedorchuk, Sergey A.\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2384\"]\r\n[BlackElo \"2570\"]\r\n[FEN \"8/pb2q1kn/3p1rpN/2pP4/1p2Bb2/6Q1/P6P/6RK w - - 0 32\"]\r\n\r\n32.Qxg6+ Rxg6 33.Rxg6+ Kf8 34.Rg8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/pb2q1kn/3p1rpN/2pP4/1p2Bb2/6Q1/P6P/6RK%20w%20-%20-%200%2032&size=2"
+}

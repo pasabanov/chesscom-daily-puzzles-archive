@@ -1,0 +1,8 @@
+{
+	"title": "Discovering Counterplay",
+	"url": "https://www.chess.com/daily/2022-08-06",
+	"publish_time": 1659769200,
+	"fen": "r3kb1r/2pn1p1p/p3p1p1/1P1q2NQ/2pP4/2P3P1/5P1P/R1B1R1K1 w kq - 0 18",
+	"pgn": "[Event \"Tallinn\"]\r\n[Site \"Tallinn\"]\r\n[Date \"1986.??.??\"]\r\n[White \"Evgeny Bareev\"]\r\n[Black \"Yuri Yakovich\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3kb1r/2pn1p1p/p3p1p1/1P1q2NQ/2pP4/2P3P1/5P1P/R1B1R1K1 w kq - 0 18\"]\r\n\r\n18. Nxe6 Qxh5 19. Ng7+ Kd8 20. Re8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3kb1r/2pn1p1p/p3p1p1/1P1q2NQ/2pP4/2P3P1/5P1P/R1B1R1K1%20w%20kq%20-%200%2018&size=2"
+}

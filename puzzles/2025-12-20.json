@@ -1,0 +1,8 @@
+{
+	"title": "Beat the Defense Twice!",
+	"url": "https://www.chess.com/daily/2025-12-20",
+	"publish_time": 1766217600,
+	"fen": "6k1/1p4p1/4p1B1/3pP3/P1r5/2P1Q1pP/2p2PK1/q7 w - - 0 33",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"6k1/1p4p1/4p1B1/3pP3/P1r5/2P1Q1pP/2p2PK1/q7 w - - 0 33\"]\r\n\r\n33. Qb6 Qf1+ 34. Kxf1 c1=Q+ 35. Kg2 Qf4 36. Qxe6+ Kh8 37. Qe8+ Qf8 38. Qxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1p4p1/4p1B1/3pP3/P1r5/2P1Q1pP/2p2PK1/q7%20w%20-%20-%200%2033&size=2"
+}

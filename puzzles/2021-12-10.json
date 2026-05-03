@@ -1,0 +1,8 @@
+{
+	"title": "Cruising Down the Open Road",
+	"url": "https://www.chess.com/daily/2021-12-10",
+	"publish_time": 1639123200,
+	"fen": "r3r2k/1p1Q3b/2p2p2/8/P1B5/3n4/5P1P/5RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3r2k/1p1Q3b/2p2p2/8/P1B5/3n4/5P1P/5RK1 b - - 0 1\"]\r\n\r\n1...Rg8+ 2.Bxg8 Rxg8+ 3.Kh1 Nxf2+ 4.Rxf2 Be4+ 5.Rg2 Bxg2+ 6.Kg1 Bh3+ *",
+	"image": "https://www.chess.com/dynboard?fen=r3r2k/1p1Q3b/2p2p2/8/P1B5/3n4/5P1P/5RK1%20b%20-%20-%200%201&size=2"
+}

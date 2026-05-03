@@ -1,0 +1,8 @@
+{
+	"title": "Straight and Narrow",
+	"url": "https://www.chess.com/daily/2020-08-16",
+	"publish_time": 1597561200,
+	"fen": "r5k1/1p3q1p/4N2p/b2Q1p2/p3p1b1/4P1P1/PP2N3/3K1R1B b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r5k1/1p3q1p/4N2p/b2Q1p2/p3p1b1/4P1P1/PP2N3/3K1R1B b - - 0 1\"]\r\n\r\n1...Rd8 2.Qxd8+ Bxd8 *",
+	"image": "https://www.chess.com/dynboard?fen=r5k1/1p3q1p/4N2p/b2Q1p2/p3p1b1/4P1P1/PP2N3/3K1R1B%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "The Launch of the Green Pawn",
+	"url": "https://www.chess.com/daily/2022-05-17",
+	"publish_time": 1652770800,
+	"fen": "6k1/1p3p2/p2prPq1/8/7p/2Q5/PP3RP1/6K1 w - - 0 66",
+	"pgn": "[Event \"Palma de Mallorca\"]\r\n[Site \"Palma ESP\"]\r\n[Date \"1969.11.23\"]\r\n[Round \"2\"]\r\n[White \"Boris Spassky\"]\r\n[Black \"Bent Larsen\"]\r\n[Result \"1-0\"]\r\n[ECO \"C60\"]\r\n[EventDate \"1969.11.22\"]\r\n[PlyCount \"133\"]\r\n[FEN \"6k1/1p3p2/p2prPq1/8/7p/2Q5/PP3RP1/6K1 w - - 0 66\"]\r\n\r\n66.Qc8+ Kh7 67.Qxe6 fxe6 68.f7 Qg7 69.f8=Q 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1p3p2/p2prPq1/8/7p/2Q5/PP3RP1/6K1%20w%20-%20-%200%2066&size=2"
+}

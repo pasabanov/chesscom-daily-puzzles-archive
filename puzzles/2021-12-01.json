@@ -1,0 +1,8 @@
+{
+	"title": "Fire in the Hole",
+	"url": "https://www.chess.com/daily/2021-12-01",
+	"publish_time": 1638345600,
+	"fen": "Q2N3k/p1r4p/bn2pbp1/4Pn2/8/1N5P/Pq3PP1/1B1R2K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"Q2N3k/p1r4p/bn2pbp1/4Pn2/8/1N5P/Pq3PP1/1B1R2K1 w - - 0 1\"]\r\n\r\n1.Nf7+ Kg7 2.Qh8+ Kxf7 3.Qxf6+ Ke8 4.Rd8# *",
+	"image": "https://www.chess.com/dynboard?fen=Q2N3k/p1r4p/bn2pbp1/4Pn2/8/1N5P/Pq3PP1/1B1R2K1%20w%20-%20-%200%201&size=2"
+}

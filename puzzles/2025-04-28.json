@@ -1,0 +1,8 @@
+{
+	"title": "Check for a Fork",
+	"url": "https://www.chess.com/daily/2025-04-28",
+	"publish_time": 1745823600,
+	"fen": "1r6/kb2npBp/p3p1p1/8/P7/r5P1/2P2PBP/2R1R1K1 w - - 0 29",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r6/kb2npBp/p3p1p1/8/P7/r5P1/2P2PBP/2R1R1K1 w - - 0 29\"]\r\n\r\n29. Bd4+ Ka8 30. Bc5 Rxa4 31. Bxe7 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r6/kb2npBp/p3p1p1/8/P7/r5P1/2P2PBP/2R1R1K1%20w%20-%20-%200%2029&size=2"
+}

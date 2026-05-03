@@ -1,0 +1,8 @@
+{
+	"title": "When a Double Attack Meets a Double Check",
+	"url": "https://www.chess.com/daily/2022-11-11",
+	"publish_time": 1668153600,
+	"fen": "r4rk1/p1pN2p1/1p2pq1p/3b4/3Pn3/P1PBP1P1/2Q2P1P/1R3RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/p1pN2p1/1p2pq1p/3b4/3Pn3/P1PBP1P1/2Q2P1P/1R3RK1 b - - 0 1\"]\r\n\r\n1... Qf3 2. Ne5 Qh1+ 3. Kxh1 Nxf2+ 4. Kg1 Nh3# *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/p1pN2p1/1p2pq1p/3b4/3Pn3/P1PBP1P1/2Q2P1P/1R3RK1%20b%20-%20-%200%201&size=2"
+}

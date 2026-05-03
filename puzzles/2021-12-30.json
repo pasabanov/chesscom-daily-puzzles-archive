@@ -1,0 +1,8 @@
+{
+	"title": "Aman's Birthday Present",
+	"url": "https://www.chess.com/daily/2021-12-30",
+	"publish_time": 1640851200,
+	"fen": "r1b2rk1/1p1nq1b1/p2p3p/2pP1pp1/P3n3/2N3P1/1PQNPPBP/R1B1R1K1 b - - 3 19",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2021.09.27\"]\r\n[White \"lonelyzeng\"]\r\n[Black \"KNVB\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2811\"]\r\n[BlackElo \"2757\"]\r\n[TimeControl \"180\"]\r\n[Termination \"KNVB won by checkmate\"]\r\n[FEN \"r1b2rk1/1p1nq1b1/p2p3p/2pP1pp1/P3n3/2N3P1/1PQNPPBP/R1B1R1K1 b - - 3 19\"]\r\n\r\n19...Nxf2 20.Kxf2 Qe3+ 21.Kxe3 Bd4+ 22.Kf3 Ne5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=r1b2rk1/1p1nq1b1/p2p3p/2pP1pp1/P3n3/2N3P1/1PQNPPBP/R1B1R1K1%20b%20-%20-%203%2019&size=2"
+}

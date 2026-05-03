@@ -1,0 +1,8 @@
+{
+	"title": "The Pawn Race and Beyond",
+	"url": "https://www.chess.com/daily/2007-10-20",
+	"publish_time": 1192863600,
+	"fen": "8/1k4p1/4P3/2nNKP2/R7/6P1/p6P/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1k4p1/4P3/2nNKP2/R7/6P1/p6P/8 b - - 0 1\"]\r\n\r\n1... Nxa4 2. e7 a1=Q+ 3. Ke6 Nc5+ 4. Kf7 Ne4 5. e8=Q Nd6+ 6. Kf8 Nxe8 *",
+	"image": "https://www.chess.com/dynboard?fen=8/1k4p1/4P3/2nNKP2/R7/6P1/p6P/8%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Pawn Parade",
+	"url": "https://www.chess.com/daily/2023-08-14",
+	"publish_time": 1691996400,
+	"fen": "r1bqk2r/1p3pbp/2n1p1p1/p1pp4/P3P3/2NPBN1P/1PP2PP1/R2Q1RK1 b kq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1bqk2r/1p3pbp/2n1p1p1/p1pp4/P3P3/2NPBN1P/1PP2PP1/R2Q1RK1 b kq - 0 1\"]\r\n\r\n1... d4 2. Bg5 f6 3. Bd2 dxc3 *",
+	"image": "https://www.chess.com/dynboard?fen=r1bqk2r/1p3pbp/2n1p1p1/p1pp4/P3P3/2NPBN1P/1PP2PP1/R2Q1RK1%20b%20kq%20-%200%201&size=2"
+}

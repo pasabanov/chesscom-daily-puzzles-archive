@@ -1,0 +1,8 @@
+{
+	"title": "Open House",
+	"url": "https://www.chess.com/daily/2020-04-09",
+	"publish_time": 1586415600,
+	"fen": "2b2rk1/5pp1/2BQ3p/4P3/1p3PP1/1q5P/r7/3R3K w - - 3 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2b2rk1/5pp1/2BQ3p/4P3/1p3PP1/1q5P/r7/3R3K w - - 3 1\"]\r\n\r\n1.Qxf8+ Kh7 2.Be4+ g6 3.Bxg6+ fxg6 4.Qe7+ *",
+	"image": "https://www.chess.com/dynboard?fen=2b2rk1/5pp1/2BQ3p/4P3/1p3PP1/1q5P/r7/3R3K%20w%20-%20-%203%201&size=2"
+}

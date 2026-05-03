@@ -1,0 +1,8 @@
+{
+	"title": "H-File Suspicions",
+	"url": "https://www.chess.com/daily/2024-12-01",
+	"publish_time": 1733040000,
+	"fen": "r3r1kb/5p1p/2p1qPp1/1p1n2R1/6N1/2P2N2/pP3KPQ/2R5 w - - 0 1",
+	"pgn": "[White \"himavanth0010\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3r1kb/5p1p/2p1qPp1/1p1n2R1/6N1/2P2N2/pP3KPQ/2R5 w - - 0 1\"]\r\n\r\n1. Rxg6+ hxg6 2. Qh7+ Kxh7 3. Ng5+ Kg8 4. Nh6+ Kf8 5. Nh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r3r1kb/5p1p/2p1qPp1/1p1n2R1/6N1/2P2N2/pP3KPQ/2R5%20w%20-%20-%200%201&size=2"
+}

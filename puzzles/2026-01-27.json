@@ -1,0 +1,8 @@
+{
+	"title": "All Together Now",
+	"url": "https://www.chess.com/daily/2026-01-27",
+	"publish_time": 1769500800,
+	"fen": "1R6/8/1p2kN1K/4PpP1/8/p7/6r1/2r5 w - - 1 49",
+	"pgn": "[White \"geelse_zot\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1R6/8/1p2kN1K/4PpP1/8/p7/6r1/2r5 w - - 1 49\"]\r\n\r\n49. Re8+ Kf7 50. e6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1R6/8/1p2kN1K/4PpP1/8/p7/6r1/2r5%20w%20-%20-%201%2049&size=2"
+}

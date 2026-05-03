@@ -1,0 +1,8 @@
+{
+	"title": "Improving on Master Play",
+	"url": "https://www.chess.com/daily/2021-07-24",
+	"publish_time": 1627110000,
+	"fen": "3q4/p4Qnk/4B1pp/r6b/2p5/P4P2/6R1/6RK b - - 3 45",
+	"pgn": "[Event \"TCh-POL Ekstraliga 2015\"]\r\n[Site \"Poland POL\"]\r\n[Date \"2015.10.02\"]\r\n[Round \"7.1\"]\r\n[White \"Lubczynski, Rafal\"]\r\n[Black \"Markowski, Tomasz\"]\r\n[Result \"1/2-1/2\"]\r\n[WhiteElo \"2435\"]\r\n[BlackElo \"2583\"]\r\n[FEN \"3q4/p4Qnk/4B1pp/r6b/2p5/P4P2/6R1/6RK b - - 3 45\"]\r\n\r\n45...Rf5 46.Bxf5 Qh4+ 47.Bh3 Qxh3+ 48.Rh2 Bxf3+ 49.Rg2 Bxg2+ *",
+	"image": "https://www.chess.com/dynboard?fen=3q4/p4Qnk/4B1pp/r6b/2p5/P4P2/6R1/6RK%20b%20-%20-%203%2045&size=2"
+}

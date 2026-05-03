@@ -1,0 +1,8 @@
+{
+	"title": "Breaking The Coordination of Pieces",
+	"url": "https://www.chess.com/daily/2019-06-29",
+	"publish_time": 1561791600,
+	"fen": "r3r3/pp1b2k1/5p1p/P2B1np1/2Pq4/BP3PP1/2Q3KP/R3R3 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3r3/pp1b2k1/5p1p/P2B1np1/2Pq4/BP3PP1/2Q3KP/R3R3 b - - 0 1\"]\r\n\r\n1...Qxa1 2. Rxa1 Ne3+ 3. Kf2 Nxc2\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3r3/pp1b2k1/5p1p/P2B1np1/2Pq4/BP3PP1/2Q3KP/R3R3%20b%20-%20-%200%201&size=2"
+}

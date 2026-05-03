@@ -1,0 +1,9 @@
+{
+	"title": "Clever Mating Pattern",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-01-08",
+	"publish_time": 1262937600,
+	"fen": "8/8/K4b2/8/8/p3Q3/pr4R1/k7 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/K4b2/8/8/p3Q3/pr4R1/k7 w - - 0 1\"]\r\n\r\n1. Rg6 Bh8 2. Rg7 Bxg7 3. Qg1+ Rb1 4. Qxg7+ Rb2 5. Qd4 Kb1 6. Qd1#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/8/K4b2/8/8/p3Q3/pr4R1/k7%20w%20-%20-%200%201&size=2"
+}

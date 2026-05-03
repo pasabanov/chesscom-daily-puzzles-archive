@@ -1,0 +1,8 @@
+{
+	"title": "Free Sample",
+	"url": "https://www.chess.com/daily/2021-12-27",
+	"publish_time": 1640592000,
+	"fen": "2kr4/1pp3p1/1npq3p/8/r5RP/1N6/1PP1Q3/1K5R w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2kr4/1pp3p1/1npq3p/8/r5RP/1N6/1PP1Q3/1K5R w - - 0 1\"]\r\n\r\n1.Rxa4 Nxa4 2.Qg4+ Kb8 3.Qxa4 *",
+	"image": "https://www.chess.com/dynboard?fen=2kr4/1pp3p1/1npq3p/8/r5RP/1N6/1PP1Q3/1K5R%20w%20-%20-%200%201&size=2"
+}

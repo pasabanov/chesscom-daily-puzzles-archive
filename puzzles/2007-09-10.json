@@ -1,0 +1,9 @@
+{
+	"title": "Ditzy Black Queen",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-09-10",
+	"publish_time": 1189407600,
+	"fen": "4Qbk1/ppq2ppn/8/3PNpP1/2p2P2/7P/4K3/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4Qbk1/ppq2ppn/8/3PNpP1/2p2P2/7P/4K3/8 w - - 0 1\"]\r\n\r\n1. d6 Qxd6 2. Qxf7+ Kh8 3. Ng6+ Qxg6 4. Qxg6 { and white's queen will overwhelm the knight and bishop. }\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4Qbk1/ppq2ppn/8/3PNpP1/2p2P2/7P/4K3/8%20w%20-%20-%200%201&size=2"
+}

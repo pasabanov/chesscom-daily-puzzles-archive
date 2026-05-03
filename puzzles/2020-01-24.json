@@ -1,0 +1,8 @@
+{
+	"title": "Space Invaders",
+	"url": "https://www.chess.com/daily/2020-01-24",
+	"publish_time": 1579852800,
+	"fen": "8/1p6/pPp5/2P2p2/3P2k1/4Pp1p/5PbK/8 b - - 0 64",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1p6/pPp5/2P2p2/3P2k1/4Pp1p/5PbK/8 b - - 0 64\"]\r\n\r\n64...Bf1 65.d5 Bc4 66.dxc6 Bd5 67.c7 Be6 68.c6 Bc8 *",
+	"image": "https://www.chess.com/dynboard?fen=8/1p6/pPp5/2P2p2/3P2k1/4Pp1p/5PbK/8%20b%20-%20-%200%2064&size=2"
+}

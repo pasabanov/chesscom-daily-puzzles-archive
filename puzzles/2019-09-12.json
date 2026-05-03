@@ -1,0 +1,8 @@
+{
+	"title": "No Queen No Problem",
+	"url": "https://www.chess.com/daily/2019-09-12",
+	"publish_time": 1568271600,
+	"fen": "4r3/p3r1k1/3R2pp/1ppqPp2/3p1Q2/3P2P1/1PP4P/4R1K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4r3/p3r1k1/3R2pp/1ppqPp2/3p1Q2/3P2P1/1PP4P/4R1K1 b - - 0 1\"]\r\n\r\n1...Qxd6 2. exd6 Rxe1+ 3. Kg2 R8e2+ 4. Kh3 Rh1\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=4r3/p3r1k1/3R2pp/1ppqPp2/3p1Q2/3P2P1/1PP4P/4R1K1%20b%20-%20-%200%201&size=2"
+}

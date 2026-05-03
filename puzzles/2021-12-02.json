@@ -1,0 +1,8 @@
+{
+	"title": "While My Kingside Gently Weeps",
+	"url": "https://www.chess.com/daily/2021-12-02",
+	"publish_time": 1638432000,
+	"fen": "5bnr/5ppp/3p1q2/2p1p3/2P1P3/Q1RP4/4rPPP/1knK3R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5bnr/5ppp/3p1q2/2p1p3/2P1P3/Q1RP4/4rPPP/1knK3R b - - 0 1\"]\r\n\r\n1...Rd2+ 2.Kxd2 Qxf2+ 3.Kd1 Qe2# *",
+	"image": "https://www.chess.com/dynboard?fen=5bnr/5ppp/3p1q2/2p1p3/2P1P3/Q1RP4/4rPPP/1knK3R%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Classic King Attack",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-12-23",
+	"publish_time": 1293091200,
+	"fen": "1rb2rk1/4nppp/p3p3/1qp1P3/N7/1B3Q2/PPP3PP/2KR1R2 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1rb2rk1/4nppp/p3p3/1qp1P3/N7/1B3Q2/PPP3PP/2KR1R2 w - - 0 1\"]\r\n\r\n1. Qxf7+ Kh8 2. Qxf8+ Ng8 3. Rf7 Qd7 4. Qxg7#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1rb2rk1/4nppp/p3p3/1qp1P3/N7/1B3Q2/PPP3PP/2KR1R2%20w%20-%20-%200%201&size=2"
+}

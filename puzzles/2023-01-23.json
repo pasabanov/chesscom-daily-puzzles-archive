@@ -1,0 +1,8 @@
+{
+	"title": "Divide and Capture",
+	"url": "https://www.chess.com/daily/2023-01-23",
+	"publish_time": 1674460800,
+	"fen": "3b1rk1/5pp1/2q5/4P2p/7N/PpP2Q2/1P5P/K1R5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3b1rk1/5pp1/2q5/4P2p/7N/PpP2Q2/1P5P/K1R5 b - - 0 1\"]\r\n\r\n1... Qh6 2. Rf1 Bxh4 *",
+	"image": "https://www.chess.com/dynboard?fen=3b1rk1/5pp1/2q5/4P2p/7N/PpP2Q2/1P5P/K1R5%20b%20-%20-%200%201&size=2"
+}

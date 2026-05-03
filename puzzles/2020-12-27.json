@@ -1,0 +1,8 @@
+{
+	"title": "Relaxing Sunday",
+	"url": "https://www.chess.com/daily/2020-12-27",
+	"publish_time": 1609056000,
+	"fen": "r1b2r1k/pppp2p1/5q1p/3Q4/4P3/1P1B4/P1n2PPP/RN3RK1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b2r1k/pppp2p1/5q1p/3Q4/4P3/1P1B4/P1n2PPP/RN3RK1 w - - 0 1\"]\r\n\r\n1.e5 Qc6 2.Qxc6 dxc6 3.Bxc2 *",
+	"image": "https://www.chess.com/dynboard?fen=r1b2r1k/pppp2p1/5q1p/3Q4/4P3/1P1B4/P1n2PPP/RN3RK1%20w%20-%20-%200%201&size=2"
+}

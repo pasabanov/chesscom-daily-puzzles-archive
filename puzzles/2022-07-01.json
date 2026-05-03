@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Rapport's Fireworks",
+	"url": "https://www.chess.com/daily/2022-07-01",
+	"publish_time": 1656658800,
+	"fen": "3k4/p2bqp2/B6r/3pNnp1/8/2Q5/PP6/K1R5 w - - 0 39",
+	"pgn": "[Event \"FSGM February\"]\r\n[Site \"Budapest HUN\"]\r\n[Date \"2010.02.10\"]\r\n[Round \"5\"]\r\n[White \"Rapport, R..\"]\r\n[Black \"Ilincic, Z..\"]\r\n[Result \"1-0\"]\r\n[ECO \"D36\"]\r\n[WhiteElo \"2444\"]\r\n[BlackElo \"2464\"]\r\n[SetUp \"1\"]\r\n[FEN \"3k4/p2bqp2/B6r/3pNnp1/8/2Q5/PP6/K1R5 w - - 0 39\"]\r\n\r\n39. Qc8+ Bxc8 40. Rxc8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3k4/p2bqp2/B6r/3pNnp1/8/2Q5/PP6/K1R5%20w%20-%20-%200%2039&size=2"
+}

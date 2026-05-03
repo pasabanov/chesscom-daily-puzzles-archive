@@ -1,0 +1,8 @@
+{
+	"title": "Clash of Generations",
+	"url": "https://www.chess.com/daily/2021-08-14",
+	"publish_time": 1628924400,
+	"fen": "4r1k1/p1p3np/bp3Qq1/8/3B4/2P2P2/P4P1P/6RK b - - 2 30",
+	"pgn": "[Event \"Goldmoney Asian Rapid | Prelims\"]\r\n[Site \"Online\"]\r\n[Date \"2021.06.28\"]\r\n[Round \"11\"]\r\n[White \"Firouzja, Alireza\"]\r\n[Black \"Aronian, Levon\"]\r\n[Result \"*\"]\r\n[FEN \"4r1k1/p1p3np/bp3Qq1/8/3B4/2P2P2/P4P1P/6RK b - - 2 30\"]\r\n\r\n30...Qxg1+ 31.Kxg1 Re1+ 32.Kg2 Bf1+ 33.Kg3 Nh5+ 34.Kh4 Nxf6 *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/p1p3np/bp3Qq1/8/3B4/2P2P2/P4P1P/6RK%20b%20-%20-%202%2030&size=2"
+}

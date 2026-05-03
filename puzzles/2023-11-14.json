@@ -1,0 +1,8 @@
+{
+	"title": "Take the Material and Run!",
+	"url": "https://www.chess.com/daily/2023-11-14",
+	"publish_time": 1699948800,
+	"fen": "2b1k2r/1pppqpbp/2n1p1p1/7n/2P1P3/r2PBN1P/P3BPP1/RN1QK2R b KQk - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2b1k2r/1pppqpbp/2n1p1p1/7n/2P1P3/r2PBN1P/P3BPP1/RN1QK2R b KQk - 0 1\"]\r\n\r\n1... Bxa1 2. Nxa3 Bc3+ 3. Kf1 Qxa3 *",
+	"image": "https://www.chess.com/dynboard?fen=2b1k2r/1pppqpbp/2n1p1p1/7n/2P1P3/r2PBN1P/P3BPP1/RN1QK2R%20b%20KQk%20-%200%201&size=2"
+}

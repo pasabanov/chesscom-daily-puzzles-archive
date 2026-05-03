@@ -1,0 +1,8 @@
+{
+	"title": "Checks, Captures, and Attacks",
+	"url": "https://www.chess.com/daily/2024-02-07",
+	"publish_time": 1707292800,
+	"fen": "4r1k1/b2N1pp1/7p/p2P4/Pp3P2/6Pq/Q1B2P1P/5RK1 b - - 0 1",
+	"pgn": "[Date \"1987\"]\r\n[White \"Alfonso Romero Holmes\"]\r\n[Black \"Eric Lobron (Pawn moved to h6)\"]\r\n[Result \"0-1\"]\r\n[FEN \"4r1k1/b2N1pp1/7p/p2P4/Pp3P2/6Pq/Q1B2P1P/5RK1 b - - 0 1\"]\r\n\r\n1... Bxf2+ 2. Kxf2 Qxh2+ 3. Kf3 Qe2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/b2N1pp1/7p/p2P4/Pp3P2/6Pq/Q1B2P1P/5RK1%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "A Delicate Dance",
+	"url": "https://www.chess.com/daily/2022-09-11",
+	"publish_time": 1662879600,
+	"fen": "6k1/Q3R3/6pp/1b3p2/8/1q3P2/1P4PP/K7 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"6k1/Q3R3/6pp/1b3p2/8/1q3P2/1P4PP/K7 b - - 0 1\"]\r\n\r\n1... Qd1+ 2. Ka2 Bc4+ 3. b3 Qxb3+ 4. Ka1 Qd1+ 5. Kb2 Qd2+ 6. Kb1 Bd3+ 7. Ka1\r\nQc1+ 8. Ka2 Bc4# *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/Q3R3/6pp/1b3p2/8/1q3P2/1P4PP/K7%20b%20-%20-%200%201&size=2"
+}

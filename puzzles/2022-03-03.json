@@ -1,0 +1,8 @@
+{
+	"title": "Maroczy's Candles",
+	"url": "https://www.chess.com/daily/2022-03-03",
+	"publish_time": 1646294400,
+	"fen": "r4bkr/ppp3pp/2n1bq2/6N1/2pp2P1/8/PPP2P1P/R1BQR1K1 w - - 0 15",
+	"pgn": "[Event \"Ljubljana\"]\r\n[Site \"Ljubljana YUG\"]\r\n[Date \"1922.??.??\"]\r\n[Round \"?\"]\r\n[White \"Geza Maroczy\"]\r\n[Black \"Milan Vidmar\"]\r\n[Result \"1-0\"]\r\n[ECO \"C55\"]\r\n[PlyCount \"33\"]\r\n[FEN \"r4bkr/ppp3pp/2n1bq2/6N1/2pp2P1/8/PPP2P1P/R1BQR1K1 w - - 0 15\"]\r\n\r\n15.Rxe6 Qd8 16.Qf3 Qd7 17.Re7 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4bkr/ppp3pp/2n1bq2/6N1/2pp2P1/8/PPP2P1P/R1BQR1K1%20w%20-%20-%200%2015&size=2"
+}

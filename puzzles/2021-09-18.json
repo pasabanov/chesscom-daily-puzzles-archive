@@ -1,0 +1,8 @@
+{
+	"title": "Reaching the Finish Line",
+	"url": "https://www.chess.com/daily/2021-09-18",
+	"publish_time": 1631948400,
+	"fen": "r1b1Rbk1/1p3r1p/pnp2Pp1/6Bp/2B4P/P4NP1/8/3K4 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1b1Rbk1/1p3r1p/pnp2Pp1/6Bp/2B4P/P4NP1/8/3K4 w - - 0 1\"]\r\n\r\n1.Bxf7+ Kxf7 2.Ne5+ Kg8 3.Rxf8+ Kxf8 4.Bh6+ Ke8 5.f7+ Ke7 6.f8=Q+ *",
+	"image": "https://www.chess.com/dynboard?fen=r1b1Rbk1/1p3r1p/pnp2Pp1/6Bp/2B4P/P4NP1/8/3K4%20w%20-%20-%200%201&size=2"
+}

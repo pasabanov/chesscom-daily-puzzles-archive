@@ -1,0 +1,9 @@
+{
+	"title": "Getting to the King First",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-01-23",
+	"publish_time": 1201075200,
+	"fen": "6k1/5p2/p4npQ/4p1N1/5n2/2r3R1/P2q2PP/5R1K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/5p2/p4npQ/4p1N1/5n2/2r3R1/P2q2PP/5R1K w - - 0 1\"]\r\n\r\n1. Ne6 fxe6 (1... Nxe6 2. Qxd2 Ne4 3. Qxc3 Nxc3 4. Rxc3) (1... N4h5 2. Qf8+ Kh7 3. Rxc3) (1... N6h5 2. Qf8+ Kh7 3. Ng5#) 2. Rxg6+ Nxg6 3. Qxg6+ Kf8 4. Qxf6+ Ke8 5. Qxe6+ Kd8 6. Rf8+ Kc7 7. Rf7+ Kd8 8. Qe7+ Kc8 9. Qb7+ Kd8 10. Rf8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5p2/p4npQ/4p1N1/5n2/2r3R1/P2q2PP/5R1K%20w%20-%20-%200%201&size=2"
+}

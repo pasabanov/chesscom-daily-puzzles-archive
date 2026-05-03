@@ -1,0 +1,8 @@
+{
+	"title": "Forcing Pin for the Win",
+	"url": "https://www.chess.com/daily/2025-02-18",
+	"publish_time": 1739865600,
+	"fen": "5r1k/1PQ3p1/3p1r1p/8/4b3/2P3P1/1q4BP/4R1RK b - - 0 1",
+	"pgn": "[White \"Jeremy Kane\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"5r1k/1PQ3p1/3p1r1p/8/4b3/2P3P1/1q4BP/4R1RK b - - 0 1\"]\r\n\r\n1... Qxg2+ 2. Rxg2 Rf1+ 3. Rxf1 Rxf1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/1PQ3p1/3p1r1p/8/4b3/2P3P1/1q4BP/4R1RK%20b%20-%20-%200%201&size=2"
+}

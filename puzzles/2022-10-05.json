@@ -1,0 +1,8 @@
+{
+	"title": "King Safety Blues",
+	"url": "https://www.chess.com/daily/2022-10-05",
+	"publish_time": 1664953200,
+	"fen": "4k3/1N2n1p1/p3Qp1p/7P/8/P4PK1/6P1/2q5 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4k3/1N2n1p1/p3Qp1p/7P/8/P4PK1/6P1/2q5 b - - 0 1\"]\r\n\r\n1... Qc7+ 2. Nd6+ Qxd6+ 3. Qxd6 Nf5+ 4. Kf4 Nxd6 *",
+	"image": "https://www.chess.com/dynboard?fen=4k3/1N2n1p1/p3Qp1p/7P/8/P4PK1/6P1/2q5%20b%20-%20-%200%201&size=2"
+}

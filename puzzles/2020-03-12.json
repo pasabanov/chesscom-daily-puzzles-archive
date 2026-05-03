@@ -1,0 +1,8 @@
+{
+	"title": "Good to the Last Capture",
+	"url": "https://www.chess.com/daily/2020-03-12",
+	"publish_time": 1583996400,
+	"fen": "4r1k1/p4p1p/2pRbnp1/q1P1r3/N1B5/1P6/1Q3PP1/5RK1 w - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/p4p1p/2pRbnp1/q1P1r3/N1B5/1P6/1Q3PP1/5RK1 w - - 1 1\"]\r\n\r\n1.Qxe5 Bxc4 2.Qxf6 Bxf1 3.Rd7 Rf8 4.Kxf1 *",
+	"image": "https://www.chess.com/dynboard?fen=4r1k1/p4p1p/2pRbnp1/q1P1r3/N1B5/1P6/1Q3PP1/5RK1%20w%20-%20-%201%201&size=2"
+}

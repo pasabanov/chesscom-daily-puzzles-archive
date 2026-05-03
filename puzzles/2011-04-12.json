@@ -1,0 +1,9 @@
+{
+	"title": "Forcing Chess Moves",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2011-04-12",
+	"publish_time": 1302591600,
+	"fen": "r2qnr2/1pN4p/pnkPB1p1/Q1p1pp2/P7/4PP1P/1P6/2KR2R1 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2qnr2/1pN4p/pnkPB1p1/Q1p1pp2/P7/4PP1P/1P6/2KR2R1 w KQkq - 0 1\"]\r\n\r\n1. Qb5+ axb5 2. axb5#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r2qnr2/1pN4p/pnkPB1p1/Q1p1pp2/P7/4PP1P/1P6/2KR2R1%20w%20KQkq%20-%200%201&size=2"
+}

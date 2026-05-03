@@ -1,0 +1,9 @@
+{
+	"title": "Invasion",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2009-06-05",
+	"publish_time": 1244185200,
+	"fen": "r6k/1p2p3/3p1p2/2rB1P1p/2Pn1P2/1P4RP/8/6RK w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r6k/1p2p3/3p1p2/2rB1P1p/2Pn1P2/1P4RP/8/6RK w - - 0 1\"]\r\n\r\n1. Rg6 Kh7 2. Rg7+ Kh8 3. Bg8 Rxg8 4. Rxg8+ Kh7\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r6k/1p2p3/3p1p2/2rB1P1p/2Pn1P2/1P4RP/8/6RK%20w%20-%20-%200%201&size=2"
+}

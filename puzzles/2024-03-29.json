@@ -1,0 +1,8 @@
+{
+	"title": "The Hardest Puzzle on Chess.com",
+	"url": "https://www.chess.com/daily/2024-03-29",
+	"publish_time": 1711695600,
+	"fen": "3r4/2R2pb1/4pk1p/6p1/4Q3/3P3P/Pr1q2P1/R6K w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r4/2R2pb1/4pk1p/6p1/4Q3/3P3P/Pr1q2P1/R6K w - - 0 1\"]\r\n\r\n1. Rf1+ Qf2 2. Qe1 Qxf1+ 3. Qxf1+ *",
+	"image": "https://www.chess.com/dynboard?fen=3r4/2R2pb1/4pk1p/6p1/4Q3/3P3P/Pr1q2P1/R6K%20w%20-%20-%200%201&size=2"
+}

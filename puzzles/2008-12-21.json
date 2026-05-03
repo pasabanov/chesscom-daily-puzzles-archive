@@ -1,0 +1,9 @@
+{
+	"title": "Removing the Guard",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-12-21",
+	"publish_time": 1229846400,
+	"fen": "r3r1k1/bp3p1p/p7/4Nqp1/2P5/P1B2QPb/1P3P1P/R3R1K1 b - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3r1k1/bp3p1p/p7/4Nqp1/2P5/P1B2QPb/1P3P1P/R3R1K1 b - - 0 1\"]\r\n\r\n1...Rxe5 2. Qxf5 Rxf5\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=r3r1k1/bp3p1p/p7/4Nqp1/2P5/P1B2QPb/1P3P1P/R3R1K1%20b%20-%20-%200%201&size=2"
+}

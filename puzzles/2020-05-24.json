@@ -1,0 +1,8 @@
+{
+	"title": "Responding to a Pawn Lunge",
+	"url": "https://www.chess.com/daily/2020-05-24",
+	"publish_time": 1590303600,
+	"fen": "r4rk1/1pp2ppp/p1nb1n2/2P4q/3P2b1/4BN2/PP2BPPP/RN1Q1RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/1pp2ppp/p1nb1n2/2P4q/3P2b1/4BN2/PP2BPPP/RN1Q1RK1 b - - 0 1\"]\r\n\r\n1...Bxf3 2.cxd6 Bxe2 *",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/1pp2ppp/p1nb1n2/2P4q/3P2b1/4BN2/PP2BPPP/RN1Q1RK1%20b%20-%20-%200%201&size=2"
+}

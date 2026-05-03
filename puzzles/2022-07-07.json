@@ -1,0 +1,8 @@
+{
+	"title": "A Fragile Resource",
+	"url": "https://www.chess.com/daily/2022-07-07",
+	"publish_time": 1657177200,
+	"fen": "7r/1p1q1kp1/p2b1p2/8/3BQPP1/P7/1P4K1/4R3 w - - 0 36",
+	"pgn": "[Event \"Ch Israel\"]\r\n[Site \"Tel Aviv/Ramat-Gan (Israel)\"]\r\n[Date \"1994.??.??\"]\r\n[Round \"?\"]\r\n[White \"Alexander Finkel\"]\r\n[Black \"Alik Gershon\"]\r\n[Result \"1-0\"]\r\n[FEN \"7r/1p1q1kp1/p2b1p2/8/3BQPP1/P7/1P4K1/4R3 w - - 0 36\"]\r\n\r\n36. Qd5+ Kf8 37. Re6 *",
+	"image": "https://www.chess.com/dynboard?fen=7r/1p1q1kp1/p2b1p2/8/3BQPP1/P7/1P4K1/4R3%20w%20-%20-%200%2036&size=2"
+}

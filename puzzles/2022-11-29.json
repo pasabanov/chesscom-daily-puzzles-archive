@@ -1,0 +1,8 @@
+{
+	"title": "When a Knight Attack Backfires",
+	"url": "https://www.chess.com/daily/2022-11-29",
+	"publish_time": 1669708800,
+	"fen": "r2q1r1k/ppp3pp/3p2n1/2b2b2/3N3R/1BP5/PP3PPP/R1BQ2K1 w - - 0 15",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2022.10.12\"]\r\n[Round \"?\"]\r\n[White \"abusereport\"]\r\n[Black \"Wedsh12\"]\r\n[Result \"1-0\"]\r\n[ECO \"C47\"]\r\n[WhiteElo \"1725\"]\r\n[BlackElo \"1742\"]\r\n[SetUp \"1\"]\r\n[FEN \"r2q1r1k/ppp3pp/3p2n1/2b2b2/3N3R/1BP5/PP3PPP/R1BQ2K1 w - - 0 15\"]\r\n\r\n15. Rxh7+ Kxh7 16. Qh5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2q1r1k/ppp3pp/3p2n1/2b2b2/3N3R/1BP5/PP3PPP/R1BQ2K1%20w%20-%20-%200%2015&size=2"
+}

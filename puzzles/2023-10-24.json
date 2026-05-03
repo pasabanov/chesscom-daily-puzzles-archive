@@ -1,0 +1,8 @@
+{
+	"title": "The Rook's Stunt Double",
+	"url": "https://www.chess.com/daily/2023-10-24",
+	"publish_time": 1698130800,
+	"fen": "8/2n2p2/6k1/R5pp/8/5PKP/2r5/1B6 b - - 0 1",
+	"pgn": "[White \"Tavernier\"]\r\n[Black \"Grodner\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/2n2p2/6k1/R5pp/8/5PKP/2r5/1B6 b - - 0 1\"]\r\n\r\n1... h4+ 2. Kg4 f5+ 3. Rxf5 Rg2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/2n2p2/6k1/R5pp/8/5PKP/2r5/1B6%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Finding Clarity in a Traffic Jam",
+	"url": "https://www.chess.com/daily/2023-02-18",
+	"publish_time": 1676707200,
+	"fen": "2kr2nr/p3q2p/1p1p1p1b/2pP2p1/1n1N4/2N3BP/PPbQ1PP1/2K1RB1R b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2kr2nr/p3q2p/1p1p1p1b/2pP2p1/1n1N4/2N3BP/PPbQ1PP1/2K1RB1R b - - 0 1\"]\r\n\r\n1... Qxe1+ 2. Qxe1 g4+ 3. Qd2 Bxd2+ 4. Kxd2 cxd4 *",
+	"image": "https://www.chess.com/dynboard?fen=2kr2nr/p3q2p/1p1p1p1b/2pP2p1/1n1N4/2N3BP/PPbQ1PP1/2K1RB1R%20b%20-%20-%200%201&size=2"
+}

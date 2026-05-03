@@ -1,0 +1,9 @@
+{
+	"title": "Krikor's Birthday King Hunt 🥳",
+	"comments": "Inspired by https://www.chess.com/game/live/117553822447?username=gmkrikor",
+	"url": "https://www.chess.com/daily/2024-11-15",
+	"publish_time": 1731657600,
+	"fen": "6k1/5pp1/2P1p2p/3pP3/3BqP1n/4PRK1/3Q1R1P/1r6 b - - 0 43",
+	"pgn": "[Event \"Happy Birthday, Krikor Mekhitarian!\"]\r\n[Date \"2024.10.16\"]\r\n[White \"Krikor's Birthday King Hunt\"]\r\n[Black \"Inspired by Blitz Game\"]\r\n[Result \"0-1\"]\r\n[FEN \"6k1/5pp1/2P1p2p/3pP3/3BqP1n/4PRK1/3Q1R1P/1r6 b - - 0 43\"]\r\n\r\n43... Rg1+ 44. Kxh4 g5+ 45. Kh3 Qf5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5pp1/2P1p2p/3pP3/3BqP1n/4PRK1/3Q1R1P/1r6%20b%20-%20-%200%2043&size=2"
+}

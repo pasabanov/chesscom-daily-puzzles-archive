@@ -1,0 +1,8 @@
+{
+	"title": "Pawn with the Wind",
+	"url": "https://www.chess.com/daily/2021-10-27",
+	"publish_time": 1635318000,
+	"fen": "2r1k3/p3p2r/1np3pb/5p2/1pP5/1P4BP/P1K2PBP/3R3R b - b3 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2r1k3/p3p2r/1np3pb/5p2/1pP5/1P4BP/P1K2PBP/3R3R b - b3 0 1\"]\r\n\r\n1...f4 2.Be4 Rg7 3.Bh4 g5 4.f3 gxh4 *",
+	"image": "https://www.chess.com/dynboard?fen=2r1k3/p3p2r/1np3pb/5p2/1pP5/1P4BP/P1K2PBP/3R3R%20b%20-%20b3%200%201&size=2"
+}

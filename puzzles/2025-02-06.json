@@ -1,0 +1,8 @@
+{
+	"title": "Diagonal Squeeze",
+	"url": "https://www.chess.com/daily/2025-02-06",
+	"publish_time": 1738828800,
+	"fen": "r2kb3/N1p1np1p/3p1Q2/8/2PPp1B1/1q3P2/2r1N1PP/4B1K1 w - - 0 1",
+	"pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2kb3/N1p1np1p/3p1Q2/8/2PPp1B1/1q3P2/2r1N1PP/4B1K1 w - - 0 1\"]\r\n\r\n1. Qxd6+ cxd6 2. Ba5+ Qb6 3. Bxb6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r2kb3/N1p1np1p/3p1Q2/8/2PPp1B1/1q3P2/2r1N1PP/4B1K1%20w%20-%20-%200%201&size=2"
+}

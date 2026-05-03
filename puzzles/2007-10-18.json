@@ -1,0 +1,9 @@
+{
+	"title": "Two Pawns or Better Pieces?",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-10-18",
+	"publish_time": 1192690800,
+	"fen": "2r4r/pp1qp1kp/1n1p1np1/2p3N1/5P2/1P5P/PB1Q2P1/R3R2K w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r4r/pp1qp1kp/1n1p1np1/2p3N1/5P2/1P5P/PB1Q2P1/R3R2K w - - 0 1\"]\r\n\r\n1. Rxe7+ Qxe7 2. Re1 Qd7 (2... Qd8 3. Ne6+) (2... Qf8 3. Ne6+) 3. Bxf6+ Kf8 (3... Kxf6 4. Qc3+ Kf5 5. g4+ Kxf4 6. Qe3#) (3... Kg8 4. Re7) 4. Bxh8\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=2r4r/pp1qp1kp/1n1p1np1/2p3N1/5P2/1P5P/PB1Q2P1/R3R2K%20w%20-%20-%200%201&size=2"
+}

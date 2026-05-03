@@ -1,0 +1,9 @@
+{
+	"title": "Breaking Down The Walls",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-06-25",
+	"publish_time": 1182754800,
+	"fen": "r6k/pp1b2p1/3Np2p/r3P3/1q1p1PRQ/2nB4/2PK3P/4R3 w - - 0 1",
+	"pgn": "[FEN \"r6k/pp1b2p1/3Np2p/r3P3/1q1p1PRQ/2nB4/2PK3P/4R3 w - - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1. Qxh6+ gxh6 (1... Kg8 2. Qxg7#) 2. Nf7#",
+	"image": "https://www.chess.com/dynboard?fen=r6k/pp1b2p1/3Np2p/r3P3/1q1p1PRQ/2nB4/2PK3P/4R3%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Solitary Stance",
+	"url": "https://www.chess.com/daily/2020-06-09",
+	"publish_time": 1591686000,
+	"fen": "r1bqr1k1/1pp2ppp/2n2n2/1pB5/3pP1P1/P4P1P/1PP2Q2/2KR1BNR b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r1bqr1k1/1pp2ppp/2n2n2/1pB5/3pP1P1/P4P1P/1PP2Q2/2KR1BNR b - - 0 1\"]\r\n\r\n1...Nxe4 2.fxe4 Qg5+ 3.Kb1 Qxc5 *",
+	"image": "https://www.chess.com/dynboard?fen=r1bqr1k1/1pp2ppp/2n2n2/1pB5/3pP1P1/P4P1P/1PP2Q2/2KR1BNR%20b%20-%20-%200%201&size=2"
+}

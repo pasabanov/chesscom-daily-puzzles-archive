@@ -1,0 +1,9 @@
+{
+	"title": "Alekhine Playing White",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2008-04-23",
+	"publish_time": 1208934000,
+	"fen": "3r4/1b1rb1k1/p6p/P4P2/1p1p1p2/1P1B4/2R2B1P/4R1K1 w - - 0 52",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r4/1b1rb1k1/p6p/P4P2/1p1p1p2/1P1B4/2R2B1P/4R1K1 w - - 0 52\"]\r\n\r\n52. Rxe7+ Rxe7 53. Bh4 Re3 54. Bxd8 Rxd3 55. Rc7+\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3r4/1b1rb1k1/p6p/P4P2/1p1p1p2/1P1B4/2R2B1P/4R1K1%20w%20-%20-%200%2052&size=2"
+}

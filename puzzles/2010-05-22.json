@@ -1,0 +1,9 @@
+{
+	"title": "Mate in 9",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-05-22",
+	"publish_time": 1274511600,
+	"fen": "r1bq3r/1pp1b1p1/p7/2kBPPP1/3n2QN/2Nn4/PP5P/R1BK3R w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1bq3r/1pp1b1p1/p7/2kBPPP1/3n2QN/2Nn4/PP5P/R1BK3R w - - 0 1\"]\r\n\r\n1. Qxd4+ Kxd4 2. Nf3+ Kc5 3. Be3+ Kb4 4. a3+ Ka5 5. b4+ Nxb4 6. axb4+ Kxb4 7. Ra4+ Kxc3 8. Bd4+ Kd3 9. Ne1#",
+	"image": "https://www.chess.com/dynboard?fen=r1bq3r/1pp1b1p1/p7/2kBPPP1/3n2QN/2Nn4/PP5P/R1BK3R%20w%20-%20-%200%201&size=2"
+}

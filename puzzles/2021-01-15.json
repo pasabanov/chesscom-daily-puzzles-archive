@@ -1,0 +1,8 @@
+{
+	"title": "A Delicate Dance",
+	"url": "https://www.chess.com/daily/2021-01-15",
+	"publish_time": 1610697600,
+	"fen": "4R3/3q4/8/4n1r1/8/4k2Q/7K/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4R3/3q4/8/4n1r1/8/4k2Q/7K/8 b - - 0 1\"]\r\n\r\n1...Qxh3+ 2.Kxh3 Kf2 3.Rf8+ Nf3 4.Rg8 Ng1+ 5.Kh4 Rxg8 *",
+	"image": "https://www.chess.com/dynboard?fen=4R3/3q4/8/4n1r1/8/4k2Q/7K/8%20b%20-%20-%200%201&size=2"
+}

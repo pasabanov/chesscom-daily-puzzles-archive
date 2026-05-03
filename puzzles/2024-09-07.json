@@ -1,0 +1,8 @@
+{
+	"title": "When In Doubt, Don't Sac Your Queen!",
+	"url": "https://www.chess.com/daily/2024-09-07",
+	"publish_time": 1725692400,
+	"fen": "1q2r3/p3R1pk/1p3pNp/3p1P1Q/b1pP4/P6P/1P4P1/7K w - - 0 1",
+	"pgn": "[White \"When In Doubt\"]\r\n[Black \"Don't Sac Your Queen!\"]\r\n[Result \"1-0\"]\r\n[FEN \"1q2r3/p3R1pk/1p3pNp/3p1P1Q/b1pP4/P6P/1P4P1/7K w - - 0 1\"]\r\n\r\n1. Nf8+ Kh8 2. Qg6 Rxe7 3. Qh7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1q2r3/p3R1pk/1p3pNp/3p1P1Q/b1pP4/P6P/1P4P1/7K%20w%20-%20-%200%201&size=2"
+}

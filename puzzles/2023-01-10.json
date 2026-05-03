@@ -1,0 +1,8 @@
+{
+	"title": "Fiona's Mate in Three Birthday Puzzle",
+	"url": "https://www.chess.com/daily/2023-01-10",
+	"publish_time": 1673337600,
+	"fen": "4q1k1/2r1r1Pp/1p1p4/1pp1pP1Q/3nP3/PP1PB1R1/1P5K/6R1 w - - 0 33",
+	"pgn": "[Event \"Reykjavik Open\"]\r\n[Site \"Reykjavik ISL\"]\r\n[Date \"2010.02.27\"]\r\n[Round \"4\"]\r\n[White \"Fiona Steil-Antoni\"]\r\n[Black \"Sylvia Johnsen\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2198\"]\r\n[BlackElo \"2032\"]\r\n[FEN \"4q1k1/2r1r1Pp/1p1p4/1pp1pP1Q/3nP3/PP1PB1R1/1P5K/6R1 w - - 0 33\"]\r\n\r\n33. Qxh7+ Kxh7 34. g8=Q+ Qxg8 35. Rh3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4q1k1/2r1r1Pp/1p1p4/1pp1pP1Q/3nP3/PP1PB1R1/1P5K/6R1%20w%20-%20-%200%2033&size=2"
+}

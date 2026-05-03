@@ -1,0 +1,8 @@
+{
+	"title": "Spotting a TactiTal Opportunity",
+	"url": "https://www.chess.com/daily/2022-11-16",
+	"publish_time": 1668585600,
+	"fen": "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 w q - 0 17",
+	"pgn": "[Event \"Olympiad-13 Final A\"]\r\n[Site \"Munich\"]\r\n[Date \"1958.10.13\"]\r\n[Round \"3\"]\r\n[White \"Tal, Mihail\"]\r\n[Black \"Tringov, Georgi Petrov\"]\r\n[Result \"1-0\"]\r\n[ECO \"B96\"]\r\n[SetUp \"1\"]\r\n[FEN \"r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 w q - 0 17\"]\r\n\r\n17. Qxd7+ Kxd7 18. Nc5+ Ke7 19. Nxe4 *",
+	"image": "https://www.chess.com/dynboard?fen=r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2%20w%20q%20-%200%2017&size=2"
+}

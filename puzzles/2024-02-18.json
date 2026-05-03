@@ -1,0 +1,8 @@
+{
+	"title": "Selling Material, Buying Squares",
+	"url": "https://www.chess.com/daily/2024-02-18",
+	"publish_time": 1708243200,
+	"fen": "4B3/1p1p4/5p1r/P1P5/4kP1p/4P3/4KP2/8 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"4B3/1p1p4/5p1r/P1P5/4kP1p/4P3/4KP2/8 w - - 0 1\"]\r\n\r\n1. a6 bxa6 2. c6 dxc6 3. Bf7 h3 4. Be6 h2 5. f3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4B3/1p1p4/5p1r/P1P5/4kP1p/4P3/4KP2/8%20w%20-%20-%200%201&size=2"
+}

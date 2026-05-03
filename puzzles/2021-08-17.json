@@ -1,0 +1,8 @@
+{
+	"title": "Rooks and Squares",
+	"url": "https://www.chess.com/daily/2021-08-17",
+	"publish_time": 1629183600,
+	"fen": "8/3R4/2P2k2/p7/8/7P/3r1PK1/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/3R4/2P2k2/p7/8/7P/3r1PK1/8 b - - 0 1\"]\r\n\r\n1...Rxd7 2.cxd7 Ke7 3.Kf1 a4 4.Ke2 a3 5.Kd2 a2 6.d8=Q+ Kxd8 *",
+	"image": "https://www.chess.com/dynboard?fen=8/3R4/2P2k2/p7/8/7P/3r1PK1/8%20b%20-%20-%200%201&size=2"
+}

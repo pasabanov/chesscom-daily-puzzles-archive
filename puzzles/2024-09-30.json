@@ -1,0 +1,8 @@
+{
+	"title": "Check for Forks",
+	"url": "https://www.chess.com/daily/2024-09-30",
+	"publish_time": 1727679600,
+	"fen": "6k1/p4pp1/8/4q2p/PPR2p1P/5P2/5QPK/3r4 w - - 0 37",
+	"pgn": "[Event \"17. Asian Continental\"]\r\n[Site \"Makati PHI\"]\r\n[Date \"2018.12.10\"]\r\n[White \"Nodirbek Abdusattorov\"]\r\n[Black \"Chito Garma\"]\r\n[Result \"1-0\"]\r\n[FEN \"6k1/p4pp1/8/4q2p/PPR2p1P/5P2/5QPK/3r4 w - - 0 37\"]\r\n\r\n37. Rc8+ Kh7 38. Qc2+ f5 39. Qxd1 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6k1/p4pp1/8/4q2p/PPR2p1P/5P2/5QPK/3r4%20w%20-%20-%200%2037&size=2"
+}

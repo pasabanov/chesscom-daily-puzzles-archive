@@ -1,0 +1,8 @@
+{
+	"title": "Anish Brings Home the Point",
+	"url": "https://www.chess.com/daily/2020-04-07",
+	"publish_time": 1586242800,
+	"fen": "kr3R2/1p4Q1/2p5/3n4/p3q3/8/1P4P1/R5K1 w - - 0 40",
+	"pgn": "[Event \"Dutch Championship\"]\r\n[Site \"Haaksbergen\"]\r\n[Date \"2009.09.16\"]\r\n[Round \"5\"]\r\n[White \"Anish Giri\"]\r\n[Black \"Frans Andre Cuijpers\"]\r\n[Result \"1-0\"]\r\n[FEN \"kr3R2/1p4Q1/2p5/3n4/p3q3/8/1P4P1/R5K1 w - - 0 40\"]\r\n\r\n40.Qe5 Rxf8 41.Qxe4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=kr3R2/1p4Q1/2p5/3n4/p3q3/8/1P4P1/R5K1%20w%20-%20-%200%2040&size=2"
+}

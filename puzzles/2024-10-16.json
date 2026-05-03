@@ -1,0 +1,8 @@
+{
+	"title": "Tactical Jolt",
+	"url": "https://www.chess.com/daily/2024-10-16",
+	"publish_time": 1729062000,
+	"fen": "k1b4r/1p3pp1/p1q4B/2p1n2r/Q1B1N3/2NP2P1/1PP2PP1/R3R1K1 b - - 0 1",
+	"pgn": "[White \"Jolteon29A\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"k1b4r/1p3pp1/p1q4B/2p1n2r/Q1B1N3/2NP2P1/1PP2PP1/R3R1K1 b - - 0 1\"]\r\n\r\n1... Rh1+ 2. Kxh1 Qxh6+ 3. Kg1 Qh1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=k1b4r/1p3pp1/p1q4B/2p1n2r/Q1B1N3/2NP2P1/1PP2PP1/R3R1K1%20b%20-%20-%200%201&size=2"
+}

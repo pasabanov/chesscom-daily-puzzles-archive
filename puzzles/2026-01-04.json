@@ -1,0 +1,8 @@
+{
+	"title": "Fresh Start?",
+	"url": "https://www.chess.com/daily/2026-01-04",
+	"publish_time": 1767513600,
+	"fen": "6R1/8/p7/8/1k5r/1Pp4p/P1K5/8 w - - 0 1",
+	"pgn": "[Date \"1912\"]\r\n[White \"Selezniev, Alexei\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"6R1/8/p7/8/1k5r/1Pp4p/P1K5/8 w - - 0 1\"]\r\n\r\n1. Rg5 h2 2. a3+ Kxa3 3. Ra5+ Kb4 4. Ra4+ Kc5 5. Rxh4 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6R1/8/p7/8/1k5r/1Pp4p/P1K5/8%20w%20-%20-%200%201&size=2"
+}

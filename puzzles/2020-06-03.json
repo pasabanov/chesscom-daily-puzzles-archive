@@ -1,0 +1,8 @@
+{
+	"title": "Overexposure",
+	"url": "https://www.chess.com/daily/2020-06-03",
+	"publish_time": 1591167600,
+	"fen": "5r1k/bp4p1/p3p3/P2nNn2/1PQ4p/3P3P/3BR1P1/1B5K b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r1k/bp4p1/p3p3/P2nNn2/1PQ4p/3P3P/3BR1P1/1B5K b - - 0 1\"]\r\n\r\n1...Ng3+ 2.Kh2 Bg1+ 3.Kxg1 Rf1+ 4.Kh2 Rh1# *",
+	"image": "https://www.chess.com/dynboard?fen=5r1k/bp4p1/p3p3/P2nNn2/1PQ4p/3P3P/3BR1P1/1B5K%20b%20-%20-%200%201&size=2"
+}

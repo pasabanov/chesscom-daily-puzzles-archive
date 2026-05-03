@@ -1,0 +1,8 @@
+{
+	"title": "Chess, Not Checkers",
+	"url": "https://www.chess.com/daily/2021-05-28",
+	"publish_time": 1622185200,
+	"fen": "2k2b1r/R2r1ppp/Q2p4/2pP4/2Pnp3/8/1P1B1P1P/1N2K1Nq b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"2k2b1r/R2r1ppp/Q2p4/2pP4/2Pnp3/8/1P1B1P1P/1N2K1Nq b - - 0 1\"]\r\n\r\n1...Kd8 2.Ba5+ Ke7 3.Rxd7+ Kf6 4.Kf1 Nf3 5.Rxd6+ Kg5 6.Bd2+ Kh5 7.Rh6+ \r\ngxh6 *",
+	"image": "https://www.chess.com/dynboard?fen=2k2b1r/R2r1ppp/Q2p4/2pP4/2Pnp3/8/1P1B1P1P/1N2K1Nq%20b%20-%20-%200%201&size=2"
+}

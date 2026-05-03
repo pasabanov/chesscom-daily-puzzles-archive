@@ -1,0 +1,8 @@
+{
+	"title": "Infiltration",
+	"url": "https://www.chess.com/daily/2021-09-24",
+	"publish_time": 1632466800,
+	"fen": "4rb2/p4Qnk/1qp5/3n1NPp/4r3/P3P3/1P4RP/2B3K1 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4rb2/p4Qnk/1qp5/3n1NPp/4r3/P3P3/1P4RP/2B3K1 w - - 0 1\"]\r\n\r\n1.g6+ Kh8 2.Nh6 Bc5 3.Qg8+ Rxg8 4.Nf7# *",
+	"image": "https://www.chess.com/dynboard?fen=4rb2/p4Qnk/1qp5/3n1NPp/4r3/P3P3/1P4RP/2B3K1%20w%20-%20-%200%201&size=2"
+}

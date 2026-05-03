@@ -1,0 +1,8 @@
+{
+	"title": "MagNiels Nets the King",
+	"url": "https://www.chess.com/daily/2024-08-04",
+	"publish_time": 1722754800,
+	"fen": "1kr2r2/1bp3pp/1p2p2q/p2p2b1/P1QPP3/2P2PB1/1R4PP/1R5K w - - 0 26",
+	"pgn": "[White \"MagNiels_Carlsen\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"1kr2r2/1bp3pp/1p2p2q/p2p2b1/P1QPP3/2P2PB1/1R4PP/1R5K w - - 0 26\"]\r\n\r\n26. Rxb6 dxc4 27. Rxb7+ Ka8 28. R7b5 e5 29. Rxa5+ Qa6 30. Rxa6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1kr2r2/1bp3pp/1p2p2q/p2p2b1/P1QPP3/2P2PB1/1R4PP/1R5K%20w%20-%20-%200%2026&size=2"
+}

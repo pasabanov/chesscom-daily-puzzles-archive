@@ -1,0 +1,8 @@
+{
+	"title": "Capa's Rapid Transit",
+	"url": "https://www.chess.com/daily/2022-02-07",
+	"publish_time": 1644220800,
+	"fen": "r1q2r2/2p2p1p/p1n3kB/1pb1p1Pn/4P3/2P2Q1P/PPB2P2/R3R1K1 w - - 1 21",
+	"pgn": "[Event \"Rapid-transit match\"]\r\n[Site \"New York, NY USA\"]\r\n[Date \"1909.03.31\"]\r\n[Round \"?\"]\r\n[White \"Jose Raul Capablanca\"]\r\n[Black \"Jacob Carl Rosenthal\"]\r\n[Result \"1-0\"]\r\n[ECO \"C65\"]\r\n[PlyCount \"43\"]\r\n[FEN \"r1q2r2/2p2p1p/p1n3kB/1pb1p1Pn/4P3/2P2Q1P/PPB2P2/R3R1K1 w - - 1 21\"]\r\n\r\n21.Qf5+ Qxf5 22.exf5# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1q2r2/2p2p1p/p1n3kB/1pb1p1Pn/4P3/2P2Q1P/PPB2P2/R3R1K1%20w%20-%20-%201%2021&size=2"
+}

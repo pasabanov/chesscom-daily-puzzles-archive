@@ -1,0 +1,8 @@
+{
+	"title": "Leftover Candy",
+	"url": "https://www.chess.com/daily/2022-11-01",
+	"publish_time": 1667286000,
+	"fen": "3k3r/1Q1p2p1/3pqpN1/p3b1Pp/1n5P/3RP3/PPP5/1K2R3 b - - 0 1",
+	"pgn": "[Result \"0-1\"]\r\n[FEN \"3k3r/1Q1p2p1/3pqpN1/p3b1Pp/1n5P/3RP3/PPP5/1K2R3 b - - 0 1\"]\r\n\r\n1... Qxa2+ 2. Kc1 Qxb2+ 3. Kd1 Qxc2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=3k3r/1Q1p2p1/3pqpN1/p3b1Pp/1n5P/3RP3/PPP5/1K2R3%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,9 @@
+{
+	"title": "Simple Calculations",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-06-28",
+	"publish_time": 1277708400,
+	"fen": "8/8/K4p1p/5Pp1/2p3P1/7P/2P5/k7 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/K4p1p/5Pp1/2p3P1/7P/2P5/k7 w - - 0 1\"]\r\n\r\n1. Kb5 c3 2. Kc4 Kb2 3. Kd3\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=8/8/K4p1p/5Pp1/2p3P1/7P/2P5/k7%20w%20-%20-%200%201&size=2"
+}

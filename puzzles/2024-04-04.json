@@ -1,0 +1,8 @@
+{
+	"title": "Candidate Highlight: Hikaru's Knockout",
+	"url": "https://www.chess.com/daily/2024-04-04",
+	"publish_time": 1712214000,
+	"fen": "4r1bk/1pq3pB/8/6N1/7Q/P1n5/6PP/7K b - - 0 37",
+	"pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.07.07\"]\r\n[Round \"?\"]\r\n[White \"jefferyx\"]\r\n[Black \"Hikaru\"]\r\n[Result \"0-1\"]\r\n[ECO \"A06\"]\r\n[WhiteElo \"2905\"]\r\n[BlackElo \"3217\"]\r\n[FEN \"4r1bk/1pq3pB/8/6N1/7Q/P1n5/6PP/7K b - - 0 37\"]\r\n\r\n37... Qf4 38. Qxf4 Re1+ 39. Qf1 Rxf1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4r1bk/1pq3pB/8/6N1/7Q/P1n5/6PP/7K%20b%20-%20-%200%2037&size=2"
+}

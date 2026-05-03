@@ -1,0 +1,8 @@
+{
+	"title": "Dark Square Woes",
+	"url": "https://www.chess.com/daily/2022-12-02",
+	"publish_time": 1669968000,
+	"fen": "5r2/1rq2pk1/p1p3p1/n3p3/P3P3/2P2Q2/b4P2/R1B1K1R1 w Q - 0 28",
+	"pgn": "[Event \"St. Martin op\"]\r\n[Site \"St. Martin op\"]\r\n[Date \"1991.??.??\"]\r\n[Round \"?\"]\r\n[White \"Kamran G Shirazi\"]\r\n[Black \"Oscar Humberto Castro Rojas\"]\r\n[Result \"1-0\"]\r\n[ECO \"C77\"]\r\n[SetUp \"1\"]\r\n[FEN \"5r2/1rq2pk1/p1p3p1/n3p3/P3P3/2P2Q2/b4P2/R1B1K1R1 w Q - 0 28\"]\r\n[PlyCount \"5\"]\r\n[EventDate \"1991.??.??\"]\r\n\r\n28. Bh6+ Kxh6 29. Qf6 Qd8 30. Rh1# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5r2/1rq2pk1/p1p3p1/n3p3/P3P3/2P2Q2/b4P2/R1B1K1R1%20w%20Q%20-%200%2028&size=2"
+}

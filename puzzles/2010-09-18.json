@@ -1,0 +1,9 @@
+{
+	"title": "Amazing Play",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2010-09-18",
+	"publish_time": 1284793200,
+	"fen": "7r/2P1B2p/2k3P1/6P1/7K/7p/8/8 w KQkq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"7r/2P1B2p/2k3P1/6P1/7K/7p/8/8 w KQkq - 0 1\"]\r\n\r\n1. g7 h2 2. gxh8=Q h1=Q+ 3. Kg3 Qg1+ 4. Kf4 Qf1+ 5. Kg4 Qg2+ 6. Kf5 Qf3+ 7. Ke6 Qd5+ 8. Kf6 Qd4+ 9. Kf7 Qxh8 10. Bd8 Kd7 11. c8=Q+ Kxc8 12. Bf6 h6 13. g6 \r\n*",
+	"image": "https://www.chess.com/dynboard?fen=7r/2P1B2p/2k3P1/6P1/7K/7p/8/8%20w%20KQkq%20-%200%201&size=2"
+}

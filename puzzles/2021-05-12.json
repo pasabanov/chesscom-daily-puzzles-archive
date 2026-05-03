@@ -1,0 +1,8 @@
+{
+	"title": "Cavalry Charge",
+	"url": "https://www.chess.com/daily/2021-05-12",
+	"publish_time": 1620802800,
+	"fen": "3r2k1/5ppp/p5q1/1p3n2/3nQ3/NP5P/P4PPB/R4RK1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/5ppp/p5q1/1p3n2/3nQ3/NP5P/P4PPB/R4RK1 b - - 0 1\"]\r\n\r\n1...Ng3 2.Qe3 Nde2+ 3.Qxe2 Nxe2+ *",
+	"image": "https://www.chess.com/dynboard?fen=3r2k1/5ppp/p5q1/1p3n2/3nQ3/NP5P/P4PPB/R4RK1%20b%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Nowhere to Run",
+	"url": "https://www.chess.com/daily/2025-09-27",
+	"publish_time": 1758956400,
+	"fen": "r4r1k/pbpR2pp/1pn1Q3/1q2bpP1/1P2BN2/1PP2PP1/4N3/2K5 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r4r1k/pbpR2pp/1pn1Q3/1q2bpP1/1P2BN2/1PP2PP1/4N3/2K5 w - - 0 1\"]\r\n\r\n1. Ng6+ hxg6 2. Rd1 Qxe2 3. Rh1+ Qh2 4. Rxh2# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4r1k/pbpR2pp/1pn1Q3/1q2bpP1/1P2BN2/1PP2PP1/4N3/2K5%20w%20-%20-%200%201&size=2"
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Decongestant",
+	"url": "https://www.chess.com/daily/2021-09-11",
+	"publish_time": 1631343600,
+	"fen": "4q1k1/1r2rpp1/1n4P1/1nbQP3/6P1/1pB1NR2/1P2B3/K6R w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4q1k1/1r2rpp1/1n4P1/1nbQP3/6P1/1pB1NR2/1P2B3/K6R w - - 0 1\"]\r\n\r\n1.Rh8+ Kxh8 2.Rh3+ Kg8 3.Rh8+ Kxh8 4.Qh1+ Kg8 5.Qh7+ Kf8 6.Qh8# *",
+	"image": "https://www.chess.com/dynboard?fen=4q1k1/1r2rpp1/1n4P1/1nbQP3/6P1/1pB1NR2/1P2B3/K6R%20w%20-%20-%200%201&size=2"
+}

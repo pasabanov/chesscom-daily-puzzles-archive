@@ -1,0 +1,8 @@
+{
+	"title": "Nasty Double Check",
+	"url": "https://www.chess.com/daily/2017-03-18",
+	"publish_time": 1489820400,
+	"fen": "rnbqr1k1/ppp4p/1b4p1/3pN3/1P6/P2B1Qp1/1BPP1PPP/R3K2R w KQq - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rnbqr1k1/ppp4p/1b4p1/3pN3/1P6/P2B1Qp1/1BPP1PPP/R3K2R w KQq - 0 1\"]\r\n\r\n1. Qf7+ Kh8 2. Qf8+ Rxf8 3. Nf7+ Kg8 4. Nh6#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=rnbqr1k1/ppp4p/1b4p1/3pN3/1P6/P2B1Qp1/1BPP1PPP/R3K2R%20w%20KQq%20-%200%201&size=2"
+}

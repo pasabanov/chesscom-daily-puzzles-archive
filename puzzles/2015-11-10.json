@@ -1,0 +1,9 @@
+{
+	"title": "The Danger Zone",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2015-11-10",
+	"publish_time": 1447142400,
+	"fen": "3r3r/ppqnk1pp/2pNbn2/5p2/3Pp3/Q3P3/PP2BPPP/R1B2RK1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r3r/ppqnk1pp/2pNbn2/5p2/3Pp3/Q3P3/PP2BPPP/R1B2RK1 w - - 0 1\"]\r\n\r\n1. Nxf5+ Kf7 2. Qe7+ Kg6 3. Qxg7+ Kxf5 4. g4+ Nxg4 5. Bxg4#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=3r3r/ppqnk1pp/2pNbn2/5p2/3Pp3/Q3P3/PP2BPPP/R1B2RK1%20w%20-%20-%200%201&size=2"
+}

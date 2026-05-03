@@ -1,0 +1,8 @@
+{
+	"title": "Hidden Rook + Bishop Alignment",
+	"url": "https://www.chess.com/daily/2025-03-29",
+	"publish_time": 1743231600,
+	"fen": "4k3/4r1pp/r7/2p5/b4K1P/6P1/1R1B1P2/Q7 b - - 3 23",
+	"pgn": "[White \"sethwmd\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"4k3/4r1pp/r7/2p5/b4K1P/6P1/1R1B1P2/Q7 b - - 3 23\"]\r\n\r\n23... Rf6+ 24. Kg4 Bd7+ 25. Kh5 Re5+ 26. Bg5 Rh6# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=4k3/4r1pp/r7/2p5/b4K1P/6P1/1R1B1P2/Q7%20b%20-%20-%203%2023&size=2"
+}

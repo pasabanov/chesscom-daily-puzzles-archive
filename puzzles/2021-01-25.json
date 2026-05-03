@@ -1,0 +1,8 @@
+{
+	"title": "Time",
+	"url": "https://www.chess.com/daily/2021-01-25",
+	"publish_time": 1611561600,
+	"fen": "8/1p6/q6p/5K1k/1P4p1/3Q4/6P1/8 w - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"8/1p6/q6p/5K1k/1P4p1/3Q4/6P1/8 w - - 0 1\"]\r\n\r\n1.Qxa6 bxa6 2.g3 a5 3.b5 a4 4.b6 a3 5.b7 a2 6.b8=Q a1=Q 7.Qe8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=8/1p6/q6p/5K1k/1P4p1/3Q4/6P1/8%20w%20-%20-%200%201&size=2"
+}

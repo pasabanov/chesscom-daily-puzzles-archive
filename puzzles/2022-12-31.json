@@ -1,0 +1,8 @@
+{
+	"title": "Auld Lang Syne",
+	"url": "https://www.chess.com/daily/2022-12-31",
+	"publish_time": 1672473600,
+	"fen": "4k1nr/1R1b1pb1/r3p1pp/p2p2B1/3P3P/q1NB4/P1P2PP1/4K2R w Kk - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"4k1nr/1R1b1pb1/r3p1pp/p2p2B1/3P3P/q1NB4/P1P2PP1/4K2R w Kk - 0 1\"]\r\n\r\n1. Rb8+ Bc8 2. Bb5+ Kf8 3. Rxc8# *",
+	"image": "https://www.chess.com/dynboard?fen=4k1nr/1R1b1pb1/r3p1pp/p2p2B1/3P3P/q1NB4/P1P2PP1/4K2R%20w%20Kk%20-%200%201&size=2"
+}

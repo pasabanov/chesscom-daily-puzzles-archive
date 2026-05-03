@@ -1,0 +1,8 @@
+{
+	"title": "Fishing in the Dark",
+	"url": "https://www.chess.com/daily/2019-12-28",
+	"publish_time": 1577520000,
+	"fen": "1R3bk1/7p/2r5/p2pBr2/q2P1Pp1/2p1P3/4Q2R/6K1 w - - 0 1",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"1R3bk1/7p/2r5/p2pBr2/q2P1Pp1/2p1P3/4Q2R/6K1 w - - 0 1\"]\r\n\r\n1. Qxg4+ Rg6 2. Qxg6+ hxg6 3. Rh8+ Kf7 4. Rh7+ Kg8 5. Rg7+ Kh8 6. Rf7+ Kg8 7.\r\nRbxf8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1R3bk1/7p/2r5/p2pBr2/q2P1Pp1/2p1P3/4Q2R/6K1%20w%20-%20-%200%201&size=2"
+}

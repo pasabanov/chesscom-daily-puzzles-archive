@@ -1,0 +1,8 @@
+{
+	"title": "Distant Measures",
+	"url": "https://www.chess.com/daily/2020-04-15",
+	"publish_time": 1586934000,
+	"fen": "5k2/5pbp/3r1np1/8/8/1P2R1PP/p1R2P1K/8 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[SetUp \"1\"]\r\n[FEN \"5k2/5pbp/3r1np1/8/8/1P2R1PP/p1R2P1K/8 b - - 0 1\"]\r\n\r\n1... Ng4+ 2. hxg4 Bb2 3. Rc8+ Kg7 *",
+	"image": "https://www.chess.com/dynboard?fen=5k2/5pbp/3r1np1/8/8/1P2R1PP/p1R2P1K/8%20b%20-%20-%200%201&size=2"
+}

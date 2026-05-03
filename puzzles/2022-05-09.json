@@ -1,0 +1,8 @@
+{
+	"title": "Duras' Day",
+	"url": "https://www.chess.com/daily/2022-05-09",
+	"publish_time": 1652079600,
+	"fen": "5bk1/2p3p1/5p1p/1pB5/4N3/1r3R2/5PKP/8 b - - 1 38",
+	"pgn": "[Event \"It\"]\r\n[Site \"Hilversum (Netherlands)\"]\r\n[Date \"1903.??.??\"]\r\n[Round \"?\"]\r\n[White \"Rudolf Johannes Loman\"]\r\n[Black \"Oldrich Duras\"]\r\n[Result \"0-1\"]\r\n[FEN \"5bk1/2p3p1/5p1p/1pB5/4N3/1r3R2/5PKP/8 b - - 1 38\"]\r\n\r\n38...Rxf3 39.Kxf3 f5 40.Nc3 Bxc5 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5bk1/2p3p1/5p1p/1pB5/4N3/1r3R2/5PKP/8%20b%20-%20-%201%2038&size=2"
+}
