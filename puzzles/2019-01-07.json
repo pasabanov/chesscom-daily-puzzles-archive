@@ -1,0 +1,8 @@
+{
+	"title": "Rooks Cooperation",
+	"url": "https://www.chess.com/daily/2019-01-07",
+	"publish_time": 1546848000,
+	"fen": "kn6/2Q5/r1pR4/p3P3/1pK1Pq2/5r2/PPPR4/8 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"kn6/2Q5/r1pR4/p3P3/1pK1Pq2/5r2/PPPR4/8 w - - 0 1\"]\r\n\r\n1. Qxb8+ Kxb8 2. Rd8+ Kb7 3. R2d7+ Kb6 4. Rb8#\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=kn6/2Q5/r1pR4/p3P3/1pK1Pq2/5r2/PPPR4/8%20w%20-%20-%200%201&size=2"
+}

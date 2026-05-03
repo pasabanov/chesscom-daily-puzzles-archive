@@ -1,0 +1,8 @@
+{
+	"title": "Sink or Swim",
+	"url": "https://www.chess.com/daily/2019-11-06",
+	"publish_time": 1573027200,
+	"fen": "2r2r2/1p4kp/5bp1/p2B4/nn2Pp2/3q1PN1/1P5Q/K5R1 w - - 0 2",
+	"pgn": "[Result \"1-0\"]\r\n[FEN \"2r2r2/1p4kp/5bp1/p2B4/nn2Pp2/3q1PN1/1P5Q/K5R1 w - - 0 2\"]\r\n\r\n2. Nf5+ Kh8 3. Qxh7+ Kxh7 4. Rh1+ Bh4 5. Rxh4# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2r2r2/1p4kp/5bp1/p2B4/nn2Pp2/3q1PN1/1P5Q/K5R1%20w%20-%20-%200%202&size=2"
+}
