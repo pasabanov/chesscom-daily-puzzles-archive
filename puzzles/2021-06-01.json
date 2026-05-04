@@ -1,0 +1,8 @@
+{
+	"title": "Loose Change",
+	"url": "https://www.chess.com/daily/2021-06-01",
+	"publish_time": 1622530800,
+	"fen": "1r3rk1/pB3pb1/6p1/2B1p2p/Q7/P1Pq2Pb/5P1P/1R2R1K1 b - - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/pB3pb1/6p1/2B1p2p/Q7/P1Pq2Pb/5P1P/1R2R1K1 b - - 0 1\"]\r\n\r\n1...Rxb7 2.Rxb7 Qd5 3.Qe4 Qxc5 *",
+	"image": "https://www.chess.com/dynboard?fen=1r3rk1/pB3pb1/6p1/2B1p2p/Q7/P1Pq2Pb/5P1P/1R2R1K1%20b%20-%20-%200%201&size=2"
+}
