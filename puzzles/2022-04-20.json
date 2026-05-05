@@ -1,0 +1,8 @@
+{
+	"title": "Go Fisch",
+	"url": "https://www.chess.com/daily/2022-04-20",
+	"publish_time": 1650438000,
+	"fen": "2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 w - - 0 38",
+	"pgn": "[Event \"Ch USA (juniors)\"]\r\n[Site \"USA\"]\r\n[Date \"1957.??.??\"]\r\n[White \"Bobby Fischer\"]\r\n[Black \"Bennett John\"]\r\n[Result \"1-0\"]\r\n[FEN \"2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 w - - 0 38\"]\r\n\r\n38.Rd8+ Qxd8 39.Qxc3+ Qf6 40.Qxf6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1%20w%20-%20-%200%2038&size=2"
+}

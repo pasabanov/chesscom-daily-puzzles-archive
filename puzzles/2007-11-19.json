@@ -1,0 +1,9 @@
+{
+	"title": "Open the File!",
+	"comments": "",
+	"url": "https://www.chess.com/daily/2007-11-19",
+	"publish_time": 1195459200,
+	"fen": "1b1qrk2/2r3p1/bn2ppP1/3p3Q/3P1P1P/nP4N1/P4P2/KBR3R1 w - - 0 1",
+	"pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1b1qrk2/2r3p1/bn2ppP1/3p3Q/3P1P1P/nP4N1/P4P2/KBR3R1 w - - 0 1\"]\r\n\r\n1. Nf5 exf5 2. Qh8+ Ke7 3. Rce1+ Kd7 (3... Kd6 4. Rxe8) 4. Bxf5+ Kc6 5. Rxe8\r\n*",
+	"image": "https://www.chess.com/dynboard?fen=1b1qrk2/2r3p1/bn2ppP1/3p3Q/3P1P1P/nP4N1/P4P2/KBR3R1%20w%20-%20-%200%201&size=2"
+}

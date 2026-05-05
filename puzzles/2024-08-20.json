@@ -1,0 +1,8 @@
+{
+	"title": "Pingo!",
+	"url": "https://www.chess.com/daily/2024-08-20",
+	"publish_time": 1724137200,
+	"fen": "r3kb1r/pp3ppp/1qn1p2n/1B1pPb2/3P4/1PN1BN1P/R1P2PP1/3QK2R b Kkq - 0 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"r3kb1r/pp3ppp/1qn1p2n/1B1pPb2/3P4/1PN1BN1P/R1P2PP1/3QK2R b Kkq - 0 1\"]\r\n\r\n1... Bb4 2. Bxc6+ Qxc6 3. Bd2 Bxc3 4. Bxc3 Qxc3+ *",
+	"image": "https://www.chess.com/dynboard?fen=r3kb1r/pp3ppp/1qn1p2n/1B1pPb2/3P4/1PN1BN1P/R1P2PP1/3QK2R%20b%20Kkq%20-%200%201&size=2"
+}

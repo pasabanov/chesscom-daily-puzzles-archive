@@ -1,0 +1,8 @@
+{
+	"title": "Almira's Surprise Party",
+	"url": "https://www.chess.com/daily/2022-02-17",
+	"publish_time": 1645084800,
+	"fen": "4q3/4nkbr/pp1P1r1p/3Np1pP/P5P1/1B3P2/1P6/3R1RK1 w - - 0 35",
+	"pgn": "[Event \"French Championship\"]\r\n[Site \"Val d'Isere FRA\"]\r\n[Date \"2002.08.23\"]\r\n[Round \"5\"]\r\n[White \"Almira Fyodorovna Skripchenko\"]\r\n[Black \"Laurent Fressinet\"]\r\n[Result \"1-0\"]\r\n[FEN \"4q3/4nkbr/pp1P1r1p/3Np1pP/P5P1/1B3P2/1P6/3R1RK1 w - - 0 35\"]\r\n\r\n35.Nxf6+ Kxf6 36.d7 Qd8 37.Rd6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4q3/4nkbr/pp1P1r1p/3Np1pP/P5P1/1B3P2/1P6/3R1RK1%20w%20-%20-%200%2035&size=2"
+}
