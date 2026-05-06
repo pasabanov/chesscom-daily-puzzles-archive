@@ -1,0 +1,8 @@
+{
+	"title": "Power Play",
+	"url": "https://www.chess.com/daily/2021-03-13",
+	"publish_time": 1615622400,
+	"fen": "5r2/7k/q1p4p/2P2b2/4r1pB/1PP1N3/PK1Q2PP/7R b - - 1 1",
+	"pgn": "[Result \"*\"]\r\n[FEN \"5r2/7k/q1p4p/2P2b2/4r1pB/1PP1N3/PK1Q2PP/7R b - - 1 1\"]\r\n\r\n1...Ra8 2.a4 Rxa4 3.bxa4 Qxa4 4.Nxf5 Rb8+ 5.Kc1 Qa1+ 6.Kc2 Rb2+ 7.Kd3 \r\nRxd2+ 8.Kxd2 Qxh1 *",
+	"image": "https://www.chess.com/dynboard?fen=5r2/7k/q1p4p/2P2b2/4r1pB/1PP1N3/PK1Q2PP/7R%20b%20-%20-%201%201&size=2"
+}
