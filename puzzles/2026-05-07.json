@@ -1,0 +1,8 @@
+{
+	"title": "Stage Dive",
+	"url": "https://www.chess.com/daily/2026-05-07",
+	"publish_time": 1778137200,
+	"fen": "6k1/2R2ppp/rn1Pp2n/1p6/1P1p1bP1/p2P1B1P/5PK1/8 w - - 0 1",
+	"pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2R2ppp/rn1Pp2n/1p6/1P1p1bP1/p2P1B1P/5PK1/8 w - - 0 1\"]\r\n\r\n1. Rc8+ Nxc8 2. d7 g5 3. dxc8=Q+ Kg7 4. Qxa6 *",
+	"image": "https://www.chess.com/dynboard?fen=6k1/2R2ppp/rn1Pp2n/1p6/1P1p1bP1/p2P1B1P/5PK1/8%20w%20-%20-%200%201&size=2"
+}
