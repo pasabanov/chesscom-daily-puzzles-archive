@@ -1,0 +1,8 @@
+{
+	"title": "Some Strings Attached",
+	"url": "https://www.chess.com/daily/2026-05-19",
+	"publish_time": 1779174000,
+	"fen": "2r1r1k1/1p1b1p1p/p4np1/3p4/5P1Q/3qB2P/P5P1/2R1RNK1 w - - 0 24",
+	"pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"2r1r1k1/1p1b1p1p/p4np1/3p4/5P1Q/3qB2P/P5P1/2R1RNK1 w - - 0 24\"]\r\n\r\n24. Rxc8 Bxc8 25. Qxf6 *",
+	"image": "https://www.chess.com/dynboard?fen=2r1r1k1/1p1b1p1p/p4np1/3p4/5P1Q/3qB2P/P5P1/2R1RNK1%20w%20-%20-%200%2024&size=2"
+}
