@@ -1,0 +1,36 @@
+name: Fetch Random Chess Puzzles
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Fetch puzzles
+        run: |
+          python download-random-puzzles.py $(((4 + 1) * 60 * 4)) 15
+
+      - name: Commit and push
+        run: |
+          git add .
+          count=$(git diff --cached --name-only --diff-filter=A | wc -l)
+
+          if [ "$count" -eq 0 ]; then
+            echo "No changes"
+          else
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+
+            git commit -m "Added $count puzzles"
+            git push
+          fi
