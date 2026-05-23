@@ -1,0 +1,35 @@
+name: Daily Fetch Chess Puzzle
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Fetch puzzle
+        run: |
+          python daily.py
+
+      - name: Commit and push
+        run: |
+          git add .
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            date=$(date -u +%Y.%m.%d)
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git commit -m "Added puzzle for $date"
+            git push
+          fi
