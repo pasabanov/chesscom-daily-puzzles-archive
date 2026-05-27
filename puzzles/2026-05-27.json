@@ -1,0 +1,8 @@
+{
+	"title": "Horsefield",
+	"url": "https://www.chess.com/daily/2026-05-27",
+	"publish_time": 1779865200,
+	"fen": "5k2/p7/1p1N2q1/2pnQN2/P4n1P/1P5P/7K/8 w - - 0 1",
+	"pgn": "[Event \"Ch Argentina\"]\r\n[Site \"Argentina\"]\r\n[Date \"1989.??.??\"]\r\n[White \"Panno Oscar (ARG)\"]\r\n[Black \"Schuster Carlos (ARG)\"]\r\n[Result \"1-0\"]\r\n[FEN \"5k2/p7/1p1N2q1/2pnQN2/P4n1P/1P5P/7K/8 w - - 0 1\"]\r\n\r\n1. Qh8+ Qg8 2. Qh6+ Qg7 3. Qxg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5k2/p7/1p1N2q1/2pnQN2/P4n1P/1P5P/7K/8%20w%20-%20-%200%201&size=2"
+}
