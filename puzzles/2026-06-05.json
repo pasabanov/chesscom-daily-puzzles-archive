@@ -1,0 +1,8 @@
+{
+	"title": "🧩 Bliss",
+	"url": "https://www.chess.com/daily/2026-06-05",
+	"publish_time": 1780642800,
+	"fen": "5b2/kpr3qp/pR6/2p1N3/7r/2PP1Q1P/5P2/1R5K w - - 0 38",
+	"pgn": "[Event \"1st Lecci International Open\"]\n[Date \"2026.05.16\"]\n[Round \"8\"]\n[White \"Missed Opportunity Maze, Sebastien\"]\n[Black \"Maurizzi, MarcAndria\"]\n[Result \"1-0\"]\n[FEN \"5b2/kpr3qp/pR6/2p1N3/7r/2PP1Q1P/5P2/1R5K w - - 0 38\"]\n[WhiteElo \"2519\"]\n[BlackElo \"2610\"]\n\n38. Qxb7+ Rxb7 39. Nc6+ Ka8 40. Rxa6+ Ra7 41. Rb8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=5b2/kpr3qp/pR6/2p1N3/7r/2PP1Q1P/5P2/1R5K%20w%20-%20-%200%2038&size=2"
+}
