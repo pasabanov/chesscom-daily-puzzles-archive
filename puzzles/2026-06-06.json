@@ -1,0 +1,8 @@
+{
+	"title": "Royal Trail",
+	"url": "https://www.chess.com/daily/2026-06-06",
+	"publish_time": 1780729200,
+	"fen": "6k1/5p2/1p2p1p1/1P6/P1BbbPK1/1r4P1/7P/3R3R b - - 0 39",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\n[Black \"JohanVA\"]\n[Result \"0-1\"]\n[FEN \"6k1/5p2/1p2p1p1/1P6/P1BbbPK1/1r4P1/7P/3R3R b - - 0 39\"]\n\n39... Bf5+ 40. Kg5 Kg7 41. Rxd4 f6+ 42. Kh4 Kh6 43. g4 g5+ 44.fxg5+ fxg5# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6k1/5p2/1p2p1p1/1P6/P1BbbPK1/1r4P1/7P/3R3R%20b%20-%20-%200%2039&size=2"
+}
