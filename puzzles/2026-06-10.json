@@ -1,0 +1,8 @@
+{
+	"title": "Square Snare",
+	"url": "https://www.chess.com/daily/2026-06-10",
+	"publish_time": 1781074800,
+	"fen": "8/1R3ppp/pnppk3/8/Pr6/1P3NPP/2P3K1/8 w - - 0 29",
+	"pgn": "[White \"EnPassantFork\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"*\"]\n[FEN \"8/1R3ppp/pnppk3/8/Pr6/1P3NPP/2P3K1/8 w - - 0 29\"]\n\n29. c3 Rxb3 30. Nd4+ Ke5 31. Nxb3 *",
+	"image": "https://www.chess.com/dynboard?fen=8/1R3ppp/pnppk3/8/Pr6/1P3NPP/2P3K1/8%20w%20-%20-%200%2029&size=2"
+}
