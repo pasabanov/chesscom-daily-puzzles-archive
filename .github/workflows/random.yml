@@ -23,6 +23,7 @@ jobs:
       - name: Commit and push
         run: |
           git add .
+          git pull --rebase --autostash
           count=$(git diff --cached --name-only --diff-filter=A | wc -l)
 
           if [ "$count" -eq 0 ]; then
