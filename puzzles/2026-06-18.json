@@ -1,0 +1,8 @@
+{
+	"title": "Circle Dance",
+	"url": "https://www.chess.com/daily/2026-06-18",
+	"publish_time": 1781766000,
+	"fen": "3rrq1k/1p1b2p1/pn2p1Q1/3pP3/3P3P/P4N2/1P1B1PP1/4K2R w K - 0 1",
+	"pgn": "[Result \"*\"]\n[FEN \"3rrq1k/1p1b2p1/pn2p1Q1/3pP3/3P3P/P4N2/1P1B1PP1/4K2R w K - 0 1\"]\n\n1. Ng5 Qf5 2. Nf7+ Kg8 3. Nh6+ Kh8 4. Nxf5 *",
+	"image": "https://www.chess.com/dynboard?fen=3rrq1k/1p1b2p1/pn2p1Q1/3pP3/3P3P/P4N2/1P1B1PP1/4K2R%20w%20K%20-%200%201&size=2"
+}
