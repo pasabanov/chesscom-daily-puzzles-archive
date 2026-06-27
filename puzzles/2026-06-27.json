@@ -1,0 +1,8 @@
+{
+	"title": "Uh-oh, Yo-yo!",
+	"url": "https://www.chess.com/daily/2026-06-27",
+	"publish_time": 1782543600,
+	"fen": "5bk1/8/p1Q3p1/2p1K1P1/7q/1P2B3/P7/8 b - - 0 1",
+	"pgn": "[Date \"2006\"]\n[White \"b3 pawn added Kamsky\"]\n[Black \"Aronian\"]\n[Result \"*\"]\n[FEN \"5bk1/8/p1Q3p1/2p1K1P1/7q/1P2B3/P7/8 b - - 0 1\"]\n\n1... Qh8+ 2. Kf4 Bd6+ 3. Qxd6 Qh2+ 4. Ke4 Qxd6 *",
+	"image": "https://www.chess.com/dynboard?fen=5bk1/8/p1Q3p1/2p1K1P1/7q/1P2B3/P7/8%20b%20-%20-%200%201&size=2"
+}
