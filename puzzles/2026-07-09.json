@@ -1,0 +1,8 @@
+{
+	"title": "Pardon the Interrup...",
+	"url": "https://www.chess.com/daily/2026-07-09",
+	"publish_time": 1783580400,
+	"fen": "3q2k1/1p4pp/8/6P1/8/1P2Q3/b5BP/3rR1K1 w - - 0 30",
+	"pgn": "[Event \"Izt\"]\n[Site \"Biel (Switzerland)\"]\n[Date \"1993.??.??\"]\n[Round \"7\"]\n[White \"Van Wely Loek (NED)\"]\n[Black \"Brunner Lucas (SUI)\"]\n[Result \"1-0\"]\n[FEN \"3q2k1/1p4pp/8/6P1/8/1P2Q3/b5BP/3rR1K1 w - - 0 30\"]\n[WhiteElo \"2585\"]\n[BlackElo \"2475\"]\n\n30. Bd5+ Rxd5 31. Qe6+ Kh8 32. Qe8+ Qxe8 33. Rxe8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=3q2k1/1p4pp/8/6P1/8/1P2Q3/b5BP/3rR1K1%20w%20-%20-%200%2030&size=2"
+}
