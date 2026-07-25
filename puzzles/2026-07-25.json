@@ -1,0 +1,8 @@
+{
+	"title": "Royal Chill",
+	"url": "https://www.chess.com/daily/2026-07-25",
+	"publish_time": 1784962800,
+	"fen": "1r5r/2R5/3Qpk2/1q1p1p1p/4b3/8/5PPK/8 w - - 0 45",
+	"pgn": "[White \"JohanVA\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"1-0\"]\n[FEN \"1r5r/2R5/3Qpk2/1q1p1p1p/4b3/8/5PPK/8 w - - 0 45\"]\n\n45. f4 Rh7 46. Qe5+ Kg6 47. Qxe6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r5r/2R5/3Qpk2/1q1p1p1p/4b3/8/5PPK/8%20w%20-%20-%200%2045&size=2"
+}
