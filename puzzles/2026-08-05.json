@@ -1,0 +1,8 @@
+{
+	"title": "Swing, Swing",
+	"url": "https://www.chess.com/daily/2026-08-05",
+	"publish_time": 1785913200,
+	"fen": "6k1/1R5p/4N1p1/5p2/2P5/bP6/2r3P1/5K2 w - - 0 41",
+	"pgn": "[Event \"Primorsko op\"]\n[Site \"Primorsko\"]\n[Date \"1989.??.??\"]\n[White \"Koen, Maja\"]\n[Black \"Korkina, Svetlana\"]\n[Result \"1-0\"]\n[FEN \"6k1/1R5p/4N1p1/5p2/2P5/bP6/2r3P1/5K2 w - - 0 41\"]\n\n41. Rg7+ Kh8 42. Ra7 Bb2 43. Ra8# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6k1/1R5p/4N1p1/5p2/2P5/bP6/2r3P1/5K2%20w%20-%20-%200%2041&size=2"
+}
