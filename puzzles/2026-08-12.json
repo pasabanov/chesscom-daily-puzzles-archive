@@ -1,0 +1,8 @@
+{
+	"title": "Dream Team",
+	"url": "https://www.chess.com/daily/2026-08-12",
+	"publish_time": 1786518000,
+	"fen": "8/8/1RN3k1/p7/3P4/5Pb1/PP2r1p1/6K1 b - - 0 45",
+	"pgn": "[Event \"Oberliga Northeast 1998/99\"]\n[Site \"Germany\"]\n[Date \"1999.??.??\"]\n[Round \"?\"]\n[White \"Beblik Carsten\"]\n[Black \"Guth Thomas\"]\n[Result \"*\"]\n[SetUp \"1\"]\n[FEN \"8/8/1RN3k1/p7/3P4/5Pb1/PP2r1p1/6K1 b - - 0 45\"]\n[WhiteElo \"2238\"]\n[BlackElo \"2262\"]\n\n45... Bf2+ 46. Kxg2 Bxd4+ 47. Kf1 Rf2+ 48. Ke1 Bxb6 *",
+	"image": "https://www.chess.com/dynboard?fen=8/8/1RN3k1/p7/3P4/5Pb1/PP2r1p1/6K1%20b%20-%20-%200%2045&size=2"
+}
