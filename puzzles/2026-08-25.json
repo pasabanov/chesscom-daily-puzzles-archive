@@ -1,0 +1,8 @@
+{
+	"title": "Set the Table",
+	"url": "https://www.chess.com/daily/2026-08-25",
+	"publish_time": 1787641200,
+	"fen": "8/p4p2/6kp/2NR1p2/4nP2/PPB1P2P/7r/4K3 b - - 0 41",
+	"pgn": "[Event \"It\"]\n[Site \"Vina del Mar (Chile)\"]\n[Date \"1945.??.??\"]\n[White \"Salas Romo Julio\"]\n[Black \"Castillo Larenas Mariano\"]\n[Result \"0-1\"]\n[FEN \"8/p4p2/6kp/2NR1p2/4nP2/PPB1P2P/7r/4K3 b - - 0 41\"]\n\n41... Rh1+ 42. Ke2 Nxc3+ 43. Kf2 Nxd5 0-1",
+	"image": "https://www.chess.com/dynboard?fen=8/p4p2/6kp/2NR1p2/4nP2/PPB1P2P/7r/4K3%20b%20-%20-%200%2041&size=2"
+}
