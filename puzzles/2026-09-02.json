@@ -1,0 +1,8 @@
+{
+	"title": "Ready, Set, Push!",
+	"url": "https://www.chess.com/daily/2026-09-02",
+	"publish_time": 1788332400,
+	"fen": "3r1r1k/1bp3p1/pbnp2qp/8/3BPp2/PB3P2/1P1QN1PP/3RR1K1 b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Inspiration\"]\n[Black \"JohanVA\"]\n[Result \"*\"]\n[FEN \"3r1r1k/1bp3p1/pbnp2qp/8/3BPp2/PB3P2/1P1QN1PP/3RR1K1 b - - 0 1\"]\n\n1... Nxd4 2. Nxd4 c5 3. Ne6 c4+ 4. Kh1 Qxe6 *",
+	"image": "https://www.chess.com/dynboard?fen=3r1r1k/1bp3p1/pbnp2qp/8/3BPp2/PB3P2/1P1QN1PP/3RR1K1%20b%20-%20-%200%201&size=2"
+}
