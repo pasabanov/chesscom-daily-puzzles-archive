@@ -1,0 +1,8 @@
+{
+	"title": "Just Tap It In ⛳",
+	"url": "https://www.chess.com/daily/2026-09-03",
+	"publish_time": 1788418800,
+	"fen": "2b3k1/6q1/p2pn1pp/P1pN1pPP/1r2P3/2b1BPQ1/2PRB3/2K4R b - - 0 1",
+	"pgn": "[White \"Daily Puzzle Collaboration\"]\n[Black \"EnPassantFork / Fischwitsch\"]\n[Result \"0-1\"]\n[FEN \"2b3k1/6q1/p2pn1pp/P1pN1pPP/1r2P3/2b1BPQ1/2PRB3/2K4R b - - 0 1\"]\n\n1... Ra4 2. Nxc3 Qxc3 3. Rd3 Ra1# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=2b3k1/6q1/p2pn1pp/P1pN1pPP/1r2P3/2b1BPQ1/2PRB3/2K4R%20b%20-%20-%200%201&size=2"
+}
