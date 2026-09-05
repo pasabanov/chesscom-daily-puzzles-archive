@@ -1,0 +1,8 @@
+{
+	"title": "Siren's Call",
+	"url": "https://www.chess.com/daily/2026-09-05",
+	"publish_time": 1788591600,
+	"fen": "r1b2rk1/2p1bp1p/2np4/8/qp1BB1PP/5PN1/PP1Q4/K6R w - - 0 1",
+	"pgn": "[White \"Matt Fletcher/Jeremy Kane\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"1-0\"]\n[FEN \"r1b2rk1/2p1bp1p/2np4/8/qp1BB1PP/5PN1/PP1Q4/K6R w - - 0 1\"]\n\n1. Qg5+ Bxg5 2. Bxh7+ Kxh7 3. hxg5+ Kg6 4. Rh6+ Kxg5 5. Be3# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r1b2rk1/2p1bp1p/2np4/8/qp1BB1PP/5PN1/PP1Q4/K6R%20w%20-%20-%200%201&size=2"
+}
