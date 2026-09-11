@@ -1,0 +1,8 @@
+{
+	"title": "Giddy Up, Mate!",
+	"url": "https://www.chess.com/daily/2026-09-11",
+	"publish_time": 1789110000,
+	"fen": "2rQ1bkr/7p/p3b2n/1pqNN1pP/2p1P3/1P6/P1P1n1P1/5R1K w - - 0 1",
+	"pgn": "[White \"TheEnlighteningsLightning / JohanVA\"]\n[Black \"Daily Puzzle Collaboration\"]\n[Result \"1-0\"]\n[FEN \"2rQ1bkr/7p/p3b2n/1pqNN1pP/2p1P3/1P6/P1P1n1P1/5R1K w - - 0 1\"]\n\n1. Nf6+ Kg7 2. Ne8+ Kg8 3. Qxg5+ Bg7 4. Qxg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=2rQ1bkr/7p/p3b2n/1pqNN1pP/2p1P3/1P6/P1P1n1P1/5R1K%20w%20-%20-%200%201&size=2"
+}
