@@ -1,0 +1,8 @@
+{
+	"title": "The Price of Victory",
+	"url": "https://www.chess.com/daily/2026-09-25",
+	"publish_time": 1790319600,
+	"fen": "r4rk1/p2q1ppp/1nQ5/5P2/Np6/1P2p3/PB3b1P/K1R2R2 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"1-0\"]\n[FEN \"r4rk1/p2q1ppp/1nQ5/5P2/Np6/1P2p3/PB3b1P/K1R2R2 w - - 0 1\"]\n\n1. Qf6 gxf6 2. Rg1+ Bxg1 3. Rxg1+ Kh8 4. Bxf6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=r4rk1/p2q1ppp/1nQ5/5P2/Np6/1P2p3/PB3b1P/K1R2R2%20w%20-%20-%200%201&size=2"
+}

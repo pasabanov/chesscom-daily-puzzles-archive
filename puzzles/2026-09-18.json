@@ -1,0 +1,8 @@
+{
+	"title": "I'll Be Back!",
+	"url": "https://www.chess.com/daily/2026-09-18",
+	"publish_time": 1789714800,
+	"fen": "4r3/R3P1kp/1p4p1/4q3/4p3/P6P/6P1/5Q1K w - - 0 47",
+	"pgn": "[Event \"39th Olympiad Men\"]\n[Site \"Khanty-Mansiysk RUS\"]\n[Date \"2010.09.29\"]\n[Round \"8\"]\n[White \"Mchedlishvili, Mikheil\"]\n[Black \"Podolchenko, Evgeniy\"]\n[Result \"1-0\"]\n[WhiteElo \"2628\"]\n[BlackElo \"2506\"]\n[FEN \"4r3/R3P1kp/1p4p1/4q3/4p3/P6P/6P1/5Q1K w - - 0 47\"]\n\n47. Qf8+ Rxf8 48. e8=Q+ Kf6 49. Qxf8+ 1-0",
+	"image": "https://www.chess.com/dynboard?fen=4r3/R3P1kp/1p4p1/4q3/4p3/P6P/6P1/5Q1K%20w%20-%20-%200%2047&size=2"
+}

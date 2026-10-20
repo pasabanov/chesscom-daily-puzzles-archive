@@ -1,0 +1,8 @@
+{
+	"title": "Tide In, Tide Out",
+	"url": "https://www.chess.com/daily/2026-09-16",
+	"publish_time": 1789542000,
+	"fen": "5n1k/1R6/2p2p1p/3b3P/P2P1q2/3B2R1/1Q3PPK/4r3 b - - 0 47",
+	"pgn": "[Event \"Elekes Memorial GM\"]\n[Site \"Budapest\"]\n[Date \"2000.05.29\"]\n[Round \"8\"]\n[White \"Gyimesi, Zoltan Missed Opportunity\"]\n[Black \"Horvath, Jozsef\"]\n[Result \"0-1\"]\n[ECO \"D56\"]\n[WhiteElo \"2518\"]\n[BlackElo \"2552\"]\n[FEN \"5n1k/1R6/2p2p1p/3b3P/P2P1q2/3B2R1/1Q3PPK/4r3 b - - 0 47\"]\n\n47... Qh4+ 48. Rh3 Rh1+ 49. Kxh1 Qxh3+ 50. Kg1 Qxg2# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5n1k/1R6/2p2p1p/3b3P/P2P1q2/3B2R1/1Q3PPK/4r3%20b%20-%20-%200%2047&size=2"
+}
