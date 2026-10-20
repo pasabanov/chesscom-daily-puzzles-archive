@@ -1,0 +1,8 @@
+{
+	"title": "Double Hop Drop",
+	"url": "https://www.chess.com/daily/2026-10-07",
+	"publish_time": 1791356400,
+	"fen": "6rk/6p1/p2nq2p/1p1p3P/1P3PQN/1NP3R1/4r1PK/8 w - - 0 32",
+	"pgn": "[Result \"1-0\"]\n[FEN \"6rk/6p1/p2nq2p/1p1p3P/1P3PQN/1NP3R1/4r1PK/8 w - - 0 32\"]\n\n32. Ng6+ Kh7 33. Nf8+ Rxf8 34. Qxg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=6rk/6p1/p2nq2p/1p1p3P/1P3PQN/1NP3R1/4r1PK/8%20w%20-%20-%200%2032&size=2"
+}

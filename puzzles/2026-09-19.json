@@ -1,0 +1,8 @@
+{
+	"title": "Queen's g7 Dream",
+	"url": "https://www.chess.com/daily/2026-09-19",
+	"publish_time": 1789801200,
+	"fen": "q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1 w - - 0 50",
+	"pgn": "[Event \"FRG-ch int 4th\"]\n[Site \"Bad Lauterberg\"]\n[Date \"1977.??.??\"]\n[Round \"12\"]\n[White \"Karpov, Anatoly\"]\n[Black \"Csom, Istvan\"]\n[Result \"1-0\"]\n[ECO \"A30\"]\n[WhiteElo \"2690\"]\n[BlackElo \"2535\"]\n[FEN \"q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1 w - - 0 50\"]\n\n50. Nf5 exf5 51. Qh2+ Kg8 52. Qg3+ Kh8 53. Qg7# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1%20w%20-%20-%200%2050&size=2"
+}
