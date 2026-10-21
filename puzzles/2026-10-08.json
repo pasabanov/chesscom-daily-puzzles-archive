@@ -1,0 +1,8 @@
+{
+	"title": "Pwned",
+	"url": "https://www.chess.com/daily/2026-10-08",
+	"publish_time": 1791442800,
+	"fen": "5B2/7R/2p2pp1/8/1Pk1P3/2n1KPP1/1r5P/8 b - - 0 39",
+	"pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.08.18\"]\n[Round \"?\"]\n[White \"Bikfoot\"]\n[Black \"Hendry35 Missed Opportunity\"]\n[Result \"0-1\"]\n[ECO \"A52\"]\n[WhiteElo \"2354\"]\n[BlackElo \"2331\"]\n[FEN \"5B2/7R/2p2pp1/8/1Pk1P3/2n1KPP1/1r5P/8 b - - 0 39\"]\n\n39... g5 40. f4 g4 41. f5 Re2+ 42. Kf4 Rxe4# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=5B2/7R/2p2pp1/8/1Pk1P3/2n1KPP1/1r5P/8%20b%20-%20-%200%2039&size=2"
+}
