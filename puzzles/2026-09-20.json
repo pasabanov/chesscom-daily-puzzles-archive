@@ -1,0 +1,8 @@
+{
+	"title": "Level Up!",
+	"url": "https://www.chess.com/daily/2026-09-20",
+	"publish_time": 1789887600,
+	"fen": "6Q1/5P2/1pp3P1/3p4/pB6/PqPk3p/2b4P/K6R b - - 0 1",
+	"pgn": "[Result \"0-1\"]\n[FEN \"6Q1/5P2/1pp3P1/3p4/pB6/PqPk3p/2b4P/K6R b - - 0 1\"]\n\n1... Bb1 2. Rxb1 Kc2 3. Rxb3 axb3 4. f8=Q b2+ 5. Ka2 b1=Q# 0-1",
+	"image": "https://www.chess.com/dynboard?fen=6Q1/5P2/1pp3P1/3p4/pB6/PqPk3p/2b4P/K6R%20b%20-%20-%200%201&size=2"
+}

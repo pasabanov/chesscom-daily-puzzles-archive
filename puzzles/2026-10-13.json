@@ -1,0 +1,8 @@
+{
+	"title": "Ricochet Saves the Day",
+	"url": "https://www.chess.com/daily/2026-10-13",
+	"publish_time": 1791874800,
+	"fen": "7k/8/3Q2p1/7p/4q3/1P4PP/5rBK/8 w - - 0 37",
+	"pgn": "[Event \"YUG-ch\"]\n[Site \"Yugoslavia\"]\n[Date \"1989.??.??\"]\n[Round \"?\"]\n[White \"Drasko, Milan\"]\n[Black \"Popovic, Petar\"]\n[Result \"1-0\"]\n[WhiteElo \"2505\"]\n[BlackElo \"2535\"]\n[FEN \"7k/8/3Q2p1/7p/4q3/1P4PP/5rBK/8 w - - 0 37\"]\n\n37. Qb8+ Kh7 38. Qa7+ Kh6 39. Qxf2 1-0",
+	"image": "https://www.chess.com/dynboard?fen=7k/8/3Q2p1/7p/4q3/1P4PP/5rBK/8%20w%20-%20-%200%2037&size=2"
+}
