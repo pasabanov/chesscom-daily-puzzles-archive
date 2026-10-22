@@ -1,0 +1,8 @@
+{
+	"title": "Double Feature",
+	"url": "https://www.chess.com/daily/2026-10-22",
+	"publish_time": 1792652400,
+	"fen": "1r6/k6r/p3b3/NpPQ2p1/1Pn5/5QP1/1q3P2/5K2 w - - 0 1",
+	"pgn": "[White \"JohanVA\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"1-0\"]\n[FEN \"1r6/k6r/p3b3/NpPQ2p1/1Pn5/5QP1/1q3P2/5K2 w - - 0 1\"]\n\n1. Qa8+ Rxa8 2. Qb7+ Rxb7 3. Nc6# 1-0",
+	"image": "https://www.chess.com/dynboard?fen=1r6/k6r/p3b3/NpPQ2p1/1Pn5/5QP1/1q3P2/5K2%20w%20-%20-%200%201&size=2"
+}
